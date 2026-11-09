@@ -1,0 +1,265 @@
+ajr_settmort	ok	7.0s	Log Settler Mortality
+atop_ally	ok	4.9s	Member of an Alliance
+atop_number	ok	6.3s	Number of Alliances
+bci_bci	ok	5.4s	The Bayesian Corruption Indicator
+bgi_dai	ok	5.4s	Democratic Accountability Index
+bgi_pgpi	ok	4.8s	Public Goods Provision Index
+bgi_sci	ok	4.8s	State Capacity Index
+bicc_gmi	ok	5.1s	Global Militarization Index
+biu_offrel	ok	5.2s	biu_offrel
+bl_asyf	ok	5.4s	Average schooling years, female
+bl_asym	ok	8.3s	Average schooling years, male
+bl_asymf	ok	7.1s	Average schooling years, female and male
+bmr_dem	ok	5.4s	Dichotomous democracy measure
+bmr_demdur	ok	5.1s	Consecutive years of current regime type
+cai_cai2	ok	4.7s	Comparative Abortion Index 2 (0 to 1)
+cbi_cbiu	ok	10.0s	Central Bank Independence unweighted index
+cbi_cbiw	ok	6.2s	Central Bank Independence weighted index
+cbie_index	ok	5.8s	Central Bank Independence Extended Index
+ccp_cc	ok	5.4s	Corruption Commission Present in Constitution
+ccp_childwrk	ok	5.0s	Limits on Child Work in Constitution
+ccp_equal	ok	5.6s	Equality Before the Law Mentioned in Constitution
+ccp_freerel	ok	5.3s	Freedom of Religion in Constitution
+ccp_slave	ok	5.1s	Status of Slavery in Constitution
+ccp_strike	ok	4.7s	Right to Strike in Constitution
+chga_demo	ok	5.4s	Democracy
+ciri_assn	ok	8.5s	Freedom of Assembly and Association
+ciri_dommov	ok	8.0s	Freedom of Domestic Movement
+ciri_formov	ok	5.3s	Freedom of Foreign Movement and Travel
+ciri_injud	ok	5.2s	Independence of the Judiciary
+ciri_physint	ok	4.8s	Physical Integrity Rights
+ciri_polpris	ok	4.9s	Political Imprisonment
+ciri_speech	ok	5.0s	Freedom of Speech and Press
+ciri_tort	ok	4.9s	Prevalence of Torture by Government Authorities
+cpds_enps	ok	6.4s	Eﬀective number of parties on the seats level
+cpds_enpv	ok	4.9s	Eﬀective number of parties on the votes level
+cpds_la	ok	5.1s	Share of seats in parliament: agrarian
+cpds_lall	ok	5.1s	Share of seats in parliament: electoral alliance
+cpds_lcom	ok	5.3s	Share of seats in parliament: communist
+cpds_lcon	ok	5.1s	Share of seats in parliament: conservative
+cpds_le	ok	4.7s	Share of seats in parliament: ethnic
+cpds_lfe	ok	5.2s	Share of seats in parliament: feminist
+cpds_lg	ok	8.2s	Share of seats in parliament: green
+cpds_ll	ok	5.3s	Share of seats in parliament: liberal
+cpds_lls	ok	5.0s	Share of seats in parliament: left-socialist
+cpds_lmo	ok	4.9s	Share of seats in parliament: monarchist
+cpds_lnl	ok	5.2s	Share of seats in parliament: non-labelled
+cpds_lo	ok	10.6s	Share of seats in parliament: other
+cpds_lp	ok	6.2s	Share of seats in parliament: protest
+cpds_lpc	ok	6.0s	Share of seats in parliament: post-communist
+cpds_lpen	ok	4.6s	Share of seats in parliament: pensioners
+cpds_lper	ok	5.2s	Share of seats in parliament: personalist
+cpds_lr	ok	5.0s	Share of seats in parliament: right
+cpds_lreg	ok	5.4s	Share of seats in parliament: regionalist
+cpds_lrel	ok	4.7s	Share of seats in parliament: religious
+cpds_ls	ok	5.0s	Share of seats in parliament: social democratic
+cpds_tg	ok	6.0s	Type of Government
+cpds_vt	ok	4.9s	Voter turnout in election
+cri_contr	ok	10.5s	Number of awarded contracts above 130,000 EUR
+cspf_sfi	ok	5.4s	cspf_sfi
+diat_ti	ok	4.5s	Transparency Index
+dr_eg	ok	5.3s	Economic Globalization
+dr_ig	ok	5.1s	Index of Globalization
+dr_pg	ok	4.4s	Political Globalization
+dr_sg	ok	4.9s	Social Globalization
+ef_ef	ok	6.5s	Ecological footprint of consumption per person (gha per person)
+egov_egov	ok	6.7s	E-Government Index
+fh_aor	ok	4.8s	Associational and Organizational Rights
+fh_cl	ok	5.4s	Civil Liberties
+fh_ep	ok	5.1s	Electoral Process
+fh_feb	ok	4.9s	Freedom of Expression and Belief
+fh_fog	ok	6.1s	Functioning of Government
+fh_pair	ok	6.1s	Personal Autonomy and Individual Rights
+fh_pr	ok	8.0s	Political Rights
+fh_rol	ok	5.7s	Rule of Law
+fh_status	ok	5.1s	Freedom Status
+fhn_fotnsc	ok	5.3s	Freedom on the Net: Score
+fhn_fotnst	ok	5.2s	Freedom on the Net: Status
+fhp_score5	ok	5.1s	Freedom of the Press, Score (2001-2016)
+fhp_status5	ok	4.8s	Freedom of the Press, Status (2001-2016)
+fi_ftradeint	ok	5.2s	fi_ftradeint
+fi_index	ok	6.1s	fi_index
+gd_ptsa	ok	5.1s	Political Terror Scale - Amnesty International
+gd_ptsh	ok	5.0s	Political Terror Scale - Human Rights Watch
+gfs_rcr	ok	5.1s	Expenditure on recreation, culture and religion (% of total gen. gov. exp.)
+gle_cgdpc	ok	5.4s	GDP per Capita (Current Prices)
+gle_exp	ok	6.1s	Total Export
+gle_gdp	ok	5.1s	Real GDP (2005)
+gle_imp	ok	5.4s	Total Import
+gle_pop	ok	9.2s	Population (in the 1000’s)
+gle_rgdpc	ok	6.1s	Real GDP per Capita (2005)
+gle_trade	ok	5.8s	Total Trade
+gol_enep	ok	5.2s	Eﬀective Number of Electoral Parties
+gol_est	ok	5.0s	Electoral System Type-3 classes
+gol_est_spec	ok	5.4s	Electoral System Type-12 classes
+gol_pr	ok	5.2s	Electoral Formula used in an Electoral Tier
+gpi_gpi	ok	4.7s	Global Peace Index
+gwf_regimetype	ok	5.7s	Regime Type
+h_j	ok	4.7s	Independent Judiciary
+hrv_index	ok	5.0s	HR V Index
+ht_colonial	ok	5.1s	Colonial Origin
+ht_ipolity2	ok	5.1s	Level of Democracy (Freedom House/Imputed Polity)
+ht_region	ok	4.8s	Region of the country
+ht_regtype	ok	5.0s	Regime Type
+ht_regtype1	ok	5.1s	Regime Type (simpliﬁed)
+iaep_bp	ok	9.5s	Banned Parties
+iaep_cc	ok	8.6s	Constitutional Court
+iaep_epmf	ok	5.3s	Executive Power over Military Force
+iaep_es	ok	5.4s	Electoral System
+iaep_osp	ok	5.0s	Oﬃcial State Party
+iaep_ufs	ok	5.2s	Unitary or Federal State
+icd_infcapirt	ok	5.0s	Information Capacity
+icrg_qog	ok	5.1s	ICRG Indicator of Quality of Government
+ideavt_legvt	ok	5.1s	Parliamentary Election: Voter Turnout
+iiag_be	ok	5.6s	Business Environment Score
+iiag_edu	ok	5.3s	Education Score
+iiag_gov	ok	5.0s	Overall Governance Score
+iiag_hd	ok	4.9s	Human Development Score
+iiag_he	ok	5.2s	Health Score
+iiag_inf	ok	5.0s	Infrastructure Score
+iiag_srol	ok	4.8s	Security and Rule of Law Score
+ipu_l_sw	ok	11.7s	Share of Women (Lower and Single Houses)
+ipu_u_sw	ok	4.4s	Share of Women (Upper House)
+jw_bicameral	ok	5.3s	Bicameral System
+lis_gini	ok	5.4s	Gini Coeﬃcient
+mad_gdppc	ok	4.8s	Real GDP per Capita
+mad_gdppc1900	ok	4.9s	Real GDP per Capita (year 1900)
+nelda_mbbe	ok	5.5s	Media Bias before Election
+nelda_mtop	ok	6.6s	Was More Than One Party Legal
+nelda_oa	ok	5.1s	Was Opposition Allowed
+nelda_rpae	ok	6.7s	Riots and Protests after Election
+ohi_ohi	ok	4.3s	The Ocean Health Index
+p_durable	ok	5.0s	Regime Durability
+p_polity2	ok	4.9s	Revised Combined Polity Score
+prp_prp	ok	5.1s	The Property Right Protection Index
+pwt_hci	ok	5.7s	Human Capital Index
+pwt_pop	ok	5.0s	Population (in millions)
+rd_inw	ok	10.1s	Inward Remittances Flow
+rd_outw	ok	5.2s	Outward Remittances Flow
+ross_gas_value_2014	ok	5.6s	Gas production value in 2014 dollars
+ross_oil_value_2014	ok	5.1s	Oil production value in 2014 dollars
+ti_cpi	ok	5.0s	Corruption Perceptions Index
+top_top10_income_share	ok	4.8s	Top 10% income share
+top_top1_income_share	ok	5.2s	Top 1% income share
+undp_hdi	ok	6.7s	Human Development Index
+van_index	ok	5.9s	Index of Democratization
+vdem_corr	ok	5.4s	Political corruption index
+vdem_delibdem	ok	5.6s	Deliberative democracy index
+vdem_egaldem	ok	5.1s	Egalitarian democracy index
+vdem_gender	ok	5.0s	Women political empowerment index
+vdem_libdem	ok	4.7s	Liberal democracy index
+vdem_mecorrpt	ok	4.9s	Media corrupt
+vdem_partipdem	ok	5.8s	Participatory democracy index
+vdem_polyarchy	ok	8.2s	Electoral democracy index
+vdem_regimeamb	ok	5.2s	Regimes of the world with ambiguous cases
+wbgi_cce	ok	5.2s	Control of Corruption, Estimate
+wbgi_gee	ok	5.1s	Government Eﬀectiveness, Estimate
+wbgi_pve	ok	5.0s	Political Stability and Absence of Violence/Terrorism, Estimate
+wbgi_rle	ok	4.6s	Rule of Law, Estimate
+wdi_acel	ok	5.3s	Access to electricity (% of population)
+wdi_acelr	ok	5.5s	Access to electricity , rural (% of rural population)
+wdi_acelu	ok	5.0s	Access to electricity , urban (% of urban population)
+wdi_afp	ok	5.3s	Armed forces personnel (% of total labor force)
+wdi_agedr	ok	5.4s	Age dependency ratio (% of working-age pop.)
+wdi_ane	ok	5.1s	Alternative and nuclear energy (% of total energy use)
+wdi_araland	ok	5.2s	Arable land (% of land area)
+wdi_area	ok	4.7s	Land area (sq. km)
+wdi_armexp	ok	5.5s	Arms exports (SIPRI trend indicator values)
+wdi_armimp	ok	5.1s	Arms imports (SIPRI trend indicator values)
+wdi_birth	ok	8.8s	Birth rate, crude (per 1,000 people)
+wdi_broadb	ok	5.0s	Fixed broadband subscriptions (per 100 people)
+wdi_busden	ok	4.8s	New business density (new registrations per 1,000 people ages 15-64)
+wdi_co2	ok	5.4s	CO2 emissions (metric tons per capita)
+wdi_death	ok	4.6s	Death rate, crude (per 1,000 people)
+wdi_debt	ok	4.9s	Central government debt, total (% of GDP)
+wdi_eduprp	ok	5.1s	School enrollment, primary , private (% of total primary)
+wdi_eduprs	ok	6.0s	School enrollment, secondary , private (% of total secondary)
+wdi_elerenew	ok	7.1s	Renewable electricity output (% of total electricity output)
+wdi_elprodcoal	ok	4.5s	Electricity production from coal sources (% of total)
+wdi_elprodgas	ok	4.8s	Electricity production from natural gas sources (% of total)
+wdi_elprodhyd	ok	5.2s	Electricity production from hydroelectric sources (% of total)
+wdi_elprodnuc	ok	4.7s	Electricity production from nuclear sources (% of total)
+wdi_elprodoil	ok	4.9s	Electricity production from oil sources (% of total)
+wdi_emp	ok	5.2s	Employers, total (% of total employment) (modeled ILO)
+wdi_empagr	ok	4.9s	Employment in agriculture (% of total employment) (modeled ILO)
+wdi_empagrf	ok	12.4s	Employment in agriculture, female (% female employment) (modeled ILO)
+wdi_empagrm	ok	4.5s	Employment in agriculture, male (% male employment) (modeled ILO)
+wdi_empind	ok	5.6s	Employment in industry (% of total employment) (modeled ILO)
+wdi_empindf	ok	5.1s	Employment in industry , female (% female employment) (modeled ILO)
+wdi_empindm	ok	5.3s	Employment in industry , male (% of male employment) (modeled ILO)
+wdi_empser	ok	4.5s	Employment in services (% of total employment) (modeled ILO)
+wdi_empserf	ok	5.0s	Employment in services, female (% of female employment) (modeled ILO)
+wdi_empserm	ok	5.8s	Employment in services, male (% of male employment) (modeled ILO)
+wdi_eneimp	ok	4.7s	Energy imports, net (% of energy use)
+wdi_expedu	ok	4.8s	Government expenditure on education, total (% of GDP)
+wdi_expeduge	ok	4.9s	Government expenditure on education, total (% of government expenditure)
+wdi_expedup	ok	5.4s	Expenditure on primary education (% of government expenditure on edu.)
+wdi_expedus	ok	4.5s	Expenditure on secondary education (% of government expenditure on edu.)
+wdi_expedut	ok	5.4s	Expenditure on tertiary education (% of government expenditure on edu.)
+wdi_expmil	ok	4.8s	Military expenditure (% of GDP)
+wdi_fdiin	ok	5.2s	Foreign direct investment, net inﬂows (% of GDP)
+wdi_fdiout	ok	8.5s	Foreign direct investment, net outﬂows (% of GDP)
+wdi_fertility	ok	4.8s	Fertility rate, total (births per woman)
+wdi_forest	ok	4.8s	Forest area (% of land area)
+wdi_fossil	ok	5.1s	Fossil fuel energy consumption (% of total)
+wdi_gdpagr	ok	4.8s	Agriculture, forestry , and ﬁshing, value added (% of GDP)
+wdi_gdpcapcon2015	ok	4.9s	GDP per capita (constant 2015 US dollar)
+wdi_gdpind	ok	5.1s	Industry (including construction), value added (% of GDP)
+wdi_gerp	ok	4.8s	School enrollment, primary (% gross)
+wdi_gerpp	ok	6.7s	School enrollment, preprimary (% gross)
+wdi_gers	ok	4.7s	School enrollment, secondary (% gross)
+wdi_gert	ok	4.9s	School enrollment, tertiary (% gross)
+wdi_gini	ok	5.0s	Gini index
+wdi_homicides	ok	4.6s	Intentional homicides (per 100,000 people)
+wdi_idpdis	ok	5.1s	Internally displaced persons, new displacement-disasters (number)
+wdi_internet	ok	4.6s	Individuals using the Internet (% of population)
+wdi_lfpf	ok	5.3s	Labor force, female (% of total labor force)
+wdi_lifexp	ok	5.5s	Life expectancy at birth, total (years)
+wdi_lifexpf	ok	7.6s	Life expectancy at birth, female (years)
+wdi_lifexpm	ok	5.0s	Life expectancy at birth, male (years)
+wdi_migration	ok	4.9s	Net migration
+wdi_nerp	ok	5.2s	School enrollment, primary (% net)
+wdi_ners	ok	4.7s	School enrollment, secondary (% net)
+wdi_pop	ok	4.9s	Population, total
+wdi_pop14	ok	5.1s	Population ages 0-14 (% of total population)
+wdi_pop1564	ok	5.1s	Population ages 15-64 (% of total population)
+wdi_pop65	ok	6.7s	Population ages 65 and above (% of total population)
+wdi_popden	ok	4.9s	Population density (people per sq. km of land area)
+wdi_poprul	ok	5.1s	Rural population (% of total population)
+wdi_popurb	ok	5.5s	Urban population (% of total population)
+wdi_region	ok	4.6s	The region of the country
+wdi_semp	ok	5.3s	Self-employed, total (% of total employment) (modeled ILO)
+wdi_spr	ok	5.5s	CPIA social protection rating
+wdi_tacpsr	ok	4.8s	CPIA transparency-accountability-corruption in public sector rating (1-6)
+wdi_taxrev	ok	10.1s	Tax revenue (% of GDP)
+wdi_tele	ok	6.0s	Fixed telephone subscriptions (per 100 people)
+wdi_trade	ok	4.6s	Trade (% of GDP)
+wdi_unempfilo	ok	5.4s	wdi_unempfilo
+wdi_unempilo	ok	5.7s	Unemployment, total (% of total labor force) (modeled ILO)
+wdi_unempmilo	ok	5.1s	Unemployment, male (% of male labor force) (modeled ILO)
+wdi_unempyfilo	ok	5.5s	wdi_unempyfilo
+wdi_unempyilo	ok	6.0s	Unemployment, youth total (% of total labor force 15-24)(modeled ILO)
+wdi_unempymilo	ok	5.0s	Unemployment, youth male (% of male labor force 15-24)(modeled ILO)
+wdi_wip	ok	5.1s	Proportion of seats held by women in national parliaments (%)
+who_halet	ok	5.0s	Healthy Life Expectancy, Total (Years)
+who_sanittot	ok	6.7s	Total population using basic sanitation services (%)
+wjp_abs_cor	ok	4.6s	Absence of Corruption
+wjp_civ_just	ok	4.4s	Civil Justice
+wjp_cj_cor	ok	5.2s	Civil Justice is Free of Corruption
+wjp_crim_jus	ok	5.1s	Criminal Justice
+wjp_crsys_cor	ok	7.0s	Criminal System is Free of Corruption
+wjp_crsys_cor	ok	6.9s	Criminal System is Free of Corruption
+wjp_exec_br	ok	4.4s	Executive Branch do not use Public Oﬃce for Private Gain
+wjp_exec_br	ok	4.5s	Executive Branch do not use Public Oﬃce for Private Gain
+wjp_gov_pow	ok	5.2s	Constraints on Government Powers
+wjp_gov_pow	ok	5.3s	Constraints on Government Powers
+wjp_jud_br	ok	5.3s	Judicial Branch do not use Public Oﬃce for Private Gain
+wjp_jud_br	ok	5.3s	Judicial Branch do not use Public Oﬃce for Private Gain
+wjp_leg_br	ok	5.1s	Legislative branch do not use Public Oﬃce for Private Gain
+wjp_leg_br	ok	5.1s	Legislative branch do not use Public Oﬃce for Private Gain
+wjp_ord_secur	ok	5.0s	Order and Security
+wjp_ord_secur	ok	5.0s	Order and Security
+wjp_pol_mil	ok	3.4s	Police and the Military do not use Public Oﬃce for Private Gain
+wjp_pol_mil	ok	3.5s	Police and the Military do not use Public Oﬃce for Private Gain
+wr_regtype	ok	6.6s	Regime Type
+wr_regtype	ok	6.6s	Regime Type
