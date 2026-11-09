@@ -1,0 +1,78 @@
+NGDP_RPCH	ok	8.0s	Real GDP growth
+NGDPD	ok	6.8s	GDP, current prices
+NGDPDPC	ok	6.8s	GDP per capita, current prices 
+PPPGDP	ok	5.3s	GDP, current prices
+PPPPC	ok	4.3s	GDP per capita, current prices
+PPPSH	ok	3.7s	GDP based on PPP, share of world
+PPPEX	ok	4.0s	Implied PPP conversion rate
+PCPIPCH	ok	3.8s	Inflation rate, average consumer prices
+PCPIEPCH	ok	5.9s	Inflation rate, end of period consumer prices
+LP	ok	6.2s	Population
+BCA	ok	6.9s	Current account balance U.S. dollars
+BCA_NGDPD	ok	6.6s	Current account balance, percent of GDP
+LUR	ok	7.6s	Unemployment rate
+GGXCNL_NGDP	ok	5.9s	General government net lending/borrowing
+GGXWDG_NGDP	ok	4.4s	General government gross debt
+rev	ok	6.6s	Government revenue, percent of GDP
+exp	ok	5.7s	Government expenditure, percent of GDP
+prim_exp	ok	5.7s	Government primary expenditure, percent of GDP
+ie	ok	5.2s	Interest paid on public debt, percent of GDP
+pb	ok	8.6s	Government primary balance, percent of GDP
+d	ok	6.9s	Gross public debt, percent of GDP
+rgc	ok	6.9s	Real GDP growth rate, percent
+rltir	ok	4.3s	Real long term government bond yield, percent
+Reserves_ARA	ok	7.8s	Ratio of reserve/ARA metric 
+Reserves_M2	ok	5.2s	Reserves/Broad Money
+Reserves_STD	ok	4.2s	Reserves/Short-term Debt (STD)
+Reserves_M	ok	3.8s	Reserve/(Import/12) 
+GRB_dummy	ok	4.1s	Gender Budgeting Indicator
+DEBT1	ok	7.9s	DEBT
+Privatedebt_all	ok	4.2s	Private debt, all instruments
+HH_ALL	ok	4.4s	Household debt, all instruments
+NFC_ALL	ok	3.8s	Nonfinancial corporate debt, all instruments
+PVD_LS	ok	8.1s	Private debt, loans and debt securities
+HH_LS	ok	7.3s	Household debt, loans and debt securities
+NFC_LS	ok	3.9s	Nonfinancial corporate debt, loans and debt securities
+GG_DEBT_GDP	ok	3.8s	General Government Debt
+CG_DEBT_GDP	ok	3.8s	Central Government Debt
+GGXCNL_G01_GDP_PT	ok	4.1s	Net lending/borrowing (also referred as overall balance)
+GGXONLB_G01_GDP_PT	ok	3.9s	Primary net lending/borrowing (also referred as primary balance)
+GGCB_G01_PGDP_PT	ok	3.8s	Cyclically adjusted balance
+GGCBP_G01_PGDP_PT	ok	3.8s	Cyclically adjusted primary balance
+GGR_G01_GDP_PT	ok	4.1s	Revenue
+G_X_G01_GDP_PT	ok	4.1s	Expenditure
+G_XWDG_G01_GDP_PT	ok	3.7s	Gross debt position
+GGXWDN_G01_GDP_PT	ok	3.8s	Net debt
+NGDP_R_PCH	ok	3.7s	Real GDP Growth
+NGDPXO_RPCH	ok	7.7s	Real Non-Oil GDP Growth
+NGDPRPC_PCH	ok	6.8s	Real Per Capita GDP Growth
+NI_GDP	ok	6.1s	Total Investment (% of GDP)
+NGS_GDP	ok	3.5s	Gross National Savings (% of GDP)
+GGXCNL_GDP	ok	4.9s	Overall Fiscal Balance, Including Grants (% of GDP)
+GGXCNLXG_GDP	ok	5.3s	Overall Fiscal Balance, Excluding Grants (% of GDP)
+GGRXG_GDP	ok	6.4s	Government Revenue, Excluding Grants (% of GDP)
+GGX_GDP	ok	5.4s	Government Expenditure (% of GDP)
+GGXWDG_GDP	ok	3.8s	Government Debt (% of GDP)
+FMB_GDP	ok	3.7s	Broad Money (% of GDP)
+FDSAOP_PCH	ok	5.5s	Claims on Nonfinancial Private Sector (%)
+FDSAOP_GDP	ok	4.0s	Claims on Nonfinancial Private Sector (% of GDP)
+FMB_PCH	ok	5.4s	Broad Money Growth
+BX_GDP	ok	6.4s	Exports of Goods and Services (% of GDP)
+BCA_GDP	ok	3.5s	External Current Account, Incl.Grants (% of GDP)
+BM_GDP	ok	3.5s	Imports of Goods and Services (% of GDP)
+BT_GDP	ok	4.7s	Trade Balance (% of GDP)
+BFD_GDP	ok	3.4s	Net Foreign Direct Investment (% of GDP)
+BRASS_MI	ok	3.4s	Reserves (Months of Imports) 
+EREER	ok	3.5s	Real Effective Exchange Rates (2010=100)
+ENEER	ok	3.7s	Nominal Effective Exchange Rates (2010=100)
+DG_GDP	ok	3.5s	External Debt, Official Debt, Debtor Based (% of GDP)
+PCPI_PCH	ok	3.8s	Consumer Prices, Average (Annual % Change)
+PCPIE_PCH	ok	3.6s	Consumer Prices, End of Period (Annual % Change)
+TTT	ok	3.5s	Terms of Trade (Index, 2010 = 100)
+FR_ind	ok	3.4s	Fiscal Rule Indicator
+FC_dummy	ok	3.4s	Fiscal Council Indicator
+AI_PI	ok	3.4s	AI Preparedness Index
+DI	ok	3.5s	Digital Infrastructure
+IEI	ok	3.4s	Innovation and Economic Integration
+HCLMP	ok	3.5s	Human Capital and Labor Market Policies
+RE	ok	3.9s	Regulation and Ethics

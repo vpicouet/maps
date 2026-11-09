@@ -1,0 +1,42 @@
+CAUSE_OF_DEATH	ok	5.2s	Cause of death
+CCRI	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Children’s Climate and Environment Risk Index
+CHILD_RELATED_SDG	ok	8.0s	Child-related SDGs 2020
+CHLD_PVTY	ok	4.4s	Child Poverty
+CME	ok	4.7s	Child Mortality
+CME_CAUSE_OF_DEATH	ok	5.8s	CME Cause of death
+CME_COUNTRY_PROFILES_DATA	ok	4.2s	CME Country profiles data
+CME_DF_2021_WQ	ok	5.4s	IGME Child Mortality Estimates wq
+CME_SUBNATIONAL	fail	no large svg found	CME Subnational Data
+DM	ok	4.8s	Demography
+DM_PROJECTIONS	ok	5.4s	Projection Demography
+ECD	ok	4.5s	Early Childhood Development
+ECONOMIC	ok	4.2s	Economic
+EDUCATION	ok	4.2s	EDU - Access and Completion (HH Survey Data)
+EDUCATION_FLS	ok	4.3s	EDU - Learning and Skills
+EDUCATION_LG	ok	4.5s	Education - Learning Gradient (MICS FLS)
+EDUCATION_UIS_SDG	ok	4.5s	EDU - SDG Indicators (UIS Database)
+FUNCTIONAL_DIFF	fail	Could not draw this chartinvalid breakdownTry again	Functional difficulties
+GENDER	ok	4.4s	Gender
+GLOBAL_DATAFLOW	ok	8.2s	Cross-sector indicators
+HAZARD_EXPOSURE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	[DRAFT] Hazard exposure
+HAZARD_INTENSITY	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	[DRAFT] Hazard Intensity
+HAZARD_POPULATION	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	[DRAFT] Hazard Population
+HIV_AIDS	fail	Could not draw this chartinvalid breakdownTry again	HIV/AIDS
+IMMUNISATION	ok	4.7s	Immunisation
+MG	ok	4.5s	Migration
+MG_FLOW	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Migration Flow
+MNCH	ok	6.6s	Maternal, child and newborn health
+NUTRITION	ok	6.8s	Nutrition
+PT	ok	4.4s	Child Protection
+PT_CM	ok	4.8s	Child Marriage
+PT_CM_SUBNATIONAL	fail	no large svg found	Child Marriage - Subnational
+PT_CONFLICT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Children Exposed to Conflict
+PT_FGM	ok	4.2s	Child Protection FGM
+SDG_PROG_ASSESSMENT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	SDG Progress assessment
+SOC_PROTECTION	ok	4.3s	Social protection
+WASH_HEALTHCARE_FACILITY	ok	4.2s	WASH Healthcare Facility
+WASH_HOUSEHOLDS	ok	4.7s	WASH Households
+WASH_HOUSEHOLD_MH	ok	4.1s	WASH Household Menstrual Health
+WASH_HOUSEHOLD_SUBNAT	fail	no large svg found	WASH Household subnational
+WASH_SCHOOLS	ok	4.2s	WASH Schools
+WT	ok	4.3s	Transition to Work
