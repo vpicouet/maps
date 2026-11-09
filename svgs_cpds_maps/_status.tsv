@@ -1,0 +1,619 @@
+eu	ok	6.3s	Dummy variable with value 1 for member states of the European Union (since year of
+eu	ok	6.3s	Dummy variable with value 1 for member states of the European Union (since year of
+emu	ok	4.5s	Dummy variable with value 1 for member states of the Economic and Monetary Union
+emu	ok	4.6s	Dummy variable with value 1 for member states of the Economic and Monetary Union
+gov_right1	ok	4.4s	Government composition: cabinet posts of right-wing parties in percentage of total cabinet
+gov_right1	ok	4.5s	Government composition: cabinet posts of right-wing parties in percentage of total cabinet
+gov_cent1	ok	4.4s	Government composition: cabinet posts of center parties in percentage of total cabinet
+gov_cent1	ok	4.4s	Government composition: cabinet posts of center parties in percentage of total cabinet
+gov_left1	ok	5.6s	Government composition: cabinet posts of social democratic and other left parties in
+gov_left1	ok	5.6s	Government composition: cabinet posts of social democratic and other left parties in
+gov_party	ok	5.3s	Cabinet composition (Schmidt-Index):
+gov_party	ok	5.3s	Cabinet composition (Schmidt-Index):
+gov_new	ok	6.9s	New ideological composition of cabinet: (0) no change, (1) change: if cabinet ideological
+gov_new	ok	6.9s	New ideological composition of cabinet: (0) no change, (1) change: if cabinet ideological
+gov_gap	ok	5.0s	‘Ideological gap’ between new and old cabinets. The gap is calculated as the diﬀerence
+gov_gap	ok	5.0s	‘Ideological gap’ between new and old cabinets. The gap is calculated as the diﬀerence
+gov_chan	ok	5.8s	Number of changes in government per year [termination of government due to
+gov_chan	ok	5.8s	Number of changes in government per year [termination of government due to
+gov_right2	ok	5.6s	Government composition: relative power position of right-wing parties in government
+gov_right2	ok	5.6s	Government composition: relative power position of right-wing parties in government
+gov_cent2	ok	4.8s	Government composition: relative power position of center parties in government based
+gov_cent2	ok	4.8s	Government composition: relative power position of center parties in government based
+gov_left2	ok	5.6s	Government composition: relative power position of social democratic and other left
+gov_left2	ok	5.6s	Government composition: relative power position of social democratic and other left
+gov_right3	ok	5.3s	Government support: parliamentary seat share of right-wing parties in government
+gov_right3	ok	5.3s	Government support: parliamentary seat share of right-wing parties in government
+gov_cent3	ok	4.9s	Government support: parliamentary seat share of center parties in government. Weighted
+gov_cent3	ok	5.0s	Government support: parliamentary seat share of center parties in government. Weighted
+gov_left3	ok	9.4s	Government support: parliamentary seat share of social democratic and other left parties
+gov_left3	ok	9.4s	Government support: parliamentary seat share of social democratic and other left parties
+gov_sup	ok	4.4s	Total government support: seat share of all parties in government. Weighted by the
+gov_sup	ok	4.4s	Total government support: seat share of all parties in government. Weighted by the
+gov_type	ok	4.5s	Type of government based on the following classiﬁcation:
+gov_type	ok	4.5s	Type of government based on the following classiﬁcation:
+elect	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Date of election of national parliament (lower house). (If there were two elections in a
+elect	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Date of election of national parliament (lower house). (If there were two elections in a
+vturn	ok	6.4s	Voter turnout in election
+vturn	ok	6.4s	Voter turnout in election
+social1	ok	5.3s	Share of votes of the party classiﬁed as ‘social1’
+social1	ok	5.3s	Share of votes of the party classiﬁed as ‘social1’
+social2	ok	5.5s	Share of votes of the party classiﬁed as ‘social2’
+social2	ok	5.5s	Share of votes of the party classiﬁed as ‘social2’
+social3	ok	4.9s	31) Francophone Socialist Party (PS)
+social3	ok	4.9s	31) Francophone Socialist Party (PS)
+social4	ok	6.0s	Alternative for Bulgarian Revival (Alternativa za balgarsko vazrazhdane, ABV)
+social4	ok	6.0s	Alternative for Bulgarian Revival (Alternativa za balgarsko vazrazhdane, ABV)
+social5	ok	5.6s	Stand Up.BG! We are coming! (Izpravi se.BG! Nie idvame!, IBG-NI)
+social5	ok	5.6s	Stand Up.BG! We are coming! (Izpravi se.BG! Nie idvame!, IBG-NI)
+social6	ok	5.3s	New Party (Jauna partija, JP)
+social6	ok	5.3s	New Party (Jauna partija, JP)
+social7	ok	4.9s	Latvian Social Democratic Workers’ Party (Latvijas Socialdemokratiska Strandnieku Par-
+social7	ok	4.9s	Latvian Social Democratic Workers’ Party (Latvijas Socialdemokratiska Strandnieku Par-
+social8	ok	5.1s	Social Democratic Party Harmony (Socildemokrtisk Partija “Saskaa”, SDPS) [until 2010:
+social8	ok	5.1s	Social Democratic Party Harmony (Socildemokrtisk Partija “Saskaa”, SDPS) [until 2010:
+social9	ok	5.4s	The Progressives (Progresivie, P)
+social9	ok	5.4s	The Progressives (Progresivie, P)
+leftsoc1	ok	5.4s	leftsoc1
+leftsoc1	ok	5.4s	leftsoc1
+leftsoc2	ok	5.1s	leftsoc2
+leftsoc2	ok	5.1s	leftsoc2
+leftsoc3	ok	9.4s	leftsoc3
+leftsoc3	ok	9.4s	leftsoc3
+leftsoc4	ok	4.8s	leftsoc4
+leftsoc4	ok	4.8s	leftsoc4
+leftsoc5	ok	4.8s	leftsoc5
+leftsoc5	ok	4.8s	leftsoc5
+comm1	ok	4.4s	comm1
+comm1	ok	4.4s	comm1
+comm2	ok	4.9s	comm2
+comm2	ok	4.9s	comm2
+comm3	ok	11.6s	comm3
+comm3	ok	11.6s	comm3
+comm4	ok	5.7s	comm4
+comm4	ok	5.7s	comm4
+postcom1	ok	5.8s	postcom1
+postcom1	ok	5.9s	postcom1
+postcom2	ok	5.0s	postcom2
+postcom2	ok	5.0s	postcom2
+agrarian1	ok	4.9s	agrarian1
+agrarian1	ok	4.9s	agrarian1
+agrarian2	ok	5.2s	agrarian2
+agrarian2	ok	5.2s	agrarian2
+agrarian3	ok	5.1s	agrarian3
+agrarian3	ok	5.2s	agrarian3
+conserv1	ok	5.6s	conserv1
+conserv1	ok	5.7s	conserv1
+conserv2	ok	4.8s	conserv2
+conserv2	ok	4.8s	conserv2
+conserv3	ok	5.1s	conserv3
+conserv3	ok	5.1s	conserv3
+conserv4	ok	5.5s	conserv4
+conserv4	ok	5.5s	conserv4
+conserv5	ok	10.9s	conserv5
+conserv5	ok	10.9s	conserv5
+conserv6	ok	5.2s	conserv6
+conserv6	ok	5.2s	conserv6
+conserv7	ok	5.4s	conserv7
+conserv7	ok	5.4s	conserv7
+conserv8	ok	5.1s	conserv8
+conserv8	ok	5.1s	conserv8
+conserv9	ok	5.5s	conserv9
+conserv9	ok	5.5s	conserv9
+conserv10	ok	5.6s	conserv10
+conserv10	ok	5.6s	conserv10
+conserv11	ok	4.7s	conserv11
+conserv11	ok	4.7s	conserv11
+conserv12	ok	6.3s	conserv12
+conserv12	ok	6.3s	conserv12
+conserv13	ok	5.4s	conserv13
+conserv13	ok	5.4s	conserv13
+relig1	ok	5.5s	relig1
+relig1	ok	5.5s	relig1
+relig2	ok	5.2s	relig2
+relig2	ok	5.2s	relig2
+relig3	ok	5.0s	relig3
+relig3	ok	5.0s	relig3
+relig4	ok	5.4s	relig4
+relig4	ok	5.4s	relig4
+relig5	ok	5.5s	relig5
+relig5	ok	5.5s	relig5
+relig6	ok	5.0s	relig6
+relig6	ok	5.0s	relig6
+relig7	ok	9.2s	relig7
+relig7	ok	9.2s	relig7
+liberal1	ok	4.5s	liberal1
+liberal1	ok	4.5s	liberal1
+liberal2	ok	5.1s	liberal2
+liberal2	ok	5.1s	liberal2
+liberal3	ok	4.8s	liberal3
+liberal3	ok	4.8s	liberal3
+liberal4	ok	5.0s	liberal4
+liberal4	ok	5.0s	liberal4
+liberal5	ok	12.7s	liberal5
+liberal5	ok	12.7s	liberal5
+liberal6	ok	5.2s	liberal6
+liberal6	ok	5.2s	liberal6
+liberal7	ok	6.1s	liberal7
+liberal7	ok	6.1s	liberal7
+liberal8	ok	5.0s	liberal8
+liberal8	ok	5.0s	liberal8
+liberal9	ok	5.5s	liberal9
+liberal9	ok	5.5s	liberal9
+liberal10	ok	4.8s	liberal10
+liberal10	ok	4.8s	liberal10
+liberal11	ok	5.6s	liberal11
+liberal11	ok	5.6s	liberal11
+liberal12	ok	9.7s	liberal12
+liberal12	ok	9.7s	liberal12
+protest1	ok	5.4s	protest1
+protest1	ok	5.5s	protest1
+protest2	ok	5.7s	protest2
+protest2	ok	5.7s	protest2
+protest3	ok	8.3s	protest3
+protest3	ok	8.3s	protest3
+protest4	ok	5.0s	protest4
+protest4	ok	5.0s	protest4
+protest5	ok	5.3s	protest5
+protest5	ok	5.3s	protest5
+green1	ok	5.6s	green1
+green1	ok	5.5s	green1
+green2	ok	5.0s	green2
+green2	ok	5.1s	green2
+green3	ok	5.1s	green3
+green3	ok	5.1s	green3
+ethnic1	ok	5.1s	ethnic1
+ethnic1	ok	5.1s	ethnic1
+ethnic2	ok	6.5s	ethnic2
+ethnic2	ok	6.5s	ethnic2
+ethnic3	ok	5.2s	ethnic3
+ethnic3	ok	5.2s	ethnic3
+ethnic4	ok	5.0s	ethnic4
+ethnic4	ok	5.0s	ethnic4
+ethnic5	ok	5.1s	ethnic5
+ethnic5	ok	5.1s	ethnic5
+right1	ok	5.2s	right1
+right1	ok	5.2s	right1
+right2	ok	5.0s	right2
+right2	ok	5.0s	right2
+right3	ok	5.6s	right3
+right3	ok	5.6s	right3
+right4	ok	5.1s	right4
+right4	ok	5.1s	right4
+right5	ok	5.9s	right5
+right5	ok	5.9s	right5
+right6	ok	8.8s	right6
+right6	ok	8.9s	right6
+right7	ok	5.3s	right7
+right7	ok	5.3s	right7
+regio1	ok	5.3s	regio1
+regio1	ok	5.3s	regio1
+femin1	ok	5.4s	femin1
+femin1	ok	5.4s	femin1
+monarch1	ok	5.3s	monarch1
+monarch1	ok	5.3s	monarch1
+person1	ok	5.3s	person1
+person1	ok	5.3s	person1
+pension1	ok	5.5s	pension1
+pension1	ok	5.5s	pension1
+pension2	ok	5.8s	pension2
+pension2	ok	5.8s	pension2
+nonlbl1	ok	5.0s	nonlbl1
+nonlbl1	ok	5.0s	nonlbl1
+nonlbl2	ok	5.2s	nonlbl2
+nonlbl2	ok	5.2s	nonlbl2
+allia1	ok	5.6s	allia1
+allia1	ok	5.6s	allia1
+allia2	ok	5.6s	allia2
+allia2	ok	5.6s	allia2
+allia3	ok	5.0s	allia3
+allia3	ok	5.0s	allia3
+others	ok	5.1s	others
+others	ok	5.1s	others
+ssocial1	ok	5.4s	ssocial1
+ssocial1	ok	5.4s	ssocial1
+ssocial2	ok	7.9s	ssocial2
+ssocial2	ok	7.9s	ssocial2
+ssocial3	ok	5.5s	ssocial3
+ssocial3	ok	5.5s	ssocial3
+ssocial4	ok	5.1s	ssocial4
+ssocial4	ok	5.1s	ssocial4
+ssocial5	ok	5.0s	ssocial5
+ssocial5	ok	5.0s	ssocial5
+ssocial6	ok	5.5s	ssocial6
+ssocial6	ok	5.5s	ssocial6
+ssocial7	ok	5.8s	ssocial7
+ssocial7	ok	5.9s	ssocial7
+ssocial8	ok	4.8s	ssocial8
+ssocial8	ok	4.8s	ssocial8
+ssocial9	ok	5.0s	ssocial9
+ssocial9	ok	5.0s	ssocial9
+sleftsoc1	ok	7.0s	sleftsoc1
+sleftsoc1	ok	7.0s	sleftsoc1
+sleftsoc2	ok	4.9s	sleftsoc2
+sleftsoc2	ok	4.9s	sleftsoc2
+sleftsoc3	ok	5.0s	sleftsoc3
+sleftsoc3	ok	5.0s	sleftsoc3
+sleftsoc4	ok	5.1s	sleftsoc4
+sleftsoc4	ok	5.1s	sleftsoc4
+sleftsoc5	ok	5.0s	sleftsoc5
+sleftsoc5	ok	5.0s	sleftsoc5
+scomm1	ok	5.5s	scomm1
+scomm1	ok	5.5s	scomm1
+scomm2	ok	4.6s	scomm2
+scomm2	ok	4.6s	scomm2
+scomm3	ok	5.3s	scomm3
+scomm3	ok	5.3s	scomm3
+scomm4	ok	6.7s	scomm4
+scomm4	ok	6.7s	scomm4
+spostcom1	ok	9.3s	spostcom1
+spostcom1	ok	9.3s	spostcom1
+spostcom2	ok	5.5s	spostcom2
+spostcom2	ok	5.5s	spostcom2
+sagrarian1	ok	9.1s	sagrarian1
+sagrarian1	ok	9.1s	sagrarian1
+sagrarian2	ok	5.3s	sagrarian2
+sagrarian2	ok	5.3s	sagrarian2
+sagrarian3	ok	5.0s	sagrarian3
+sagrarian3	ok	5.0s	sagrarian3
+sconserv1	ok	5.3s	sconserv1
+sconserv1	ok	5.3s	sconserv1
+sconserv2	ok	6.0s	sconserv2
+sconserv2	ok	6.0s	sconserv2
+sconserv3	ok	4.9s	sconserv3
+sconserv3	ok	4.9s	sconserv3
+sconserv4	ok	5.3s	sconserv4
+sconserv4	ok	5.3s	sconserv4
+sconserv5	ok	5.2s	sconserv5
+sconserv5	ok	5.2s	sconserv5
+sconserv6	ok	5.6s	sconserv6
+sconserv6	ok	5.6s	sconserv6
+sconserv7	ok	5.0s	sconserv7
+sconserv7	ok	5.0s	sconserv7
+sconserv8	ok	6.7s	sconserv8
+sconserv8	ok	6.7s	sconserv8
+sconserv9	ok	5.1s	sconserv9
+sconserv9	ok	5.1s	sconserv9
+sconserv10	ok	7.9s	sconserv10
+sconserv10	ok	7.9s	sconserv10
+sconserv11	ok	5.0s	sconserv11
+sconserv11	ok	5.0s	sconserv11
+sconserv12	ok	5.4s	sconserv12
+sconserv12	ok	5.4s	sconserv12
+sconserv13	ok	4.8s	sconserv13
+sconserv13	ok	4.8s	sconserv13
+srelig1	ok	5.6s	srelig1
+srelig1	ok	5.6s	srelig1
+srelig2	ok	5.3s	srelig2
+srelig2	ok	5.3s	srelig2
+srelig3	ok	4.8s	srelig3
+srelig3	ok	4.8s	srelig3
+srelig4	ok	5.5s	srelig4
+srelig4	ok	5.6s	srelig4
+srelig5	ok	6.6s	srelig5
+srelig5	ok	6.6s	srelig5
+srelig6	ok	5.1s	srelig6
+srelig6	ok	5.1s	srelig6
+srelig7	ok	5.3s	srelig7
+srelig7	ok	5.3s	srelig7
+sliberal1	ok	5.4s	sliberal1
+sliberal1	ok	5.4s	sliberal1
+sliberal2	ok	5.0s	sliberal2
+sliberal2	ok	5.0s	sliberal2
+sliberal3	ok	5.3s	sliberal3
+sliberal3	ok	5.3s	sliberal3
+sliberal4	ok	8.8s	sliberal4
+sliberal4	ok	8.8s	sliberal4
+sliberal5	ok	5.3s	sliberal5
+sliberal5	ok	5.3s	sliberal5
+sliberal6	ok	8.5s	sliberal6
+sliberal6	ok	8.5s	sliberal6
+sliberal7	ok	4.8s	sliberal7
+sliberal7	ok	4.8s	sliberal7
+sliberal8	ok	5.2s	sliberal8
+sliberal8	ok	5.2s	sliberal8
+sliberal9	ok	5.3s	sliberal9
+sliberal9	ok	5.3s	sliberal9
+sliberal10	ok	5.0s	sliberal10
+sliberal10	ok	5.0s	sliberal10
+sliberal11	ok	5.0s	sliberal11
+sliberal11	ok	5.0s	sliberal11
+sliberal12	ok	5.5s	sliberal12
+sliberal12	ok	5.5s	sliberal12
+sprotest1	ok	5.0s	sprotest1
+sprotest1	ok	5.0s	sprotest1
+sprotest2	ok	7.0s	sprotest2
+sprotest2	ok	7.0s	sprotest2
+sprotest3	ok	5.4s	sprotest3
+sprotest3	ok	5.4s	sprotest3
+sprotest4	ok	5.3s	sprotest4
+sprotest4	ok	5.3s	sprotest4
+sprotest5	ok	5.3s	sprotest5
+sprotest5	ok	5.3s	sprotest5
+sgreen1	ok	5.6s	sgreen1
+sgreen1	ok	5.6s	sgreen1
+sgreen2	ok	5.4s	sgreen2
+sgreen2	ok	5.4s	sgreen2
+sgreen3	ok	5.2s	sgreen3
+sgreen3	ok	5.2s	sgreen3
+sethnic1	ok	5.2s	sethnic1
+sethnic1	ok	5.2s	sethnic1
+sethnic2	ok	9.4s	sethnic2
+sethnic2	ok	9.4s	sethnic2
+sethnic3	ok	5.3s	sethnic3
+sethnic3	ok	5.3s	sethnic3
+sethnic4	ok	5.2s	sethnic4
+sethnic4	ok	5.2s	sethnic4
+sethnic5	ok	5.2s	sethnic5
+sethnic5	ok	5.2s	sethnic5
+sright1	ok	4.9s	sright1
+sright1	ok	4.9s	sright1
+sright2	ok	5.5s	sright2
+sright2	ok	5.5s	sright2
+sright3	ok	5.5s	sright3
+sright3	ok	5.5s	sright3
+sright4	ok	5.3s	sright4
+sright4	ok	5.3s	sright4
+sright5	ok	5.5s	sright5
+sright5	ok	5.5s	sright5
+sright6	ok	5.8s	sright6
+sright6	ok	5.8s	sright6
+sright7	ok	5.0s	sright7
+sright7	ok	5.0s	sright7
+sregio1	ok	5.4s	sregio1
+sregio1	ok	5.4s	sregio1
+sfemin1	ok	4.4s	sfemin1
+sfemin1	ok	4.4s	sfemin1
+smonarch1	ok	5.3s	smonarch1
+smonarch1	ok	5.2s	smonarch1
+sperson1	ok	5.3s	sperson1
+sperson1	ok	5.3s	sperson1
+spension1	ok	5.2s	spension1
+spension1	ok	5.2s	spension1
+spension2	ok	8.2s	spension2
+spension2	ok	8.2s	spension2
+snonlbl1	ok	5.4s	snonlbl1
+snonlbl1	ok	5.4s	snonlbl1
+snonlbl2	ok	5.6s	snonlbl2
+snonlbl2	ok	5.6s	snonlbl2
+sallia1	ok	5.5s	sallia1
+sallia1	ok	5.5s	sallia1
+sallia2	ok	5.0s	sallia2
+sallia2	ok	5.0s	sallia2
+sallia3	ok	5.3s	sallia3
+sallia3	ok	5.3s	sallia3
+sothers	ok	5.6s	sothers
+sothers	ok	5.6s	sothers
+womenpar	ok	5.5s	Percentage of women in parliaments. Entries refer to the composition of the parliament
+womenpar	ok	5.5s	Percentage of women in parliaments. Entries refer to the composition of the parliament
+rae_ele	ok	5.5s	Index of electoral fractionalization of the party system according to the formula proposed
+rae_ele	ok	5.5s	Index of electoral fractionalization of the party system according to the formula proposed
+rae_leg	ok	5.1s	Index of legislative fractionalization of the party system according to the formula proposed
+rae_leg	ok	5.1s	Index of legislative fractionalization of the party system according to the formula proposed
+effpar_ele	ok	5.3s	effpar_ele
+effpar_ele	ok	5.3s	effpar_ele
+effpar_leg	ok	5.6s	effpar_leg
+effpar_leg	ok	5.6s	effpar_leg
+dis_abso	ok	5.0s	Index of absolute disproportionality. For example, a score of 1 means that on the seats
+dis_abso	ok	5.0s	Index of absolute disproportionality. For example, a score of 1 means that on the seats
+dis_rel	ok	3.4s	Index of relative disproportionality. This index is weighted by the total number of parties
+dis_rel	ok	3.5s	Index of relative disproportionality. This index is weighted by the total number of parties
+dis_gall	ok	4.9s	Index of disproportionality according to the formula [least squares] proposed by Gallagher
+dis_gall	ok	5.0s	Index of disproportionality according to the formula [least squares] proposed by Gallagher
+lfirst	ok	4.9s	lfirst
+lfirst	ok	4.9s	lfirst
+lsec	ok	9.5s	Second (federal-unitary) dimension
+lsec	ok	9.5s	Second (federal-unitary) dimension
+leff	ok	5.0s	leff
+leff	ok	5.0s	leff
+lmin	ok	5.1s	Minimal winning one-party cabinets (%)
+lmin	ok	5.1s	Minimal winning one-party cabinets (%)
+lexe	ok	5.3s	Index of executive dominance
+lexe	ok	5.3s	Index of executive dominance
+ldis	ok	5.5s	Index of disproportionality (%)
+ldis	ok	5.6s	Index of disproportionality (%)
+lint	ok	6.0s	Index of interest group pluralism
+lint	ok	6.0s	Index of interest group pluralism
+lfed	ok	5.3s	Index of federalism
+lfed	ok	5.3s	Index of federalism
+lbic	ok	5.3s	Index of bicameralism
+lbic	ok	5.3s	Index of bicameralism
+lrid	ok	5.7s	Index of constitutional rigidity
+lrid	ok	5.7s	Index of constitutional rigidity
+ljud	ok	5.1s	Index of judicial review
+ljud	ok	5.1s	Index of judicial review
+lbank	ok	5.3s	Index of central bank independence
+lbank	ok	5.3s	Index of central bank independence
+lfirstp	ok	5.5s	lfirstp
+lfirstp	ok	5.5s	lfirstp
+lfirstpi	ok	5.0s	lfirstpi
+lfirstpi	ok	5.0s	lfirstpi
+lfirstpb	ok	4.9s	lfirstpb
+lfirstpb	ok	4.9s	lfirstpb
+instcons	ok	5.7s	Index of institutional constraints of central state government according to Schmidt ( 1996);
+instcons	ok	5.7s	Index of institutional constraints of central state government according to Schmidt ( 1996);
+structur	ok	5.5s	Augmented index of constitutional structures based on Huber et al. ( 1993, p. 728); we
+structur	ok	5.5s	Augmented index of constitutional structures based on Huber et al. ( 1993, p. 728); we
+fed	ok	10.4s	Federalism. Coded: 0 = no; 1 = weak; 2 = strong
+fed	ok	10.4s	Federalism. Coded: 0 = no; 1 = weak; 2 = strong
+pres	ok	4.8s	Executive-legislative relations according to Lijphart ( 2012, pp. 108–110). Coded: 0 =
+pres	ok	4.8s	Executive-legislative relations according to Lijphart ( 2012, pp. 108–110). Coded: 0 =
+prop	ok	5.0s	Electoral system: single member districts or proportional representation. Coded 0 =
+prop	ok	5.0s	Electoral system: single member districts or proportional representation. Coded 0 =
+bic	ok	5.1s	Index of bicameralism according to Lijphart ( 2012). Coded 1 = unicameralism; 2 =
+bic	ok	5.1s	Index of bicameralism according to Lijphart ( 2012). Coded 1 = unicameralism; 2 =
+referen	ok	4.8s	Referendum. Coded 0 = None or infrequent, 1 = frequent
+referen	ok	4.8s	Referendum. Coded 0 = None or infrequent, 1 = frequent
+dir	ok	5.8s	Index of direct democratic power dispersion (initiatives and referendums). The index
+dir	ok	5.8s	Index of direct democratic power dispersion (initiatives and referendums). The index
+judrev	ok	5.5s	Judicial review (existence of an independent body which decides whether laws are con-
+judrev	ok	5.5s	Judicial review (existence of an independent body which decides whether laws are con-
+kaopen	ok	6.9s	Index for the degree of openness in capital account transactions. The index incorporates
+kaopen	ok	6.9s	Index for the degree of openness in capital account transactions. The index incorporates
+openc	ok	5.0s	Openness of the economy, measured as total trade (sum of import and export) as a
+openc	ok	5.0s	Openness of the economy, measured as total trade (sum of import and export) as a
+outlays	ok	5.0s	Total outlays (disbursements) of general government as a percentage of GDP
+outlays	ok	5.0s	Total outlays (disbursements) of general government as a percentage of GDP
+receipts	ok	5.5s	Total receipts (revenue) of general government as a percentage of GDP
+receipts	ok	5.6s	Total receipts (revenue) of general government as a percentage of GDP
+realgdpgr	ok	5.5s	Growth of real GDP, percent change from previous year
+realgdpgr	ok	5.5s	Growth of real GDP, percent change from previous year
+nomgdpgr	ok	6.1s	Growth of nominal GDP, percent change from previous year
+nomgdpgr	ok	6.0s	Growth of nominal GDP, percent change from previous year
+inflation	ok	7.6s	inflation
+inflation	ok	8.3s	inflation
+debt	ok	5.1s	Gross general government debt (ﬁnancial liabilities) as a percentage of GDP
+debt	ok	5.2s	Gross general government debt (ﬁnancial liabilities) as a percentage of GDP
+debt_hist	ok	9.8s	Gross general government debt (ﬁnancial liabilities) as a percentage of GDP. The data
+debt_hist	ok	9.8s	Gross general government debt (ﬁnancial liabilities) as a percentage of GDP. The data
+deficit	ok	5.1s	deficit
+deficit	ok	5.1s	deficit
+pbal	ok	5.5s	Annual deﬁcit excluding net interest payments (primary balance of general government)
+pbal	ok	5.8s	Annual deﬁcit excluding net interest payments (primary balance of general government)
+capb	ok	5.8s	Cyclically adjusted annual deﬁcit excluding net interest payments (cyclically adjusted
+capb	ok	5.5s	Cyclically adjusted annual deﬁcit excluding net interest payments (cyclically adjusted
+interest	ok	5.0s	Long-term interest rate on government bonds
+interest	ok	5.0s	Long-term interest rate on government bonds
+curac	ok	5.4s	Current account balance as a percentage of GDP. The current account is a record of a
+curac	ok	5.4s	Current account balance as a percentage of GDP. The current account is a record of a
+ttl_labf	ok	5.6s	Total labor force, in thousands
+ttl_labf	ok	5.6s	Total labor force, in thousands
+civ_labf	ok	7.3s	Civilian labor force, in thousands
+civ_labf	ok	7.3s	Civilian labor force, in thousands
+emp_civ	ok	5.6s	Civilian employment, in thousands
+emp_civ	ok	5.6s	Civilian employment, in thousands
+labfopar	ok	5.7s	Total labor force as a percentage of population 15-64 (participation rate)
+labfopar	ok	5.7s	Total labor force as a percentage of population 15-64 (participation rate)
+empratio	ok	6.3s	Civilian employment as percentage of population 15-64
+empratio	ok	6.3s	Civilian employment as percentage of population 15-64
+emp_ag	ok	5.3s	Civilian employment in agriculture, in thousands
+emp_ag	ok	5.3s	Civilian employment in agriculture, in thousands
+emp_ind	ok	8.0s	Civilian employment in industry, in thousands
+emp_ind	ok	8.0s	Civilian employment in industry, in thousands
+emp_serv	ok	6.6s	Civilian employment in services, in thousands
+emp_serv	ok	6.6s	Civilian employment in services, in thousands
+emp_un	ok	6.0s	Unemployed, in thousands
+emp_un	ok	6.0s	Unemployed, in thousands
+unemp	ok	7.9s	Unemployment rate, percentage of civilian labor force
+unemp	ok	7.9s	Unemployment rate, percentage of civilian labor force
+nld	ok	5.2s	Number of industrial disputes (strikes and lockouts)
+nld	ok	5.2s	Number of industrial disputes (strikes and lockouts)
+wi	ok	5.7s	Workers involved in labor disputes, in thousands
+wi	ok	5.7s	Workers involved in labor disputes, in thousands
+wdlost	ok	6.5s	Working days lost (due to strikes and lockouts), in thousands
+wdlost	ok	6.5s	Working days lost (due to strikes and lockouts), in thousands
+strike	ok	5.8s	Index of strike activity: working days lost per 1000 workers. Calculation: (wdlost ∗
+strike	ok	5.8s	Index of strike activity: working days lost per 1000 workers. Calculation: (wdlost ∗
+grossu	ok	5.5s	Total reported union members, in thousands
+grossu	ok	5.5s	Total reported union members, in thousands
+netu	ok	4.9s	Net union membership (gross minus independent workers, students, unemployed or retired
+netu	ok	4.9s	Net union membership (gross minus independent workers, students, unemployed or retired
+ud	ok	7.1s	Net union membership as a proportion wage and salary earners in employment (union
+ud	ok	7.2s	Net union membership as a proportion wage and salary earners in employment (union
+adjcov	ok	6.1s	Bargaining (or union) coverage, adjusted. OECD and AIAS ( 2021, p. 23) deﬁnes it in the
+adjcov	ok	6.1s	Bargaining (or union) coverage, adjusted. OECD and AIAS ( 2021, p. 23) deﬁnes it in the
+grossu_ipol	ok	6.7s	Linear interpolation of variable ‘grossu’,
+grossu_ipol	ok	6.7s	Linear interpolation of variable ‘grossu’,
+netu_ipol	ok	5.7s	Linear interpolation of variable ‘netu’,
+netu_ipol	ok	5.7s	Linear interpolation of variable ‘netu’,
+ud_ipol	ok	5.1s	Linear interpolation of variable ‘ud’,
+ud_ipol	ok	5.1s	Linear interpolation of variable ‘ud’,
+adjcov_ipol	ok	6.5s	Linear interpolation of variable ‘adjcov’,
+adjcov_ipol	ok	6.5s	Linear interpolation of variable ‘adjcov’,
+sstran	ok	7.6s	Social security transfers as a percentage of GDP. Social assistance grants and welfare
+sstran	ok	7.5s	Social security transfers as a percentage of GDP. Social assistance grants and welfare
+socexp_t_pmp	ok	7.6s	Total public and mandatory private social expenditure as a percentage of GDP
+socexp_t_pmp	ok	7.7s	Total public and mandatory private social expenditure as a percentage of GDP
+socexp_c_pmp	ok	5.8s	Public and mandatory private social expenditure in cash as a percentage of GDP
+socexp_c_pmp	ok	5.8s	Public and mandatory private social expenditure in cash as a percentage of GDP
+socexp_k_pmp	ok	5.5s	Public and mandatory private social expenditure in kind as a percentage of GDP
+socexp_k_pmp	ok	5.5s	Public and mandatory private social expenditure in kind as a percentage of GDP
+oldage_pmp	ok	5.1s	Total public and mandatory private expenditure on old age as a percentage of GDP
+oldage_pmp	ok	5.1s	Total public and mandatory private expenditure on old age as a percentage of GDP
+survivor_pmp	ok	6.6s	Total public and mandatory private survivor beneﬁts as a percentage of GDP
+survivor_pmp	ok	6.6s	Total public and mandatory private survivor beneﬁts as a percentage of GDP
+incapben_pmp	ok	7.2s	Total incapacity-related beneﬁts (public and mandatory private) as a percentage of GDP
+incapben_pmp	ok	7.2s	Total incapacity-related beneﬁts (public and mandatory private) as a percentage of GDP
+health_pmp	ok	4.7s	Total public and mandatory private expenditure on health as a percentage of GDP
+health_pmp	ok	4.7s	Total public and mandatory private expenditure on health as a percentage of GDP
+family_pmp	ok	5.5s	Total public and mandatory private expenditure for families as a percentage of GDP
+family_pmp	ok	5.5s	Total public and mandatory private expenditure for families as a percentage of GDP
+almp_pmp	ok	5.2s	Total public and mandatory private expenditure on active labor market programs as a
+almp_pmp	ok	5.2s	Total public and mandatory private expenditure on active labor market programs as a
+unemp_pmp	ok	6.1s	Cash expenditure for unemployment beneﬁts as a percentage of GDP (public and manda-
+unemp_pmp	ok	6.2s	Cash expenditure for unemployment beneﬁts as a percentage of GDP (public and manda-
+housing_pmp	ok	5.1s	Total public and mandatory private expenditure on housing as a percentage of GDP
+housing_pmp	ok	5.1s	Total public and mandatory private expenditure on housing as a percentage of GDP
+othsocx_pmp	ok	5.5s	Public and mandatory private expenditure on other social policy areas as a percentage of
+othsocx_pmp	ok	5.5s	Public and mandatory private expenditure on other social policy areas as a percentage of
+educexp_gov	ok	5.1s	General government expenditure on education (current, capital and transfers) as a per-
+educexp_gov	ok	5.1s	General government expenditure on education (current, capital and transfers) as a per-
+educexp_gov_ipol	ok	5.2s	Linear interpolation of the variable ‘educexp_gov’
+educexp_gov_ipol	ok	5.4s	Linear interpolation of the variable ‘educexp_gov’
+educexp_public	ok	6.9s	General government expenditure on education as a percentage of GDP. Includes direct
+educexp_public	ok	7.1s	General government expenditure on education as a percentage of GDP. Includes direct
+educexp_public_ipol	ok	10.1s	Linear interpolation of variable ‘educexp_public’
+educexp_public_ipol	ok	10.1s	Linear interpolation of variable ‘educexp_public’
+educexp_private	ok	7.2s	Expenditure on education from non-educational private sector as a percentage of GDP
+educexp_private	ok	7.2s	Expenditure on education from non-educational private sector as a percentage of GDP
+educexp_private_ipol	ok	6.0s	Linear interpolation of variable ‘educexp_private’
+educexp_private_ipol	ok	6.0s	Linear interpolation of variable ‘educexp_private’
+educatt_minimal	ok	7.4s	Share of population attending no more than secondary education
+educatt_minimal	ok	7.4s	Share of population attending no more than secondary education
+educatt_minimal_ipol	ok	5.4s	Linear interpolation of variable ‘educatt_minimal’
+educatt_minimal_ipol	ok	5.4s	Linear interpolation of variable ‘educatt_minimal’
+educatt_tertiary	ok	5.2s	Share of population attending tertiary education
+educatt_tertiary	ok	5.2s	Share of population attending tertiary education
+educatt_tertiary_ipol	ok	5.4s	Linear interpolation of variable ‘educatt_tertiary’
+educatt_tertiary_ipol	ok	5.4s	Linear interpolation of variable ‘educatt_tertiary’
+fallow_pmp	ok	5.6s	Total public and mandatory private cash beneﬁts for family allowances as a percentage
+fallow_pmp	ok	5.6s	Total public and mandatory private cash beneﬁts for family allowances as a percentage
+mpleave_pmp	ok	6.7s	Total public and mandatory private cash beneﬁts for maternal and parental leave as a
+mpleave_pmp	ok	6.7s	Total public and mandatory private cash beneﬁts for maternal and parental leave as a
+othfam_c_pmp	ok	5.0s	Other public and mandatory private cash beneﬁts as a percentage of GDP
+othfam_c_pmp	ok	5.0s	Other public and mandatory private cash beneﬁts as a percentage of GDP
+childcare_pmp	ok	5.0s	Total public and mandatory private social expenditure for childcare and early educational
+childcare_pmp	ok	5.0s	Total public and mandatory private social expenditure for childcare and early educational
+homehelp_pmp	ok	6.0s	Total public and mandatory private social expenditure for home-help and accommodation
+homehelp_pmp	ok	6.0s	Total public and mandatory private social expenditure for home-help and accommodation
+othfam_k_pmp	ok	13.2s	Other public and mandatory private beneﬁts in kind as a percentage of GDP
+othfam_k_pmp	ok	13.2s	Other public and mandatory private beneﬁts in kind as a percentage of GDP
+servadmi_pmp	ok	17.5s	Public and mandatory private employment services and administration as a percentage
+servadmi_pmp	ok	17.5s	Public and mandatory private employment services and administration as a percentage
+training_pmp	ok	4.9s	Public and mandatory private expenditure on labor market training as a percentage of
+training_pmp	ok	4.9s	Public and mandatory private expenditure on labor market training as a percentage of
+jobrot_pmp	ok	5.0s	Public and mandatory private expenditure on job rotation and job sharing as a percent-
+jobrot_pmp	ok	5.1s	Public and mandatory private expenditure on job rotation and job sharing as a percent-
+incent_pmp	ok	5.6s	Public and mandatory private expenditure on employment incentives (recruitment and
+incent_pmp	ok	5.7s	Public and mandatory private expenditure on employment incentives (recruitment and
+disabled_pmp	ok	4.9s	Public and mandatory private expenditure on supported employment and (vocational)
+disabled_pmp	ok	4.9s	Public and mandatory private expenditure on supported employment and (vocational)
+jobcrea_pmp	fail	no large svg found	Public and private mandatory expenditure on direct job creation (usually in the public
+jobcrea_pmp	fail	no large svg found	Public and private mandatory expenditure on direct job creation (usually in the public
+startup_pmp	ok	9.7s	Public and mandatory private support of unemployed persons (or closely-related groups)
+startup_pmp	ok	9.7s	Public and mandatory private support of unemployed persons (or closely-related groups)
+compen_pmp	ok	6.9s	Public and mandatory private unemployment compensation and severance pay (in cash)
+compen_pmp	ok	6.9s	Public and mandatory private unemployment compensation and severance pay (in cash)
+earretir_pmp	ok	5.1s	Public and private mandatory expenditure (in cash) on early retirement for labor market
+earretir_pmp	ok	5.1s	Public and private mandatory expenditure (in cash) on early retirement for labor market
+emprot_reg	ok	5.0s	Employment protection strictness provided through legislation and as a result of enforce-
+emprot_reg	ok	5.1s	Employment protection strictness provided through legislation and as a result of enforce-
+emprot_temp	ok	5.1s	Employment protection strictness provided through legislation and as a result of enforce-
+emprot_temp	ok	5.1s	Employment protection strictness provided through legislation and as a result of enforce-
+prefisc_gini	ok	4.8s	prefisc_gini
+prefisc_gini	ok	4.8s	prefisc_gini
+pretran_gini	ok	5.2s	Gini index of pre-transfer income (after taxes, before transfers) among household members
+pretran_gini	ok	5.2s	Gini index of pre-transfer income (after taxes, before transfers) among household members
+postfisc_gini	ok	9.4s	postfisc_gini
+postfisc_gini	ok	9.5s	postfisc_gini
+pop	ok	5.1s	Total population, in thousands
+pop	ok	5.3s	Total population, in thousands
+pop15_64	ok	10.7s	Population 15-64, in thousands
+pop15_64	ok	10.7s	Population 15-64, in thousands
+pop65	ok	5.1s	Population over 65, in thousands
+pop65	ok	5.1s	Population over 65, in thousands
+elderly	ok	5.3s	Population over 65, as a percentage of population
+elderly	ok	5.3s	Population over 65, as a percentage of population
+elect	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Date of election of national parliament (lower house). (If there were two elections in a
+jobcrea_pmp	ok	3.1s	Public and private mandatory expenditure on direct job creation (usually in the public
+elect	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Date of election of national parliament (lower house). (If there were two elections in a
