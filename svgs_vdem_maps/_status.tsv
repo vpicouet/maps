@@ -1,0 +1,657 @@
+e_miinterc	ok	24.7s	Armed conflict, internal
+e_miinteco	ok	5.0s	Armed conflict, international
+e_pechmor	ok	4.8s	Child mortality rate
+e_civil_war	ok	6.3s	Civil war
+e_ovctd	ok	5.8s	Cumulative Fatalities (Best Estimates) in Organized Violence
+e_peaveduc	ok	6.4s	Education 15+
+e_peedgini	ok	7.8s	Educational inequality, Gini
+e_cow_exports	ok	4.8s	Exports
+e_miferrat	ok	5.1s	Fertility rate
+e_gdp	ok	4.8s	GDP
+e_gdppc	ok	4.8s	GDP per capita
+e_cow_imports	ok	4.8s	Imports
+e_miinflat	ok	5.1s	Inflation
+e_area	ok	5.2s	Land area
+e_pelifeex	ok	6.9s	Life expectancy
+e_pefeliex	ok	5.1s	Life expectancy, female
+e_pematmor	ok	5.0s	Maternal mortality rate
+e_pt_coup_attempts	ok	5.0s	Number of coups attempts in a year
+e_pt_coup	ok	4.8s	Number of successful coup attempts in a year
+e_total_oil_income_pc	ok	5.1s	Petroleum production per capita
+e_total_fuel_income_pc	ok	4.8s	Petroleum, coal, and natural gas production per capita
+e_total_resources_income_pc	ok	5.0s	Petroleum, coal, natural gas, and metals production per capita
+e_pop	ok	7.8s	Population
+e_wb_pop	ok	5.9s	Population (e_wb_pop)
+e_mipopula	ok	4.9s	Population total
+e_radio_n	ok	5.0s	Radios
+e_miurbpop	ok	5.5s	Urban population
+e_miurbani	ok	4.9s	Urbanization
+v2cacritic	ok	4.9s	Academics as critics
+v2casurv	ok	4.8s	Campus integrity
+v2caprotac	ok	5.8s	Constitutional protection for academic freedom
+v2canonpol	ok	4.8s	Engagement in independent non-political associations
+v2capolit	ok	5.3s	Engagement in independent political associations
+v2catrauni	ok	3.4s	Engagement in independent trade unions
+v2castate	ok	4.6s	Engagement in state-administered mass organizations
+v2cauni	ok	5.0s	Existence of universities
+v2cafexch	ok	4.6s	Freedom of academic exchange and dissemination
+v2caassemb	ok	5.3s	Freedom of peaceful assembly
+v2cafres	ok	4.7s	Freedom to research and teach
+v2cainsaut	ok	8.5s	Institutional autonomy
+v2caacadfree	ok	4.3s	International legal commitment to academic freedom under ICESCR
+v2cagenmob	ok	4.9s	Mass mobilization
+v2caconmob	ok	4.9s	Mass mobilization concentration
+v2caautmob	ok	4.7s	Mobilization for autocracy
+v2cademmob	ok	5.0s	Mobilization for democracy
+v2cacamps	ok	5.1s	Political polarization
+v2caviol	ok	6.3s	Political violence
+v2canuni	ok	3.9s	Total number of universities
+v2clkill	ok	5.9s	Freedom from political killings
+v2cltort	ok	5.2s	Freedom from torture
+v2clacfree	ok	5.4s	Freedom of academic and cultural expression
+v2clrelig	ok	5.4s	Freedom of religion
+v2clsocgrp	ok	5.1s	Social group equality in respect for civil liberties
+v2clacjstm	ok	5.3s	Access to justice for men
+v2clacjstw	ok	5.7s	Access to justice for women
+v2clslavem	ok	6.2s	Freedom from forced labor for men
+v2clslavef	ok	10.8s	Freedom from forced labor for women
+v2cldiscm	ok	5.3s	Freedom of discussion for men
+v2cldiscw	ok	5.8s	Freedom of discussion for women
+v2cldmovem	ok	5.3s	Freedom of domestic movement for men
+v2cldmovew	ok	5.0s	Freedom of domestic movement for women
+v2clfmove	ok	5.1s	Freedom of foreign movement
+v2clprptym	ok	5.6s	Property rights for men
+v2clprptyw	ok	5.9s	Property rights for women
+v2clrspct	ok	5.3s	Rigorous and impartial public administration
+v2clacjust	ok	5.9s	Social class equality in respect for civil liberty
+v2clstown	ok	5.1s	State ownership of economy
+v2clrgunev	ok	5.2s	Subnational civil liberties unevenness
+v2cltrnslw	ok	4.7s	Transparent laws with predictable enforcement
+v2clsnlpct	ok	5.3s	Weaker civil liberties population
+v2csreprss	ok	5.3s	CSO repression
+v2csantimv	ok	9.7s	CSO anti-system movements
+v2cscnsult	ok	4.9s	CSO consultation
+v2cseeorgs	ok	4.5s	CSO entry and exit
+v2csprtcpt	ok	5.0s	CSO participatory environment
+v2csgender	ok	4.8s	CSO women’s participation
+v2csrlgcon	ok	5.0s	Religious organization consultation
+v2csrlgrep	ok	5.4s	Religious organization repression
+v2dlcommon	ok	4.9s	Common good
+v2dlengage	ok	5.6s	Engaged society
+v2dlunivl	ok	6.2s	Means-tested v. universalistic policy
+v2dlencmps	ok	5.3s	Particularistic or public goods
+v2dlconslt	ok	5.8s	Range of consultation
+v2dlreason	ok	5.3s	Reasoned justification
+v2dlcountr	ok	6.0s	Respect counterarguments
+v2x_delibdem	ok	5.6s	Deliberative democracy index
+v2x_egaldem	ok	5.6s	Egalitarian democracy index
+v2x_polyarchy	ok	3.5s	Electoral democracy index
+v2x_libdem	ok	3.3s	Liberal democracy index
+v2x_partipdem	ok	7.6s	Participatory democracy index
+v2x_cspart	ok	6.4s	Civil society participation index
+v2xel_frefair	ok	4.8s	Clean elections index
+v2xeg_eqaccess	ok	4.5s	Equal access index
+v2xeg_eqdr	ok	4.2s	Equal distribution of resources index
+v2xeg_eqprotec	ok	4.9s	Equal protection index
+v2x_freexp_altinf	ok	6.1s	Freedom of Expression and Alternative Sources of Information index
+v2x_jucon	ok	4.8s	Judicial constraints on the executive index
+v2xlg_legcon	ok	4.6s	Legislative constraints on the executive index
+v2x_suffr	ok	5.3s	Share of population with suffrage
+v2x_api	ok	4.9s	Additive polyarchy index
+v2xdl_delib	ok	5.6s	Deliberative component index
+v2xdd_dd	ok	4.7s	Direct popular vote index
+v2x_egal	ok	4.9s	Egalitarian component index
+v2x_elecoff	ok	4.6s	Elected officials index
+v2xcl_rol	ok	10.6s	Equality before the law and individual liberty index
+v2x_frassoc_thick	ok	4.8s	Freedom of association thick index
+v2x_liberal	ok	3.4s	Liberal component index
+v2xel_locelec	ok	5.1s	Local government index
+v2x_mpi	ok	5.1s	Multiplicative polyarchy index
+v2x_partip	ok	4.2s	Participatory component index
+v2xel_regelec	ok	4.8s	Regional government index
+v2smarrest	ok	4.7s	Arrests for political content
+v2smfordom	ok	5.7s	Foreign governments dissemination of false information
+v2smgovfilprc	ok	5.2s	Government Internet filtering in practice
+v2smgovshut	ok	4.8s	Government Internet shut down in practice
+v2smgovcapsec	ok	5.5s	Government cyber security capacity
+v2smgovab	ok	4.5s	Government dissemination of false information abroad
+v2smgovdom	ok	6.3s	Government dissemination of false information domestic
+v2smgovsmcenprc	ok	4.3s	Government social media censorship in practice
+v2smpardom	ok	4.5s	Party dissemination of false information domestic
+v2smpolsoc	ok	5.1s	Polarization of society
+v2smpolhate	ok	8.8s	Political parties hate speech
+v2smorgviol	ok	5.0s	Use of social media to organize offline violence
+v2smdefabu	ok	4.5s	Abuse of defamation and copyright law by elites
+v2smorgavgact	ok	5.1s	Average people’s use of social media to organize offline action
+v2smlawpr	ok	5.1s	Defamation protection
+v2smorgelitact	ok	4.9s	Elites’ use of social media to organize offline action
+v2smforads	ok	8.6s	Foreign governments ads
+v2smgovfilcap	ok	10.9s	Government Internet filtering capacity
+v2smgovshutcap	ok	9.7s	Government Internet shut down capacity
+v2smregcap	ok	7.9s	Government capacity to regulate online content
+v2smregapp	ok	9.8s	Government online content regulation approach
+v2smgovsmalt	ok	9.7s	Government social media alternatives
+v2smgovsmmon	ok	14.9s	Government social media monitoring
+v2smgovsm	ok	9.3s	Government social media shut down in practice
+v2smregcon	ok	10.2s	Internet legal regulation content
+v2smonex	ok	9.6s	Online media existence
+v2smmefra	ok	5.3s	Online media fractionalization
+v2smonper	ok	7.1s	Online media perspectives
+v2smparab	fail	TimeoutError: Page.wait_for_function: Timeout 90000ms exceeded.	Party dissemination of false information abroad
+v2smcamp	fail	Error: Page.goto: net::ERR_TIMED_OUT at https://api.data-xplore.com/chart.html?src=vdem&id=v2smcamp&tab=map	Party/candidate use of social media in campaigns
+v2smpolcap	fail	Error: Page.goto: net::ERR_TIMED_OUT at https://api.data-xplore.com/chart.html?src=vdem&id=v2smpolcap&tab=m	Political parties cyber security capacity
+v2smprivcon	fail	TimeoutError: Page.wait_for_function: Timeout 90000ms exceeded.	Privacy protection by law content
+v2smprivex	fail	Error: Page.goto: net::ERR_TIMED_OUT at https://api.data-xplore.com/chart.html?src=vdem&id=v2smprivex&tab=m	Privacy protection by law exists
+v2ddlexor	ok	74.2s	Enforcement of Constitutional changes through popular vote
+v2ddadmci	ok	4.9s	Initiatives administrative threshold
+v2ddapprci	ok	4.6s	Initiatives approval threshold
+v2ddpartci	ok	5.0s	Initiatives participation threshold
+v2ddlexci	ok	5.6s	Initiatives permitted
+v2ddsigdci	ok	4.9s	Initiatives signature-gathering period
+v2ddsiglci	ok	5.3s	Initiatives signature-gathering time limit
+v2ddsignci	ok	4.9s	Initiatives signatures
+v2ddsigpci	ok	5.1s	Initiatives signatures %
+v2ddspmci	ok	8.2s	Initiatives super majority
+v2ddyrall	ok	5.4s	Number of popular votes this year
+v2ddadmor	ok	5.7s	Obligatory referendum administrative threshold
+v2ddappor	ok	6.1s	Obligatory referendum approval threshold
+v2ddthreor	ok	4.9s	Obligatory referendum credible threat
+v2ddpartor	ok	5.1s	Obligatory referendum participation threshold
+v2ddspmor	ok	6.6s	Obligatory referendum super majority
+v2ddcredal	ok	5.3s	Occurrence of any type of popular vote this year credible
+v2ddyrci	ok	4.8s	Occurrence of citizen-initiatives this year
+v2ddyror	ok	4.5s	Occurrence of obligatory referendum this year
+v2ddyrpl	ok	5.1s	Occurrence of plebiscite this year
+v2ddyrrf	ok	16.7s	Occurrence of referendum this year
+v2ddadmpl	ok	41.5s	Plebiscites administrative threshold
+v2ddapprpl	ok	27.1s	Plebiscites approval threshold
+v2ddthrepl	ok	6.2s	Plebiscites credible threat
+v2ddpartpl	ok	6.1s	Plebiscites participation threshold
+v2ddlexpl	ok	8.8s	Plebiscites permitted
+v2ddspmpl	ok	18.9s	Plebiscites super majority
+v2ddthreci	ok	40.2s	Popular initiative credible threat
+v2ddthrerf	ok	27.6s	Popular referendum credible threat
+v2ddadmrf	ok	6.0s	Referendums administrative threshold
+v2ddapprrf	ok	5.8s	Referendums approval threshold
+v2ddpartrf	ok	16.4s	Referendums participation threshold
+v2ddlexrf	ok	25.4s	Referendums permitted
+v2ddsiglrf	ok	24.1s	Referendums signature-gathering limit
+v2ddsigdrf	ok	4.8s	Referendums signature-gathering period
+v2ddsignrf	ok	5.1s	Referendums signatures
+v2ddsigprf	ok	5.8s	Referendums signatures %
+v2ddspmrf	ok	5.0s	Referendums super majority
+v2elfrfair	ok	5.5s	Election free and fair
+v2eltrnout	ok	10.0s	Election turnout
+v2elrstrct	ok	7.9s	Candidate restriction by ethnicity, race, religion, or language
+v2elcomvot	ok	6.6s	Compulsory voting
+v2eldonate	ok	5.6s	Disclosure of campaign donations
+v2elembaut	ok	5.4s	EMB autonomy
+v2elembcap	ok	5.5s	EMB capacity
+v2elturnhog	ok	4.8s	Election HOG turnover ordinal
+v2elturnhos	ok	9.5s	Election HOS turnover ordinal
+v2elvaptrn	ok	5.0s	Election VAP turnout
+v2elasmoff	ok	4.9s	Election assume office
+v2elboycot	ok	5.2s	Election boycotts
+v2eldommon	ok	5.9s	Election domestic election monitors
+v2eltvrexo	ok	5.0s	Election executive turnover ordinal
+v2elfrcamp	ok	5.8s	Election free campaign media
+v2elintim	ok	4.8s	Election government intimidation
+v2elintmon	ok	6.4s	Election international monitors
+v2elmonden	ok	5.7s	Election international monitors denied
+v2elaccept	ok	5.3s	Election losers accept results
+v2elpeace	ok	5.2s	Election other electoral violence
+v2elirreg	ok	6.1s	Election other voting irregularities
+v2elpdcamp	ok	5.9s	Election paid campaign advertisements
+v2elpaidig	ok	5.4s	Election paid interest group media
+v2elvotbuy	ok	6.0s	Election vote buying
+v2elrgstry	ok	11.8s	Election voter registry
+v2elmulpar	ok	5.0s	Elections multiparty
+v2fsuffrage	ok	4.8s	Female suffrage
+v2elfemrst	ok	5.0s	Female suffrage restricted
+v2elwestmon	ok	5.1s	Fraud allegations by Western monitors
+v2elrsthog	ok	5.1s	HOG restriction by ethnicity, race, religion, or language
+v2elrsthos	ok	5.9s	HOS restriction by ethnicity, race, religion, or language
+v2ellocelc	ok	6.1s	Local government elected
+v2ellocgov	ok	5.1s	Local government exists
+v2ellocpwr	ok	5.2s	Local offices relative power
+v2ellocons	ok	5.0s	Lower chamber election consecutive
+v2ellocumul	ok	5.5s	Lower chamber election cumulative
+v2ellodiseff	ok	4.5s	Lower chamber election district effective magnitude
+v2elloeldm	ok	5.3s	Lower chamber election district magnitude
+v2ellostsl	ok	4.9s	Lower chamber election seat share won by largest party
+v2ellostss	ok	10.1s	Lower chamber election seat share won by second largest party
+v2ellostts	ok	5.6s	Lower chamber election seat share won by third largest party
+v2elloseat	ok	6.4s	Lower chamber election seats
+v2ellostlg	ok	4.8s	Lower chamber election seats won by largest party
+v2ellostsm	ok	4.6s	Lower chamber election seats won by second largest party
+v2ellosttm	ok	6.5s	Lower chamber election seats won by third largest party
+v2elthresh	ok	5.3s	Lower chamber election statutory threshold
+v2eltvrig	ok	6.3s	Lower chamber election turnover
+v2ellovtlg	ok	5.5s	Lower chamber election vote share of largest vote-getter
+v2ellovtsm	ok	5.1s	Lower chamber election vote share of second-largest vote-getter
+v2ellovttm	ok	5.2s	Lower chamber election vote share of third-largest vote-getter
+v2elparlel	ok	5.8s	Lower chamber electoral system
+v2elloelsy	ok	5.2s	Lower chamber electoral system — 13 categories
+v2elloreseat	ok	4.5s	Lower chamber hybrid system reserved seats
+v2ellobaseat	ok	5.2s	Lower chamber ‘base’ or ‘nominal’ tier seats
+v2ellobadis	ok	5.4s	Lower chamber ‘base’ tier electoral districts
+v2elloupdis	ok	9.3s	Lower chamber ‘upper’ tier electoral districts
+v2msuffrage	ok	4.9s	Male suffrage
+v2elage	ok	5.2s	Minimum voting age
+v2elmonref	ok	5.0s	Monitors refuse to be present
+v2elsuffrage	ok	5.4s	Percentage of population with suffrage
+v2elvotlrg	ok	4.9s	Presidential election vote share of largest vote-getter
+v2elvotsml	ok	5.2s	Presidential election vote share of second-largest vote-getter
+v2elprescons	ok	5.7s	Presidential elections consecutive
+v2elprescumul	ok	5.0s	Presidential elections cumulative
+v2elpubfin	ok	5.0s	Public campaign finance
+v2elsrgel	ok	5.4s	Regional government elected
+v2elreggov	ok	5.2s	Regional government exists
+v2elrgpwr	ok	4.9s	Regional offices relative power
+v2elsnlsff	ok	4.9s	Subnational election unevenness
+v2elffelr	ok	5.2s	Subnational elections free and fair
+v2elffelrbin	ok	6.0s	Subnational elections held
+v2asuffrage	ok	10.9s	Suffrage
+v2elgvsuflvl	ok	7.1s	Suffrage level
+v2peapsgen	ok	5.1s	Access to public services distributed by gender
+v2peapspol	ok	6.1s	Access to public services distributed by political group
+v2peapssoc	ok	6.5s	Access to public services distributed by social group
+v2peapsecon	ok	8.0s	Access to public services distributed by socio-economic position
+v2peapsgeo	ok	9.7s	Access to public services distributed by urban-rural location
+v2peasbgen	ok	5.3s	Access to state business opportunities by gender
+v2peasbepol	ok	5.7s	Access to state business opportunities by political group
+v2peasbsoc	ok	8.0s	Access to state business opportunities by social group
+v2peasbecon	ok	9.1s	Access to state business opportunities by socio-economic position
+v2peasbegeo	ok	9.7s	Access to state business opportunities by urban-rural location
+v2peasjgen	ok	12.1s	Access to state jobs by gender
+v2peasjpol	ok	7.6s	Access to state jobs by political group
+v2peasjsoc	ok	6.9s	Access to state jobs by social group
+v2peasjsoecon	ok	6.7s	Access to state jobs by socio-economic position
+v2peasjgeo	ok	7.4s	Access to state jobs by urban-rural location
+v2clgencl	ok	7.2s	Gender equality in respect for civil liberties
+v2exl_legitideol	ok	6.8s	Ideology
+v2exl_legitperf	ok	6.8s	Performance legitimation
+v2exl_legitlead	ok	6.1s	Person of the Leader
+v2clpolcl	ok	6.6s	Political group equality in respect for civil liberties
+v2pepwrgeo	ok	7.5s	Power distributed by urban-rural location
+v2exl_legitratio	ok	8.4s	Rational-legal legitimation
+v2clgeocl	ok	7.0s	Urban-rural location equality in respect for civil liberties
+v2exbribe	fail	no large svg found	Executive bribery and corrupt exchanges
+v2excrptps	ok	7.7s	Public sector corrupt exchanges
+v2exapup	ok	5.8s	Chief executive appointment by upper chamber
+v2exapupap	ok	7.2s	Chief executive appointment by upper chamber implicit approval
+v2exembez	ok	5.3s	Executive embezzlement and theft
+v2exrescon	ok	6.5s	Executive respects constitution
+v2exagehog	ok	6.4s	HOG age
+v2ex_hosconhog	ok	5.3s	HOG appointed by HOS
+v2expathhg	ok	4.9s	HOG appointment in practice
+v2exdjcbhg	ok	4.6s	HOG appoints cabinet in practice
+v2ex_elechog	ok	5.3s	HOG directly elected
+v2exdfdshg	ok	4.5s	HOG dismisses ministers in practice
+v2exdjdshg	ok	5.0s	HOG dissolution in practice
+v2exfemhog	ok	5.4s	HOG female
+v2exdfpphg	ok	4.6s	HOG proposes legislation in practice
+v2exremhog	ok	13.7s	HOG removal by legislature in practice
+v2exaphogp	ok	5.9s	HOG selection by legislature in practice
+v2exfxtmhg	ok	5.8s	HOG term length by law
+v2exdfvthg	ok	5.1s	HOG veto power in practice
+v2exdeathog	ok	5.6s	HOG year of death
+v2exhoshog	ok	5.3s	HOS = HOG
+v2exagehos	ok	5.5s	HOS age
+v2expathhs	ok	5.8s	HOS appointment in practice
+v2exdfcbhs	ok	5.9s	HOS appoints cabinet in practice
+v2exdfcbhs_rec	ok	5.3s	HOS appoints cabinet in practice (v2exdfcbhs_rec)
+v2ex_elechos	ok	5.3s	HOS directly elected
+v2exdfdmhs	ok	5.8s	HOS dismisses ministers in practice
+v2exdfdshs	ok	5.0s	HOS dissolution in practice
+v2exfemhos	ok	5.8s	HOS female
+v2exdfpphs	ok	5.4s	HOS proposes legislation in practice
+v2exremhsp	ok	9.6s	HOS removal by legislature in practice
+v2exaphos	ok	4.9s	HOS selection by legislature in practice
+v2exfxtmhs	ok	5.6s	HOS term length by law
+v2exdfvths	ok	5.2s	HOS veto power in practice
+v2exdeathos	ok	5.5s	HOS year of death
+v2exthftps	ok	7.8s	Public sector theft
+v2ex_hogw	ok	5.0s	Relative power of the HOG
+v3elbalstat	ok	6.7s	Ballot printing
+v3stcensus	ok	4.9s	Census
+v3pechilabl	ok	5.6s	Child labor laws
+v3stcitlaw	ok	5.1s	Citizenship laws
+v3elcomvot	ok	4.8s	Compulsory voting (v3elcomvot)
+v3elsec	ok	5.5s	De jure ballot secrecy
+v3eldirelc	ok	4.6s	Direct lower chamber (unicameral) elections
+v3eldirepr	ok	5.2s	Direct presidential elections
+v3eldireuc	ok	8.9s	Direct upper chamber elections
+v3elncbpr	ok	4.6s	Effective number of cabinet parties
+v3eltrnout	ok	5.4s	Election turnout (v3eltrnout)
+v3elwomcab	ok	5.5s	Election women in the cabinet
+v3lgotovst	ok	5.6s	Executive oversight (v3lgotovst)
+v3stflag	ok	6.2s	Flag
+v3exhoshog	ok	5.4s	HOS = HOG (v3exhoshog)
+v3exagehos	ok	5.0s	HOS age (v3exagehos)
+v3expathhs	ok	6.5s	HOS appointment in practice (v3expathhs)
+v3juhcourt	ok	4.8s	High court existence
+v3cllabrig	ok	5.4s	Labor rights
+v3lgamend	ok	5.2s	Legislature amends constitution
+v3lgamnsty	ok	4.6s	Legislature amnesties
+v3lgbicam	ok	4.7s	Legislature bicameral (v3lgbicam)
+v3lgfunds	ok	5.5s	Legislature controls resources (v3lgfunds)
+v3lgcrrpt	ok	4.8s	Legislature corrupt activities (v3lgcrrpt)
+v3lgdomchm	ok	10.4s	Legislature dominant chamber (v3lgdomchm)
+v3lginvstp	ok	4.6s	Legislature investigates in practice (v3lginvstp)
+v3lgoppart	ok	4.7s	Legislature opposition parties (v3lgoppart)
+v3lgqstexp	ok	5.1s	Legislature questions officials in practice (v3lgqstexp)
+v3ellocelc	ok	4.3s	Local government elected (v3ellocelc)
+v3ellocgov	ok	5.3s	Local government exists (v3ellocgov)
+v3lgbudglo	ok	5.1s	Lower chamber budget
+v3lgcomslo	ok	4.8s	Lower chamber committees (v3lgcomslo)
+v3lgello	ok	5.4s	Lower chamber elected (v3lgello)
+v3ellostsl	ok	5.5s	Lower chamber election seat share won by largest party (v3ellostsl)
+v3ellostss	ok	6.1s	Lower chamber election seat share won by second largest party (v3ellostss)
+v3elloseat	ok	5.9s	Lower chamber election seats (v3elloseat)
+v3ellostlg	ok	5.0s	Lower chamber election seats won by largest party (v3ellostlg)
+v3ellostsm	ok	5.4s	Lower chamber election seats won by second largest party (v3ellostsm)
+v3eltvrig	ok	5.2s	Lower chamber election turnover (v3eltvrig)
+v3ellovtlg	ok	4.9s	Lower chamber election vote share of largest vote-getter (v3ellovtlg)
+v3ellovtsm	ok	8.6s	Lower chamber election vote share of second-largest vote-getter (v3ellovtsm)
+v3elloelsy	ok	6.2s	Lower chamber electoral system (v3elloelsy)
+v3elparlel	ok	4.8s	Lower chamber electoral system (v3elparlel)
+v3lginses	ok	5.2s	Lower chamber in session
+v3lginello	ok	4.7s	Lower chamber indirectly elected
+v3lgintblo	ok	5.2s	Lower chamber introduces bills (v3lgintblo)
+v3lglegllo	ok	5.3s	Lower chamber legislates by law
+v3lglegplo	ok	5.3s	Lower chamber legislates in practice (v3lglegplo)
+v3lgsrvlo	ok	7.7s	Lower chamber members serve in government (v3lgsrvlo)
+v3lgqumin	ok	5.4s	Lower chamber quota for social groups
+v3elmalalc	ok	5.4s	Malapportionment legislature/lower chamber
+v3elmalauc	ok	5.3s	Malapportionment upper chamber
+v3canagelc	ok	4.5s	Minimum candidate age lower chamber
+v3canageuc	ok	5.0s	Minimum candidate age upper chamber
+v3elagepr	ok	3.4s	Minimum voting age presidency
+v3elageuc	ok	5.9s	Minimum voting age upper chamber
+v3peminwage	ok	11.8s	Minimum wage
+v3elncbmaj	ok	5.0s	Minority or majority government
+v3stnatant	ok	5.4s	National anthem
+v3stnatbank	ok	5.3s	National bank
+v3psagepm	ok	8.4s	Party age executive
+v3psagefirst	ok	6.7s	Party age largest
+v3psagesecond	ok	5.3s	Party age second largest
+v3psagethird	ok	5.7s	Party age third largest
+v3partyid	ok	6.4s	Party identification
+v3elvotlrg	ok	5.6s	Presidential election vote share of largest vote-getter (v3elvotlrg)
+v3elvotsml	ok	5.8s	Presidential election vote share of second-largest vote-getter (v3elvotsml)
+v3elreapplc	ok	5.2s	Reapportionment legislature/lower chamber
+v3elreappuc	ok	4.7s	Reapportionment upper chamber
+v3elsrgel	ok	5.6s	Regional government elected (v3elsrgel)
+v3elreggov	ok	5.6s	Regional government exists (v3elreggov)
+v3struinvadm	ok	10.3s	Rulers’ involvement in the state administration
+v3elecsedf	ok	4.5s	Secret ballot (de facto)
+v3serfdeju	ok	4.6s	Serfdom de jure/slavery de jure
+v3clslavery	ok	5.3s	Slavery
+v3ststeecap	ok	5.0s	State steering capacity
+v3ststatag	ok	4.6s	Statistical agency
+v3ststybcov	ok	5.1s	Statistical yearbook covered
+v3ststybpub	ok	5.4s	Statistical yearbook published
+v3ttlvote	ok	5.8s	Total votes
+v3lgbudgup	ok	5.4s	Upper chamber budget
+v3lgelecup	ok	5.1s	Upper chamber elected (v3lgelecup)
+v3elupseat	ok	5.0s	Upper chamber election seats
+v3elupstsl	ok	4.9s	Upper chamber election seats won by largest party
+v3elupstsm	ok	6.3s	Upper chamber election seats won by second largest party
+v3eltvriguc	ok	6.4s	Upper chamber election turnover
+v3elupvtlg	ok	7.4s	Upper chamber election vote share of largest vote-getter
+v3elupvtsm	ok	7.5s	Upper chamber election vote share of second-largest vote-getter
+v3lginsesup	ok	10.1s	Upper chamber in session
+v3lginelup	ok	6.0s	Upper chamber indirectly elected
+v3lgleglup	ok	4.8s	Upper chamber legislates by law
+v3lglegpup	ok	4.7s	Upper chamber legislates in practice (v3lglegpup)
+v3elbalpap	ok	5.0s	Voting, voice or ballot
+v2edscpatriotcb	ok	6.4s	Celebration of patriotic symbols
+v2xedvd_me_cent	ok	6.3s	Centralization of media control
+v2xed_ed_cent	ok	5.2s	Centralization of the education system
+v2edcentcurrlm	ok	5.0s	Centralized curriculum
+v2edcenttxbooks	ok	5.2s	Centralized textbook approval
+v2medentrain	ok	4.6s	Control of entertainment content
+v2xed_ed_ctag	ok	5.1s	Control over educational agents
+v2xedvd_me_ctag	ok	5.1s	Control over media agents
+v2edcritical	ok	4.8s	Critical engagement with education content
+v2xed_ed_dmcon	ok	10.4s	Democratic indoctrination content in education
+v2edtequal	ok	5.4s	Education requirements for primary school teachers
+v2edscextracurr	ok	5.6s	Extracurricular activities
+v2edideolch_rec	ok	6.4s	Ideology character in the curriculum
+v2edideol	ok	5.3s	Ideology in the curriculum
+v2edteunionindp	ok	5.4s	Independent teacher unions
+v2xedvd_me_inco	ok	4.8s	Indoctrination coherence (potential) in the media
+v2xed_ed_inco	ok	6.4s	Indoctrination coherence in education
+v2xed_ed_con	ok	5.2s	Indoctrination content in education
+v2xed_ed_inpt	ok	5.4s	Indoctrination potential in education
+v2xedvd_inpt	ok	6.1s	Indoctrination potential in education and the media
+v2edmath	ok	6.1s	Mathematics and science education
+v2edpatriot	ok	7.4s	Patriotic education in the curriculum
+v2xed_ed_ptcon	ok	6.0s	Patriotic indoctrination content in education
+v2xed_ptcon	ok	6.3s	Patriotic indoctrination content in education and the media
+v2medpatriot	ok	8.1s	Patriotism in the media
+v2edplural	ok	5.1s	Pluralism in the curriculum
+v2xed_ed_poed	ok	6.2s	Political education effort in education
+v2edpoledprim	ok	5.8s	Political education, primary school
+v2edpoledsec	ok	6.5s	Political education, secondary school
+v2medpolnonstate	ok	7.0s	Political influence, non state-owned media
+v2medpolstate	ok	5.2s	Political influence, state-owned media
+v2edpoledrights	ok	5.9s	Political rights and duties in the curriculum
+v2edtefire	ok	5.2s	Political teacher firing
+v2edtehire	ok	6.2s	Political teacher hiring
+v2edscpatriot	ok	5.0s	Presence of patriotic symbols in schools
+v2edteunion	ok	5.0s	Presence of teacher unions
+v2medstatebroad	ok	5.5s	State-owned broadcast media
+v2medstateprint	ok	7.0s	State-owned print media
+v2edteautonomy	ok	4.9s	Teacher autonomy in the classroom
+v2temonitor	ok	12.3s	Teacher inspection
+v2jucomp	ok	5.3s	Compliance with judiciary
+v2juhcind	ok	5.1s	High court independence
+v2juaccnt	ok	4.7s	Judicial accountability
+v2jucodable	ok	5.4s	Codeable
+v2juhccomp	ok	5.2s	Compliance with high court
+v2juflow	ok	4.8s	Corresponding flowchart
+v2jupack	ok	6.0s	Court packing
+v2jupoatck	ok	5.3s	Government attacks on judiciary
+v2jucorrdc	ok	5.0s	Judicial corruption decision
+v2jupurge	ok	5.4s	Judicial purges
+v2jureform	ok	4.6s	Judicial reform
+v2jureview	ok	4.6s	Judicial review
+v2julanguage	ok	4.6s	Language
+v2juncind	ok	4.7s	Lower court independence
+v2juteamtr	ok	4.9s	Team translated
+v2lgcrrpt	ok	7.7s	Legislature corrupt activities
+v2lgotovst	ok	4.5s	Executive oversight
+v2ex_legconhog	ok	4.6s	HOG appointed by legislature
+v2ex_legconhos	ok	5.5s	HOS appointed by legislature
+v2lgtreaty	ok	4.3s	Legislature approval of treaties by law
+v2lgbicam	ok	5.0s	Legislature bicameral
+v2lgfunds	ok	5.4s	Legislature controls resources
+v2lgwarlaw	ok	6.0s	Legislature declares war by law
+v2lgdomchm	ok	5.3s	Legislature dominant chamber
+v2lginvstp	ok	4.3s	Legislature investigates in practice
+v2lgoppart	ok	5.4s	Legislature opposition parties
+v2lgqstexp	ok	4.6s	Legislature questions officials in practice
+v2lgcomslo	ok	5.1s	Lower chamber committees
+v2lgello	ok	7.3s	Lower chamber elected
+v2lgfemleg	ok	4.8s	Lower chamber female legislators
+v2lgqugen	ok	5.5s	Lower chamber gender quota
+v2lgqugens	ok	9.2s	Lower chamber gender quota placement mandate
+v2lgqugent	ok	4.4s	Lower chamber gender quota threshold
+v2lgintblo	ok	4.3s	Lower chamber introduces bills
+v2lglegplo	ok	5.0s	Lower chamber legislates in practice
+v2lgsrvlo	ok	5.0s	Lower chamber members serve in government
+v2lgstafflo	ok	4.6s	Lower chamber staff
+v2lginello	ok	5.5s	Percentage of indirectly elected legislators lower chamber
+v2lginelup	ok	4.7s	Percentage of indirectly elected legislators upper chamber
+v2ex_hosw	ok	6.9s	Relative power of the HOS
+v2lgdsadlo	ok	5.3s	Representation of disadvantaged social groups
+v2lgdsadlobin	ok	5.3s	Representation of disadvantaged social groups binary
+v2lgelecup	ok	4.6s	Upper chamber elected
+v2lgintbup	ok	5.2s	Upper chamber introduces bills
+v2lglegpup	ok	4.7s	Upper chamber legislates in practice
+v2mecenefm	ok	4.7s	Government censorship effort — Media
+v2meharjrn	ok	5.4s	Harassment of journalists
+v2mebias	ok	7.3s	Media bias
+v2meslfcen	ok	6.6s	Media self-censorship
+v2mefemjrn	ok	4.8s	Female journalists
+v2mecenefibin	ok	4.9s	Internet binary
+v2mecenefi	ok	5.2s	Internet censorship effort
+v2mecorrpt	ok	4.9s	Media corrupt
+v2mecrit	ok	4.3s	Print/broadcast media critical
+v2merange	ok	5.3s	Print/broadcast media perspectives
+e_fh_cl	ok	5.0s	Civil liberties
+e_wbgi_cce	ok	4.6s	Control of corruption — estimate
+e_ti_cpi	ok	4.8s	Corruption perception index
+e_coups	ok	5.3s	Coups
+e_chga_demo	ok	4.7s	Democracy
+e_boix_regime	ok	5.1s	Democracy (BMR)
+e_bnr_dem	ok	6.1s	Democratic breakdown
+e_democracy_breakdowns	ok	5.0s	Democratic breakdowns
+e_democracy_trans	ok	4.7s	Democratic transition
+e_wbgi_gee	ok	9.7s	Government effectiveness
+e_vanhanen	ok	4.6s	Index of Democratization
+e_autoc	ok	4.4s	Institutionalized autocracy
+e_democ	ok	4.4s	Institutionalized democracy
+e_lexical_index	ok	4.5s	Lexical index
+e_legparty	ok	5.6s	Number of Parties in legislature
+e_democracy_omitteddata	ok	4.8s	Omitted data
+e_polcomp	ok	4.7s	Political competition
+e_fh_pr	ok	5.8s	Political rights
+e_wbgi_pve	ok	4.6s	Political stability — estimate
+e_p_polity	ok	5.1s	Polity combined score
+e_polity2	ok	6.0s	Polity revised combined score
+e_wbgi_rqe	ok	5.0s	Regulatory quality — estimate
+e_fh_rol	ok	4.7s	Rule of law
+e_wbgi_rle	ok	4.7s	Rule of law — estimate
+e_fh_status	ok	5.1s	Status
+e_wbgi_vae	ok	9.6s	Voice and accountability — estimate
+v2xpas_democracy_government	ok	9.5s	Government Coalition Democracy Index
+v2xpas_exclusion_government	ok	6.0s	Government Coalition Exclusion Index
+v2xpas_economic_government	ok	5.4s	Government Coalition Left-Right Index
+v2xpas_religion_government	ok	5.1s	Government Coalition Religion Index
+v2xpas_democracy_opposition	ok	4.7s	Opposition Parties Democracy Index
+v2xpas_exclusion_opposition	ok	5.1s	Opposition Parties Exclusion Index
+v2xpas_economic_opposition	ok	5.3s	Opposition Parties Left-Right Index
+v2xpas_religion_opposition	ok	5.8s	Opposition Parties Religion Index
+v2xpas_democracy	ok	5.2s	Party-System Democracy Index
+v2xpas_exclusion	ok	5.3s	Party-System Exclusion Index
+v2xpas_economic	ok	5.0s	Party-System Left-Right Index
+v2xpas_religion	ok	5.2s	Party-System Religion Index
+v2peedueq	ok	7.9s	Educational equality
+v2pehealth	ok	7.0s	Health equality
+v2pepwrgen	ok	10.9s	Power distributed by gender
+v2pepwrses	ok	4.7s	Power distributed by socioeconomic position
+v2pepwrort	ok	4.9s	Power distributed by sexual orientation
+v2pepwrsoc	ok	5.6s	Power distributed by social group
+v2peprisch	ok	5.3s	Primary school enrolment
+v2pesecsch	ok	5.4s	Secondary school enrolment
+v2petersch	ok	5.6s	Tertiary school enrolment
+v2psbars	ok	5.0s	Barriers to parties
+v2pscnslnl	ok	6.0s	Candidate selection-national/local
+v2psplats	ok	5.6s	Distinct party platforms
+v2pscohesv	ok	4.9s	Legislative party cohesion
+v2psnatpar	ok	5.6s	National party control
+v2psoppaut	ok	3.6s	Opposition parties autonomy
+v2psparban	ok	7.0s	Party ban
+v2psprbrch	ok	6.1s	Party branches
+v2pscomprg	ok	5.4s	Party competition across regions
+v2psprlnks	ok	9.2s	Party linkages
+v2psorgs	ok	5.2s	Party organizations
+v2pssunpar	ok	4.9s	Subnational party control
+v2regpower	ok	5.6s	Most powerful group in affecting regime duration and change
+v2regidnr	ok	6.8s	Regime ID
+v2regdur	ok	5.1s	Regime duration
+v2regendtype	ok	4.9s	Regime end type
+v2regint	ok	8.1s	Regime interregnum
+v2regimpoppgroup	ok	5.3s	Regime most important opposition group
+v2regimpgroup	ok	5.9s	Regime most important support group
+v2regoppgroupssize	ok	5.6s	Regime opposition groups size
+v2regopploc	ok	5.4s	Regime opposition location
+v2regsupgroupssize	ok	5.5s	Regime support groups size
+v2regsuploc	ok	6.0s	Regime support location
+v2regantireg	ok	5.6s	Strongest anti-regime preferences
+v2regproreg	ok	10.5s	Strongest pro-regime preferences
+v2strenadm	ok	5.3s	Bureaucratic remuneration
+v2stcritapparm	ok	5.2s	Criteria for appointment decisions in the armed forces
+v2stcritrecadm	ok	5.3s	Criteria for appointment decisions in the state administration
+v2svdomaut	ok	8.3s	Domestic autonomy
+v2svindep	ok	6.8s	Independent states
+v2svinlaut	ok	5.4s	International autonomy
+v2strenarm	ok	5.4s	Remuneration in the Armed Forces
+v2svstterr	ok	5.5s	State authority over territory
+v2stfisccap	ok	5.5s	State fiscal source of revenue
+v2x_regime	ok	5.4s	Regimes of the world – the RoW measure
+v2xca_academ	ok	11.5s	Academic Freedom Index
+v2xcl_acjst	ok	5.6s	Access to justice
+v2x_accountability	ok	5.5s	Accountability index
+v2x_civlib	ok	10.0s	Civil liberties index
+v2xnp_client	ok	5.1s	Clientelism Index
+v2xcs_ccsi	ok	5.1s	Core civil society index
+v2x_diagacc	ok	5.8s	Diagonal accountability index
+v2xpe_exlgender	ok	5.5s	Exclusion by Gender index
+v2xpe_exlpol	ok	5.5s	Exclusion by Political Group index
+v2xpe_exlsocgr	ok	6.1s	Exclusion by Social Group index
+v2xpe_exlecon	ok	7.6s	Exclusion by Socio-Economic Group
+v2xpe_exlgeo	ok	5.4s	Exclusion by Urban-Rural Location index
+v2x_execorr	ok	5.3s	Executive corruption index
+v2x_freexp	ok	5.6s	Freedom of expression index
+v2x_horacc	ok	6.1s	Horizontal accountability index
+v2x_neopat	ok	5.3s	Neopatrimonial Rule Index
+v2x_clphy	ok	6.1s	Physical violence index
+v2x_clpol	ok	5.2s	Political civil liberties index
+v2x_corr	ok	12.7s	Political corruption index
+v2x_clpriv	ok	5.4s	Private civil liberties index
+v2xcl_prpty	ok	6.7s	Property rights
+v2x_pubcorr	ok	3.7s	Public sector corruption index
+v2xnp_regcorr	ok	9.2s	Regime corruption
+v2x_rule	ok	5.4s	Rule of law index
+v2x_veracc	ok	6.1s	Vertical accountability index
+v2x_gencl	ok	5.3s	Women civil liberties index
+v2x_gencs	ok	5.4s	Women civil society participation index
+v2x_gender	ok	5.1s	Women political empowerment index
+v2x_genpp	ok	5.4s	Women political participation index
+v2xme_altinf	ok	5.0s	Alternative sources of information index
+v2x_hosinter	ok	4.9s	Chief executive no longer elected
+v2xdd_cic	ok	5.4s	Citizen-initiated component of direct popular vote index
+v2x_ex_confidence	ok	6.0s	Confidence dimension index
+v2x_delibdem_stock	ok	8.8s	Deliberative Democracy Stock
+v2x_ex_direlect	ok	4.6s	Direct election dimension index
+v2x_divparctrl	ok	5.0s	Divided party control index
+v2x_feduni	ok	5.3s	Division of power index
+v2x_egaldem_stock	ok	9.0s	Egalitarian Democracy Stock
+v2x_polyarchy_stock	ok	6.0s	Electoral Democracy Stock
+v2x_electoral_integrity	ok	5.2s	Electoral Integrity Index
+v2x_EDcomp_thick	ok	5.6s	Electoral component index
+v2x_elecreg	ok	18.7s	Electoral regime index
+v2xex_elecreg	ok	4.8s	Executive electoral regime index
+v2xcl_slave	ok	4.9s	Freedom from forced labor
+v2xcl_disc	ok	4.9s	Freedom of discussion
+v2xcl_dmove	ok	6.0s	Freedom of domestic movement
+v2x_ex_hereditary	ok	8.5s	Hereditary dimension index
+v2xlg_elecreg	ok	6.0s	Legislative electoral regime index
+v2xel_elecparl	ok	8.0s	Legislative or constituent assembly election
+v2x_legabort	ok	5.0s	Legislative or constituent assembly election aborted
+v2xlg_leginter	ok	4.6s	Legislature closed down or aborted
+v2xex_elecleg	ok	4.9s	Legislature directly elected
+v2x_libdem_stock	ok	7.5s	Liberal Democracy Stock
+v2x_ex_military	ok	7.2s	Military dimension index
+v2xdd_i_or	ok	5.9s	Obligatory referendum index
+v2x_partipdem_stock	ok	5.7s	Participatory Democracy Stock
+v2xps_party	ok	5.0s	Party institutionalization index
+v2xdd_i_pl	ok	5.3s	Plebiscite index
+v2xdd_i_ci	ok	6.4s	Popular initiative index
+v2xdd_i_rf	ok	6.3s	Popular referendum index
+v2xel_elecpres	ok	5.6s	Presidential election
+v2x_hosabort	ok	9.8s	Presidential election aborted
+v2xnp_pres	ok	4.9s	Presidentialism Index
+v2x_regime_amb	ok	4.9s	Regimes of the world – the RoW measure with categories for ambiguous cases
+v2x_ex_party	ok	5.7s	Ruling party dimension index
+v2xdd_toc	ok	5.3s	Top-Down component of direct popular vote index
+v2smparab	ok	3.3s	Party dissemination of false information abroad
+v2smcamp	ok	4.2s	Party/candidate use of social media in campaigns
+v2smpolcap	ok	3.9s	Political parties cyber security capacity
+v2smprivcon	ok	3.4s	Privacy protection by law content
+v2smprivex	ok	3.1s	Privacy protection by law exists
+v2exbribe	ok	3.1s	Executive bribery and corrupt exchanges
