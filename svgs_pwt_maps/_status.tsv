@@ -1,0 +1,82 @@
+rgdpe	ok	6.9s	Expenditure-side real GDP at chained PPPs (in mil. 2021US$)
+rgdpe	ok	6.9s	Expenditure-side real GDP at chained PPPs (in mil. 2021US$)
+rgdpo	ok	5.6s	Output-side real GDP at chained PPPs (in mil. 2021US$)
+rgdpo	ok	5.6s	Output-side real GDP at chained PPPs (in mil. 2021US$)
+pop	ok	5.4s	Population (in millions)
+pop	ok	5.4s	Population (in millions)
+emp	ok	5.8s	Number of persons engaged (in millions)
+emp	ok	5.8s	Number of persons engaged (in millions)
+avh	ok	5.1s	Average annual hours worked by persons engaged
+avh	ok	5.1s	Average annual hours worked by persons engaged
+hc	ok	5.1s	Human capital index, based on years of schooling and returns to education
+hc	ok	5.1s	Human capital index, based on years of schooling and returns to education
+ccon	ok	5.4s	Real consumption of households and government, at current PPPs (in mil. 2021US$)
+ccon	ok	5.4s	Real consumption of households and government, at current PPPs (in mil. 2021US$)
+cda	ok	5.3s	Real domestic absorption (consumption + investment), at current PPPs (in mil. 2021US$)
+cda	ok	5.3s	Real domestic absorption (consumption + investment), at current PPPs (in mil. 2021US$)
+cgdpe	ok	10.8s	Expenditure-side real GDP at current PPPs (in mil. 2021US$)
+cgdpe	ok	10.8s	Expenditure-side real GDP at current PPPs (in mil. 2021US$)
+cgdpo	ok	5.2s	Output-side real GDP at current PPPs (in mil. 2021US$)
+cgdpo	ok	5.2s	Output-side real GDP at current PPPs (in mil. 2021US$)
+cn	ok	5.3s	Capital stock at current PPPs (in mil. 2021US$)
+cn	ok	5.4s	Capital stock at current PPPs (in mil. 2021US$)
+ck	ok	5.2s	Capital services levels at current PPPs (USA=1)
+ck	ok	5.2s	Capital services levels at current PPPs (USA=1)
+ctfp	ok	5.2s	TFP level at current PPPs (USA=1)
+ctfp	ok	5.2s	TFP level at current PPPs (USA=1)
+cwtfp	ok	5.1s	Welfare-relevant TFP levels at current PPPs (USA=1)
+cwtfp	ok	5.1s	Welfare-relevant TFP levels at current PPPs (USA=1)
+rgdpna	ok	5.9s	Real GDP at constant 2021 national prices (in mil. 2021US$)
+rgdpna	ok	5.9s	Real GDP at constant 2021 national prices (in mil. 2021US$)
+rconna	ok	6.2s	Real consumption at constant 2021 national prices (in mil. 2021US$)
+rconna	ok	6.2s	Real consumption at constant 2021 national prices (in mil. 2021US$)
+rdana	ok	4.8s	Real domestic absorption at constant 2021 national prices (in mil. 2021US$)
+rdana	ok	4.8s	Real domestic absorption at constant 2021 national prices (in mil. 2021US$)
+rnna	ok	5.3s	Capital stock at constant 2021 national prices (in mil. 2021US$)
+rnna	ok	5.3s	Capital stock at constant 2021 national prices (in mil. 2021US$)
+rkna	ok	4.8s	Capital services at constant 2021 national prices (2021=1)
+rkna	ok	4.9s	Capital services at constant 2021 national prices (2021=1)
+rtfpna	ok	5.7s	TFP at constant national prices (2021=1)
+rtfpna	ok	5.8s	TFP at constant national prices (2021=1)
+rwtfpna	ok	3.4s	Welfare-relevant TFP at constant national prices (2021=1)
+rwtfpna	ok	3.4s	Welfare-relevant TFP at constant national prices (2021=1)
+labsh	ok	5.9s	Share of labour compensation in GDP at current national prices
+labsh	ok	5.9s	Share of labour compensation in GDP at current national prices
+irr	ok	5.9s	Real internal rate of return
+irr	ok	5.9s	Real internal rate of return
+delta	ok	9.6s	Average depreciation rate of the capital stock
+delta	ok	9.6s	Average depreciation rate of the capital stock
+xr	ok	4.8s	Exchange rate, national currency/USD (market+estimated)
+xr	ok	4.8s	Exchange rate, national currency/USD (market+estimated)
+pl_con	ok	5.1s	Price level of consumption (PPP/XR, USA GDPo 2021=1)
+pl_con	ok	5.1s	Price level of consumption (PPP/XR, USA GDPo 2021=1)
+pl_da	ok	5.5s	Price level of domestic absorption (PPP/XR, USA GDPo 2021=1)
+pl_da	ok	5.5s	Price level of domestic absorption (PPP/XR, USA GDPo 2021=1)
+pl_gdpo	ok	5.7s	Price level of output-side GDP (PPP/XR, USA GDPo 2021=1)
+pl_gdpo	ok	5.7s	Price level of output-side GDP (PPP/XR, USA GDPo 2021=1)
+csh_c	ok	5.1s	Share of household consumption at current PPPs
+csh_c	ok	5.1s	Share of household consumption at current PPPs
+csh_i	ok	5.2s	Share of gross capital formation at current PPPs
+csh_i	ok	5.2s	Share of gross capital formation at current PPPs
+csh_g	ok	5.4s	Share of government consumption at current PPPs
+csh_g	ok	5.4s	Share of government consumption at current PPPs
+csh_x	ok	5.9s	Share of merchandise exports at current PPPs
+csh_x	ok	6.0s	Share of merchandise exports at current PPPs
+csh_m	ok	5.1s	Share of merchandise imports at current PPPs
+csh_m	ok	5.2s	Share of merchandise imports at current PPPs
+csh_r	ok	5.3s	Share of residual trade and GDP statistical discrepancy at current PPPs
+csh_r	ok	5.3s	Share of residual trade and GDP statistical discrepancy at current PPPs
+pl_c	ok	5.1s	Price level of household consumption
+pl_c	ok	5.1s	Price level of household consumption
+pl_i	ok	5.3s	Price level of capital formation
+pl_i	ok	5.3s	Price level of capital formation
+pl_g	ok	5.6s	Price level of government consumption
+pl_g	ok	5.5s	Price level of government consumption
+pl_x	ok	5.1s	Price level of exports
+pl_x	ok	5.2s	Price level of exports
+pl_m	ok	5.5s	Price level of imports
+pl_m	ok	5.5s	Price level of imports
+pl_n	ok	8.9s	Price level of the capital stock
+pl_n	ok	8.9s	Price level of the capital stock
+pl_k	ok	4.8s	Price level of capital services
+pl_k	ok	4.8s	Price level of capital services
