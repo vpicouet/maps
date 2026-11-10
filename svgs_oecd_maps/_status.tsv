@@ -1,0 +1,876 @@
+OECD.CFE.RDG:DSD_DASHBOARD@COFOG	ok	4.6s	Subnational government expenditure by functional classification (COFOG)
+OECD.CFE.RDG:DSD_DASHBOARD@COFOG_INV	ok	11.6s	Subnational government investment by functional classification (COFOG)
+OECD.CFE.RDG:DSD_DASHBOARD@DEBT	ok	12.5s	Subnational government budget balance and debt
+OECD.CFE.RDG:DSD_DASHBOARD@DEMO	ok	4.1s	Subnational government structure and finance: socio-economic indicators
+OECD.CFE.RDG:DSD_DASHBOARD@EXPEND	ok	9.8s	Subnational government expenditure
+OECD.CFE.RDG:DSD_DASHBOARD@EXPEND_ECON	ok	10.3s	Subnational government expenditure by economic classification
+OECD.CFE.RDG:DSD_DASHBOARD@INV	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Subnational government investment
+OECD.CFE.RDG:DSD_DASHBOARD@MUNI_CHANGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Municipal level government by population size - change
+OECD.CFE.RDG:DSD_DASHBOARD@REV	ok	4.1s	Subnational government revenue
+OECD.CFE.RDG:DSD_DASHBOARD@PROP_TAX_REV	ok	10.1s	Subnational government recurrent property tax revenue
+OECD.CFE.RDG:DSD_DASHBOARD@SNG_STRUCT	ok	4.0s	Municipal level government by population size
+OECD.CFE.RDG:DSD_DASHBOARD@REVENUE_CAT	ok	10.5s	Subnational government revenue by category
+OECD.CFE.RDG:DSD_DASHBOARD@SNG_NBR	ok	10.3s	Number of subnational governments
+OECD.CFE.RDG:DSD_SNGF_AGG@DF_REGOFI	ok	4.1s	Aggregated regional government finance
+OECD.CFE.RDG:DSD_DASHBOARD@TAX_REV	ok	9.8s	Subnational government tax revenue
+OECD.CFE.RDG:DSD_SNGF_AGG@DF_MUNIFI	ok	11.0s	Aggregated and disaggregated municipal government finance
+OECD.CFE.RDG:DSD_SNG_WOFI@DF_FINANCE	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	SNG-WOFI: Subnational government expenditure, investment, revenue and debt
+OECD.CFE.RDG:DSD_SNGF_CSF@DF_SGCF	ok	9.2s	Subnational government climate finance
+OECD.CFE.RDG:DSD_SUBEMP@DF_SUBEMP	ok	4.1s	Aggregated and disaggregated subnational public employment
+OECD.CFE.RDG:DSD_SNG_WOFI@DF_COFOG	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	SNG-WOFI: Subnational government functional expenditure (COFOG)
+OECD.CTP.TPS:DSD_CBCR@DF_CBCRII	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Country-by-country reporting (CbCR) - Interquartile mean values by jurisdiction - Corporate tax statistics
+OECD.CFE.RDG:DSD_SNG_WOFI@DF_SNG_STRUCT	ok	9.6s	SNG-WOFI: Number of subnational governments and municipality size
+OECD.CFE.RDG:DSD_SNG_WOFI@DF_SOCIO	ok	9.4s	SNG-WOFI: Basic socio-economic indicators
+OECD.CTP.TPS:DSD_CBCR@DF_CBCRV	ok	5.2s	Country-by-country reporting (CbCR) - Distribution points of MNE group size - Corporate tax statistics
+OECD.CTP.TAV:DSD_QDD_ITTI@DF_QDD_ITTI	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Inventory of Tax Technology Initiatives
+OECD.CTP.TPS:DSD_CBCR@DF_CBCRI	ok	3.8s	Country-by-country reporting (CbCR) - Aggregate totals by jurisdiction - Corporate tax statistics
+OECD.CTP.TPS:DSD_ECR@DF_SEP	ok	4.6s	Shares of CO2 emissions from energy priced
+OECD.CTP.TPS:DSD_CBCR@DF_CBCRIII	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Country-by-country reporting (CbCR) - Aggregate totals by the effective tax rate of the MNE group and by tax jurisdictio
+OECD.CTP.TPS:DSD_CBCR@DF_CBCRIV	ok	13.5s	Country-by-country reporting (CbCR) - Aggregate totals by the effective tax rate of the MNE sub-group and by tax jurisdi
+OECD.CTP.TPS:DSD_ITID@DF_ITID_LEG	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	ITID - Legal basis
+OECD.CTP.TPS:DSD_ECR@DF_CPS	ok	9.9s	Carbon pricing score
+OECD.CTP.TPS:DSD_CBCR@DF_CBCRVI	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Country-by-country reporting (CbCR) - Aggregate totals by the size of the MNE group and by tax jurisdictions - Corporate
+OECD.CTP.TPS:DSD_NECR@DF_NECRS	fail	Could not draw this chartNo data for this combination. Pick another choice above.Try again	Net effective carbon rates
+OECD.CTP.TPS:DSD_ITID@DF_ITID_ELIG	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	ITID - Eligibility conditions
+OECD.CTP.TPS:DSD_ITID@DF_ITID_DES	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	ITID - Design features
+OECD.CTP.TPS:DSD_NEER@DF_NEERS	fail	Could not draw this chartNo data for this combination. Pick another choice above.Try again	Net effective energy rates
+OECD.CTP.TPS:DSD_ITID@DF_ITID_SUS	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	ITID - Sustainable development area
+OECD.CTP.TPS:DSD_ITID@DF_ITID_SEC	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	ITID - Sector targeting
+OECD.CTP.TPS:DSD_QDD_ACT2@DF_QDD_ACT2	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Hybrid mismatch arrangements - Corporate tax statistics
+OECD.CTP.TPS:DSD_NECR@DF_NECRSREVFOR	ok	10.0s	Revenue forgone and net effective carbon rates
+OECD.CTP.TPS:DSD_NECR@DF_NECRSHARES	ok	12.5s	Shares of emissions priced
+OECD.CTP.TPS:DSD_QDD_ACT12@DF_QDD_ACT12	ok	13.1s	Mandatory disclosure rules - Corporate tax statistics
+OECD.CTP.TPS:DSD_QDD_ILR@DF_QDD_ILR	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Interest limitation rules - Corporate tax statistics
+OECD.CTP.TPS:DSD_NEER@DF_REVPOT	ok	11.1s	Net energy tax revenues and reform potential
+OECD.CTP.TPS:DSD_REF_LAC@DF_REFSERIES_LAC	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Revenue Statistics in Latin America and the Caribbean - Reference series
+OECD.CTP.TPS:DSD_QDD_CBCREQ@DF_QDD_CBCREQ	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Country-by-country reporting (CbCR) requirements - Corporate tax statistics
+OECD.CTP.TPS:DSD_QDD_CFC@DF_QDD_CFC	ok	10.6s	Controlled foreign company rules - Corporate tax statistics
+OECD.CTP.TPS:DSD_REV_COMP_GLOBAL@DF_RSGLOBAL	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Global Revenue Statistics - Comparative tax revenues
+OECD.CTP.TPS:DSD_REF_AFRICA@DF_REFSERIES_AFRICA	ok	7.3s	Revenue Statistics in Africa - Reference series
+OECD.CTP.TPS:DSD_REF_ASAP@DF_REFSERIES_ASAP	ok	10.2s	Revenue Statistics in Asia and the Pacific - Reference series
+OECD.CTP.TPS:DSD_REF_OECD@DF_REFSERIES_OECD	ok	9.7s	Revenue Statistics in OECD member countries - Reference series
+OECD.CTP.TPS:DSD_REV_COMP_OECD@DF_RSOECD	ok	12.8s	Revenue Statistics in OECD member countries - Comparative tax revenues
+OECD.CTP.TPS:DSD_REV_COMP_AFRICA@DF_RSAFRICA	ok	7.8s	Revenue Statistics in Africa - Comparative tax and non-tax revenues
+OECD.CTP.TPS:DSD_REV_COMP_LAC@DF_RSLAC	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Revenue Statistics in Latin America and the Caribbean - Comparative tax revenues
+OECD.CTP.TPS:DSD_REV_COMP_OECD@DF_FSSBOECD	ok	14.7s	Financing of social security benefits in OECD member countries
+OECD.CTP.TPS:DSD_REV_COMP_OECD@DF_SSCPTOECD	ok	10.8s	Social security contributions and payroll taxes paid by government in OECD member countries
+OECD.CTP.TPS:DSD_TAX_CIT@DF_CIT	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Corporate income tax (CIT) - statutory and targeted small business rates
+OECD.CTP.TPS:DSD_REV_GLOBAL@DF_REV_ALL	ok	13.3s	Tax revenues, all GLOBAL countries
+OECD.CTP.TPS:DSD_TAX_SSC@DF_SSC_EMPLOYER	ok	5.4s	Social security contributions (SSC) - employer rates
+OECD.CTP.TPS:DSD_TAX_CIT@DF_CIT_DIVD_INCOME	ok	10.5s	Combined (corporate and shareholder) statutory tax rates on dividend income
+OECD.CTP.TPS:DSD_TAX_SSC@DF_SSC_EMPLOYEE	ok	9.8s	Social security contributions (SSC) - employee rates
+OECD.CTP.TPS:DSD_TAX_SSC@DF_SSC_SELF	ok	11.9s	Social security contributions (SSC) - self-employed rates
+OECD.CTP.TPS:DSD_TAX_WAGES_COMP@DF_TW_COMP	ok	9.8s	Labour taxation – OECD comparative country indicators
+OECD.CTP.TPS:DSD_WHT@DF_WHT_STANDARD	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Standard withholding tax rates - Corporate tax statistics
+OECD.CTP.TPS:DSD_TAX_WAGES_DECOMP@DF_TW_DECOMP	ok	16.4s	Labour taxation – tax wedge decompositions
+OECD.DAF.CM:DSD_FP@DF_BC	ok	15.5s	Benefit payments and contributions to asset-backed pensions
+OECD.DAF:DSD_DEBT_TRANS_DDOWN@DF_DDOWN	ok	13.2s	Debt Transparency Aggregates
+OECD.DAF.CM:DSD_FP@DF_OC	ok	14.3s	Operating costs of asset-backed pensions
+OECD.CTP.TPS:DSD_TAX_WAGES_COU@DF_TW_COU	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Labour taxation – OECD member country tables
+OECD.DAF.CM:DSD_FP@DF_MB	ok	612.7s	Pension plan membership
+OECD.DAF.CM:DSD_FP@DF_SPS	ok	19.1s	Structure of asset-backed pensions
+OECD.DAF.CM:DSD_FP@DF_WI	ok	634.5s	Asset allocation of pension funds and other pension providers
+OECD.DAF.CM:DSD_INS@DF_BSI	ok	12.1s	Balance sheet and income statement of insurance companies
+OECD.DAF.CM:DSD_INS@DF_BUSINESS_ABROAD	ok	13.8s	Insurance business written abroad
+OECD.CTP.TPS:DSD_WHT@DF_WHT_TREATY	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Treaty based withholding tax rates - Corporate tax statistics
+OECD.DAF.CM:DSD_FP@DF_FPS	ok	15.6s	Asset-backed pensions - main database
+OECD.DAF.CM:DSD_INS@DF_IND	ok	54.8s	Insurance indicators
+OECD.DAF.CM:DSD_FP@DF_PA	ok	4.2s	Assets earmarked for retirement
+OECD.DAF.CM:DSD_INS@DF_ASSET_ALLOC	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Asset allocation of insurance companies
+OECD.DAF.CM:DSD_INS@DF_NB_COMP	ok	613.4s	Insurance companies and employees
+OECD.DAF.INV:DSD_FDI@DF_FDI_CTRY_IND_HIST	ok	26.2s	FDI by counterpart area and by economic activity, BMD4 and historical BMD3
+OECD.DAF.INV:DSD_FDI@DF_FDI_AGGR_SUMM	ok	613.9s	FDI main aggregates, BMD4
+OECD.DAF.INV:DSD_FDI@DF_FDI_FLOW_AGGR	fail	Could not draw this chartNo data for this combination. Pick another choice above.Try again	FDI flows main aggregates, BMD4
+OECD.DAF.CM:DSD_INS@DF_CLASSES	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Insurance business written by class of insurance
+OECD.DAF.CM:DSD_INS@DF_UNDERWRITING	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Premiums, claims and expenses of insurance companies
+OECD.DAF.INV:DSD_FDI@DF_FDI_FLOW_CTRY	ok	615.9s	FDI flows by counterpart area, BMD4
+OECD.DAF.INV:DSD_FDI@DF_FDI_INC_AGGR	ok	670.4s	FDI income main aggregates, BMD4
+OECD.DAF.INV:DSD_FDI@DF_FDI_INC_CTRY	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	FDI income by counterpart area, BMD4
+OECD.DAF.INV:DSD_FDI@DF_FDI_POS_AGGR	ok	4.0s	FDI positions main aggregates, BMD4
+OECD.DAF.INV:DSD_FDI@DF_FDI_CTRY_IND_SUMM	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	FDI by counterpart area and by economic activity, BMD4
+OECD.DAF.INV:DSD_FDI@DF_FDI_FLOW_IND	fail	TimeoutError: Page.wait_for_function: Timeout 150000ms exceeded.	FDI flows by economic activity, BMD4
+OECD.DAF.INV:DSD_FDI@DF_FDI_POS_CTRY	ok	618.7s	FDI positions by counterpart area, BMD4
+OECD.DAF.INV:DSD_FDIRRI_REG_DATABASE@DF_FDIRRI_REG_DATABASE	ok	615.6s	OECD FDI Regulatory Restrictiveness Index - Regulatory Database
+OECD.DAF.INV:DSD_QDD_FDI@DF_FDI_BMD4	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	FDI statistics metadata, BMD4
+OECD.DAF.INV:DSD_FDIRRI_SCORES@DF_FDIRRI_SCORES	ok	53.9s	OECD FDI Regulatory Restrictiveness Index - Scores
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX@DF_TAB03	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Africa's Development Dynamics (AfDD) Table 03 - Annual population growth rate
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX@DF_HISTORIC	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Africa's Development Dynamics (AfDD) - full historic data
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX@DF_TAB08	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Africa's Development Dynamics (AfDD) Table 08 - Sectoral breakdown of the economy
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX@DF_TAB04	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Africa's Development Dynamics (AfDD) Table 04 - Annual real GDP growth per capita
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX@DF_TAB16	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Africa's Development Dynamics (AfDD) Table 16 - Public finances
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX@DF_TAB13	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Africa's Development Dynamics (AfDD) Table 13 - Basic health indicators
+OECD.DAF.INV:DSD_FDI@DF_FDI_INC_IND	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	FDI income by economic activity, BMD4
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX@DF_TAB17	ok	20.5s	Africa's Development Dynamics (AfDD) Table 17 - Trade by manufacturing intensity
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX@DF_TAB19	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Africa's Development Dynamics (AfDD) Table 19 - Global and regional trade
+OECD.DAF.INV:DSD_FDI@DF_FDI_POS_IND	ok	52.9s	FDI positions by economic activity, BMD4
+OECD.DAF.INV:DSD_ITID_DASH@DF_SECTOR_PREV	fail	TimeoutError: Page.wait_for_function: Timeout 150000ms exceeded.	ITID Dashboard Visualisation (Comparator tab - Figure 4)
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX@DF_TAB02	ok	115.5s	Africa's Development Dynamics (AfDD) Table 02 - Annual real GDP growth rate
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX@DF_TAB05	fail	TimeoutError: Page.wait_for_function: Timeout 150000ms exceeded.	Africa's Development Dynamics (AfDD) Table 05 - Demographic estimates
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX@DF_TAB20	ok	614.8s	Africa's Development Dynamics (AfDD) Table 20 - External financial inflows
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX@DF_TAB23	ok	12.6s	Africa's Development Dynamics (AfDD) Table 23 - Ecological sustainability
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX@DF_TAB27	ok	19.3s	Africa's Development Dynamics (AfDD) Table 27 - Origin and destination of added value
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX@DF_TAB22	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Africa's Development Dynamics (AfDD) Table 22 - Returns on direct investments
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX@DF_TAB15	fail	TimeoutError: Page.wait_for_function: Timeout 150000ms exceeded.	Africa's Development Dynamics (AfDD) Table 15 - Growth decomposition by expenditure
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX@DF_TAB30	ok	12.7s	Africa's Development Dynamics (AfDD) Table 30 - Environmental causes of premature deaths
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX@DF_TAB26	ok	15.9s	Africa's Development Dynamics (AfDD) Table 26 - Electricity production and sustainable energy
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX@DF_TAB29	ok	14.3s	Africa's Development Dynamics (AfDD) Table 29 - National wealth
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX@DF_TAB37	ok	54.3s	Africa's Development Dynamics (AfDD) Table 37 - Migration by education level
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX@DF_TAB18	fail	TimeoutError: Page.wait_for_function: Timeout 150000ms exceeded.	Africa's Development Dynamics (AfDD) Table 18 - Export diversification
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX_RECENT@DF_TAB01	ok	140.1s	Africa's Development Dynamics (AfDD) Table 01 - Indicators of growth, employment and inequality
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX@DF_TAB21	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Africa's Development Dynamics (AfDD) Table 21 - Investment and capital stock
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX_RECENT@DF_TAB09	ok	13.7s	Africa's Development Dynamics (AfDD) Table 09 - Indicators of inequality and poverty
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX@DF_TAB25	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Africa's Development Dynamics (AfDD) Table 25 - GHG Emissions by sector
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX@DF_TAB28	ok	4.9s	Africa's Development Dynamics (AfDD) Table 28 - International trade costs
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX@DF_TAB32	ok	8.4s	Africa's Development Dynamics (AfDD) Table 32 - Employment by occupation
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX@DF_TAB38	ok	615.6s	Africa's Development Dynamics (AfDD) Table 38 - Projected education profiles
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX_RECENT@DF_TAB06	ok	10.1s	Africa's Development Dynamics (AfDD) Table 06 - Basic education indicators
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX_RECENT@DF_TAB10	ok	9.9s	Africa's Development Dynamics (AfDD) Table 10 - Gender indicators
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX_RECENT@DF_TAB14	ok	10.7s	Africa's Development Dynamics (AfDD) Table 14 - Subjective well-being
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX_RECENT@DF_TAB33	ok	15.0s	Africa's Development Dynamics (AfDD) Table 33 - Education mismatch
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX_RECENT@DF_TAB36	ok	16.3s	Africa's Development Dynamics (AfDD) Table 36 - Employment by business activity and skill level
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX_RECENT@DF_TAB12	ok	612.9s	Africa's Development Dynamics (AfDD) Table 12 - Digitalisation
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX_RECENT@DF_TAB31	ok	10.5s	Africa's Development Dynamics (AfDD) Table 31 - Informal economies and informal employment
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX_RECENT@DF_TAB35	ok	15.7s	Africa's Development Dynamics (AfDD) Table 35 - Employment by occupation
+OECD.DEV.LAC:DSD_KIIBIH@DF_B10	ok	9.6s	Households with workers living with less than international poverty line by household formality
+OECD.DEV.LAC:DSD_KIIBIH@DF_B13	ok	10.4s	Workers covered by health insurance by worker formality
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX@DF_TAB39	ok	654.0s	Africa's Development Dynamics (AfDD) Table 39 - Projected youth education profiles
+OECD.DEV.LAC:DSD_KIIBIH@DF_B18	ok	9.1s	Hourly earnings ratio of formal to informal employees
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX_RECENT@DF_TAB07	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Africa's Development Dynamics (AfDD) Table 07 - Labour force characteristics
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX_RECENT@DF_TAB11	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Africa's Development Dynamics (AfDD) Table 11 - Communications infrastructure
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX_RECENT@DF_TAB24	ok	12.7s	Africa's Development Dynamics (AfDD) Table 24 - Sustainable public investments and adjusted net savings
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX_RECENT@DF_TAB34	ok	60.4s	Africa's Development Dynamics (AfDD) Table 34 - Mean years of education
+OECD.DEV.LAC:DSD_KIIBIH@DF_B11	ok	613.4s	Workers living with less than the national poverty line by worker formality
+OECD.DEV.EMEA:DSD_AFDD_STAT_ANNEX_RECENT@DF_TABALL	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Africa's Development Dynamics (AfDD) - all tables, all indicators
+OECD.DEV.LAC:DSD_KIIBIH@DF_B14	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Households with at least one member benefiting from a pension by household informality
+OECD.DEV.LAC:DSD_KIIBIH@DF_B19	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Dependents by household informality and age group
+OECD.DEV.LAC:DSD_KIIBIH@DF_B22	ok	9.6s	Informal workers by gender and level of education
+OECD.DEV.LAC:DSD_KIIBIH@DF_B26	ok	14.7s	Workers contributing to pension by worker formality and gender
+OECD.DEV.LAC:DSD_KIIBIH@DF_B21	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Informal workers by gender and age group
+OECD.DEV.LAC:DSD_KIIBIH@DF_B6	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Population by urbanisation level and household informality
+OECD.DEV.LAC:DSD_KIIBIH@DF_B24	ok	25.3s	Informal workers by gender and status in employment
+OECD.DEV.LAC:DSD_KIIBIH@DF_B5	ok	22.8s	Informal workers by gender and household informality
+OECD.DEV.LAC:DSD_KIIBIH@DF_B8	ok	9.4s	Workers by firm size and formality status
+OECD.DEV.LAC:DSD_KIIBIH_LAB@DF_LAB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Workers' profiles
+OECD.DEV.LAC:DSD_KIIBIH@DF_B12	ok	613.0s	Workers living with less than the international poverty line by worker formality, gender and status in employment
+OECD.DEV.LAC:DSD_KIIBIH@DF_B17	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Health expenditure as share of household expenditure by household informality
+OECD.DEV.LAC:DSD_KIIBIH@DF_B20	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Workers by formality status gender and hours worked
+OECD.DEV.LAC:DSD_KIIBIH@DF_B23	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Informal workers by gender and location
+OECD.DEV.LAC:DSD_KIIBIH_EMP@DF_EMP	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Informal economy
+OECD.DEV.LAC:DSD_KIIBIH_POV@DF_POV	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Household and working poverty
+OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023	ok	12.0s	Social Institutions and Gender Index (SIGI) 2023
+OECD.DEV.NPG:DSD_GID@DF_GID_2023	ok	618.0s	Gender, Institutions and Development Database (GID-DB) 2023
+OECD.ECO.MAD:DSD_EO_114@DF_EO_114	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Economic Outlook No 114
+OECD.ECO.MAD:DSD_EO@DF_EO	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Economic Outlook 119
+OECD.ECO.MAD:DSD_EO_117@DF_EO_117	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Economic Outlook No 117
+OECD.ECO.MAD:DSD_EO_116@DF_EO_116	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Economic Outlook No 116
+OECD.ECO.MAD:DSD_EO_LTB@DF_EO_LTB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	OECD Economic Outlook 117 long-term scenarios
+OECD.DEV.LAC:DSD_KIIBIH@DF_B28	ok	604.3s	Population living with less than the international poverty line by household formality and gender
+OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_EARN_ALL	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Education and earnings (EARNINGS) (full dataset)
+OECD.DEV.LAC:DSD_KIIBIH@DF_B7	ok	6.4s	Population by households informality and welfare quintile
+OECD.DEV.LAC:DSD_KIIBIH_HLD@DF_HLD	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Household informality
+OECD.DEV.LAC:DSD_KIIBIH_SPI@DF_SPI	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Access to social protection
+OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_EARN_REL_BEL	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Earnings of workers relative to the earnings of workers with below upper secondary educational attainment, by age group,
+OECD.ECO.MAD:DSD_CPU@DF_CPU	ok	77.0s	Climate Policy Uncertainty
+OECD.ECO.MAD:DSD_EPS@DF_EPS	ok	616.9s	OECD Environmental Policy Stringency Index
+OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_EARN_DISTR_MEDIAN	ok	19.8s	Earners distribution based on their level of earnings relative to the overall median, by age group, gender and education
+OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_EARN_REL_MALE	ok	10.5s	Earnings differences by gender, by age group and educational attainment level
+OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_EARN_REL_YAD	ok	13.9s	Earnings of workers relative to the earnings of 25-34 year-olds, by age group, gender and educational attainment level
+OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_NEAC_DISTR_EA	ok	44.6s	Adults' educational attainment distribution, by age group and gender
+OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_EARN_REL_UPPER	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Earnings of workers relative to the earnings of workers with upper secondary educational attainment, by age group, gende
+OECD.ECO.MAD:DSD_EO_115@DF_EO_115	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Economic Outlook No 115
+OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_NEAC_DISTR_DURUNEMP	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Duration of unemployment distribution among unemployed adults, by educational attainment, age group and gender
+OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_NEAC_DISTR_EA_MIGR	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Adults' educational attainment distribution, by country of birth, age group and gender
+OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_NEAC_EMP	ok	25.5s	Employment rates of adults, by educational attainment, age group and gender
+OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_NEAC_INAC	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Inactivity rates of adults, by educational attainment, age group and gender
+OECD.ECO.MAD:DSD_EO_118@DF_EO_118	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Economic Outlook No 118
+OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_NEAC_DISTR_GENDER	ok	634.3s	Adults' gender distribution, by educational attainment level and age group
+OECD.ECO.MPD:DSD_AN_HOUSE_PRICES@DF_HOUSE_PRICES	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Analytical house prices indicators
+OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_NEAC_EMP_FIELD	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment rates of tertiary-educated adults, by field of study, tertiary educational attainment, age group and gender
+OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_NEAC_INAC_FIELD	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Inactivity rates of tertiary-educated adults, by field of study, tertiary educational attainment, age group and gender
+OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_NEAC_UNEMP	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Unemployment rates of adults, by educational attainment, age group and gender
+OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_EARN_FIELD	fail	TimeoutError: Page.wait_for_function: Timeout 150000ms exceeded.	Earnings differences by field of study among tertiary-educated workers, by age group, gender and level of tertiary educa
+OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_EARN_REL_NATIVE	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Earnings differences by country of birth and age at migration, by age group, gender and educational attainment level
+OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_NEAC_ALL	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	National Educational Attainment Classification (NEAC) and labour market status (full dataset)
+OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_NEAC_DISTR_EA_FIELD	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Field of study distribution of tertiary-educated adults, by level of tertiary educational attainment, age group and gend
+OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_NEAC_DISTR_MIGR	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Adults' migration status distribution, by educational attainment level, age group and gender
+OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_NEAC_LF	ok	625.4s	Labour force participation rates of adults, by educational attainment, age group and gender
+OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_NEAC_UNEMP_FIELD	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Unemployment rates of tertiary-educated adults, by field of study, tertiary educational attainment, age group and gender
+OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_NEAC_EMP_MIGR	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Employment rates of adults, by educational attainment, age group, gender, country of birth and age at migration
+OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_TRANS_ALL	ok	41.1s	Youth's transition from education to work (TRANS) (full dataset)
+OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_NEAC_INAC_MIGR	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Inactivity rates of adults, by educational attainment, age group, gender, country of birth and age at migration
+OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_NEAC_UNEMP_MIGR	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Unemployment rates of adults, by educational attainment, age group, gender, country of birth and age at migration
+OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_TRANS_MIGR	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Share of young adults who are not employment nor in formal education or training (NEET), by country of birth and age at 
+OECD.EDU.IMEP:DSD_EAG_UOE_FIN@DF_UOE_FIN_NATURE	ok	62.9s	Allocation of expenditure (from all sources) - full dataset
+OECD.EDU.IMEP:DSD_EAG_UOE_FIN@DF_UOE_FIN_SOURCE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Source and destination of expenditure - full dataset
+OECD.EDU.IMEP:DSD_EAG_UOE_FIN@DF_UOE_FIN_INDIC_SOURCE_NATURE	ok	708.0s	Full dataset - Indicators, source, destination and nature of expenditure on education
+OECD.EDU.IMEP:DSD_EAG_UOE_FIN@DF_UOE_FIN_NATURE_STAFF	ok	18.5s	Expenditure on staff compensation in educational institutions (from all sources)
+OECD.EDU.IMEP:DSD_EAG_UOE_FIN@DF_UOE_INDIC_FIN_GDP	ok	12.4s	Expenditure on educational institutions as a percentage of GDP
+OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_NEAC_UNEMPLOYED	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Share of unemployed adults among all adults, by educational attainment level, age group and gender
+OECD.EDU.IMEP:DSD_EAG_UOE_FIN_ENR@DF_UOE_FIN_ENR	ok	16.3s	Enrolment data adjusted to the financial year
+OECD.EDU.IMEP:DSD_EAG_LSO_EA@DF_LSO_TRANS	ok	43.6s	Distribution of young adults' education and work status, for a given level of educational attainment, age group and gend
+OECD.EDU.IMEP:DSD_EAG_UOE_FIN@DF_UOE_FIN_INDIC_SHARE_EDU_GOV	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of total government expenditure on education
+OECD.EDU.IMEP:DSD_EAG_UOE_FIN@DF_UOE_INDIC_FIN_PERSTUD	ok	625.8s	Expenditure on educational institutions per full-time equivalent student
+OECD.EDU.IMEP:DSD_EAG_UOE_FIN@DF_UOE_FIN_NATURE_CUR_CAP	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Capital and total current expenditure on education (from all sources)
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_PERS@DF_UOE_NF_PERS_AGE	ok	19.9s	Share of teachers by age range
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_PERS@DF_UOE_NF_PERS_RAW_INST	ok	20.0s	Number of classroom teachers and academic staffs by type of institution
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_PERS@DF_UOE_NF_PERS_STR	ok	11.3s	Ratio of students to teaching staff by type of institution
+OECD.EDU.IMEP:DSD_EAG_UOE_FIN@DF_UOE_FIN_SOURCE_GV_PR_NDOM	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Distribution of government, private and non-domestic expenditure on educational institutions
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_STUD@DF_UOE_NF_DIST_FIELD	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Distribution of enrolled students, new entrants and graduates by field of education
+OECD.EDU.IMEP:DSD_EAG_UOE_FIN_ANNEX@DF_UOE_FIN_ANNEX	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Reference statistics for education finance indicators
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_PERS@DF_UOE_NF_PERS_CLS	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average class size
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_PERS@DF_UOE_NF_PERS_RAW_INST2	ok	56.6s	Number of teacher aides
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_PERS@DF_UOE_NF_PERS_RAW_AGE	ok	626.7s	Number of classroom teachers and academic staff by age
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_PERS@DF_UOE_NF_PERS_SEX	ok	19.0s	Share of teachers by gender and age range
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_PERS@DF_UOE_NF_TEACH_DB	ok	29.1s	Teachers (full database)
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_STUD@DF_UOE_NF_DIST_VET	ok	21.2s	Distribution of students in vocational education and training programmes by level of education
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_STUD@DF_UOE_NF_ENRL_RATE	fail	Could not draw this chartNo data for this combination. Pick another choice above.Try again	Enrolment rate by age
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_STUD@DF_UOE_NF_NR_NAT_ABROAD	ok	9.8s	Number of national tertiary students enrolled abroad
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_STUD@DF_UOE_NF_RAW_FIELD	ok	26.8s	Number of enrolled students, graduates and new entrants by field of education
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_STUD@DF_UOE_NF_RAW_RPTR	ok	20.7s	Number of students and repeaters by grade and level of education
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_STUD@DF_UOE_NF_SHARE_GENDER	ok	20.5s	Share of enrolled students, new entrants and graduates by gender
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_PERS@DF_UOE_NF_PERS_STU	ok	634.9s	Number of students adjusted to classroom teachers and academic staffs by type of institution
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_STUD@DF_UOE_NF_DIST_RPTR	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Repetition rate by level of education
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_STUD@DF_UOE_NF_NAT_MOB	ok	613.0s	Share of national tertiary students enrolled abroad
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_STUD@DF_UOE_NF_MEAN_AGE	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Mean age of enrolled students, new entrants and graduates
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_STUD@DF_UOE_NF_RAW_ADULT	ok	8.2s	Number of enrolled adults by age and level of education
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_STUD@DF_UOE_NF_RAW_AGE	ok	30.7s	Number of enrolled students, new entrants and graduates by age
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_STUD@DF_UOE_NF_RAW_INST	ok	20.2s	Number of enrolled students and graduates by type of institution
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_STUD@DF_UOE_NF_RAW_MOB	ok	11.1s	Number of mobile students enrolled and graduated by country of origin
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_STUD@DF_UOE_NF_SHARE_FIRST	ok	9.9s	Share of new entrants to and first-time graduates at tertiary education
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_STUD@DF_UOE_NF_SHARE_FIELD	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of new entrants and graduates in each field of education by gender
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_STUD@DF_UOE_NF_SHARE_INST	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Distribution of enrolled students and graduates by type of institution
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_STUD@DF_UOE_NF_SHARE_MOB_ORG	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of mobile students enrolled at tertiary level by country of origin
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_STUD@DF_UOE_NF_SHARE_MOB_DEST	ok	617.4s	Share of mobile students enrolled at tertiary level by country of destination
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_STUD@DF_UOE_NF_SHARE_RPTR	ok	9.8s	Share of repeaters by gender and level of education
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_STUD@DF_UOE_NF_STUD_TOTALS	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Total number of enrolled students, new entrants and graduates
+OECD.ELS.HD:DSD_HCQO@DF_CC	ok	22.1s	Cancer care
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_STUD@DF_UOE_NF_SHARE_MOB	ok	614.2s	Share of mobile enrolments, new entrants and graduates
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_STUD@DF_UOE_NF_SHARE_PT_FT	ok	9.8s	Share of enrolled part-time and full-time students
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_STUD@DF_UOE_NF_STUD_DB	fail	Could not draw this chartNo data for this combination. Pick another choice above.Try again	Student (full database)
+OECD.ELS.HD:DSD_HCQO@DF_AC	ok	10.3s	Acute care
+OECD.ELS.HD:DSD_HCQO@DF_HCQO	ok	52.2s	Healthcare quality and outcomes
+OECD.EDU.IMEP:DSD_EAG_UOE_NON_FIN_STUD@DF_UOE_NF_SHARE_VET	ok	616.0s	Share of students enrolled in school and work-based programmes
+OECD.ELS.HD:DSD_HCQO@DF_HKP	ok	615.8s	Hip and Knee Patient-Reported Outcome Measures
+OECD.ELS.HD:DSD_HCQO@DF_MHPREM	ok	15.1s	Mental health - patient reported experience measures
+OECD.ELS.HD:DSD_HCQO@DF_PIPC	ok	9.7s	Prescribing in primary care
+OECD.ELS.HD:DSD_GHGHC@DF_GHGHC	fail	TimeoutError: Page.wait_for_function: Timeout 150000ms exceeded.	Greenhouse gas emissions in the healthcare sector
+OECD.ELS.HD:DSD_HEALTH_LTCR@DF_HEALTH_LTCR	fail	Error: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://app.data-xplore.com/chart.html?src=oecd&id=OECD	Long-term care resources and utilisation
+OECD.ELS.HD:DSD_HEALTH_LTCR@DF_HEALTH_LTCR_WORKER	ok	12.4s	Long-term care resources and utilisation - workers
+OECD.ELS.HD:DSD_HEALTH_LVNG@DF_HEALTH_LVNG_AC	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Alcohol consumption
+OECD.ELS.HD:DSD_HCQO@DF_EOLC	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	End-of-life care
+OECD.ELS.HD:DSD_HEALTH_LVNG@DF_HEALTH_LVNG_TC	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Tobacco consumption
+OECD.ELS.HD:DSD_HCQO@DF_IC	ok	6.9s	Integrated care
+OECD.ELS.HD:DSD_HEALTH_MORTALITY@DF_MORTALITY_COVID	ok	11.3s	COVID-19 mortality by week
+OECD.ELS.HD:DSD_HCQO@DF_PC	ok	9.3s	Primary care
+OECD.ELS.HD:DSD_HCQO@DF_PS	ok	7.6s	Patient safety
+OECD.ELS.HD:DSD_HEALTH_PROC@DF_CONSULT	ok	11.9s	Consultations
+OECD.ELS.HD:DSD_HEALTH_LTCR@DF_HEALTH_LTCR_BED	ok	11.4s	Long-term care resources and utilisation - beds
+OECD.ELS.HD:DSD_HEALTH_PROC@DF_HOSP_DISCHARGE	ok	20.5s	Hospital discharges by diagnostic categories
+OECD.ELS.HD:DSD_HEALTH_LTCR_FAC_OWNER@DF_HEALTH_LTCR_FAC_OWNER	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Long-term care resources and recipients by facility ownership
+OECD.ELS.HD:DSD_HEALTH_PROC@DF_SCREEN	ok	10.9s	Screening
+OECD.ELS.HD:DSD_HEALTH_LVNG@DF_HEALTH_LVNG_BW	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Body weight
+OECD.ELS.HD:DSD_HEALTH_PROT@DF_HEALTH_PROT	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Healthcare coverage
+OECD.ELS.HD:DSD_HEALTH_LVNG@DF_HEALTH_LVNG_VP	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Use of vaping products
+OECD.ELS.HD:DSD_HEALTH_MORTALITY@DF_MORTALITY_EXCESS	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Excess mortality by week
+OECD.ELS.HD:DSD_HEALTH_PROC@DF_DIAG_EXAM	ok	20.0s	Diagnostic exams
+OECD.ELS.HD:DSD_HEALTH_REAC_EMP@DF_GRAD	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Graduates
+OECD.ELS.HD:DSD_HEALTH_PROC@DF_IMMUN	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Immunisations
+OECD.ELS.HD:DSD_HCQO@DF_MH	ok	1514.5s	Mental healthcare
+OECD.ELS.HD:DSD_HEALTH_PROC@DF_SURG_PROC	ok	24.3s	Surgical procedures
+OECD.ELS.HD:DSD_HCQO@DF_PE	ok	9.6s	Patient experiences
+OECD.ELS.HD:DSD_HEALTH_REAC_EMP@DF_CARE	ok	7.7s	Caring personnel (personal care workers)
+OECD.ELS.HD:DSD_HCQO@DF_PSC	ok	12.6s	Patient Safety Culture
+OECD.ELS.HD:DSD_HEALTH_LTCR@DF_HEALTH_LTCR_RECIPIENT	ok	9.9s	Long-term care resources and utilisation - recipients
+OECD.ELS.HD:DSD_HEALTH_REAC_EMP@DF_HOSP_EMP	ok	20.8s	Hospital employment
+OECD.ELS.HD:DSD_HEALTH_LVNG@DF_HEALTH_LVNG	ok	9.9s	Risk factors for health
+OECD.ELS.HD:DSD_HEALTH_LVNG@DF_HEALTH_LVNG_FSC	ok	10.3s	Food supply and consumption
+OECD.ELS.HD:DSD_HEALTH_REAC_EMP@DF_NURS_AGE_SEX	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Nurses by age and sex
+OECD.ELS.HD:DSD_HEALTH_MORTALITY@DF_MORTALITY	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Mortality by week
+OECD.ELS.HD:DSD_HEALTH_REAC_EMP@DF_REMUN	ok	8.5s	Remuneration of health professionals
+OECD.ELS.HD:DSD_HEALTH_PROC@DF_AGGR	ok	12.4s	Hospital aggregates
+OECD.ELS.HD:DSD_HEALTH_REAC_HOSP@DF_BEDS_SECT	ok	10.5s	Hospital beds by sector
+OECD.ELS.HD:DSD_HEALTH_REAC_HOSP@DF_MED_TECH	ok	8.6s	Medical technology availability
+OECD.ELS.HD:DSD_HEALTH_PROC@DF_HOSP_AV_LENGTH	ok	20.2s	Hospital average length of stay by diagnostic categories
+OECD.ELS.HD:DSD_HEALTH_STAT@DF_C	ok	14.0s	Cancer
+OECD.ELS.HD:DSD_HEALTH_PROC@DF_KEY_INDIC	ok	31.6s	Healthcare utilisation
+OECD.ELS.HD:DSD_HEALTH_STAT@DF_HEALTH_STATUS	ok	25.2s	Health status
+OECD.ELS.HD:DSD_HEALTH_STAT@DF_LE	ok	6.2s	Life expectancy
+OECD.ELS.HD:DSD_HEALTH_PROC@DF_WAITING	ok	20.2s	Waiting times
+OECD.ELS.HD:DSD_HEALTH_REAC_EMP@DF_NURSE	ok	616.7s	Nurses
+OECD.ELS.HD:DSD_HEALTH_REAC_EMP@DF_PSIO	ok	10.8s	Physiotherapists
+OECD.ELS.HD:DSD_HEALTH_REAC_HOSP@DF_BEDS_ICU	ok	9.6s	Intensive care unit (ICU) beds and use
+OECD.ELS.HD:DSD_HEALTH_REAC_HOSP@DF_HOSP_REAC	ok	10.7s	Healthcare provider resources
+OECD.ELS.HD:DSD_HEALTH_STAT@DF_AWDI	ok	12.4s	Sickness absences from work
+OECD.ELS.HD:DSD_HEALTH_STAT@DF_COM	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Causes of mortality
+OECD.ELS.HD:DSD_HEALTH_REAC_EMP@DF_DNST	ok	613.2s	Dentists
+OECD.ELS.HD:DSD_HEALTH_STAT@DF_PHS_SES	ok	617.1s	Perceived health status by socio-economic status
+OECD.ELS.HD:DSD_HEALTH_REAC_EMP@DF_MIDWIFE	ok	12.5s	Midwives
+OECD.ELS.HD:DSD_HEALTH_REAC_EMP@DF_PHST	ok	9.3s	Pharmacists
+OECD.ELS.HD:DSD_HSCS2023@DF_HSCS2023	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Health System Characteristics Survey - 2023 Round
+OECD.ELS.HD:DSD_HEALTH_REAC_HOSP@DF_BEDS_FUNC	ok	10.0s	Hospital beds by function of healthcare
+OECD.ELS.HD:DSD_SHA@DF_SHA_COV	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	COVID-19 expenditure
+OECD.ELS.HD:DSD_SHA@DF_SHA_HK	ok	7.1s	Gross fixed capital formation in the healthcare system
+OECD.ELS.IMD:DSD_MIG@DF_MIG_NUP_SEX	ok	5.8s	Labour market outcomes of immigrants - Employment, unemployment, and participation rates by sex
+OECD.ELS.IMD:DSD_MIG_INT@DF_MIG_INT_PER	ok	46.7s	Standardised inflows of permanent-type migrants
+OECD.ELS.HD:DSD_HEALTH_STAT@DF_IH_LB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Infant health: low birthweight
+OECD.ELS.HD:DSD_HEALTH_STAT@DF_PHS	ok	11.4s	Perceived health status
+OECD.ELS.HD:DSD_HEALTH_WFMI@DF_HEALTH_WFMI	ok	24.1s	Health workforce migration
+OECD.ELS.HD:DSD_SHA@DF_SHA	ok	40.8s	Health expenditure and financing
+OECD.ELS.HD:DSD_SHA@DF_SHA_FS	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Revenues of healthcare financing schemes
+OECD.ELS.HD:DSD_HEALTH_REAC_HOSP@DF_HOSP	ok	612.2s	Hospitals
+OECD.ELS.HD:DSD_HEALTH_STAT@DF_AM	ok	12.3s	Avoidable mortality
+OECD.ELS.HD:DSD_HEALTH_STAT@DF_CD	ok	10.7s	Communicable diseases
+OECD.ELS.HD:DSD_HEALTH_STAT@DF_I	ok	11.8s	Injuries
+OECD.ELS.HD:DSD_HEALTH_STAT@DF_MIM	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Maternal and infant mortality
+OECD.ELS.JAI:DSD_LMP@DF_LMP	ok	619.3s	Labour Market Programmes
+OECD.ELS.JAI:DSD_TAXBEN_IA@DF_IA	ok	5.9s	Adequacy of minimum income benefits
+OECD.ELS.JAI:DSD_TAXBEN_NCC@DF_NCC	ok	87.4s	Net childcare cost for parents using centre-based childcare
+OECD.ELS.SAE:DSD_DUR@DF_AVD_DUR	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Average duration of unemployment
+OECD.ELS.SAE:DSD_EARNINGS@AGE_WAGE_GAP	fail	TimeoutError: Page.wait_for_function: Timeout 150000ms exceeded.	Wage gap by age
+OECD.ELS.IMD:DSD_MIG@DF_MIG_EMP_EDU	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Labour market outcomes of immigrants - Employment rates by educational attainment
+OECD.ELS.IMD:DSD_MIG_INT@DF_MIG_INT	ok	9.8s	Harmonised flows - internal database
+OECD.ELS.JAI:DSD_EPL@DF_EPL	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Strictness of employment protection
+OECD.ELS.JAI:DSD_TAXBEN_HOURSPOV@DF_HOURSPOV	ok	11.8s	Hours of work needed to escape poverty
+OECD.ELS.JAI:DSD_TAXBEN_METR@DF_METR	ok	15.6s	Effective tax rates on additional working hours
+OECD.ELS.SAE:DSD_EARNINGS@DEC_I	fail	TimeoutError: Page.wait_for_function: Timeout 150000ms exceeded.	Decile ratios of gross earnings
+OECD.ELS.HD:DSD_HEALTH_STAT@DF_PYLL	ok	621.9s	Potential years of life lost
+OECD.ELS.HD:DSD_HSCS@DF_HSCS	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Health System Characteristics Survey 2012, 2016 and 2018(LAC) Rounds
+OECD.ELS.HD:DSD_SHA@DF_SHA_FP	ok	11.5s	Input costs for healthcare providers
+OECD.ELS.IMD:DSD_MIG@DF_MIG	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	International migration database
+OECD.ELS.SAE:DSD_EARNINGS@MW_CURP	fail	TimeoutError: Page.wait_for_function: Timeout 150000ms exceeded.	Minimum wages at current prices in national currency units (NCU)
+OECD.ELS.IMD:DSD_MIG_F@DF_MIG_POPF	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	International migration database - stocks of foreign-born population
+OECD.ELS.SAE:DSD_FTPT@DF_FTPT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Full-time and part-time employment
+OECD.ELS.SAE:DSD_FTPT@DF_FTPT_INC_GEN	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Gender share of part-time employment
+OECD.ELS.SAE:DSD_HW@DF_AVG_ANN_HRS_WKD	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Average annual hours actually worked per worker
+OECD.ELS.JAI:DSD_TAXBEN_SBE@DF_SBE	ok	612.2s	Strictness of activation requirements for benefit recipients
+OECD.ELS.SAE:DSD_DUR@DF_DUR_I	ok	10.3s	Incidence of unemployment by duration
+OECD.ELS.SAE:DSD_HW@DF_EMP_USL_WK_HRS	fail	TimeoutError: Page.wait_for_function: Timeout 150000ms exceeded.	Incidence of employment by usual weekly hours worked
+OECD.ELS.SAE:DSD_EARNINGS@DATASET	ok	9.3s	Full earnings dataset
+OECD.ELS.SAE:DSD_EARNINGS@MIN2AVE	ok	9.8s	Minimum relative to average wages of full-time workers
+OECD.ELS.SAE:DSD_EARNINGS@RMW	ok	9.4s	Real minimum wages at constant prices
+OECD.ELS.SAE:DSD_LFS@DF_LFS	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Employment and unemployment by five-year age group and sex - levels
+OECD.ELS.SAE:DSD_FTPT@DF_FTPT_COMMON_INC	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Incidence of full-time and part-time employment based on OECD-harmonized definition
+OECD.ELS.IMD:DSD_MIG_INT@DF_MIG_INT_TEMP	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Standardised inflows of temporary migrants
+OECD.ELS.JAI:DSD_TAXBEN_HGRR@DF_HGRR	ok	8.8s	Historical gross replacement rates of unemployment benefits
+OECD.ELS.JAI:DSD_TAXBEN_IMW@DF_IMW	ok	11.3s	Annual net and gross earnings of minimum wage earners
+OECD.ELS.SAE:DSD_POPULATION@DF_POP_ALL	fail	TimeoutError: Page.wait_for_function: Timeout 150000ms exceeded.	Population data
+OECD.ELS.JAI:DSD_TAXBEN_NRR@DF_NRR	ok	35.9s	Net replacement rates in unemployment
+OECD.ELS.SAE:DSD_DUR@DF_DUR_D	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Unemployment by duration
+OECD.ELS.SAE:DSD_TEMP@DF_TEMP_D	fail	TimeoutError: Page.wait_for_function: Timeout 150000ms exceeded.	Employment by permanency of the job
+OECD.ELS.SAE:DSD_TENURE@DF_TENURE_AVE	fail	TimeoutError: Page.wait_for_function: Timeout 150000ms exceeded.	Employment by job tenure intervals - average job tenure
+OECD.ELS.SAE:DSD_FTPT@DF_FTPT_NATIONAL_INC	ok	615.3s	Incidence of full-time and part-time employment based on national definitions
+OECD.ELS.SAE:DSD_HW@DF_EMP_LNG_USL_WK_HRS	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Incidence of employment by long usual weekly hours worked
+OECD.ELS.SAE:DSD_TUD_CBC@DF_CBC	ok	135.5s	Collective bargaining coverage
+OECD.ELS.SAE:DSD_HW@DF_USL_WK_HRS	ok	19.5s	Usual hours worked by weekly hour bands
+OECD.ELS.SAE:DSD_LFS@DF_LFS_INDIC	ok	12.7s	Employment and unemployment by five-year age group and sex - indicators
+OECD.ELS.SPD:DSD_PAG@DF_DPS	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Design of pension systems
+OECD.ELS.SAE:DSD_POPULATION@DF_POP_PROJ	ok	11.4s	Population projections
+OECD.ELS.SPD:DSD_PAG@DF_PRR	ok	10.4s	Pension replacement rates
+OECD.ELS.SPD:DSD_SOCX_AGG@DF_PUB_DIS_SIC	ok	10.2s	Public expenditure on disability and sickness cash benefits in % GDP
+OECD.ELS.SPD:DSD_SOCX_AGG@DF_PUB_PRV	ok	36.0s	Public and private social expenditure
+OECD.ELS.SAE:DSD_TEMP@DF_TEMP_I_GEN	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of women in temporary employment by permanency of the job
+OECD.ELS.SAE:DSD_EARNINGS@AV_AN_WAGE	ok	614.4s	Average annual wages
+OECD.ENV.EEI:DSD_PL_2019@DF_PL_2019	ok	20.7s	Plastic Leakage in 2019
+OECD.ELS.SAE:DSD_EARNINGS@GENDER_WAGE_GAP	ok	11.1s	Gender wage gap
+OECD.ELS.SAE:DSD_EARNINGS@PAY_INCIDENCE	ok	11.3s	Incidence of low and high pay
+OECD.ELS.SAE:DSD_FTPT@DF_FTPT_COMMON	ok	20.5s	Full-time and part-time employment based on OECD-harmonized definition
+OECD.ELS.SAE:DSD_FTPT@DF_FTPT_NATIONAL	ok	13.2s	Full-time and part-time employment based on national definition
+OECD.ELS.SAE:DSD_HW@DF_AVG_USL_WK_WKD	ok	66.8s	Average usual weekly hours worked on the main job
+OECD.ELS.SAE:DSD_TENURE@DF_TENURE_FREQ	ok	622.1s	Employment by job tenure intervals - frequency
+OECD.ENV.EEI:DSD_PU_2019@DF_PU_2019	ok	627.7s	Plastics Use in 2019
+OECD.ELS.SPD:DSD_PAG@DF_DEC	ok	10.9s	Demographic and economic context
+OECD.ELS.SPD:DSD_PAG@DF_PAG	ok	9.7s	Pensions at a glance
+OECD.ELS.SPD:DSD_SOCX_AGG@DF_NET_GDP	ok	9.5s	Net total social expenditure in % GDP
+OECD.ELS.SPD:DSD_SOCX_AGG@DF_PUB_OLD	ok	9.6s	Public expenditure on old-age and survivors cash benefits in % GDP
+OECD.ENV.EEI:DSD_PW_2019@DF_PW_2019	ok	90.1s	Plastic Waste in 2019
+OECD.ENV.EEI:DSD_PL@DF_PL	ok	12.9s	Plastic Leakage - Estimations from 1990 to 2019
+OECD.ENV.EEI:DSD_VSL@DF_VSL_RECOMMENDED	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Value of Statistical Life (VSL), recommended estimates
+OECD.ELS.SAE:DSD_HW@DF_LNG_WK_HRS	ok	621.4s	Long usual weekly working hours
+OECD.ENV.EPI:DSD_CAPMF@DF_CAPMF	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Climate actions and policies measurement framework
+OECD.ELS.SAE:DSD_LFS@DF_LFS_COMP	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Employment and unemployment by five-year age group and sex - composition
+OECD.ENV.EPI:DSD_EWASTE@DF_EWASTE	ok	18.4s	Waste - Electrical and electronic equipment (e-waste or WEEE)
+OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST	ok	15.1s	Historical population data
+OECD.ENV.EPI:DSD_GG@DF_GREEN_GROWTH	ok	10.8s	Green Transition
+OECD.ENV.EPI:DSD_IPAC@DF_IPAC	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	IPAC Dashboard indicators
+OECD.ELS.SAE:DSD_TEMP@DF_TEMP_I	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Employment by permanency of the job - Incidence
+OECD.ENV.EEI:DSD_PU@DF_PU	ok	611.7s	Plastics Use  - Estimations from 1990 to 2019
+OECD.ENV.EEI:DSD_PW@DF_PW	ok	10.2s	Plastic Waste  - Estimations from 1990 to 2019
+OECD.ENV.EEI:DSD_VSL@DF_VSL_ALTERNATIVE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Value of Statistical Life (VSL), alternative estimates (for sensitivity analysis)
+OECD.ENV.EPI:DSD_AIR_GHG@DF_AIR_GHG	ok	18.3s	Air emissions - Greenhouse gas emissions Inventories
+OECD.ENV.EPI:DSD_EPEA@DF_EPEA	ok	14.5s	Environmental Protection Expenditure Accounts
+OECD.ENV.EPI:DSD_MATERIAL_RESOURCES@DF_MATERIAL_RESOURCES	ok	631.4s	Material flow accounts
+OECD.ENV.EPI:DSD_PAT_COL@DF_PAT_COL	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Patents - international bilateral collaboration in technology development
+OECD.ELS.SAE:DSD_TENURE@DF_TENURE_DIS	ok	623.3s	Employment by job tenure intervals - persons
+OECD.ELS.SAE:DSD_TUD_CBC@DF_TUD	ok	9.5s	Trade union density
+OECD.ENV.EPI:DSD_PAT_DIFF@DF_PAT_DIFF	ok	24.8s	Patents - technology diffusion
+OECD.ELS.SPD:DSD_PAG@DF_IPOP	ok	9.9s	Income and poverty of older people
+OECD.ELS.SPD:DSD_PAG@DF_PW	ok	9.9s	Pension wealth
+OECD.ELS.SPD:DSD_SOCX_AGG@DF_PUB_FAM	ok	8.3s	Public expenditure on family by type of expenditure (cash and in kind) in % GDP
+OECD.ENV.EPI:DSD_SOE@DF_SOE_COU	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Sustainable Ocean Economy - All countries by indicator
+OECD.ENV.EPI:DSD_FOREST@DF_FOREST	ok	611.5s	Intensity of use of forest resources
+OECD.ENV.EPI:DSD_HAZW@DF_HAZW	ok	9.3s	Waste - Hazardous waste: generation and movements
+OECD.ENV.EPI:DSD_LAND_USE_HID@DF_LAND_USE_HID	ok	9.6s	Land use hidden
+OECD.ENV.EPI:DSD_PA@DF_PROT_AREA	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Protected areas
+OECD.ENV.EPI:DSD_PAT_DEV@DF_PAT_DEV	ok	17.0s	Patents - technology development
+OECD.ELS.SPD:DSD_SOCX_AGG@DF_SOCX_AGG	ok	620.1s	Social expenditure aggregates
+OECD.ENV.EEI:DSD_PL_P@DF_PL_P	ok	12.3s	Projections of Plastic Leakage
+OECD.ENV.EEI:DSD_PU_P@DF_PU_P	ok	9.2s	Projections of Plastics Use
+OECD.ENV.EPI:DSD_WATER_DISCHARGE@DF_WATER_DISCHARGE	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Wastewater - generation and discharge
+OECD.ENV.EEI:DSD_PW_P@DF_PW_P	ok	8.9s	Projections of Plastic Waste
+OECD.ENV.EPI:DSD_AIR_EMISSIONS@DF_AIR_EMISSIONS	ok	53.4s	Air emissions - Air pollutants Inventories
+OECD.ENV.EPI:DSD_WATER_USE@DF_WATER_USE	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Freshwater - use
+OECD.ENV.EPI:DSD_WSTREAMS@DF_WSTREAMS	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Waste - Selected waste streams: generation, recovery and recycling
+OECD.GOV.GIP:DSD_GOV@DF_GOV_BP_2023	ok	7.0s	Green and Gender budgeting indexes - Government at a glance indicators, 2023 edition
+OECD.GOV.GIP:DSD_GOV@DF_GOV_EMPPS_REP_2025	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Public employment and representation - government at a glance indicators, 2025 edition
+OECD.GOV.GIP:DSD_GOV@DF_GOV_INFPD_2023	ok	8.2s	Infrastructure planning and delivery indexes - Government at a glance indicators, 2023 edition
+OECD.GOV.GIP:DSD_GOV@DF_GOV_PF_2025	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Public finance main indicators - government at a glance, 2025 edition
+OECD.ENV.EPI:DSD_SOE@DF_SOE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Sustainable Ocean Economy
+OECD.ENV.EPI:DSD_WATER_ASSET_ACCOUNTS@DF_WATER_ASSET_ACCOUNTS	ok	9.2s	Water accounts - assets
+OECD.GOV.GIP:DSD_GOV@DF_GOV_PPROC_2025	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Size of public procurement - government at a glance indicators, 2025 edition
+OECD.ENV.EPI:DSD_WATER_RESOURCES@DF_WATER_RESOURCES	ok	9.5s	Freshwater - resources
+OECD.GOV.GIP:DSD_GOV_COFOG@DF_GOV_COFOG_2023	ok	20.8s	Public finance and procurement by function - Government at a glance indicators, 2023 edition
+OECD.ENV.EPI:DSD_WSECTOR@DF_WSECTOR	ok	9.8s	Waste - Waste by sector: generation, recovery and recycling
+OECD.GOV.GIP:DSD_GOV_COMPEMP@DF_GOV_COMPEMP_2025	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Central administration employment by age, gender, education and position - government at a glance indicators, 2025 editi
+OECD.ENV.EPI:DSD_EAMFP@DF_EAMFP	ok	611.5s	Environmentally adjusted multifactor productivity
+OECD.GOV.GIP:DSD_GOV_FIN_INSTR@DF_GOV_FIN_INSTR_YU	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Government debt by financial instrument - government at a glance indicators, yearly updates
+OECD.ENV.EPI:DSD_EXP_MORSC@DF_EXP_MORSC	ok	24.0s	Mortality, morbidity and welfare cost from exposure to environment-related risks
+OECD.ENV.EPI:DSD_GREEN_TRANSITION@DF_GREEN_TRANSITION	ok	9.5s	Green transition hidden
+OECD.GOV.GIP:DSD_GOV_INT@DF_GOV_TDG_2025	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Trust, security and dignity - government at a glance indicators, 2025 edition
+OECD.ENV.EPI:DSD_LAND_USE@DF_LAND_USE	ok	10.8s	Land use
+OECD.GOV.GIP:DSD_GOV_LEVEL@DF_GOV_LEVEL_YU	ok	13.0s	Public finance and procurement by level of government - government at a glance indicators, yearly updates
+OECD.ENV.EPI:DSD_MUNW@DF_MUNW	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Waste - Municipal waste: generation and treatment
+OECD.GOV.GIP:DSD_GOV@DF_GOV_2025	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Main indicators, government at a glance indicators, 2025 edition
+OECD.GOV.GIP:DSD_GOV@DF_GOV_EMPPS_REP_2023	ok	10.2s	Public employment and representation - Government at a glance indicators, 2023 edition
+OECD.GOV.GIP:DSD_GOV@DF_GOV_HRM_2025	ok	10.4s	Human resource management indexes - government at a glance indicators, 2025 edition
+OECD.GOV.GIP:DSD_GOV@DF_GOV_PF_2023	ok	10.4s	Public finance main indicators - Government at a glance, 2023 edition
+OECD.GOV.GIP:DSD_GOV@DF_GOV_PPROC_2023	ok	10.0s	Size of public procurement - Government at a glance indicators, 2023 edition
+OECD.GOV.GIP:DSD_GOV_TDG_SPS_GPC@DF_GOV_GPC_2023	ok	631.5s	Governance of the policy cycle - Government at a glance indicators, 2023 edition
+OECD.ENV.EPI:DSD_PAT_COL_RATES@DF_PAT_COL_RATES	ok	612.8s	Patents - international collaboration in technology development
+OECD.ENV.EPI:DSD_PAT_IND@DF_PAT_IND	ok	10.9s	Patents - indicators
+OECD.GOV.GIP:DSD_GOV_TDG_SPS_GPC@DF_GOV_TDG_SPS_GPC_2023	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Trust, Satisfaction with public services and governance of the policy cycle, 2023 edition
+OECD.ENV.EPI:DSD_WATER_ABSTRACT@DF_WATER_ABSTRACT	ok	10.6s	Freshwater - abstractions
+OECD.ENV.EPI:DSD_WATER_PSUT@DF_WATER_PSUT	ok	10.1s	Water accounts - supply and use
+OECD.ENV.EPI:DSD_WILD_LIFE@DF_WILD_LIFE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Threatened species
+OECD.GOV.GIP:DSD_GOV_TRANSACTION@DF_GOV_TRANSACTION_YU	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Public finance by economic transaction - government at a glance indicators, yearly updates
+OECD.GOV.GIP:DSD_GOV@DF_GOV_2023	ok	10.0s	Main indicators, Government at a glance indicators, 2023 edition
+OECD.GOV.GIP:DSD_QDD_GOV_GENBUD@DF_GOV_GENBUD	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Gender Budgeting - 2022
+OECD.GOV.GIP:DSD_GOV@DF_GOV_DGOGD_2025	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Digital government and open government data indexes - Government at a glance indicators, 2025 edition
+OECD.GOV.GIP:DSD_QDD_GOV_INFRA_PH_2@DF_GOV_INFRA_PH_2	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Governance of infrastructure - 2022
+OECD.GOV.GIP:DSD_QDD_GOV_PERBUD@DF_GOV_PERBUD	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Performance budgeting - 2023
+OECD.GOV.GIP:DSD_QDD_GOV_PUBPRO_2024@DF_GOV_PUBPRO_2024	ok	11.9s	Public procurement - 2024
+OECD.GOV.GIP:DSD_GOV@DF_GOV_YU	ok	612.5s	Main indicators, government at a glance indicators, yearly updates
+OECD.GOV.GIP:DSD_GOV_COFOG@DF_GOV_COFOG_YU	ok	12.9s	Public finance by function - government at a glance indicators, yearly updates
+OECD.GOV.GIP:DSD_GOV_FIN_INSTR@DF_GOV_FIN_INSTR_2025	ok	10.2s	Government debt by financial instrument - government at a glance indicators, 2025 edition
+OECD.GOV.PSI:DSD_PII@DF_PUBLIC_INTEGRITY	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Public Integrity Indicators
+OECD.GOV.GIP:DSD_GOV_INT@DF_GOV_SPS_2025	ok	9.6s	Satisfaction with public services - government at a glance indicators, 2025 edition
+OECD.GOV.GIP:DSD_GOV_LEVEL@DF_GOV_LEVEL_2025	ok	10.7s	Public finance and procurement by level of government - government at a glance indicators, 2025 edition
+OECD.GOV.GIP:DSD_GOV@DF_GOV_EMPPS_REP_YU	ok	611.6s	Public employment and representation - government at a glance indicators, yearly updates
+OECD.GOV.GIP:DSD_GOV@DF_GOV_INFPD_2025	ok	10.1s	Infrastructure planning and delivery indexes - government at a glance indicators, 2025 edition
+OECD.GOV.GIP:DSD_GOV@DF_GOV_PF_YU	ok	11.3s	Public finance main indicators - government at a glance, yearly updates
+OECD.GOV.GIP:DSD_GOV@DF_GOV_PPROC_YU	ok	10.3s	Size of public procurement - government at a glance indicators, yearly updates
+OECD.GOV.GIP:DSD_GOV_COFOG@DF_GOV_COFOG_2025	ok	13.2s	Public finance and procurement by function - government at a glance indicators, 2025 edition
+OECD.ITF:DSD_INDICATORS@DF_EQUIPMENT	ok	607.3s	Transport equipment indicators
+OECD.ITF:DSD_INDICATORS@DF_SAFETY	ok	5.8s	Transport safety indicators
+OECD.ITF:DSD_INFRINV@DF_INFRINV	ok	7.6s	Transport infrastructure investment and maintenance spending
+OECD.GOV.GIP:DSD_GOV_REG@DF_GOV_REG_2025	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Stakeholder engagement, RIA, and ex post evaluation indexes - government at a glance indicators, 2025 edition
+OECD.ITF:DSD_ST@DF_STFUEL	ok	7.0s	Motor fuel deliveries
+OECD.GOV.GIP:DSD_GOV_TDG_SPS_GPC@DF_GOV_TDG_2023	ok	9.0s	Trust and democratic governance - Government at a glance indicators, 2023 edition
+OECD.ITF:DSD_ST@DF_STREG	ok	6.3s	First registrations of brand new vehicles
+OECD.GOV.GIP:DSD_GOV_TRANSACTION@DF_GOV_TRANSACTION_2025	ok	10.6s	Public finance by economic transaction - government at a glance indicators, 2025 edition
+OECD.ITF:DSD_TRENDS@DF_TRENDSCONT	ok	9.0s	Annual container transport
+OECD.GOV.GIP:DSD_QDD_GOV_FMR@DF_GOV_FMR	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Financial Management and Reporting - 2022
+OECD.GOV.GIP:DSD_QDD_GOV_INFRA_2023@DF_GOV_INFRA_2023	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Governance of infrastructure - 2023
+OECD.GOV.GIP:DSD_GOV_FIN_INSTR@DF_GOV_FIN_INSTR_2023	ok	613.2s	Government debt by financial instrument - Government at a glance indicators, 2023 edition
+OECD.GOV.GIP:DSD_GOV_INT@DF_GOV_INT_2025	ok	10.7s	Perception of public sector integrity - Government at a glance indicators, 2025 edition
+OECD.GOV.GIP:DSD_GOV_LEVEL@DF_GOV_LEVEL_2023	ok	9.4s	Public finance and procurement by level of government - Government at a glance indicators, 2023 edition
+OECD.GOV.GIP:DSD_GOV_REG@DF_GOV_REG_2023	ok	10.2s	Stakeholder engagement, RIA, and Ex post evaluation indexes - Government at a glance indicators, 2023 edition
+OECD.GOV.GIP:DSD_GOV_TDG_SPS_GPC@DF_GOV_SPS_2023	ok	49.5s	Satisfaction with public services - Government at a glance indicators, 2023 edition
+OECD.ITF:DSD_TRENDS@DF_TRENDSPASS	fail	Could not draw this chartNo data for this combination. Pick another choice above.Try again	Annual passenger transport
+OECD.SDD.NAD:DSD_EGDNA_CONS_INC@DF_CONS_INC	ok	15.2s	Household consumption in the National Accounts: distributions by income quintile
+OECD.SDD.NAD:DSD_EGDNA_INC_INC@DF_INC_INC	ok	55.1s	Household income and saving in the National Accounts: distributions by income quintile
+OECD.GOV.GIP:DSD_QDD_GOV_PE@DF_GOV_PE	ok	612.5s	Public policy evaluation - 2023
+OECD.GOV.GIP:DSD_QDD_GOV_PSLC_2024@DF_GOV_PSLC_2024	ok	9.9s	Public service leadership and capability - 2024
+OECD.GOV.GIP:DSD_QDD_GOV_SP_REV@DF_GOV_SP_REV	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Spending review - 2023
+OECD.ITF:DSD_INDICATORS@DF_ENVIRONMENT	ok	9.9s	Transport energy and environment indicators
+OECD.ITF:DSD_INDICATORS@DF_MEASUREMENT	ok	10.7s	Transport activity indicators
+OECD.ITF:DSD_INDICATORS@DF_TRANSPORTINDICATORS	ok	52.6s	Transport performance indicators
+OECD.GOV.GIP:DSD_GOV_TRANSACTION@DF_GOV_TRANSACTION_2023	ok	614.1s	Public finance by economic transaction - Government at a glance indicators, 2023 edition
+OECD.GOV.GIP:DSD_QDD_GOV_DGI_2025@DF_GOV_DGI_2025	ok	10.3s	Digital government - 2025
+OECD.GOV.GIP:DSD_QDD_GOV_GREENBUD@DF_GOV_GREENBUD	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Green Budgeting - 2022
+OECD.GOV.GIP:DSD_QDD_GOV_PCSD_2023@DF_GOV_PCSD_2023	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Policy coherence for sustainable development - 2023
+OECD.SDD.NAD:DSD_EGDNA_SOCDEM@DF_SOCIODEMOGRAPHIC_AGE	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Population in the National Accounts: distribution of people in income quintiles by age
+OECD.SDD.NAD:DSD_EGDNA_SOCDEM@DF_SOCIODEMOGRAPHIC_HHGROUP	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Population in the National Accounts: distributions by household type
+OECD.ITF:DSD_ST@DF_STFREIGHT	ok	617.7s	Freight transport
+OECD.SDD.NAD:DSD_EGDNA_SOCDEM@DF_SOCIODEMOGRAPHIC_LABOUR	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Population in the National Accounts: distribution of people in income quintiles by labour market status
+OECD.ITF:DSD_ST@DF_STPASS	ok	10.9s	Passenger transport
+OECD.ITF:DSD_TRENDS@DF_TRENDS	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Annual transport trends
+OECD.SDD.NAD:DSD_EGDNA_SOCDEM@DF_SOCIODEMOGRAPHIC_QUINTILES	ok	24.6s	Population in the National Accounts: distributions of income quintiles by socio-demographic groups
+OECD.ITF:DSD_TRENDS@DF_TRENDSINFR	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Annual length of inland transport infrastructure
+OECD.SDD.NAD:DSD_FIN_DASH@DF_FIN_DASH_S1	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Financial indicators dashboard: Total economy
+OECD.SDD.NAD:DSD_FIN_DASH@DF_FIN_DASH_S13	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Financial indicators dashboard: Government
+OECD.SDD.NAD:DSD_HHDASH@DF_HHDASH_INDIC	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Household indicators dashboard – indicator view
+OECD.SDD.NAD:DSD_NAAG@DF_NAAG_II	ok	16.5s	NAAG Chapter 2: Income
+OECD.GOV.GIP:DSD_QDD_GOV_PSLC_2022@DF_GOV_PSLC_2022	ok	611.7s	Public service leadership and capability - 2022
+OECD.GOV.GIP:DSD_QDD_GOV_REG_DD@DF_GOV_REG_DD	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Regulatory governance (with microdata)
+OECD.SDD.NAD:DSD_NAAG@DF_NAAG_III_GFCF	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	NAAG Chapter 3B: Gross fixed capital formation by asset type
+OECD.ITF:DSD_INDICATORS@DF_ECONOMIC	ok	10.3s	Transport economic and social indicators
+OECD.ITF:DSD_INDICATORS@DF_INFRASTRUCTURE	ok	10.4s	Transport infrastructure indicators
+OECD.SDD.NAD:DSD_NAAG@DF_NAAG_VII	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	NAAG Chapter 7: Corporations
+OECD.ITF:DSD_INDICATORS@DF_TRAFFIC	ok	62.9s	Transport traffic indicators
+OECD.SDD.NAD:DSD_EGDNA_CONS_HHT@DF_CONS_HHT	ok	616.7s	Household consumption in the National Accounts: distributions by household type
+OECD.SDD.NAD:DSD_EGDNA_INC_HHT@DF_INC_HHT	ok	31.9s	Household income and saving in the National Accounts: distributions by household type
+OECD.SDD.NAD:DSD_EGDNA_SOCDEM@DF_SOCIODEMOGRAPHIC	ok	12.4s	Annual Distributional National Accounts: Socio-demographic characteristics
+OECD.SDD.NAD:DSD_EGDNA_SOCDEM@DF_SOCIODEMOGRAPHIC_GENDER	ok	10.4s	Population in the National Accounts: distribution of people in income quintiles by sex
+OECD.SDD.NAD:DSD_EGDNA_SOCDEM@DF_SOCIODEMOGRAPHIC_HHTYPE	ok	11.0s	Population in the National Accounts: distribution of households in income quintiles by household type
+OECD.SDD.NAD:DSD_NAAG_VI@DF_NAAG_EXP	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	NAAG Chapter 6: Government
+OECD.ITF:DSD_ST@DF_STFAT	ok	613.6s	Fatalities
+OECD.ITF:DSD_ST@DF_STINDICATORS	ok	11.0s	Short term transport indicators
+OECD.ITF:DSD_ST@DF_STTRAFFIC	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Road motor vehicle traffic
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE1	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Annual GDP and components following the three approaches (for 'Developer API')
+OECD.ITF:DSD_TRENDS@DF_TRENDSFREIGHT	ok	10.1s	Annual freight transport
+OECD.ITF:DSD_TRENDS@DF_TRENDSSAFETY	ok	10.4s	Annual road fatalities, injured, injury crashes
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE1_EXPENDITURE_GFCF_ASSET	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Annual GFCF by asset
+OECD.SDD.NAD:DSD_EGDNA_CONS_MSI@DF_CONS_MSI	ok	52.5s	Household consumption in the National Accounts: distributions by main source of income
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE1_EXPENDITURE_HVPVOB	ok	81.1s	Annual GDP and consumption per capita, US $, volume, constant PPPs, reference year 2020
+OECD.SDD.NAD:DSD_EGDNA_SOCDEM@DF_SOCIODEMOGRAPHIC_MSI	ok	615.0s	Annual Distributional National Accounts: Socio-demographic characteristics: Disposable income group by main source of in
+OECD.SDD.NAD:DSD_FIN_DASH@DF_FIN_DASH	ok	15.6s	Financial Dashboard
+OECD.SDD.NAD:DSD_FIN_DASH@DF_FIN_DASH_S12	ok	11.1s	Financial indicators dashboard: Financial corporations
+OECD.SDD.NAD:DSD_HHDASH@DF_HHDASH_CTRY	ok	11.8s	Household indicators dashboard – country view
+OECD.SDD.NAD:DSD_NAAG@DF_NAAG_I	ok	52.8s	NAAG Chapter 1: GDP
+OECD.SDD.NAD:DSD_EGDNA_INC_MSI@DF_INC_MSI	ok	616.2s	Household income and saving in the National Accounts: distributions by main source of income
+OECD.SDD.NAD:DSD_EGDNA_SOCDEM@DF_SOCIODEMOGRAPHIC_EDUCATION	ok	10.6s	Population in the National Accounts: distribution of people in income quintiles by educational attainment level
+OECD.SDD.NAD:DSD_EGDNA_SOCDEM@DF_SOCIODEMOGRAPHIC_HHOWN	ok	11.5s	Population in the National Accounts: distribution of households in income quintiles by home ownership status
+OECD.SDD.NAD:DSD_EGDNA_SOCDEM@DF_SOCIODEMOGRAPHIC_MAININC	ok	11.0s	Population in the National Accounts: distributions by main source of income
+OECD.SDD.NAD:DSD_FIN_DASH@DF_7II_INDIC	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Institutional Investors' Indicators
+OECD.SDD.NAD:DSD_FIN_DASH@DF_FIN_DASH_S11	ok	12.0s	Financial indicators dashboard: Non-financial corporations
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE1_MULT_INDICES	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Annual GDP and consumption per capita  - multilateral indices
+OECD.SDD.NAD:DSD_FIN_DASH@DF_FIN_DASH_S1M	ok	52.4s	Financial indicators dashboard: Households and NPISH
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE2_B5N_HCPC	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Annual net national income per capita, US $, current prices, current PPPs
+OECD.SDD.NAD:DSD_NAAG@DF_NAAG_III_CG	ok	614.1s	NAAG Chapter 3A: Components of aggregate demand
+OECD.SDD.NAD:DSD_NAAG@DF_NAAG_V	ok	11.4s	NAAG Chapter 5: Households
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE2_B9_CPC	ok	59.9s	Annual national net lending/net borrowing, US $, current prices, current PPPs
+OECD.SDD.NAD:DSD_NAAG_IV@DF_NAAG_IV	ok	13.0s	NAAG Chapter 4: Production
+OECD.SDD.NAD:DSD_NAAG_VI@DF_NAAG_VI	ok	11.1s	NAAG Chapter 6: General Government
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE3_EMP_SECTOR	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Annual employment by institutional sector, domestic concept
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE1_EXPENDITURE_CPC	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Annual GDP and components - expenditure approach, US $, current prices, current PPPs, millions
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE4_PPP_P31S14	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Annual Purchasing Power Parities for households final consumption expenditure
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE5A_T117	ok	25.8s	Annual household final consumption expenditure of durable goods and other goods and services (COICOP 2018)
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE5A_T502	ok	19.1s	Annual household final consumption expenditure on the territory and abroad (COICOP 2018)
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE5_T502	ok	18.6s	Annual household final consumption expenditure on the territory and abroad
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE8	ok	35.0s	Annual capital formation by economic activity
+OECD.SDD.NAD:DSD_NAAG@DF_NAAG	ok	617.2s	NAAG
+OECD.SDD.NAD:DSD_NAAG@DF_NAAG_III	ok	11.9s	NAAG Chapter 3: Expenditure
+OECD.SDD.NAD:DSD_NAAG@DF_NAAG_IX	ok	13.6s	NAAG Chapter 9: Reference Series
+OECD.SDD.NAD:DSD_NAAG@DF_NAAG_VIII	ok	11.2s	NAAG Chapter 8: Capital
+OECD.SDD.NAD:DSD_NAAG_VI@DF_NAAG_OTEF	ok	10.9s	NAAG Chapter 6A: Government expenditure by function
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE1_EXPENDITURE_HCPC	ok	614.2s	Annual GDP and consumption per capita, US $, current prices, current PPPs
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE1_INCOME	ok	29.6s	Annual GDP and components - income approach
+OECD.SDD.NAD:DSD_NAMAIN1@DF_QNA_BY_ACTIVITY_COE	ok	611.9s	Quarterly compensation of employees by economic activity
+OECD.SDD.NAD:DSD_NAMAIN1@DF_QNA_EXPENDITURE_CAPITA	ok	7.8s	Quarterly GDP per capita
+OECD.SDD.NAD:DSD_NAMAIN1@DF_QNA_EXPENDITURE_GFCF_ASSET	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Quarterly GFCF by asset
+OECD.SDD.NAD:DSD_NAMAIN1@DF_QNA_EXPENDITURE_GROWTH_OECD	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Quarterly real GDP growth - OECD countries
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE1_EXPENDITURE	ok	634.6s	Annual GDP and components - expenditure approach
+OECD.SDD.NAD:DSD_NAMAIN1@DF_QNA_EXPENDITURE_USD	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Quarterly GDP and components - expenditure approach, US Dollars
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE1_EXPENDITURE_GROWTH	ok	12.0s	Annual GDP and components - expenditure approach, growth rates
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE1_EXPENDITURE_VPVOB	ok	12.6s	Annual GDP and components - expenditure approach, US $, volume, constant PPPs, reference year 2020, millions
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE1_OUTPUT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Annual GDP and components - output approach
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE2	ok	634.7s	Annual national disposable income, saving and net lending/net borrowing
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE2_B6_VPVOP	ok	11.1s	Annual national disposable income, US $, volume, constant PPPs
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE3_EMPDC	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Annual employment by economic activity, domestic concept
+OECD.SDD.NAD:DSD_NAMAIN1@DF_QNA_POP_EMPNC	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Quarterly population and employment, national concept
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE2_B5N_HVPVOB	ok	612.5s	Annual net national income per capita, US $, volume, constant PPPs, reference year 2020
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE3	ok	18.4s	Annual employment and population (for 'Developer API')
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE3_POP_EMPNC	ok	11.8s	Annual population and employment, national concept
+OECD.SDD.NAD:DSD_NASEC10@DF_TABLE11	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Annual government expenditure by function (COFOG)
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE4	ok	613.8s	Annual Purchasing Power Parities and exchange rates
+OECD.SDD.NAD:DSD_NASEC10@DF_TABLE12_EMPDC	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Annual employment by subsector of general government, domestic concept
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE5	ok	23.7s	Annual households final consumption expenditure (for 'Developer API')
+OECD.SDD.NAD:DSD_NASEC10@DF_TABLE13	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Annual simplified non-financial accounts by institutional sector (for 'Developer API')
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE5A_T501	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Annual household final consumption expenditure by purpose (COICOP 2018)
+OECD.SDD.NAD:DSD_NASEC10@DF_TABLE13_REV	ok	8.8s	Annual simplified non-financial accounts by institutional sector (Revenue)
+OECD.SDD.NAD:DSD_NASEC10@DF_TABLE14_GFCF	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Annual investment by asset and institutional sector
+OECD.SDD.NAD:DSD_NASU@DF_INDICATOR	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	SUT Indicators (for 'Developer API')
+OECD.SDD.NAD:DSD_NASU@DF_INDICATOR_OTTM_TS_O	ok	101.0s	SUT Trade and transport margins as a share of total supply at purchasers' prices
+OECD.SDD.NAD:DSD_NASU@DF_INDICATOR_P7_P3S14_B	ok	10.4s	SUT Share of imported products in final consumption of households at basic prices
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE4_PPP_P41	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Annual Purchasing Power Parities for actual individual consumption
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE5A_T500	ok	33.8s	Annual household final consumption expenditure by purpose (COICOP 2018) (for 'Developer API')
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE5_T501	ok	626.2s	Annual household final consumption expenditure by purpose (COICOP)
+OECD.SDD.NAD:DSD_NASU@DF_INDICATOR_P7_TS_O	ok	642.8s	SUT Imports as a share of total supply at purchasers' prices
+OECD.SDD.NAD:DSD_NASU@DF_USEBP	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	SUT Use at basic prices (for 'Developer API')
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE5_T117	ok	614.3s	Annual household final consumption expenditure of durable goods and other goods and services
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE6	ok	25.5s	Annual value added and its components by economic activity
+OECD.SDD.NAD:DSD_NASU@DF_USEBP_T1612	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	SUT Import Use at basic prices
+OECD.SDD.NAD:DSD_NASU@DF_USEPP_T1601	ok	73.9s	SUT Domestic Use at purchasers' prices
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE7	ok	634.1s	Annual employment by detailed economic activity, domestic concept
+OECD.SDD.NAD:DSD_NASU@DF_VALUATION	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	SUT Valuation (for 'Developer API')
+OECD.SDD.NAD:DSD_NASU@DF_VALUATION_T1631	ok	63.1s	SUT Taxes less subsidies on products excluding VAT
+OECD.SDD.NAD:DSD_NASU@DF_VALUATION_T1634	ok	152.7s	SUT Subsidies on products
+OECD.SDD.NAD.SEEA:DSD_AIR_TRANSPORT@DF_AIR_TRANSPORT	ok	19.4s	Air transport emissions (experimental)
+OECD.SDD.NAD.SEEA:DSD_NAT_RES@DF_NAT_RES	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Mineral and Energy Resources
+OECD.SDD.NAD:DSD_NAMAIN10@DF_TABLE9A	ok	632.8s	Annual fixed assets by economic activity and by asset
+OECD.SDD.NAD.SEEA:DSD_PEFA@DF_PEFAUSE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Physical Energy Flow Accounts: use by activity
+OECD.SDD.NAD:DSD_NAMAIN1@DF_QNA_BY_ACTIVITY_EMPDC	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Quarterly employment by economic activity, domestic concept
+OECD.SDD.STES:DSD_KEI@DF_KEI	ok	52.0s	Key short-term economic indicators
+OECD.SDD.NAD:DSD_NAMAIN1@DF_QNA	ok	661.5s	Quarterly National Accounts (for 'Developer API')
+OECD.SDD.TPS:DSD_ALFS@DF_ALFS_EMP_EES	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Number of employees by activities (ISIC Rev. 4)
+OECD.SDD.NAD:DSD_NAMAIN1@DF_QNA_BY_ACTIVITY_OUTPUT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Quarterly GDP and components - output approach
+OECD.SDD.NAD:DSD_NAMAIN1@DF_QNA_EXPENDITURE_CONTRIB	ok	611.6s	Quarterly GDP and components  - expenditure approach, real growth rates and contributions to real growth
+OECD.SDD.NAD:DSD_NAMAIN1@DF_QNA_EXPENDITURE_GFCF_SECTOR	ok	12.3s	Quarterly GFCF by institutional sector
+OECD.SDD.NAD:DSD_NAMAIN1@DF_QNA_EXPENDITURE_INDICES	ok	10.8s	Quarterly GDP and components - expenditure approach -  volume and price indices
+OECD.SDD.NAD:DSD_NAMAIN1@DF_QNA_INCOME	ok	12.9s	Quarterly GDP and components - income approach
+OECD.SDD.NAD:DSD_NAPENS@DF_TABLE29	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Social insurance pensions
+OECD.SDD.NAD:DSD_NASEC10@DF_TABLE12	ok	19.0s	Annual government non-financial accounts and key indicators (for 'Developer API')
+OECD.SDD.TPS:DSD_ALFS@DF_SUMTAB	ok	623.8s	Annual labour force survey, summary tables
+OECD.SDD.NAD:DSD_NAMAIN1@DF_QNA_EXPENDITURE_DURABILITY	ok	616.4s	Quarterly household final consumption expenditure of durable goods and other goods and services
+OECD.SDD.NAD:DSD_NAMAIN1@DF_QNA_EXPENDITURE_GROWTH_G20	ok	11.1s	Quarterly real GDP growth - G20 countries
+OECD.SDD.TPS:DSD_BIMTS@DF_BIMTS_HS2017_2D	ok	24.9s	Balanced international merchandise trade statistics (BIMTS) - HS2017-2D
+OECD.SDD.NAD:DSD_NAMAIN1@DF_QNA_EXPENDITURE_NATIO_CURR	ok	17.0s	Quarterly GDP and components - expenditure approach, national currency
+OECD.SDD.NAD:DSD_NAMAIN1@DF_QNA_INC_SAV	ok	58.1s	Quarterly disposable income, saving and net lending/net borrowing
+OECD.SDD.TPS:DSD_BOP@DF_IIP	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	International investment position
+OECD.SDD.TPS:DSD_EAR@DF_HOU_EAR	ok	6.5s	Hourly earnings
+OECD.SDD.TPS:DSD_ITIC@DF_ITIC	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	International transport and insurance costs of merchandise trade (ITIC)
+OECD.SDD.TPS:DSD_LFS@DF_IALFS_EMP_WAP_Q	ok	19.6s	Employment rate
+OECD.SDD.TPS:DSD_LFS@DF_IALFS_LF_WAP_Q	ok	16.8s	Labour force participation rate
+OECD.SDD.TPS:DSD_LFS@DF_IALFS_UNE_M	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Monthly unemployment rates
+OECD.SDD.NAD:DSD_NASEC10@DF_TABLE12_EXP	ok	626.1s	Annual government non-financial accounts and key indicators (Expenditure)
+OECD.SDD.NAD:DSD_NASEC10@DF_TABLE13_BAL	ok	22.9s	Annual simplified non-financial accounts by institutional sector (Balancing items)
+OECD.SDD.NAD:DSD_NASEC10@DF_TABLE10	ok	624.4s	Annual government taxes and social contributions receipts
+OECD.SDD.NAD:DSD_NASEC10@DF_TABLE12_BAL	ok	12.2s	Annual government non-financial accounts and key indicators (Balancing items)
+OECD.SDD.NAD:DSD_NASEC10@DF_TABLE12_REV	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Annual government non-financial accounts and key indicators (Revenue)
+OECD.SDD.TPS:DSD_OLAB@DF_OIALAB_INDIC	ok	608.1s	Infra-annual registered unemployment and job vacancies
+OECD.SDD.TPS:DSD_PPP@DF_PPP_NE	ok	8.3s	PPP detailed results, 2022 onwards: Nominal expenditure
+OECD.SDD.TPS:DSD_PPP@DF_PPP_PPP	ok	5.7s	PPP detailed results, 2022 onwards: Purchasing power parities
+OECD.SDD.TPS:DSD_PPP@DF_PPP_VI	ok	8.6s	PPP detailed results, 2022 onwards: Volume indices of real expenditure per capita
+OECD.SDD.TPS:DSD_PRICES@DF_PRICES_CONTRIB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Contribution to year-on-year inflation by COICOP 1999 by country
+OECD.SDD.TPS:DSD_PRICES@DF_PRICES_N_CP01	ok	168.2s	National CPI, Growth rate over one year, All countries, Food and non-alcoholic beverages, COICOP 1999
+OECD.SDD.TPS:DSD_PRICES@DF_PRICES_N_TXCP01_NRG	ok	6.2s	National CPI, Growth rate over one year, All countries, All items less food and energy, COICOP 1999
+OECD.SDD.NAD:DSD_NASEC10@DF_TABLE14	ok	632.7s	Annual non-financial accounts by institutional sector (for 'Developer API')
+OECD.SDD.NAD:DSD_NASEC10@DF_TABLE14_REV	ok	35.6s	Annual non-financial accounts by institutional sector (Revenue)
+OECD.SDD.NAD:DSD_NASEC10@DF_TABLE13_EXP	ok	618.5s	Annual simplified non-financial accounts by institutional sector (Expenditure)
+OECD.SDD.TPS:DSD_PRICES_COICOP2018@DF_PRICES_C2018_HICP_IT_W	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Eurostat harmonised index of consumer prices (HICP), Item weights, All countries, All items, COICOP 2018
+OECD.SDD.NAD:DSD_NASU@DF_INDICATOR_D21X31_P3S14	ok	617.2s	SUT Taxes less subsidies on products as a share of final consumption expenditure by households
+OECD.SDD.TPS:DSD_PRICES_COICOP2018@DF_PRICES_C2018_N_IT_W	ok	57.8s	National CPI, Item weights, COICOP 2018, All countries, All items
+OECD.SDD.TPS:DSD_PRICES_EXC@DF_PRICES_EXCHANGE	ok	18.5s	Consumer price indices (CPIs), exchange, API only,COICOP 1999
+OECD.SDD.NAD:DSD_NASU@DF_INDICATOR_P2_PRODUCT_SHARE_B	ok	26.1s	SUT Intermediate consumption - share of products used by activity at basic prices
+OECD.SDD.NAD:DSD_NASU@DF_INDICATOR_P7_P51G_B	ok	11.1s	SUT Share of imported products in GFCF at basic prices
+OECD.SDD.NAD:DSD_NASU@DF_SUPPLYP1_T1500	ok	19.4s	SUT Supply by type of production
+OECD.SDD.TPS:DSD_TEC_ISIC4@DF_TEC01	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Trade in goods by enterprise characteristics by economic activity and size class
+OECD.SDD.TPS:DSD_TEC_ISIC4@DF_TEC04	ok	14.3s	Trade in goods by enterprise characteristics by number of partner countries and activity
+OECD.SDD.NAD:DSD_NASEC10@DF_TABLE14_EXP	ok	638.2s	Annual non-financial accounts by institutional sector (Expenditure)
+OECD.SDD.TPS:DSD_TEC_ISIC4@DF_TEC07	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Trade in goods by enterprise characteristics by ownership (domestic or foreign)
+OECD.SDD.NAD:DSD_NASU@DF_USEBP_T1610	ok	640.9s	SUT Use at basic prices
+OECD.SDD.NAD:DSD_NASEC10@DF_TABLE9B	ok	620.7s	Annual balance sheets for non-financial assets
+OECD.SDD.NAD:DSD_NASU@DF_USEPP	ok	47.3s	SUT Use at purchasers' prices (for 'Developer API')
+OECD.SDD.NAD:DSD_NASU@DF_INDICATOR_OTTM_P3S14	ok	10.7s	SUT Trade and transport margins as a share of final consumption expenditure by households
+OECD.SDD.NAD:DSD_NASU@DF_USEPP_T1602	ok	25.9s	SUT Import Use at purchasers' prices
+OECD.SDD.TPS:DSD_TEC_ISIC4@DF_TEC10	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Trade in goods by enterprise characteristics by partner countries and size-class
+OECD.SDD.NAD:DSD_NASU@DF_INDICATOR_P7_P2_B	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	SUT Share of imported products in intermediate consumption at basic prices
+OECD.SDD.NAD:DSD_NASU@DF_VALUATION_T1620	ok	34.4s	SUT Trade and transport margins
+OECD.STI.DEP:DSD_DEO_1@DF_DEO_1	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	DEO part 1
+OECD.STI.DEP:DSD_DIGITAL_TRADE@DF_DIGITAL_TRADE	ok	6.1s	Digital Trade - Experimental estimates
+OECD.STI.DEP:DSD_ICT_HH_IND@DF_IND	ok	80.0s	ICT Access and Usage by Individuals
+OECD.STI.DEP:DSD_TOOLKIT_10@DF_GD_BREAKDOWNS_10	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Going Digital Toolkit - Data for the breakdown visualisations - part 10
+OECD.STI.DEP:DSD_TOOLKIT_14@DF_GD_BREAKDOWNS_14	ok	31.0s	Going Digital Toolkit - Data for the breakdown visualisations - part 14
+OECD.STI.DEP:DSD_TOOLKIT_3@DF_GD_BREAKDOWNS_3	ok	59.2s	Going Digital Toolkit - Data for the breakdown visualisations - part 3
+OECD.STI.DEP:DSD_TOOLKIT_6@DF_GD_BREAKDOWNS_6	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Going Digital Toolkit - Data for the breakdown visualisations - part 6
+OECD.SDD.NAD:DSD_NASU@DF_INDICATOR_P7_P6_B	ok	614.7s	SUT Share of imported products in exports at basic prices
+OECD.SDD.NAD:DSD_NASU@DF_VALUATION_T1632	ok	633.6s	SUT VAT
+OECD.SDD.NAD:DSD_NASU@DF_SUPPLY_T1500	ok	38.2s	SUT Supply
+OECD.SDD.NAD:DSD_PSD_D1D4@DF_PSD_D1D4	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Government debt by instrument coverage
+OECD.SDD.NAD.SEEA:DSD_ATR_EUSE@DF_ATR_EUSE	ok	10.8s	Air transport energy use (experimental)
+OECD.SDD.NAD:DSD_NASU@DF_USEBP_T1611	ok	30.8s	SUT Domestic Use at basic prices
+OECD.SDD.NAD.SEEA:DSD_PEFA@DF_PEFAERUSE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Physical Energy Flow Accounts: emissions-relevant use
+OECD.SDD.NAD:DSD_NASU@DF_USEPP_T1600	ok	35.1s	SUT Use at purchasers' prices
+OECD.SDD.NAD.SEEA:DSD_PEFA_BR@DF_PEFABR	ok	59.8s	Physical Energy Flow Accounts: bridging to energy balances
+OECD.SDD.NAD:DSD_NASU@DF_USEVA_T1600	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	SUT Use, Value added and its components by activity
+OECD.STI.DEP:DSD_TOOLKIT_DK@DF_NDSC	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Going Digital Toolkit Data Kitchen - Data for the National Digital Strategy Comprehensiveness
+OECD.STI.PIE:DSD_INDUSTRIAL_POLICY@DF_FIN	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	QuIS Industrial policy financial instruments
+OECD.STI.PIE:DSD_PATENTS@DF_PATENTS_COINVENTOR	ok	15.5s	Patents with foreign co-inventors
+OECD.STI.PIE:DSD_PATENTS@DF_PATENTS_FOREIGN	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Foreign ownership of domestic inventions
+OECD.STI.PIE:DSD_PATENTS@DF_PATENTS_WIPO	ok	45.6s	Patents by WIPO technology domains
+OECD.SDD.STES:DSD_STES_REVISIONS@DF_STES_REVISIONS	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Short-term economic statistics revisions
+OECD.SDD.TPS:DSD_ALFS@DF_ALFS_EMP_ICSE93	ok	12.6s	Employment by professional status (ICSE-93)
+OECD.SDD.NAD:DSD_NASU@DF_VALUATION_T1630	ok	636.3s	SUT Taxes less subsidies on products
+OECD.SDD.TPS:DSD_BATIS@DF_BATIS	ok	29.3s	Balanced trade in services (BaTIS)
+OECD.SDD.TPS:DSD_BIMTS@DF_BIMTS_HS2017_4D	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Balanced international merchandise trade statistics (BIMTS) - HS2017-4D
+OECD.SDD.NAD:DSD_NASU@DF_VALUATION_T1633	ok	32.2s	SUT Taxes on products
+OECD.SDD.TPS:DSD_BOP@DF_TIS	ok	25.2s	International trade in services
+OECD.SDD.NAD.SEEA:DSD_AEA@DF_AEA	ok	37.3s	Air Emissions Accounts
+OECD.SDD.NAD.SEEA:DSD_MARITIME_TRANSPORT@DF_MARITIME_TRANSPORT	ok	10.7s	Maritime transport CO2 emissions (experimental)
+OECD.SDD.NAD.SEEA:DSD_PEFA@DF_PEFASUP	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Physical Energy Flow Accounts: supply by activity
+OECD.STI.PIE:DSD_TIMBC_2023@DF_TIMBC_2023	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Trade in employment by workforce characteristics (TiMBC) 2023 edition
+OECD.STI.PIE:DSD_TIM_2023@DF_TIM_2023	ok	26.2s	Trade in employment (TiM) 2023 edition
+OECD.SDD.TPS:DSD_IMTS@DF_IMTS	ok	612.1s	International merchandise trade statistics
+OECD.SDD.TPS:DSD_LFS@DF_IALFS_EMP_ISIC4_Q	ok	10.0s	Employed population by economic activity
+OECD.SDD.TPS:DSD_LFS@DF_IALFS_INDIC	ok	26.5s	Infra-annual labour statistics
+OECD.STI.STP:DSD_ANBERD@DF_ANBERDi4	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Analytical Business Enterprise R&D by ISIC Rev.4 industry (ANBERD database)
+OECD.SDD.TPS:DSD_LFS@DF_IALFS_OLF_WAP_Q	ok	12.0s	Population outside the labour force
+OECD.SDD.TPS:DSD_LFS@DF_IALFS_UNE_Q	ok	10.7s	Unemployed population
+OECD.SDD.SDPS:DSD_DD_HCL@DF_DD_HCL_TEST	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	DD HCL order hierarcy test
+OECD.SDD.TPS:DSD_PPP@DF_PPP	ok	14.4s	PPP detailed results, 2022 onwards
+OECD.SDD.TPS:DSD_ALFS@DF_ALFS_EMP	ok	11.1s	Employment by activites and status (ALFS)
+OECD.STI.STP:DSD_BIBLIO_SDG@DF_BIBLIO_SDG	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Bibliometric indicators, by Sustainable Development Goals (SDGs)
+OECD.SDD.TPS:DSD_PPP@DF_PPP_NEGDP	ok	3.8s	PPP detailed results, 2022 onwards: Nominal expenditure as a percentage of GDP
+OECD.SDD.TPS:DSD_ALFS@DF_ALFS_EMP_ISIC	ok	11.1s	Employment by activities (ISIC Rev. 4)
+OECD.SDD.TPS:DSD_BIMTS@DF_BIMTS_CPA_2_1	ok	27.9s	Balanced international merchandise trade statistics (BIMTS) - CPA 2.1
+OECD.STI.STP:DSD_INNOSTAT@DF_INNOEMP	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Employment in innovative and innovation-active enterprises
+OECD.SDD.TPS:DSD_BOP@DF_BOP	ok	11.5s	Balance of payments
+OECD.SDD.TPS:DSD_CPI_COU_WEIGHTS@DF_CPI_CTRY_WEIGHTS	ok	10.0s	CPI country weights - OECD composition
+OECD.SDD.TPS:DSD_ITIC@DF_ITIC	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	International transport and insurance costs of merchandise trade (ITIC)
+OECD.STI.STP:DSD_INNOSTAT@DF_INNOENV	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Innovations in enterprises with environmental benefits
+OECD.SDD.TPS:DSD_LFS@DF_IALFS_EMP_Q	ok	52.6s	Employed population by age groups
+OECD.STI.STP:DSD_INNOSTAT@DF_INNOMKT	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Innovative and innovation-active enterprises operating in foreign and national markets
+OECD.STI.STP:DSD_INNOSTAT@DF_INNOTYPE	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Type of innovation in innovative enterprises
+OECD.STI.STP:DSD_RDTAX@DF_RDSUB	ok	18.2s	Implied tax subsidy rates on R&D expenditures
+OECD.STI.STP:DSD_REICO_FULL@DF_ALL	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	ReICO database - full dataset
+OECD.STI.STP:DSD_REICO_FULL@DF_RDT	ok	9.1s	ReICO database - R&I talent development
+OECD.STI.STP:DSD_REICO_VIZ@DF_SP	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	ReICO database for StatPlanet dashboard
+OECD.SDD.TPS:DSD_PPP@DF_PPP_RE	ok	611.6s	PPP detailed results, 2022 onwards: Real expenditure in PPPs
+OECD.SDD.TPS:DSD_PPP_M@DF_PP_CPL_M	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Monthly comparative price levels
+OECD.SDD.TPS:DSD_PRICES@DF_PRICES_HICP	ok	12.0s	Eurostat harmonised index of consumer prices (HICP)
+OECD.SDD.TPS:DSD_PRICES@DF_PRICES_N_CP045_0722	ok	9.7s	National CPI, Growth rate over one year, All countries, Energy, COICOP 1999
+OECD.SDD.TPS:DSD_LFS@DF_IALFS_LF_Q	ok	612.9s	Labour force population
+OECD.SDD.TPS:DSD_PRICES_COICOP2018@DF_PRICES_C2018_ALL	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Consumer price indices (CPIs,HICPs), COICOP 2018
+OECD.SDD.TPS:DSD_LFS@DF_IALFS_UNE_LF_M	ok	10.1s	Monthly unemployment levels
+OECD.SDD.TPS:DSD_LFS@DF_IALFS_WAP_Q	ok	10.6s	Working-age population
+OECD.SDD.TPS:DSD_PPP@DF_PPP_CPL	ok	9.6s	PPP detailed results, 2022 onwards: Price level indices
+OECD.SDD.TPS:DSD_PPP@DF_PPP_NEPC	ok	9.4s	PPP detailed results, 2022 onwards: Nominal expenditure per capita
+OECD.SDD.TPS:DSD_PPP@DF_PPP_REPC	ok	61.1s	PPP detailed results, 2022 onwards: Real expenditure per capita in PPPs
+OECD.SDD.TPS:DSD_PRICES@DF_PRICES_ALL	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Consumer price indices (CPIs, HICPs), COICOP 1999
+OECD.SWAC:DSD_SWAC_PV@DF_PV_REGION	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Trends of political violence in West Africa: Analysis at region level
+OECD.TAD.ARP:DSD_AGR_POLIND@DF_BOR_PRI	ok	9.4s	Contribution to change in Border Price by country, 2023 to 2024
+OECD.TAD.ARP:DSD_AGR_POLIND@DF_COMPSE	ok	9.7s	Composition of Producer Support Estimate
+OECD.TAD.ARP:DSD_AGR_POLIND@DF_MONEVA	ok	24.2s	Agricultural Policy Monitoring and Evaluation: all data
+OECD.SDD.TPS:DSD_PRICES_COICOP2018@DF_PRICES_C2018_N_CP01	ok	611.4s	National CPI, Growth rate over one year, All countries, Food and non-alcoholic beverages, COICOP 2018
+OECD.SDD.TPS:DSD_PRICES_COICOP2018@DF_PRICES_C2018_N_TXCP01_NRG	ok	9.8s	National CPI, Growth rate over one year, All countries, All items less food and energy, COICOP 2018
+OECD.SDD.TPS:DSD_PRICES_EXC_C18@DF_PRICES_EXCHANGE_COICOP18	ok	11.6s	Consumer price indices (CPIs), exchange, API only,COICOP 2018
+OECD.SDD.TPS:DSD_TEC_ISIC4@DF_TEC02	ok	12.3s	Trade in goods by enterprise characteristics by economic activity and concentration of trade (top enterprises)
+OECD.SDD.TPS:DSD_TEC_ISIC4@DF_TEC05	ok	37.2s	Trade in goods by enterprise characteristics by commodity groups (CPC)
+OECD.SDD.TPS:DSD_PRICES@DF_PRICES_HICP_IT_W	ok	611.4s	Eurostat harmonised index of consumer prices (HICP), Item weights, All countries, All items
+OECD.SDD.TPS:DSD_PRICES@DF_PRICES_N_IT_W	ok	10.0s	National CPI, Item weights, COICOP 1999, All countries, All items
+OECD.SDD.TPS:DSD_PRICES_COICOP2018@DF_PRICES_C2018_CONTRIB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Contribution to year-on-year inflation by COICOP 2018 by country
+OECD.SDD.TPS:DSD_PRICES_COICOP2018@DF_PRICES_C2018_N_CP045_0722	ok	9.5s	National CPI, Growth rate over one year, All countries, Energy, COICOP 2018
+OECD.SDD.TPS:DSD_PRICES_COICOP2018@DF_PRICES_HICP_C2018	ok	11.3s	Eurostat harmonised index of consumer prices (HICP), COICOP 2018
+OECD.TAD.ARP:DSD_AGR_POLIND@DF_PSE	ok	611.1s	Producer Support Estimate (PSE)
+OECD.TAD.ARP:DSD_FISH_EMP@DF_FISH_EMPL	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Employment in fisheries, aquaculture and processing
+OECD.TAD.ARP:DSD_FISH_PROD@DF_FISH_AQUA	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Aquaculture production
+OECD.TAD.ARP:DSD_FISH_TRADE@DF_FISH_TRADE	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	International trade of fisheries commodities
+OECD.TAD.ATM:DSD_AGR@DF_OUTLOOK_2023_2032	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	OECD-FAO Agricultural Outlook 2023-2032
+OECD.SDD.TPS:DSD_TEC_ISIC4@DF_TEC08	ok	631.0s	Trade in goods by enterprise characteristics by exports intensity
+OECD.SDD.TPS:DSD_VC@DF_VC_INV	ok	9.6s	Venture capital investments (market statistics)
+OECD.STI.DEP:DSD_DEO_2@DF_DEO_2	ok	8.7s	DEO part 2
+OECD.TAD.ATM:DSD_AGR@DF_OUTLOOK_2026_2035	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	OECD-FAO Agricultural Outlook 2026-2035
+OECD.STI.DEP:DSD_ICT_B@DF_BUSINESSES	ok	23.1s	ICT Access and Usage by Businesses
+OECD.STI.DEP:DSD_NOWCAST@DF_NOWCAST	ok	8.7s	Nowcast - Experimental estimates
+OECD.TAD.TPD:DSD_STRI@DF_STRI_DIGITAL_HETERO	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Digital STRI Heterogeneity Indices
+OECD.SDD.TPS:DSD_TEC_ISIC4@DF_TEC	ok	637.8s	Trade in goods by enterprise characteristics (for API users)
+OECD.SDD.TPS:DSD_TEC_ISIC4@DF_TEC03	ok	14.6s	Trade in goods by enterprise characteristics by partner zones and countries
+OECD.SDD.TPS:DSD_TEC_ISIC4@DF_TEC06	ok	23.5s	Trade in goods by enterprise characteristics by type of trader
+OECD.SDD.TPS:DSD_TEC_ISIC4@DF_TEC09	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Trade in goods by enterprise characteristics by activity sectors
+OECD.STI.DEP:DSD_TOOLKIT_11@DF_GD_BREAKDOWNS_11	ok	614.2s	Going Digital Toolkit - Data for the breakdown visualisations - part 11
+OECD.STI.DEP:DSD_TOOLKIT_1@DF_GD_BREAKDOWNS_1	ok	10.8s	Going Digital Toolkit - Data for the breakdown visualisations - part 1
+OECD.STI.DEP:DSD_TOOLKIT_4@DF_GD_BREAKDOWNS_4	ok	10.0s	Going Digital Toolkit - Data for the breakdown visualisations - part 4
+OECD.STI.DEP:DSD_TOOLKIT_7@DF_GD_BREAKDOWNS_7	ok	10.5s	Going Digital Toolkit - Data for the breakdown visualisations - part 7
+OECD.TAD.TPD:DSD_STRI@DF_STRI_INTRAEEA_HETERO	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Intra-EEA STRI Heterogeneity Indices
+OECD.STI.PIE:DSD_ICIO_GHG_MAIN@DF_ICIO_GHG_MAIN_2023	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Greenhouse Gas Footprints (GHGFP): Principal indicators
+OECD.WISE.CWB:DSD_CWB@DF_CWB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Child well-being
+OECD.STI.PIE:DSD_INDUSTRIAL_POLICY@DF_GRANTAX	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	QuIS Industrial policy grants and tax expenditures
+OECD.WISE.INE:DSD_WISE_IDD@DF_IDD	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Income distribution database
+OECD.STI.DEP:DSD_BB_DATABASE@DF_BB_TEL_DATABASE	ok	612.2s	Broadband and telecom databases
+OECD.STI.DEP:DSD_DEO_3@DF_DEO_3	ok	8.7s	DEO part 3
+OECD.WISE.RSB:DSD_SDG@DF_SDG_G_10	ok	25.9s	Sustainable Development Goal 10 - Reduced inequality
+OECD.STI.DEP:DSD_ICT_HH_IND@DF_HH	ok	10.2s	ICT Access and Usage by Households
+OECD.STI.DEP:DSD_TOOLKIT@DF_GD_DISTANCES	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Going Digital Toolkit - Data for the hero visualisation and country pages
+OECD.STI.DEP:DSD_TOOLKIT_12@DF_GD_BREAKDOWNS_12	ok	9.3s	Going Digital Toolkit - Data for the breakdown visualisations - part 12
+OECD.WISE.RSB:DSD_SDG@DF_SDG_G_13	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Sustainable Development Goal 13 - Climate action
+OECD.WISE.RSB:DSD_SDG@DF_SDG_G_16	ok	10.0s	Sustainable Development Goal 16 - Peace, justice, and strong institutions
+OECD.WISE.RSB:DSD_SDG@DF_SDG_G_3	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Sustainable Development Goal 03 - Good health and well-being
+OECD.WISE.RSB:DSD_SDG@DF_SDG_G_6	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Sustainable Development Goal 06 - Clean water and sanitation
+OECD.WISE.RSB:DSD_SDG@DF_SDG_G_9	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Sustainable Development Goal 09 - Industry, innovation, and infrastructure
+OECD.STI.PIE:DSD_PATENTS@DF_PATENTS_DOMESTIC	ok	613.9s	Domestic ownership of inventions made abroad
+OECD.STI.PIE:DSD_PATENTS@DF_PATENTS_INDICATORS	ok	13.2s	Indicators of international co-operation
+OECD.STI.PIE:DSD_STAN@DF_STAN	ok	26.6s	STAN Database for Structural Analysis, 2020 edition
+OECD.STI.PIE:DSD_TIMBC_2025@DF_TIMBC_2025	ok	33.5s	Trade in employment by workforce characteristics (TiMBC) 2025 edition
+OECD.STI.PIE:DSD_TIM_2025@DF_TIM_2025	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Trade in employment (TiM) 2025 edition
+OECD.STI.DEP:DSD_TOOLKIT_2@DF_GD_BREAKDOWNS_2	ok	614.1s	Going Digital Toolkit - Data for the breakdown visualisations - part 2
+OECD.STI.DEP:DSD_TOOLKIT_5@DF_GD_BREAKDOWNS_5	ok	9.0s	Going Digital Toolkit - Data for the breakdown visualisations - part 5
+OECD.STI.DEP:DSD_TOOLKIT_8@DF_GD_BREAKDOWNS_8	ok	10.0s	Going Digital Toolkit - Data for the breakdown visualisations - part 8
+OECD.STI.PIE:DSD_ICIO_GHG_MAIN_2025@DF_ICIO_GHG_MAIN_2025	ok	17.6s	Greenhouse Gas Footprints (GHGFP) 2025 edition: Principal indicators
+OECD.STI.STP:DSD_BIBLIO@DF_BIBLIO	ok	628.4s	Bibliometric indicators, by field
+OECD.STI.STP:DSD_INNOSTAT@DF_ALL	ok	12.9s	OECD Business Innovation Indicators Database (Innostat Database)
+OECD.STI.STP:DSD_INNOSTAT@DF_INNOEMPUD	ok	10.1s	Innovation-active enterprises by share of employees with tertiary education
+OECD.STI.PIE:DSD_PATENTS@DF_PATENTS	ok	644.6s	Patents by technology
+OECD.STI.PIE:DSD_PATENTS@DF_PATENTS_ENVIROMENT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Environment-related technologies patents
+OECD.STI.STP:DSD_INNOSTAT@DF_INNOEXP	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Expenditures on R&D in innovation-active enterprises
+OECD.STI.STP:DSD_INNOSTAT@DF_INNOSUPP	ok	612.3s	Enterprises receiving public financial support for innovation
+OECD.STI.PIE:DSD_PATENTS@DF_PATENTS_OECDSPECIFIC	ok	624.0s	Patents in OECD selected technologies
+OECD.STI.STP:DSD_MSTI@DF_MSTI	ok	11.8s	Main Science and Technology Indicators (MSTI database)
+OECD.STI.PIE:DSD_STAN@DF_STAN_2025	ok	20.4s	STAN Database for Structural Analysis, 2025 edition
+OECD.STI.STP:DSD_RDTAX@DF_RDTAX	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	R&D tax expenditure and direct government funding of BERD
+OECD.STI.STP:DSD_REICO_FULL@DF_RDC	ok	9.8s	ReICO database - R&I talent circulation
+OECD.STI.STP:DSD_REICO_REFPUB@DF_ALL	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	ReICO national publications and references
+OECD.STI.PIE:DSD_TIM_2021@DF_TIM_2021	ok	625.0s	Trade in employment (TiM) 2021 edition
+OECD.STI.SIP:DSD_STEEL_CAPACITY@DF_CRUDE_STEEL	ok	9.7s	Crude steelmaking capacity
+OECD.SWAC:DSD_SWAC_PV@DF_PV_ARMED	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Trends of political violence in West Africa: Analysis by armed group
+OECD.STI.STP:DSD_BIBLIO@DF_BIBLIO_COLLAB	ok	22.6s	Bibliometric indicators of international collaboration
+OECD.TAD.ADM:DSD_QDD_TAD_EXP_RESTRIC@DF_QDD_TAD_EXP_RESTRIC	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Export restrictions on critical raw materials
+OECD.TAD.ARP:DSD_AGR_POLIND@DF_COMGSSE	ok	11.2s	Composition of General Services Support Estimate
+OECD.TAD.ARP:DSD_AGR_POLIND@DF_CSE	ok	9.5s	Consumer Support Estimate (CSE)
+OECD.TAD.ARP:DSD_AGR_POLIND@DF_MONREF	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Estimates of Support to Agriculture
+OECD.STI.STP:DSD_INNOSTAT@DF_INNOCOOP	ok	616.3s	Cooperation in innovative-active enterprises on innovation activities
+OECD.STI.STP:DSD_INNOSTAT@DF_INNOENT	ok	10.1s	Innovative and innovation-active enterprises
+OECD.STI.STP:DSD_INNOSTAT@DF_INNOIP	ok	9.9s	Methods used to protect intellectual property
+OECD.STI.STP:DSD_INNOSTAT@DF_INNOTUR	ok	11.6s	Turnover in innovation-active enterprises and from product innovation
+OECD.STI.STP:DSD_RDTAX@DF_IPTAX	ok	9.2s	Income-based tax support for R&D and Innovation
+OECD.TAD.ARP:DSD_AGR_POLIND@DF_PSE_CGE	ok	612.7s	Contribution to change in Producer Support Estimate by country, 2023 to 2024
+OECD.TAD.ARP:DSD_FISH_FLEET@DF_FISH_FLEET	ok	13.8s	Fishing fleet
+OECD.STI.STP:DSD_REICO_CB@DF_CB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	ReICO database for ChartBuilder
+OECD.TAD.ARP:DSD_FISH_PROD@DF_FISH_INLAND	ok	16.3s	Inland fisheries
+OECD.TAD.ATM:DSD_AGR@DF_OUTLOOK_2021_2030	ok	15.1s	OECD-FAO Agricultural Outlook 2021-2030
+OECD.TAD.ATM:DSD_AGR@DF_OUTLOOK_2024_2033	ok	16.3s	OECD-FAO Agricultural Outlook 2024-2033
+OECD.TAD.TPD:DSD_INDIGO@DF_INDIGO	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Index of digital trade integration and openness (INDIGO)
+OECD.STI.STP:DSD_REICO_FULL@DF_RDL	ok	616.3s	ReICO database - R&I labour market
+OECD.STI.STP:DSD_REICO_REFPUB@DF_EMBED	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	National studies, publications and initiatives by country
+OECD.SWAC:DSD_SWAC_PV@DF_PV_NATIONAL	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Trends of political violence in West Africa: Analysis at national level
+OECD.TAD.ARP:DSD_AGR_POLIND@BP_CGE	ok	51.0s	Contribution of Budgetary Payments to change in Producer Support Estimate by country, 2023 to 2024
+OECD.TAD.TPD:DSD_STRI@DF_STRI_HETERO	ok	627.4s	STRI Heterogeneity Indices
+OECD.TAD.TPD:DSD_STRI@DF_STRI_MAIN	ok	10.5s	Services Trade Restrictiveness Index by services sector
+OECD.WISE.INE:DSD_TIME_USE@DF_TIME_USE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Time use
+OECD.WISE.RSB:DSD_SDG@DF_SDG	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Sustainable Development Goals
+OECD.TAD.ARP:DSD_AGR_POLIND@DF_COMM	ok	626.1s	Single commodity indicators
+OECD.TAD.ARP:DSD_AGR_POLIND@DF_GSSE	ok	10.2s	General Services Support Estimate (GSSE)
+OECD.TAD.ARP:DSD_AGR_POLIND@DF_POL	ok	10.4s	Characteristics of producer policy support
+OECD.TAD.ARP:DSD_AGR_POLIND@DF_TSE	ok	11.9s	Total Support Estimate (TSE)
+OECD.TAD.ARP:DSD_FISH_FSE@DF_FSE	ok	3.9s	Fisheries support estimate
+OECD.WISE.RSB:DSD_SDG@DF_SDG_G_11	ok	611.6s	Sustainable Development Goal 11 - Sustainable cities and communities
+OECD.TAD.ARP:DSD_FISH_PROD@DF_FISH_LAND	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Marine landings
+OECD.WISE.RSB:DSD_SDG@DF_SDG_G_14	ok	9.7s	Sustainable Development Goal 14 - Life below water
+OECD.WISE.RSB:DSD_SDG@DF_SDG_G_17	ok	10.9s	Sustainable Development Goal 17 - Partnerships for the goals
+OECD.WISE.RSB:DSD_SDG@DF_SDG_G_4	ok	11.6s	Sustainable Development Goal 04 - Quality education
+OECD.WISE.RSB:DSD_SDG@DF_SDG_G_7	ok	9.9s	Sustainable Development Goal 07 - Affordable and clean energy
+OECD.TAD.ATM:DSD_AGR@DF_OUTLOOK_2022_2031	ok	618.5s	OECD-FAO Agricultural Outlook 2022-2031
+OECD.TAD.ATM:DSD_AGR@DF_OUTLOOK_2025_2034	ok	14.4s	OECD-FAO Agricultural Outlook 2025-2034
+OECD.TAD.TPD:DSD_STRI@DF_STRI_DIGITAL	ok	9.7s	Digital Services Trade Restrictiveness Index
+OECD.TAD.TPD:DSD_STRI@DF_STRI_INTRAEEA	ok	11.0s	Intra-EEA Services Trade Restrictiveness Index
+OECD.TAD.TPD:DSD_STRI_POLICY@DF_STRI_POLICY_DIGITAL	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Digital Services Trade Restrictiveness Index Regulatory Database
+OECD.WISE.INE:DSD_WEALTH@DF_WEALTH	ok	613.6s	Wealth distribution database
+OECD.WISE.RSB:DSD_SDG@DF_SDG_G_1	ok	10.8s	Sustainable Development Goal 01 - No poverty
+OECD.WISE.RSB:DSD_SDG@DF_SDG_G_12	ok	10.0s	Sustainable Development Goal 12 - Responsible consumption and production
+OECD.WISE.RSB:DSD_SDG@DF_SDG_G_15	ok	11.3s	Sustainable Development Goal 15 - Life on land
+OECD.WISE.RSB:DSD_SDG@DF_SDG_G_2	ok	10.1s	Sustainable Development Goal 02 - Zero hunger
+OECD.WISE.RSB:DSD_SDG@DF_SDG_G_5	ok	10.5s	Sustainable Development Goal 05 - Gender equality
+OECD.WISE.RSB:DSD_SDG@DF_SDG_G_8	ok	613.2s	Sustainable Development Goal 08 - Decent work and economic growth
+OECD.CFE.EDS:DSD_FUA_CLIM@DF_CLIM_PROJ	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Climate projections by scenario, 2030–2060 – Cities and FUAs
+OECD.CFE.EDS:DSD_FUA_CLIM@DF_COASTAL_FLOOD	fail	TimeoutError: Page.wait_for_function: Timeout 180000ms exceeded.	Coastal flooding - Cities and FUAs
+OECD.CFE.EDS:DSD_FUA_CLIM@DF_DROUGHT	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Drought - Cities and FUAs
+OECD.CFE.EDS:DSD_FUA_CLIM@DF_FIRES	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Wildfires - Cities and FUAs
+OECD.CFE.EDS:DSD_FUA_CLIM@DF_HEAT_STRESS	fail	TimeoutError: Page.wait_for_function: Timeout 180000ms exceeded.	Heat stress - Cities and FUAs
+OECD.CFE.EDS:DSD_FUA_CLIM@DF_LAND_TEMP	fail	TimeoutError: Page.wait_for_function: Timeout 180000ms exceeded.	Land surface temperature -  Cities and FUAs
+OECD.CFE.EDS:DSD_FUA_CLIM@DF_PRECIP	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Precipitation - Cities and FUAs
+OECD.CFE.EDS:DSD_FUA_CLIM@DF_RIVER_FLOOD	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	River flooding - Cities and FUAs
+OECD.CFE.EDS:DSD_FUA_CLIM@DF_TEMPERATURES	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Air temperature, hot days, tropical nights and icing days - Cities and FUAs
+OECD.CFE.EDS:DSD_FUA_CLIM@DF_WIND	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Wind threats - Cities and FUAs
+OECD.CFE.EDS:DSD_FUA_DEMO@DF_AGE_SEX	fail	TimeoutError: Page.wait_for_function: Timeout 180000ms exceeded.	Population by age and sex - Cities and FUAs
+OECD.CFE.EDS:DSD_FUA_DEMO@DF_CITIZENSHIP	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Population by citizenship - Cities and FUAs
+OECD.CFE.EDS:DSD_FUA_DEMO@DF_DEPEND	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Dependency ratio - Cities and FUAs
+OECD.CFE.EDS:DSD_FUA_DEMO@DF_ORIGIN	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Foreign-born population - Cities and FUAs

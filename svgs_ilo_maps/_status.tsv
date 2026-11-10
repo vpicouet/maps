@@ -1,0 +1,1246 @@
+DF_CCF_XOXR_CUR_RT	ok	19.6s	Official exchange rate, LCU per US dollar
+DF_CCF_XPPP_CUR_RT	ok	5.2s	Private consumption PPP conversion factor, LCU per international dollar
+DF_CLD_2POP_SEX_AGE_NB	ok	13.1s	Child population by sex and age -- UN estimates and projections, July 2024
+DF_CLD_TPOP_SEX_AGE_GEO_NB	ok	5.8s	Child population by sex, age and rural / urban areas
+DF_CLD_TPOP_SEX_AGE_NB	ok	10.8s	Child population by sex and age
+DF_CLD_TPOP_SEX_AGE_STU_NB	ok	6.9s	Child population by sex, age and school attendance
+DF_CLD_XCHL_SEX_AGE_ECO_NB	ok	12.2s	Children in child labour by sex, age and economic activity
+DF_CLD_XCHL_SEX_AGE_GEO_NB	ok	10.8s	Children in child labour by sex, age and rural / urban areas
+DF_CLD_XCHL_SEX_AGE_GEO_RT	ok	6.3s	Share of children in child labour by sex, age and and rural / urban areas
+DF_CLD_XCHL_SEX_AGE_NB	ok	5.4s	Children in child labour by sex and age
+DF_CLD_XCHL_SEX_AGE_RT	ok	5.7s	Share of children in child labour by sex and age
+DF_CLD_XCHL_SEX_AGE_STE_NB	ok	5.0s	Children in child labour by sex, age and status in employment
+DF_CLD_XCHL_SEX_AGE_STU_NB	ok	10.3s	Children in child labour by sex, age and school attendance status
+DF_CLD_XCHL_SEX_AGE_STU_RT	ok	6.2s	Share of children in child labour by sex, age and school attendance
+DF_CLD_XGPB_SEX_AGE_ECO_NB	ok	25.7s	Children in child labour -- General Production Boundary by sex, age and economic activity
+DF_CLD_XGPB_SEX_AGE_GEO_NB	ok	12.1s	Children in child labour -- General Production Boundary by sex, age and rural / urban areas
+DF_CLD_XGPB_SEX_AGE_GEO_RT	ok	5.6s	Share of children in child labour -- General Production Boundary by sex, age and rural / urban areas
+DF_CLD_XGPB_SEX_AGE_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Children in child labour -- General Production Boundary by sex and age
+DF_CLD_XGPB_SEX_AGE_RT	ok	19.5s	Share of children in child labour -- General Production Boundary by sex and age
+DF_CLD_XGPB_SEX_AGE_STE_NB	ok	58.0s	Children in child labour -- General Production Boundary by sex, age and status in employment
+DF_CLD_XGPB_SEX_AGE_STU_NB	ok	63.8s	Children in child labour -- General Production Boundary by sex, age and school attendance status
+DF_CLD_XGPB_SEX_AGE_STU_RT	ok	25.3s	Share of children in child labour -- General Production Boundary by sex, age and school attendance
+DF_CLD_XHAZ_SEX_AGE_ECO_NB	ok	7.6s	Children in hazardous work by sex, age and economic activity
+DF_CLD_XHAZ_SEX_AGE_GEO_NB	ok	5.6s	Children in hazardous work by sex, age and rural / urban areas
+DF_CLD_XHAZ_SEX_AGE_GEO_RT	ok	5.7s	Share of children in hazardous work by sex, age and rural / urban areas
+DF_CLD_XHAZ_SEX_AGE_NB	ok	58.8s	Children in hazardous work by sex and age
+DF_CLD_XHAZ_SEX_AGE_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Share of children in hazardous work by sex and age
+DF_CLD_XHAZ_SEX_AGE_STE_NB	ok	22.6s	Children in hazardous work by sex, age and status in employment
+DF_CLD_XHAZ_SEX_AGE_STU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Children in hazardous work by sex, age and school attendance status
+DF_CLD_XHAZ_SEX_AGE_STU_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of children in hazardous work by sex, age and school attendance
+DF_CLD_XSNA_SEX_AGE_ECO_NB	ok	8.4s	Children in employment by sex, age and economic activity
+DF_CLD_XSNA_SEX_AGE_GEO_NB	ok	8.3s	Children in employment by sex, age and rural / urban areas
+DF_CLD_XSNA_SEX_AGE_GEO_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of children engaged in economic activity by sex, age and rural / urban areas
+DF_CLD_XSNA_SEX_AGE_NB	ok	6.4s	Children in employment by sex and age
+DF_CLD_XSNA_SEX_AGE_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of children engaged in economic activity by sex and age
+DF_CLD_XSNA_SEX_AGE_STE_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Children in employment by sex, age and status in employment
+DF_CLD_XSNA_SEX_AGE_STU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Children in employment by sex, age and school attendance status
+DF_CLD_XSNA_SEX_AGE_STU_RT	ok	6.0s	Share of children engaged in economic activity by sex, age and school attendance
+DF_CPI_NCPD_COI_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	CPI: National consumer price index, percentage change from previous period by COICOP (Sub-annual)
+DF_CPI_NCYR_COI_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	CPI: National consumer price index, percentage change from previous year by COICOP
+DF_CPI_NWGT_COI_RT	ok	7.4s	CPI: National consumer price index, country weights by COICOP
+DF_CPI_XCPI_COI_RT	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	CPI: National consumer price index, base year 2017 = 100 by COICOP
+DF_EAP_2EAP_SEX_AGE_NB	ok	10.0s	Labour force by sex and age -- ILO modelled estimates, Nov. 2025
+DF_EAP_2WAP_SEX_AGE_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Labour force participation rate by sex and age -- ILO modelled estimates, Nov. 2025
+DF_EAP_3EAP_SEX_AGE_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Youth labour force by sex, age and disability status
+DF_EAP_3EAP_SEX_AGE_EDU_NB	ok	12.0s	Youth labour force by sex, age and education
+DF_EAP_3EAP_SEX_AGE_GEO_NB	ok	12.5s	Youth labour force by sex, age and rural / urban areas
+DF_EAP_3EAP_SEX_AGE_STU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Youth labour force by sex, age and school attendance status
+DF_EAP_3WAP_SEX_AGE_DSB_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Youth labour force participation rate by sex, age and disability status
+DF_EAP_3WAP_SEX_AGE_EDU_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Youth labour force participation rate by sex, age and education
+DF_EAP_3WAP_SEX_AGE_GEO_RT	ok	20.1s	Youth labour force participation rate by sex, age and rural / urban areas
+DF_EAP_3WAP_SEX_AGE_STU_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Youth labour force participation rate by sex, age and school attendance status
+DF_EAP_5EAP_SEX_AGE_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Labour force by sex and age -- 19th ICLS
+DF_EAP_5WAP_SEX_AGE_RT	ok	7.5s	Labour force participation rate by sex and age -- 19th ICLS
+DF_EAP_DWA1_SEX_AGE_RT	ok	10.5s	Labour force participation rate, SA by sex and age (Sub-annual)
+DF_EAP_DWAP_SEX_AGE_CBR_RT	ok	9.5s	Labour force participation rate by sex, age and place of birth
+DF_EAP_DWAP_SEX_AGE_CCT_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Labour force participation rate by sex, age and citizenship
+DF_EAP_DWAP_SEX_AGE_DSB_RT	ok	7.0s	Labour force participation rate by sex, age and disability status
+DF_EAP_DWAP_SEX_AGE_EDU_RT	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Labour force participation rate by sex, age and education
+DF_EAP_DWAP_SEX_AGE_GEO_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Labour force participation rate by sex, age and rural / urban areas
+DF_EAP_DWAP_SEX_AGE_MTS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Labour force participation rate by sex, age and marital status
+DF_EAP_DWAP_SEX_AGE_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Labour force participation rate by sex and age
+DF_EAP_DWAP_SEX_DSB_RT	ok	6.2s	Labour force participation rate by sex and disability status
+DF_EAP_DWAP_SEX_EDU_CBR_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Labour force participation rate by sex, education and place of birth
+DF_EAP_DWAP_SEX_EDU_CCT_RT	ok	7.5s	Labour force participation rate by sex, education and citizenship
+DF_EAP_DWAP_SEX_EDU_DSB_RT	ok	6.7s	Labour force participation rate by sex, education and disability status
+DF_EAP_DWAP_SEX_EDU_GEO_RT	ok	34.9s	Labour force participation rate by sex, education and rural / urban areas
+DF_EAP_DWAP_SEX_EDU_MTS_RT	ok	49.0s	Labour force participation rate by sex, education and marital status
+DF_EAP_DWAP_SEX_EDU_RT	ok	37.2s	Labour force participation rate by sex and education
+DF_EAP_DWAP_SEX_GEO_DSB_RT	ok	6.8s	Labour force participation rate by sex, rural / urban areas and disability status
+DF_EAP_DWAP_SEX_GEO_MTS_RT	ok	22.6s	Labour force participation rate by sex, rural / urban area and marital status
+DF_EAP_DWAP_SEX_GEO_RT	ok	6.9s	Labour force participation rate by sex and rural / urban areas
+DF_EAP_DWAP_SEX_MTS_DSB_RT	ok	7.8s	Labour force participation rate by sex, marital status and disability status
+DF_EAP_DWAP_SEX_MTS_RT	ok	21.4s	Labour force participation rate by sex and marital status
+DF_EAP_TEA1_SEX_AGE_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Labour force, SA by sex and age (Sub-annual)
+DF_EAP_TEAP_SEX_AGE_CBR_NB	ok	8.1s	Labour force by sex, age and place of birth
+DF_EAP_TEAP_SEX_AGE_CCT_NB	ok	7.8s	Labour force by sex, age and citizenship
+DF_EAP_TEAP_SEX_AGE_DSB_NB	ok	7.9s	Labour force by sex, age and disability status
+DF_EAP_TEAP_SEX_AGE_EDU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Labour force by sex, age and education
+DF_EAP_TEAP_SEX_AGE_GEO_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Labour force by sex, age and rural / urban areas
+DF_EAP_TEAP_SEX_AGE_MTS_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Labour force by sex, age and marital status
+DF_EAP_TEAP_SEX_AGE_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Labour force by sex and age
+DF_EAP_TEAP_SEX_DSB_NB	ok	7.1s	Labour force by sex and disability status
+DF_EAP_TEAP_SEX_EDU_CBR_NB	ok	7.6s	Labour force by sex, education and place of birth
+DF_EAP_TEAP_SEX_EDU_CCT_NB	ok	8.2s	Labour force by sex, education and citizenship
+DF_EAP_TEAP_SEX_EDU_DSB_NB	ok	6.7s	Labour force by sex, education and disability status
+DF_EAP_TEAP_SEX_EDU_GEO_NB	ok	39.3s	Labour force by sex, education and rural / urban areas
+DF_EAP_TEAP_SEX_EDU_MTS_NB	ok	49.3s	Labour force by sex, education and marital status
+DF_EAP_TEAP_SEX_EDU_NB	ok	33.1s	Labour force by sex and education
+DF_EAP_TEAP_SEX_GEO_DSB_NB	ok	6.9s	Labour force by sex, rural / urban areas and disability status
+DF_EAP_TEAP_SEX_GEO_MTS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Labour force by sex, rural / urban area and marital status
+DF_EAP_TEAP_SEX_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Labour force by sex and rural / urban areas
+DF_EAP_TEAP_SEX_MTS_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Labour force by sex, marital status and disability status
+DF_EAP_TEAP_SEX_MTS_NB	ok	7.9s	Labour force by sex and marital status
+DF_EAR_CHRA_SEX_CUR_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average hourly earnings of care employees by sex and currency
+DF_EAR_CHRA_SEX_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average hourly earnings of care employees by sex
+DF_EAR_CMTA_SEX_CUR_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average monthly earnings of care employees by sex and currency
+DF_EAR_CMTA_SEX_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average monthly earnings of care employees by sex
+DF_EAR_EHRA_SEX_AGE_CUR_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average hourly earnings of employees by sex and age and currency
+DF_EAR_EHRA_SEX_AGE_NB	ok	7.6s	Average hourly earnings of employees by sex and age
+DF_EAR_EHRA_SEX_CUR_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average hourly earnings of employees by sex and currency
+DF_EAR_EHRA_SEX_DSB_CUR_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average hourly earnings of employees by sex and disability status and currency
+DF_EAR_EHRA_SEX_DSB_NB	ok	8.3s	Average hourly earnings of employees by sex and disability status
+DF_EAR_EHRA_SEX_ECO_CUR_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average hourly earnings of employees by sex, economic activity and currency
+DF_EAR_EHRA_SEX_ECO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average hourly earnings of employees by sex and economic activity
+DF_EAR_EHRA_SEX_EDU_CUR_NB	ok	7.2s	Average hourly earnings of employees by sex, education and currency
+DF_EAR_EHRA_SEX_EDU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average hourly earnings of employees by sex and education
+DF_EAR_EHRA_SEX_GEO_CUR_NB	ok	6.7s	Average hourly earnings of employees by sex, rural / urban areas and currency
+DF_EAR_EHRA_SEX_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average hourly earnings of employees by sex and rural / urban areas
+DF_EAR_EHRA_SEX_IND_CUR_NB	ok	6.4s	Average hourly earnings of employees by ILO sector, sex and currency
+DF_EAR_EHRA_SEX_IND_NB	ok	36.2s	Average hourly earnings of employees by ILO sector and sex
+DF_EAR_EHRA_SEX_MTS_CUR_NB	ok	7.1s	Average hourly earnings of employees by sex, marital status and currency
+DF_EAR_EHRA_SEX_MTS_NB	ok	6.0s	Average hourly earnings of employees by sex and marital status
+DF_EAR_EHRA_SEX_NB	ok	6.4s	Average hourly earnings of employees by sex
+DF_EAR_EHRA_SEX_OCU_CUR_NB	ok	6.6s	Average hourly earnings of employees by sex, occupation and currency
+DF_EAR_EHRA_SEX_OCU_NB	ok	5.7s	Average hourly earnings of employees by sex and occupation
+DF_EAR_EHRG_SEX_AGE_NB	ok	6.0s	Gini index of hourly earnings of employees by sex and age
+DF_EAR_EHRG_SEX_DSB_NB	ok	5.0s	Gini index of hourly earnings of employees by sex and disability status
+DF_EAR_EHRG_SEX_ECO_NB	ok	5.6s	Gini index of hourly earnings of employees by sex and economic activity
+DF_EAR_EHRG_SEX_EDU_NB	ok	5.8s	Gini index of hourly earnings of employees by sex and education
+DF_EAR_EHRG_SEX_GEO_NB	ok	5.3s	Gini index of hourly earnings of employees by sex and rural / urban areas
+DF_EAR_EHRG_SEX_MTS_NB	ok	6.1s	Gini index of hourly earnings of employees by sex and marital status
+DF_EAR_EHRG_SEX_NB	ok	23.9s	Gini index of hourly earnings of employees by sex
+DF_EAR_EHRG_SEX_OCU_NB	ok	9.9s	Gini index of hourly earnings of employees by sex and occupation
+DF_EAR_EHRM_SEX_AGE_CUR_NB	ok	9.0s	Median hourly earnings of employees by sex and age and currency
+DF_EAR_EHRM_SEX_AGE_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Median hourly earnings of employees by sex and age
+DF_EAR_EHRM_SEX_CUR_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Median hourly earnings of employees by sex and currency
+DF_EAR_EHRM_SEX_DSB_CUR_NB	ok	6.2s	Median hourly earnings of employees by sex and disability status and currency
+DF_EAR_EHRM_SEX_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Median hourly earnings of employees by sex and disability status
+DF_EAR_EHRM_SEX_ECO_CUR_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Median hourly earnings of employees by sex, economic activity and currency
+DF_EAR_EHRM_SEX_ECO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Median hourly earnings of employees by sex and economic activity
+DF_EAR_EHRM_SEX_EDU_CUR_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Median hourly earnings of employees by sex, education and currency
+DF_EAR_EHRM_SEX_EDU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Median hourly earnings of employees by sex and education
+DF_EAR_EHRM_SEX_GEO_CUR_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Median hourly earnings of employees by sex, rural / urban areas and currency
+DF_EAR_EHRM_SEX_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Median hourly earnings of employees by sex and rural / urban areas
+DF_EAR_EHRM_SEX_MTS_CUR_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Median hourly earnings of employees by sex, marital status and currency
+DF_EAR_EHRM_SEX_MTS_NB	ok	7.8s	Median hourly earnings of employees by sex and marital status
+DF_EAR_EHRM_SEX_NB	ok	7.0s	Median hourly earnings of employees by sex
+DF_EAR_EHRM_SEX_OCU_CUR_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Median hourly earnings of employees by sex, occupation and currency
+DF_EAR_EHRM_SEX_OCU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Median hourly earnings of employees by sex and occupation
+DF_EAR_EMTA_SEX_AGE_CUR_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average monthly earnings of employees by sex, age and currency
+DF_EAR_EMTA_SEX_AGE_NB	ok	8.3s	Average monthly earnings of employees by sex and age
+DF_EAR_EMTA_SEX_CBR_CUR_NB	ok	7.8s	Average monthly earnings of employees by sex, place of birth and currency
+DF_EAR_EMTA_SEX_CBR_NB	ok	5.1s	Average monthly earnings of employees by sex and place of birth
+DF_EAR_EMTA_SEX_CCT_CUR_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average monthly earnings of employees by sex, citizenship and currency
+DF_EAR_EMTA_SEX_CCT_NB	ok	6.4s	Average monthly earnings of employees by sex and citizenship
+DF_EAR_EMTA_SEX_CUR_NB	ok	8.3s	Average monthly earnings of employees by sex and currency
+DF_EAR_EMTA_SEX_DSB_CUR_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average monthly earnings of employees by sex, disability status and currency
+DF_EAR_EMTA_SEX_DSB_NB	ok	7.7s	Average monthly earnings of employees by sex and disability status
+DF_EAR_EMTA_SEX_ECO_CUR_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average monthly earnings of employees by sex, economic activity and currency
+DF_EAR_EMTA_SEX_ECO_NB	ok	38.7s	Average monthly earnings of employees by sex and economic activity
+DF_EAR_EMTA_SEX_EDU_CUR_NB	ok	15.7s	Average monthly earnings of employees by sex, education and currency
+DF_EAR_EMTA_SEX_EDU_NB	ok	7.1s	Average monthly earnings of employees by sex and education
+DF_EAR_EMTA_SEX_GEO_CUR_NB	ok	6.3s	Average monthly earnings of employees by sex, rural / urban areas and currency
+DF_EAR_EMTA_SEX_GEO_NB	ok	8.2s	Average monthly earnings of employees by sex and rural / urban areas
+DF_EAR_EMTA_SEX_IND_CUR_NB	ok	10.5s	Average monthly earnings of employees by ILO sector, sex and currency
+DF_EAR_EMTA_SEX_IND_NB	ok	5.8s	Average monthly earnings of employees by ILO sector and sex
+DF_EAR_EMTA_SEX_MTS_CUR_NB	ok	6.9s	Average monthly earnings of employees by sex, marital status and currency
+DF_EAR_EMTA_SEX_MTS_NB	ok	5.8s	Average monthly earnings of employees by sex and marital status
+DF_EAR_EMTA_SEX_NB	ok	5.5s	Average monthly earnings of employees by sex
+DF_EAR_EMTA_SEX_OCU_CUR_NB	ok	7.5s	Average monthly earnings of employees by sex, occupation and currency
+DF_EAR_EMTA_SEX_OCU_NB	ok	7.9s	Average monthly earnings of employees by sex and occupation
+DF_EAR_EMTG_SEX_AGE_NB	ok	11.1s	Gini index of monthly earnings of employees by sex and age
+DF_EAR_EMTG_SEX_DSB_NB	ok	5.2s	Gini index of monthly earnings of employees by sex and disability status
+DF_EAR_EMTG_SEX_ECO_NB	ok	60.5s	Gini index of monthly earnings of employees by sex and economic activity
+DF_EAR_EMTG_SEX_EDU_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Gini index of monthly earnings of employees by sex and education
+DF_EAR_EMTG_SEX_GEO_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Gini index of monthly earnings of employees by sex and rural / urban areas
+DF_EAR_EMTG_SEX_MTS_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Gini index of monthly earnings of employees by sex and marital status
+DF_EAR_EMTG_SEX_NB	ok	102.1s	Gini index of monthly earnings of employees by sex
+DF_EAR_EMTG_SEX_OCU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Gini index of monthly earnings of employees by sex and occupation
+DF_EAR_EMTM_SEX_AGE_CUR_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Median monthly earnings of employees by sex, age and currency
+DF_EAR_EMTM_SEX_AGE_NB	ok	44.3s	Median monthly earnings of employees by sex and age
+DF_EAR_EMTM_SEX_CUR_NB	ok	44.1s	Median monthly earnings of employees by sex and currency
+DF_EAR_EMTM_SEX_DSB_CUR_NB	ok	6.8s	Median monthly earnings of employees by sex, disability status and currency
+DF_EAR_EMTM_SEX_DSB_NB	ok	42.0s	Median monthly earnings of employees by sex and disability status
+DF_EAR_EMTM_SEX_ECO_CUR_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Median monthly earnings of employees by sex, economic activity and currency
+DF_EAR_EMTM_SEX_ECO_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Median monthly earnings of employees by sex and economic activity
+DF_EAR_EMTM_SEX_EDU_CUR_NB	ok	28.7s	Median monthly earnings of employees by sex, education and currency
+DF_EAR_EMTM_SEX_EDU_NB	ok	60.6s	Median monthly earnings of employees by sex and education
+DF_EAR_EMTM_SEX_GEO_CUR_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Median monthly earnings of employees by sex, rural / urban areas and currency
+DF_EAR_EMTM_SEX_GEO_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Median monthly earnings of employees by sex and rural / urban areas
+DF_EAR_EMTM_SEX_MTS_CUR_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Median monthly earnings of employees by sex, marital status and currency
+DF_EAR_EMTM_SEX_MTS_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Median monthly earnings of employees by sex and marital status
+DF_EAR_EMTM_SEX_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Median monthly earnings of employees by sex
+DF_EAR_EMTM_SEX_OCU_CUR_NB	ok	103.8s	Median monthly earnings of employees by sex, occupation and currency
+DF_EAR_EMTM_SEX_OCU_NB	ok	41.1s	Median monthly earnings of employees by sex and occupation
+DF_EAR_GGAP_OCU_RT	ok	6.0s	Gender wage gap by occupation
+DF_EAR_INEE_CUR_NB	ok	5.8s	Monthly minimum wage by currency
+DF_EAR_INEE_NOC_NB	ok	6.1s	Monthly minimum wage
+DF_EAR_PHRA_SEX_CUR_NB	ok	7.4s	Average hourly earnings of public sector employees by sex and currency
+DF_EAR_PHRA_SEX_NB	ok	6.8s	Average hourly earnings of public sector employees
+DF_EAR_PMTA_SEX_CUR_NB	ok	6.4s	Average monthly earnings of public sector employees by sex and currency
+DF_EAR_PMTA_SEX_NB	ok	5.3s	Average monthly earnings of public sector employees
+DF_EAR_SHRA_SEX_CUR_NB	ok	5.3s	Average hourly earnings of STEM employees by sex and currency
+DF_EAR_SHRA_SEX_NB	ok	6.4s	Average hourly earnings of STEM employees
+DF_EAR_SMTA_SEX_CUR_NB	ok	5.9s	Average monthly earnings of STEM employees by sex and currency
+DF_EAR_SMTA_SEX_NB	ok	5.4s	Average monthly earnings of STEM employees
+DF_EAR_THRA_SEX_CUR_NB	ok	58.2s	Average hourly earnings of tourism sector employees by sex and currency
+DF_EAR_THRA_SEX_NB	ok	63.4s	Average hourly earnings of tourism sector employees by sex
+DF_EAR_TMTA_SEX_CUR_NB	ok	5.0s	Average monthly earnings of tourism sector employees by sex and currency
+DF_EAR_TMTA_SEX_NB	ok	5.4s	Average monthly earnings of tourism sector employees
+DF_EAR_XFLS_NOC_RT	ok	5.1s	Female share of low pay earners
+DF_EAR_XTLP_SEX_NB	ok	58.1s	Employees earning low pay by sex
+DF_EAR_XTLP_SEX_RT	ok	68.1s	Low pay rate by sex
+DF_EES_3EES_SEX_AGE_JBC_NB	ok	105.1s	Youth employees by sex, age and type of job contract
+DF_EES_CARE_SEX_INS_NB	ok	64.9s	Care employees by sex and public/private sector
+DF_EES_CARE_SEX_JBC_NB	ok	105.9s	Care employees by sex and type of contract
+DF_EES_PUBL_SEX_JBC_NB	ok	6.2s	Public sector employees by sex and type of job contract
+DF_EES_STEM_SEX_INS_NB	ok	65.3s	Employees in STEM occupations by sex and public/private sector
+DF_EES_STEM_SEX_JBC_NB	ok	87.5s	Employees in STEM occupations by sex and type of job contract
+DF_EES_TEES_AGE_EC2_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Employees by age and economic activity - ISIC level 2
+DF_EES_TEES_AGE_OC2_NB	ok	56.0s	Employees by age and occupation - ISCO level 2
+DF_EES_TEES_ECO_OCU_NB	ok	118.3s	Employees by economic activity and occupation
+DF_EES_TEES_SEX_AGE_DSB_NB	ok	7.4s	Employees by sex, age and disability status
+DF_EES_TEES_SEX_AGE_ECO_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Employees by sex, age and economic activity
+DF_EES_TEES_SEX_AGE_EDU_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Employees by sex, age and education
+DF_EES_TEES_SEX_AGE_GEO_NB	ok	57.4s	Employees by sex, age and rural / urban areas
+DF_EES_TEES_SEX_AGE_INS_NB	ok	42.4s	Employees by sex, age and public/private sector
+DF_EES_TEES_SEX_AGE_JBC_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employees by sex, age and type of job contract
+DF_EES_TEES_SEX_AGE_MTS_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Employees by sex, age and marital status
+DF_EES_TEES_SEX_AGE_NB	ok	55.6s	Employees by sex and age
+DF_EES_TEES_SEX_AGE_OCU_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Employees by sex, age and occupation
+DF_EES_TEES_SEX_DSB_NB	ok	14.2s	Employees by sex and disability status
+DF_EES_TEES_SEX_EC2_NB	ok	28.5s	Employees by sex and economic activity - ISIC level 2
+DF_EES_TEES_SEX_ECO_DSB_NB	ok	6.4s	Employees by sex, economic activity and disability status
+DF_EES_TEES_SEX_ECO_EDU_NB	ok	77.1s	Employees by sex, economic activity and education
+DF_EES_TEES_SEX_ECO_EST_NB	ok	45.6s	Employees by sex, economic activity and establishment size
+DF_EES_TEES_SEX_ECO_GEO_NB	ok	10.5s	Employees by sex, economic activity and rural / urban areas
+DF_EES_TEES_SEX_ECO_INS_NB	ok	45.8s	Employees by sex, economic activity and public/private sector
+DF_EES_TEES_SEX_ECO_MTS_NB	ok	50.3s	Employees by sex, economic activity and marital status
+DF_EES_TEES_SEX_ECO_NB	ok	58.6s	Employees by sex and economic activity
+DF_EES_TEES_SEX_EDU_DSB_NB	ok	6.5s	Employees by sex, education and disability status
+DF_EES_TEES_SEX_EDU_GEO_NB	ok	36.4s	Employees by sex, education and rural / urban areas
+DF_EES_TEES_SEX_EDU_MTS_NB	ok	40.7s	Employees by sex, education and marital status
+DF_EES_TEES_SEX_EDU_NB	ok	32.1s	Employees by sex and education
+DF_EES_TEES_SEX_EST_DSB_NB	ok	9.0s	Employees by sex, establishment size and disability status
+DF_EES_TEES_SEX_EST_GEO_NB	ok	12.5s	Employees by sex, establishment size and rural / urban areas
+DF_EES_TEES_SEX_EST_MTS_NB	ok	26.5s	Employees by sex, establishment size and marital status
+DF_EES_TEES_SEX_EST_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employees by sex and establishment size
+DF_EES_TEES_SEX_GEO_DSB_NB	ok	7.5s	Employees by sex, rural / urban areas and disability status
+DF_EES_TEES_SEX_GEO_MTS_NB	ok	29.3s	Employees by sex, rural / urban areas and marital status
+DF_EES_TEES_SEX_GEO_NB	ok	6.1s	Employees by sex and rural / urban areas
+DF_EES_TEES_SEX_HOW_NB	ok	6.3s	Employees by sex and weekly hours actually worked
+DF_EES_TEES_SEX_IFL_DSB_NB	ok	8.5s	Employees by sex, informal/formal job and disability status
+DF_EES_TEES_SEX_IFL_EC2_NB	ok	32.8s	Employees by sex, informal/formal job and economic activity - ISIC level 2
+DF_EES_TEES_SEX_IFL_ECO_NB	ok	25.3s	Employees by sex, informal/formal job and economic activity
+DF_EES_TEES_SEX_IFL_EDU_NB	ok	7.6s	Employees by sex, informal/formal job and education
+DF_EES_TEES_SEX_IFL_GEO_NB	ok	6.4s	Employees by sex, informal/formal job and rural / urban areas
+DF_EES_TEES_SEX_IFL_INS_NB	ok	12.3s	Employees by sex, informal/formal job and public/private sector
+DF_EES_TEES_SEX_IFL_MTS_NB	ok	8.9s	Employees by sex, informal/formal job and marital status
+DF_EES_TEES_SEX_IFL_OCU_NB	ok	7.5s	Employees by sex, informal/formal job and occupation
+DF_EES_TEES_SEX_IND_JBC_NB	ok	7.6s	Employees by ILO sector and sex and type of job contract
+DF_EES_TEES_SEX_INS_DSB_NB	ok	8.0s	Employees by sex, public/private sector and disability status
+DF_EES_TEES_SEX_INS_GEO_NB	ok	10.2s	Employees by sex, public/private sector and rural/urban areas
+DF_EES_TEES_SEX_INS_MTS_NB	ok	21.4s	Employees by sex, public/private sector and marital status
+DF_EES_TEES_SEX_INS_NB	ok	7.8s	Employees by sex and public/private sector
+DF_EES_TEES_SEX_MJH_NB	ok	21.5s	Employees by sex and multiple-job holding
+DF_EES_TEES_SEX_MTS_DSB_NB	ok	11.6s	Employees by sex, marital status and disability status
+DF_EES_TEES_SEX_MTS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employees by sex and marital status
+DF_EES_TEES_SEX_OC2_NB	ok	8.3s	Employees by sex and occupation - ISCO level 2
+DF_EES_TEES_SEX_OCU_DSB_NB	ok	10.0s	Employees by sex, occupation and disability status
+DF_EES_TEES_SEX_OCU_EDU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employees by sex, occupation and education
+DF_EES_TEES_SEX_OCU_EST_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employees by sex, occupation and establishment size
+DF_EES_TEES_SEX_OCU_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employees by sex, occupation and rural / urban areas
+DF_EES_TEES_SEX_OCU_INS_NB	ok	18.9s	Employees by sex, occupation and public/private sector
+DF_EES_TEES_SEX_OCU_MTS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employees by sex, occupation and marital status
+DF_EES_TEES_SEX_OCU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employees by sex and occupation
+DF_EES_TOUR_SEX_INS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Tourism sector employees by sex and public/private sector
+DF_EES_TOUR_SEX_JBC_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Tourism sector employees by sex and type of job contract
+DF_EES_XPLV_SEX_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of employees with access to parental leave by sex
+DF_EES_XTMP_SEX_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of temporary employees by sex
+DF_EIP_2EET_SEX_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	NEET: Youth not in employment, education or training by sex -- ILO modelled estimates, Nov. 2025
+DF_EIP_2EET_SEX_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	NEET rate: Share of youth not in employment, education or training by sex -- ILO modelled estimates, Nov. 2025
+DF_EIP_2EIP_SEX_AGE_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Persons outside the labour force by sex and age -- ILO modelled estimates, Nov. 2025
+DF_EIP_2JOB_SEX_NB	fail	no large svg found	Potential labour force and willing non-jobseekers by sex -- ILO modelled estimates, Nov. 2025
+DF_EIP_2JOB_SEX_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Potential labour force and willing non-jobseekers rate -- ILO modelled estimates, Nov. 2025
+DF_EIP_2PLF_SEX_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Potential labour force by sex -- ILO modelled estimates, Nov. 2025
+DF_EIP_2PLF_SEX_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Potential labour force rate by sex -- ILO modelled estimates, Nov. 2025
+DF_EIP_2WAP_SEX_AGE_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Inactivity rate by sex and age -- ILO modelled estimates, Nov. 2025
+DF_EIP_3DIS_SEX_AGE_GEO_NB	ok	15.8s	Youth discouraged jobseekers by sex, age and rural / urban areas
+DF_EIP_3EET_SEX_AGE_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	NEET: Youth not in employment, education or training by sex and age
+DF_EIP_3EET_SEX_AGE_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	NEET rate: Share of youth not in employment, education or training by sex and age
+DF_EIP_3EIP_SEX_AGE_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Youth outside the labour force by sex, age and disability status
+DF_EIP_3EIP_SEX_AGE_EDU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Youth outside the labour force by sex, age and education
+DF_EIP_3EIP_SEX_AGE_GEO_NB	ok	19.1s	Youth outside the labour force by sex, age and rural / urban areas
+DF_EIP_3EIP_SEX_AGE_STU_NB	ok	51.9s	Youth outside the labour force by sex, age and school attendance status
+DF_EIP_3WAP_SEX_AGE_DSB_RT	ok	23.0s	Youth inactivity rate by sex, age and disability status
+DF_EIP_3WAP_SEX_AGE_EDU_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Youth inactivity rate by sex, age and education
+DF_EIP_3WAP_SEX_AGE_GEO_RT	ok	13.9s	Youth inactivity rate by sex, age and rural / urban areas
+DF_EIP_3WAP_SEX_AGE_STU_RT	ok	58.2s	Youth inactivity rate by sex, age and school attendance status
+DF_EIP_5EET_SEX_NB	ok	22.2s	NEET: Youth not in employment, education or training by sex -- 19th ICLS
+DF_EIP_5EET_SEX_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	NEET rate: Share of youth not in employment, education or training by sex -- 19th ICLS
+DF_EIP_5EIP_SEX_AGE_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Persons outside the labour force by sex and age -- 19th ICLS
+DF_EIP_5PLF_SEX_AGE_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Potential labour force by sex and age -- 19th ICLS
+DF_EIP_5WAP_SEX_AGE_RT	ok	41.0s	Inactivity rate by sex and age -- 19th ICLS
+DF_EIP_DWAP_SEX_AGE_CBR_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Inactivity rate by sex, age and place of birth
+DF_EIP_DWAP_SEX_AGE_CCT_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Inactivity rate by sex, age and citizenship
+DF_EIP_DWAP_SEX_AGE_DSB_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Inactivity rate by sex, age and disability status
+DF_EIP_DWAP_SEX_AGE_EDU_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Inactivity rate by sex, age and education
+DF_EIP_DWAP_SEX_AGE_GEO_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Inactivity rate by sex, age and rural / urban areas
+DF_EIP_DWAP_SEX_AGE_MTS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Inactivity rate by sex, age and marital status
+DF_EIP_DWAP_SEX_AGE_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Inactivity rate by sex and age
+DF_EIP_DWAP_SEX_DSB_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Inactivity rate by sex and disability status
+DF_EIP_DWAP_SEX_EDU_CBR_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Inactivity rate by sex, education and place of birth
+DF_EIP_DWAP_SEX_EDU_CCT_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Inactivity rate by sex, education and citizenship
+DF_EIP_DWAP_SEX_EDU_DSB_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Inactivity rate by sex, education and disability status
+DF_EIP_DWAP_SEX_EDU_GEO_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Inactivity rate by sex, education and rural / urban areas
+DF_EIP_DWAP_SEX_EDU_MTS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Inactivity rate by sex, education and marital status
+DF_EIP_DWAP_SEX_EDU_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Inactivity rate by sex and education
+DF_EIP_DWAP_SEX_GEO_DSB_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Inactivity rate by sex, rural / urban areas and disability status
+DF_EIP_DWAP_SEX_GEO_MTS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Inactivity rate by sex, rural / urban area and marital status
+DF_EIP_DWAP_SEX_GEO_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Inactivity rate by sex and rural / urban areas
+DF_EIP_DWAP_SEX_MTS_DSB_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Inactivity rate by sex, marital status and disability status
+DF_EIP_DWAP_SEX_MTS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Inactivity rate by sex and marital status
+DF_EIP_NEET_SEX_AGE_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	NEET: Youth not in employment, education or training by sex and age
+DF_EIP_NEET_SEX_AGE_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	NEET rate: Share of youth not in employment, education or training by sex and age
+DF_EIP_NEET_SEX_CBR_NB	ok	32.0s	NEET: Youth not in employment, education or training by sex and place of birth
+DF_EIP_NEET_SEX_CBR_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	NEET rate: Share of youth not in employment, education or training by sex and place of birth
+DF_EIP_NEET_SEX_CCT_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	NEET: Youth not in employment, education or training by sex and citizenship
+DF_EIP_NEET_SEX_CCT_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	NEET rate: Share of youth not in employment, education or training by sex and citizenship
+DF_EIP_NEET_SEX_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	NEET: Youth not in employment, education or training by sex and disability status
+DF_EIP_NEET_SEX_DSB_RT	ok	30.4s	NEET rate: Share of youth not in employment, education or training by sex and disability status
+DF_EIP_NEET_SEX_EDU_NB	ok	51.7s	NEET: Youth not in employment, education or training by sex and education
+DF_EIP_NEET_SEX_EDU_RT	ok	27.4s	NEET rate: Share of youth not in employment, education or training by sex and education
+DF_EIP_NEET_SEX_GEO_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	NEET: Youth not in employment, education or training by sex and rural / urban areas
+DF_EIP_NEET_SEX_GEO_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	NEET rate: Share of youth not in employment, education or training by sex and rural / urban areas
+DF_EIP_NEET_SEX_MTS_NB	ok	37.4s	NEET: Youth not in employment, education or training by sex and marital status
+DF_EIP_NEET_SEX_MTS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	NEET rate: Share of youth not in employment, education or training by sex and marital status
+DF_EIP_NEET_SEX_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	NEET: Youth not in employment, education or training by sex
+DF_EIP_NEET_SEX_RT	ok	52.1s	NEET rate: Share of youth not in employment, education or training by sex
+DF_EIP_RCAR_SEX_AGE_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of persons outside the labour force due to care responsibilities by sex and age
+DF_EIP_RCAR_SEX_EDU_RT	ok	28.4s	Share of persons outside the labour force due to care responsibilities by sex and education
+DF_EIP_RCAR_SEX_GEO_RT	ok	15.5s	Share of persons outside the labour force due to care responsibilities by sex and rural / urban areas
+DF_EIP_RCAR_SEX_RT	ok	14.8s	Share of persons outside the labour force due to care responsibilities by sex
+DF_EIP_TEIP_SEX_AGE_CBR_NB	ok	14.2s	Persons outside the labour force by sex, age and place of birth
+DF_EIP_TEIP_SEX_AGE_CCT_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Persons outside the labour force by sex, age and citizenship
+DF_EIP_TEIP_SEX_AGE_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Persons outside the labour force by sex, age and disability status
+DF_EIP_TEIP_SEX_AGE_EDU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Persons outside the labour force by sex, age and education
+DF_EIP_TEIP_SEX_AGE_GEO_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Persons outside the labour force by sex, age and rural / urban areas
+DF_EIP_TEIP_SEX_AGE_MTS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Persons outside the labour force by sex, age and marital status
+DF_EIP_TEIP_SEX_AGE_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Persons outside the labour force by sex and age
+DF_EIP_TEIP_SEX_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Persons outside the labour force by sex and disability status
+DF_EIP_TEIP_SEX_EDU_CBR_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Persons outside the labour force by sex, education and place of birth
+DF_EIP_TEIP_SEX_EDU_CCT_NB	ok	37.9s	Persons outside the labour force by sex, education and citizenship
+DF_EIP_TEIP_SEX_EDU_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Persons outside the labour force by sex, education and disability status
+DF_EIP_TEIP_SEX_EDU_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Persons outside the labour force by sex, education and rural / urban areas
+DF_EIP_TEIP_SEX_EDU_MTS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Persons outside the labour force by sex, education and marital status
+DF_EIP_TEIP_SEX_EDU_NB	ok	91.0s	Persons outside the labour force by sex and education
+DF_EIP_TEIP_SEX_GEO_DSB_NB	ok	100.5s	Persons outside the labour force by sex, rural / urban areas and disability status
+DF_EIP_TEIP_SEX_GEO_MTS_NB	ok	46.9s	Persons outside the labour force by sex, rural / urban area and marital status
+DF_EIP_TEIP_SEX_GEO_NB	ok	24.8s	Persons outside the labour force by sex and rural / urban areas
+DF_EIP_TEIP_SEX_MTS_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Persons outside the labour force by sex, marital status and disability status
+DF_EIP_TEIP_SEX_MTS_NB	ok	6.9s	Persons outside the labour force by sex and marital status
+DF_EIP_WDIS_SEX_AGE_EDU_NB	ok	59.8s	Discouraged jobseekers by sex, age and education
+DF_EIP_WDIS_SEX_AGE_GEO_NB	ok	63.5s	Discouraged jobseekers by sex, age and rural / urban areas
+DF_EIP_WDIS_SEX_AGE_MTS_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Discouraged jobseekers by sex, age and marital status
+DF_EIP_WDIS_SEX_AGE_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Discouraged jobseekers by sex and age
+DF_EIP_WDIS_SEX_DSB_NB	ok	7.0s	Discouraged jobseekers by sex and disability status
+DF_EIP_WDIS_SEX_EDU_GEO_NB	ok	64.1s	Discouraged jobseekers by sex, education and rural / urban areas
+DF_EIP_WDIS_SEX_EDU_MTS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Discouraged jobseekers by sex, education and marital status
+DF_EIP_WDIS_SEX_EDU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Discouraged jobseekers by sex and education
+DF_EIP_WDIS_SEX_GEO_MTS_NB	ok	8.9s	Discouraged jobseekers by sex, rural / urban area and marital status
+DF_EIP_WDIS_SEX_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Discouraged jobseekers by sex and rural / urban areas
+DF_EIP_WDIS_SEX_MTS_NB	ok	8.3s	Discouraged jobseekers by sex and marital status
+DF_EIP_XJOB_SEX_NB	ok	13.3s	Potential labour force and willing non-jobseekers
+DF_EIP_XJOB_SEX_RT	ok	6.2s	Potential labour force and willing non-jobseekers rate
+DF_EIP_XPLF_SEX_AGE_EDU_NB	ok	56.4s	Potential labour force by sex, age and education
+DF_EIP_XPLF_SEX_AGE_GEO_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Potential labour force by sex, age and rural / urban areas
+DF_EIP_XPLF_SEX_AGE_MTS_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Potential labour force by sex, age and marital status
+DF_EIP_XPLF_SEX_AGE_NB	ok	30.8s	Potential labour force by sex and age
+DF_EIP_XPLF_SEX_DSB_NB	ok	27.6s	Potential labour force by sex and disability status
+DF_EIP_XPLF_SEX_EDU_GEO_NB	ok	9.6s	Potential labour force by sex, education and rural / urban areas
+DF_EIP_XPLF_SEX_EDU_MTS_NB	ok	9.7s	Potential labour force by sex, education and marital status
+DF_EIP_XPLF_SEX_EDU_NB	ok	32.8s	Potential labour force by sex and education
+DF_EIP_XPLF_SEX_GEO_MTS_NB	ok	7.1s	Potential labour force by sex, rural / urban area and marital status
+DF_EIP_XPLF_SEX_GEO_NB	ok	11.3s	Potential labour force by sex and rural / urban areas
+DF_EIP_XPLF_SEX_MTS_NB	ok	5.9s	Potential labour force by sex and marital status
+DF_EIP_XPLF_SEX_NB	ok	6.2s	Potential labour force by sex
+DF_EIP_XPLF_SEX_RT	fail	no large svg found	Potential labour force rate by sex
+DF_EMP_2EMP_AGE_STE_NB	ok	8.5s	Employment by age and status in employment -- ILO modelled estimates, Nov. 2025
+DF_EMP_2EMP_SEX_AGE_CLA_NB	ok	28.1s	Employment by sex, age and economic class -- ILO modelled estimates, Nov. 2025
+DF_EMP_2EMP_SEX_AGE_NB	ok	8.2s	Employment by sex and age -- ILO modelled estimates, Nov. 2025
+DF_EMP_2EMP_SEX_ECO_NB	ok	30.0s	Employment by sex and economic activity -- ILO modelled estimates, Nov. 2025
+DF_EMP_2EMP_SEX_OCU_NB	ok	5.8s	Employment by sex and occupation -- ILO modelled estimates, Nov. 2025
+DF_EMP_2EMP_SEX_STE_NB	ok	15.3s	Employment by sex and status in employment -- ILO modelled estimates, Nov. 2025
+DF_EMP_2FTE_SEX_JBF_NB	ok	6.4s	Full-time equivalent employment by sex -- ILO modelled estimates, Nov. 2025
+DF_EMP_2IFL_SEX_NB	fail	no large svg found	Informal employment by sex -- ILO modelled estimates, Nov. 2025
+DF_EMP_2IFL_SEX_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex -- ILO modelled estimates, Nov. 2025
+DF_EMP_2TRU_SEX_AGE_NB	ok	6.6s	Time-related underemployment by sex and age -- ILO modelled estimates, Nov. 2025
+DF_EMP_2TRU_SEX_AGE_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Time-related underemployment rate by sex and age -- ILO modelled estimates, Nov. 2025
+DF_EMP_2WAP_SEX_AGE_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment-to-population ratio by sex and age -- ILO modelled estimates, Nov. 2025
+DF_EMP_3EMP_SEX_AGE_DSB_NB	ok	23.9s	Youth employment by sex, age and disability status
+DF_EMP_3EMP_SEX_AGE_ECO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Youth employment by sex, age and economic activity
+DF_EMP_3EMP_SEX_AGE_EDU_NB	ok	8.6s	Youth employment by sex, age and education
+DF_EMP_3EMP_SEX_AGE_GAI_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Youth employment by sex, age and generative AI exposure
+DF_EMP_3EMP_SEX_AGE_GEO_NB	ok	31.8s	Youth employment by sex, age and rural / urban areas
+DF_EMP_3EMP_SEX_AGE_HOW_NB	ok	68.4s	Youth employment by sex, age and weekly hours actually worked
+DF_EMP_3EMP_SEX_AGE_JBT_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Youth employment by sex, age and working time arrangement
+DF_EMP_3EMP_SEX_AGE_OCU_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Youth employment by sex, age and occupation
+DF_EMP_3EMP_SEX_AGE_STE_NB	ok	37.8s	Youth employment by sex, age and status in employment
+DF_EMP_3EMP_SEX_AGE_STU_NB	ok	10.1s	Youth employment by sex, age and school attendance status
+DF_EMP_3IFL_SEX_AGE_RT	ok	5.3s	Youth informal employment rate by sex and age
+DF_EMP_3TRU_SEX_AGE_GEO_NB	ok	7.7s	Youth time-related underemployment by sex, age and rural / urban areas
+DF_EMP_3TRU_SEX_AGE_GEO_RT	ok	6.7s	Youth time-related underemployment rate by sex, age and rural / urban areas
+DF_EMP_3WAP_SEX_AGE_DSB_RT	ok	6.4s	Youth employment-to-population ratio by sex, age and disability status
+DF_EMP_3WAP_SEX_AGE_EDU_RT	ok	8.8s	Youth employment-to-population ratio by sex, age and education
+DF_EMP_3WAP_SEX_AGE_GEO_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Youth employment-to-population ratio by sex, age and rural / urban areas
+DF_EMP_3WAP_SEX_AGE_STU_RT	ok	7.4s	Youth employment-to-population ratio by sex, age and school attendance status
+DF_EMP_5EMP_SEX_AGE_NB	ok	5.9s	Employment by sex and age -- 19th ICLS
+DF_EMP_5EMP_SEX_ECO_NB	ok	5.9s	Employment by sex and economic activity -- 19th ICLS
+DF_EMP_5EMP_SEX_OC2_NB	ok	42.7s	Employment by sex and occupation - ISCO level 2 -- 19th ICLS
+DF_EMP_5EMP_SEX_OCU_NB	ok	22.2s	Employment by sex and occupation -- 19th ICLS
+DF_EMP_5EMP_SEX_STE_NB	ok	5.8s	Employment by sex and status in employment -- 19th ICLS
+DF_EMP_5NIF_SEX_AGE_NB	ok	19.1s	Informal employment by sex and age -- 19th ICLS
+DF_EMP_5NIF_SEX_AGE_RT	ok	7.9s	Informal employment rate by sex and age -- 19th ICLS
+DF_EMP_5NIF_SEX_ECO_RT	ok	8.9s	Informal employment rate by sex and economic activity -- 19th ICLS
+DF_EMP_5PIF_SEX_AGE_NB	ok	7.2s	Employment outside the formal sector by sex and age -- 19th ICLS
+DF_EMP_5PIF_SEX_AGE_RT	ok	26.5s	Share of employment outside the formal sector by sex and age -- 19th ICLS
+DF_EMP_5TRU_SEX_AGE_NB	ok	7.2s	Time-related underemployment by sex and age -- 19th ICLS
+DF_EMP_5TRU_SEX_AGE_RT	ok	30.9s	Time-related underemployment rate by sex and age -- 19th ICLS
+DF_EMP_5WAP_SEX_AGE_RT	ok	7.1s	Employment-to-population ratio by sex and age -- 19th ICLS
+DF_EMP_CARE_SEX_AGE_NB	ok	42.6s	Care employment by sex and age
+DF_EMP_CARE_SEX_CBR_NB	ok	9.9s	Care employment by sex and place of birth
+DF_EMP_CARE_SEX_CCT_NB	ok	6.6s	Care employment by sex and citizenship
+DF_EMP_CARE_SEX_EC2_NB	ok	8.0s	Care employment by sex and economic activity - ISIC level 2
+DF_EMP_CARE_SEX_ECO_NB	ok	8.0s	Care employment by sex and economic activity
+DF_EMP_CARE_SEX_EDU_NB	ok	7.9s	Care employment by sex and education
+DF_EMP_CARE_SEX_GEO_NB	ok	5.7s	Care employment by sex and rural / urban areas
+DF_EMP_CARE_SEX_HOW_NB	ok	7.6s	Care employment by sex and weekly hours actually worked
+DF_EMP_CARE_SEX_JBT_NB	ok	7.0s	Care employment by sex and working time arrangement
+DF_EMP_CARE_SEX_MTS_NB	ok	7.3s	Care employment by sex and marital status
+DF_EMP_CARE_SEX_OC2_NB	ok	7.6s	Care employment by sex and occupation - ISCO level 2
+DF_EMP_CARE_SEX_OCU_NB	ok	16.2s	Care employment by sex and occupation
+DF_EMP_CARE_SEX_STE_NB	ok	7.2s	Care employment by sex and status in employment
+DF_EMP_CNIF_SEX_NB	ok	9.7s	Informal care employment by sex
+DF_EMP_CNIF_SEX_RT	ok	6.8s	Informal care employment rate by sex
+DF_EMP_CPIF_SEX_NB	ok	6.0s	Care employment outside the formal sector by sex
+DF_EMP_CPIF_SEX_RT	ok	7.6s	Share of care employment outside the formal sector by sex
+DF_EMP_DWA1_SEX_AGE_RT	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Employment-to-population ratio, SA by sex and age (Sub-annual)
+DF_EMP_DWAP_SEX_AGE_CBR_RT	ok	7.7s	Employment-to-population ratio by sex, age and place of birth
+DF_EMP_DWAP_SEX_AGE_CCT_RT	ok	8.8s	Employment-to-population ratio by sex, age and citizenship
+DF_EMP_DWAP_SEX_AGE_DSB_RT	ok	13.5s	Employment-to-population ratio by sex, age and disability status
+DF_EMP_DWAP_SEX_AGE_EDU_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Employment-to-population ratio by sex, age and education
+DF_EMP_DWAP_SEX_AGE_GEO_RT	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Employment-to-population ratio by sex, age and rural / urban areas
+DF_EMP_DWAP_SEX_AGE_MTS_RT	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Employment-to-population ratio by sex, age and marital status
+DF_EMP_DWAP_SEX_AGE_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Employment-to-population ratio by sex and age
+DF_EMP_DWAP_SEX_DSB_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment-to-population ratio by sex and disability status
+DF_EMP_DWAP_SEX_EDU_CBR_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment-to-population ratio by sex, education and place of birth
+DF_EMP_DWAP_SEX_EDU_CCT_RT	ok	13.8s	Employment-to-population ratio by sex, education and citizenship
+DF_EMP_DWAP_SEX_EDU_DSB_RT	ok	9.6s	Employment-to-population ratio by sex, education and disability status
+DF_EMP_DWAP_SEX_EDU_GEO_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment-to-population ratio by sex, education and rural / urban areas
+DF_EMP_DWAP_SEX_EDU_MTS_RT	ok	69.6s	Employment-to-population ratio by sex, education and marital status
+DF_EMP_DWAP_SEX_EDU_RT	ok	74.2s	Employment-to-population ratio by sex and education
+DF_EMP_DWAP_SEX_GEO_DSB_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment-to-population ratio by sex, rural / urban areas and disability status
+DF_EMP_DWAP_SEX_GEO_MTS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment-to-population ratio by sex, rural / urban area and marital status
+DF_EMP_DWAP_SEX_GEO_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment-to-population ratio by sex and rural / urban areas
+DF_EMP_DWAP_SEX_MTS_DSB_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment-to-population ratio by sex, marital status and disability status
+DF_EMP_DWAP_SEX_MTS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment-to-population ratio by sex and marital status
+DF_EMP_MFLB_SEX_ECO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Inflow of employed foreign-born population by sex and economic activity
+DF_EMP_MFLB_SEX_OCU_NB	ok	48.7s	Inflow of employed foreign-born population by sex and occupation
+DF_EMP_MFLC_SEX_ECO_NB	ok	6.5s	Inflow of employed foreign citizens by sex and economic activity
+DF_EMP_MFLC_SEX_OCU_NB	ok	22.8s	Inflow of employed foreign citizens by sex and occupation
+DF_EMP_MFRB_SEX_CBR_NB	ok	15.3s	Employed foreign-born population by sex and country of birth
+DF_EMP_MFRC_SEX_CCT_NB	ok	14.3s	Employed foreign citizens by sex and country of citizenship
+DF_EMP_MNAO_SEX_CDS_NB	ok	9.7s	Outflow of nationals for employment by sex and country of destination
+DF_EMP_MNAO_SEX_ECO_NB	ok	10.3s	Outflow of nationals for employment by sex and economic activity
+DF_EMP_MNAO_SEX_EDU_NB	ok	10.7s	Outflow of nationals for employment by sex and education
+DF_EMP_MNAO_SEX_OCU_NB	ok	10.7s	Outflow of nationals for employment by sex and occupation
+DF_EMP_NIFL_AGE_EC2_NB	ok	19.7s	Informal employment by age and economic activity - ISIC level 2
+DF_EMP_NIFL_AGE_EC2_RT	ok	24.4s	Informal employment rate by age and economic activity - ISIC level 2
+DF_EMP_NIFL_AGE_OC2_NB	ok	39.3s	Informal employment by age and occupation - ISCO level 2
+DF_EMP_NIFL_AGE_OC2_RT	ok	65.7s	Informal employment rate by age and occupation - ISCO level 2
+DF_EMP_NIFL_ECO_OCU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by economic activity and occupation
+DF_EMP_NIFL_ECO_OCU_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by economic activity and occupation
+DF_EMP_NIFL_SEX_AGE_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex, age and disability status
+DF_EMP_NIFL_SEX_AGE_DSB_RT	ok	18.7s	Informal employment rate by sex, age and disability status
+DF_EMP_NIFL_SEX_AGE_ECO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex, age and economic activity
+DF_EMP_NIFL_SEX_AGE_ECO_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Informal employment rate by sex, age and economic activity
+DF_EMP_NIFL_SEX_AGE_EDU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex, age and education
+DF_EMP_NIFL_SEX_AGE_EDU_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex, age and education
+DF_EMP_NIFL_SEX_AGE_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex, age and rural / urban areas
+DF_EMP_NIFL_SEX_AGE_GEO_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex, age and rural / urban areas
+DF_EMP_NIFL_SEX_AGE_INS_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Informal employment by sex, age and public/private sector
+DF_EMP_NIFL_SEX_AGE_INS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex, age and public/private sector
+DF_EMP_NIFL_SEX_AGE_JBT_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Informal employment by sex, age and working time arrangement
+DF_EMP_NIFL_SEX_AGE_JBT_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Informal employment rate by sex, age and working time arrangement
+DF_EMP_NIFL_SEX_AGE_MTS_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Informal employment by sex, age and marital status
+DF_EMP_NIFL_SEX_AGE_MTS_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Informal employment rate by sex, age and marital status
+DF_EMP_NIFL_SEX_AGE_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex and age
+DF_EMP_NIFL_SEX_AGE_OCU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex, age and occupation
+DF_EMP_NIFL_SEX_AGE_OCU_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex, age and occupation
+DF_EMP_NIFL_SEX_AGE_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Informal employment rate by sex and age
+DF_EMP_NIFL_SEX_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex and disability status
+DF_EMP_NIFL_SEX_DSB_RT	ok	106.5s	Informal employment rate by sex and disability status
+DF_EMP_NIFL_SEX_EC2_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Informal employment by sex and economic activity - ISIC level 2
+DF_EMP_NIFL_SEX_EC2_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Informal employment rate by sex and economic activity - ISIC level 2
+DF_EMP_NIFL_SEX_ECO_DSB_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Informal employment by sex, economic activity and disability status
+DF_EMP_NIFL_SEX_ECO_DSB_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Informal employment rate by sex, economic activity and disability status
+DF_EMP_NIFL_SEX_ECO_EDU_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Informal employment by sex, economic activity and education
+DF_EMP_NIFL_SEX_ECO_EDU_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex, economic activity and education
+DF_EMP_NIFL_SEX_ECO_EST_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex, economic activity and establishment size
+DF_EMP_NIFL_SEX_ECO_EST_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex, economic activity and establishment size
+DF_EMP_NIFL_SEX_ECO_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex, economic activity and rural / urban areas
+DF_EMP_NIFL_SEX_ECO_GEO_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex, economic activity and rural / urban areas
+DF_EMP_NIFL_SEX_ECO_INS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex, economic activity and public/private sector
+DF_EMP_NIFL_SEX_ECO_INS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex, economic activity and public/private sector
+DF_EMP_NIFL_SEX_ECO_MTS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex, economic activity and marital status
+DF_EMP_NIFL_SEX_ECO_MTS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex, economic activity and marital status
+DF_EMP_NIFL_SEX_ECO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex and economic activity
+DF_EMP_NIFL_SEX_ECO_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex and economic activity
+DF_EMP_NIFL_SEX_EDU_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex, education and disability status
+DF_EMP_NIFL_SEX_EDU_DSB_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex, education and disability status
+DF_EMP_NIFL_SEX_EDU_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex, education and rural / urban areas
+DF_EMP_NIFL_SEX_EDU_GEO_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex, education and rural / urban areas
+DF_EMP_NIFL_SEX_EDU_MTS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex, education and marital status
+DF_EMP_NIFL_SEX_EDU_MTS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex, education and marital status
+DF_EMP_NIFL_SEX_EDU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex and education
+DF_EMP_NIFL_SEX_EDU_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex and education
+DF_EMP_NIFL_SEX_EST_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex, establishment size and disability status
+DF_EMP_NIFL_SEX_EST_DSB_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex, establishment size and disability status
+DF_EMP_NIFL_SEX_EST_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex, establishment size and rural / urban areas
+DF_EMP_NIFL_SEX_EST_GEO_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex, establishment size and rural / urban areas
+DF_EMP_NIFL_SEX_EST_MTS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex, establishment size and marital status
+DF_EMP_NIFL_SEX_EST_MTS_RT	ok	78.1s	Informal employment rate by sex, establishment size and marital status
+DF_EMP_NIFL_SEX_EST_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex and establishment size
+DF_EMP_NIFL_SEX_EST_RT	ok	99.3s	Informal employment rate by sex and establishment size
+DF_EMP_NIFL_SEX_GEO_DSB_NB	ok	26.6s	Informal employment by sex, rural / urban areas and disability status
+DF_EMP_NIFL_SEX_GEO_DSB_RT	ok	48.5s	Informal employment rate by sex, rural / urban areas and disability status
+DF_EMP_NIFL_SEX_GEO_MTS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex, rural / urban areas and marital status
+DF_EMP_NIFL_SEX_GEO_MTS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex, rural / urban areas and marital status
+DF_EMP_NIFL_SEX_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex and rural / urban areas
+DF_EMP_NIFL_SEX_GEO_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex and rural / urban areas
+DF_EMP_NIFL_SEX_HOW_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex and weekly hours actually worked
+DF_EMP_NIFL_SEX_HOW_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex and weekly hours actually worked
+DF_EMP_NIFL_SEX_IND_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by ILO sector and sex
+DF_EMP_NIFL_SEX_IND_RT	ok	17.7s	Informal employment rate by ILO sector and sex
+DF_EMP_NIFL_SEX_INS_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex, public/private sector and disability status
+DF_EMP_NIFL_SEX_INS_DSB_RT	ok	24.1s	Informal employment rate by sex, public/private sector and disability status
+DF_EMP_NIFL_SEX_INS_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex, public/private sector and rural/urban areas
+DF_EMP_NIFL_SEX_INS_GEO_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex, public/private sector and rural/urban areas
+DF_EMP_NIFL_SEX_INS_MTS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex, public/private sector and marital status
+DF_EMP_NIFL_SEX_INS_MTS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex, public/private sector and marital status
+DF_EMP_NIFL_SEX_INS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex and public/private sector
+DF_EMP_NIFL_SEX_INS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex and public/private sector
+DF_EMP_NIFL_SEX_MTS_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex, marital status and disability status
+DF_EMP_NIFL_SEX_MTS_DSB_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex, marital status and disability status
+DF_EMP_NIFL_SEX_MTS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex and marital status
+DF_EMP_NIFL_SEX_MTS_RT	ok	68.4s	Informal employment rate by sex and marital status
+DF_EMP_NIFL_SEX_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex
+DF_EMP_NIFL_SEX_OC2_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex and occupation - ISCO level 2
+DF_EMP_NIFL_SEX_OC2_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex and occupation - ISCO level 2
+DF_EMP_NIFL_SEX_OCU_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex, occupation and disability status
+DF_EMP_NIFL_SEX_OCU_DSB_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex, occupation and disability status
+DF_EMP_NIFL_SEX_OCU_EDU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex, occupation and education
+DF_EMP_NIFL_SEX_OCU_EDU_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex, occupation and education
+DF_EMP_NIFL_SEX_OCU_EST_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex, occupation and establishment size
+DF_EMP_NIFL_SEX_OCU_EST_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex, occupation and establishment size
+DF_EMP_NIFL_SEX_OCU_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex, occupation and rural / urban areas
+DF_EMP_NIFL_SEX_OCU_GEO_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex, occupation and rural / urban areas
+DF_EMP_NIFL_SEX_OCU_INS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex, occupation and public/private sector
+DF_EMP_NIFL_SEX_OCU_INS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex, occupation and public/private sector
+DF_EMP_NIFL_SEX_OCU_MTS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex, occupation and marital status
+DF_EMP_NIFL_SEX_OCU_MTS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex, occupation and marital status
+DF_EMP_NIFL_SEX_OCU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment by sex and occupation
+DF_EMP_NIFL_SEX_OCU_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex and occupation
+DF_EMP_NIFL_SEX_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by sex
+DF_EMP_NIFL_SEX_STE_NB	ok	34.4s	Informal employment by sex and status in employment
+DF_EMP_NIFL_SEX_STE_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal employment rate by status in employment (by sex)
+DF_EMP_PIFL_AGE_EC2_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment outside the formal sector by age and economic activity - ISIC level 2
+DF_EMP_PIFL_AGE_EC2_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of employment outside the formal sector by age and economic activity - ISIC level 2
+DF_EMP_PIFL_AGE_OC2_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment outside the formal sector by age and occupation - ISCO level 2
+DF_EMP_PIFL_AGE_OC2_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of employment outside the formal sector by age and occupation - ISCO level 2
+DF_EMP_PIFL_ECO_OCU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment outside the formal sector by economic activity and occupation
+DF_EMP_PIFL_ECO_OCU_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of employment outside the formal sector by economic activity and occupation
+DF_EMP_PIFL_SEX_AGE_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment outside the formal sector by sex, age and disability status
+DF_EMP_PIFL_SEX_AGE_DSB_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of employment outside the formal sector by sex, age and disability status
+DF_EMP_PIFL_SEX_AGE_ECO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment outside the formal sector by sex, age and economic activity
+DF_EMP_PIFL_SEX_AGE_ECO_RT	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Share of employment outside the formal sector by sex, age and economic activity
+DF_EMP_PIFL_SEX_AGE_EDU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment outside the formal sector by sex, age and education
+DF_EMP_PIFL_SEX_AGE_EDU_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Share of employment outside the formal sector by sex, age and education
+DF_EMP_PIFL_SEX_AGE_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment outside the formal sector by sex, age and rural / urban areas
+DF_EMP_PIFL_SEX_AGE_GEO_RT	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Share of employment outside the formal sector by sex, age and rural / urban areas
+DF_EMP_PIFL_SEX_AGE_INS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment outside the formal sector by sex, age and public/private sector
+DF_EMP_PIFL_SEX_AGE_INS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of employment outside the formal sector by sex, age and public/private sector
+DF_EMP_PIFL_SEX_AGE_JBT_NB	ok	66.0s	Employment outside the formal sector by sex, age and working time arrangement
+DF_EMP_PIFL_SEX_AGE_JBT_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of employment outside the formal sector by sex, age and working time arrangement
+DF_EMP_PIFL_SEX_AGE_MTS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment outside the formal sector by sex, age and marital status
+DF_EMP_PIFL_SEX_AGE_MTS_RT	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Share of employment outside the formal sector by sex, age and marital status
+DF_EMP_PIFL_SEX_AGE_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment outside the formal sector by sex and age
+DF_EMP_PIFL_SEX_AGE_OCU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment outside the formal sector by sex, age and occupation
+DF_EMP_PIFL_SEX_AGE_OCU_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of employment outside the formal sector by sex, age and occupation
+DF_EMP_PIFL_SEX_AGE_RT	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Share of employment outside the formal sector by sex and age
+DF_EMP_PIFL_SEX_DSB_NB	ok	10.4s	Employment outside the formal sector by sex and disability status
+DF_EMP_PIFL_SEX_DSB_RT	ok	11.0s	Share of employment outside the formal sector by sex and disability status
+DF_EMP_PIFL_SEX_EC2_NB	ok	7.8s	Employment outside the formal sector by sex and economic activity - ISIC level 2
+DF_EMP_PIFL_SEX_EC2_RT	ok	17.2s	Share of employment outside the formal sector by sex and economic activity - ISIC level 2
+DF_EMP_PIFL_SEX_ECO_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment outside the formal sector by sex, economic activity and disability status
+DF_EMP_PIFL_SEX_ECO_DSB_RT	ok	9.3s	Share of employment outside the formal sector by sex, economic activity and disability status
+DF_EMP_PIFL_SEX_ECO_EDU_NB	ok	94.3s	Employment outside the formal sector by sex, economic activity and education
+DF_EMP_PIFL_SEX_ECO_EDU_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Share of employment outside the formal sector by sex, economic activity and education
+DF_EMP_PIFL_SEX_ECO_EST_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment outside the formal sector by sex, economic activity and establishment size
+DF_EMP_PIFL_SEX_ECO_EST_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Share of employment outside the formal sector by sex, economic activity and establishment size
+DF_EMP_PIFL_SEX_ECO_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment outside the formal sector by sex, economic activity and rural / urban areas
+DF_EMP_PIFL_SEX_ECO_GEO_RT	ok	18.2s	Share of employment outside the formal sector by sex, economic activity and rural / urban areas
+DF_EMP_PIFL_SEX_ECO_INS_NB	ok	72.1s	Employment outside the formal sector by sex, economic activity and public/private sector
+DF_EMP_PIFL_SEX_ECO_INS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of employment outside the formal sector by sex, economic activity and public/private sector
+DF_EMP_PIFL_SEX_ECO_MTS_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Employment outside the formal sector by sex, economic activity and marital status
+DF_EMP_PIFL_SEX_ECO_MTS_RT	ok	87.9s	Share of employment outside the formal sector by sex, economic activity and marital status
+DF_EMP_PIFL_SEX_ECO_NB	ok	69.9s	Employment outside the formal sector by sex and economic activity
+DF_EMP_PIFL_SEX_ECO_RT	ok	24.6s	Share of employment outside the formal sector by sex and economic activity
+DF_EMP_PIFL_SEX_EDU_DSB_NB	ok	7.8s	Employment outside the formal sector by sex, education and disability status
+DF_EMP_PIFL_SEX_EDU_DSB_RT	ok	15.0s	Share of employment outside the formal sector by sex, education and disability status
+DF_EMP_PIFL_SEX_EDU_GEO_NB	ok	15.0s	Employment outside the formal sector by sex, education and rural / urban areas
+DF_EMP_PIFL_SEX_EDU_GEO_RT	ok	47.2s	Share of employment outside the formal sector by sex, education and rural / urban areas
+DF_EMP_PIFL_SEX_EDU_MTS_NB	ok	41.5s	Employment outside the formal sector by sex, education and marital status
+DF_EMP_PIFL_SEX_EDU_MTS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of employment outside the formal sector by sex, education and marital status
+DF_EMP_PIFL_SEX_EDU_NB	ok	9.1s	Employment outside the formal sector by sex and education
+DF_EMP_PIFL_SEX_EDU_RT	ok	16.6s	Share of employment outside the formal sector by sex and education
+DF_EMP_PIFL_SEX_EST_DSB_NB	ok	7.6s	Employment outside the formal sector by sex, establishment size and disability status
+DF_EMP_PIFL_SEX_EST_DSB_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of employment outside the formal sector by sex, establishment size and disability status
+DF_EMP_PIFL_SEX_EST_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment outside the formal sector by sex, establishment size and rural / urban areas
+DF_EMP_PIFL_SEX_EST_GEO_RT	ok	9.9s	Share of employment outside the formal sector by sex, establishment size and rural / urban areas
+DF_EMP_PIFL_SEX_EST_MTS_NB	ok	40.8s	Employment outside the formal sector by sex, establishment size and marital status
+DF_EMP_PIFL_SEX_EST_MTS_RT	ok	97.2s	Share of employment outside the formal sector by sex, establishment size and marital status
+DF_EMP_PIFL_SEX_EST_NB	ok	80.8s	Employment outside the formal sector by sex and establishment size
+DF_EMP_PIFL_SEX_EST_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of employment outside the formal sector by sex and establishment size
+DF_EMP_PIFL_SEX_GEO_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment outside the formal sector by sex, rural / urban areas and disability status
+DF_EMP_PIFL_SEX_GEO_DSB_RT	ok	7.3s	Share of employment outside the formal sector by sex, rural / urban areas and disability status
+DF_EMP_PIFL_SEX_GEO_MTS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment outside the formal sector by sex, rural / urban areas and marital status
+DF_EMP_PIFL_SEX_GEO_MTS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of employment outside the formal sector by sex, rural / urban areas and marital status
+DF_EMP_PIFL_SEX_GEO_NB	ok	14.3s	Employment outside the formal sector by sex and rural / urban areas
+DF_EMP_PIFL_SEX_GEO_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of employment outside the formal sector by sex and rural / urban areas
+DF_EMP_PIFL_SEX_HOW_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment outside the formal sector by sex and weekly hours actually worked
+DF_EMP_PIFL_SEX_HOW_RT	ok	6.5s	Share of employment outside the formal sector by sex and weekly hours actually worked
+DF_EMP_PIFL_SEX_INS_DSB_NB	ok	16.5s	Employment outside the formal sector by sex, public/private sector and disability status
+DF_EMP_PIFL_SEX_INS_DSB_RT	ok	5.6s	Share of employment outside the formal sector by sex, public/private sector and disability status
+DF_EMP_PIFL_SEX_INS_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment outside the formal sector by sex, public/private sector and rural/urban areas
+DF_EMP_PIFL_SEX_INS_GEO_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of employment outside the formal sector by sex, public/private sector and rural/urban areas
+DF_EMP_PIFL_SEX_INS_MTS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment outside the formal sector by sex, public/private sector and marital status
+DF_EMP_PIFL_SEX_INS_MTS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of employment outside the formal sector by sex, public/private sector and marital status
+DF_EMP_PIFL_SEX_INS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment outside the formal sector by sex and public/private sector
+DF_EMP_PIFL_SEX_INS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of employment outside the formal sector by sex and public/private sector
+DF_EMP_PIFL_SEX_MTS_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment outside the formal sector by sex, marital status and disability status
+DF_EMP_PIFL_SEX_MTS_DSB_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of employment outside the formal sector by sex, marital status and disability status
+DF_EMP_PIFL_SEX_MTS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment outside the formal sector by sex and marital status
+DF_EMP_PIFL_SEX_MTS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of employment outside the formal sector by sex and marital status
+DF_EMP_PIFL_SEX_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment outside the formal sector by sex
+DF_EMP_PIFL_SEX_OC2_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment outside the formal sector by sex and occupation - ISCO level 2
+DF_EMP_PIFL_SEX_OC2_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of employment outside the formal sector by sex and occupation - ISCO level 2
+DF_EMP_PIFL_SEX_OCU_DSB_NB	ok	11.1s	Employment outside the formal sector by sex, occupation and disability status
+DF_EMP_PIFL_SEX_OCU_DSB_RT	ok	11.2s	Share of employment outside the formal sector by sex, occupation and disability status
+DF_EMP_PIFL_SEX_OCU_EDU_NB	ok	11.5s	Employment outside the formal sector by sex, occupation and education
+DF_EMP_PIFL_SEX_OCU_EDU_RT	ok	73.6s	Share of employment outside the formal sector by sex, occupation and education
+DF_EMP_PIFL_SEX_OCU_EST_NB	ok	12.0s	Employment outside the formal sector by sex, occupation and establishment size
+DF_EMP_PIFL_SEX_OCU_EST_RT	ok	69.7s	Share of employment outside the formal sector by sex, occupation and establishment size
+DF_EMP_PIFL_SEX_OCU_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment outside the formal sector by sex, occupation and rural / urban areas
+DF_EMP_PIFL_SEX_OCU_GEO_RT	ok	19.0s	Share of employment outside the formal sector by sex, occupation and rural / urban areas
+DF_EMP_PIFL_SEX_OCU_INS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment outside the formal sector by sex, occupation and public/private sector
+DF_EMP_PIFL_SEX_OCU_INS_RT	ok	15.3s	Share of employment outside the formal sector by sex, occupation and public/private sector
+DF_EMP_PIFL_SEX_OCU_MTS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment outside the formal sector by sex, occupation and marital status
+DF_EMP_PIFL_SEX_OCU_MTS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of employment outside the formal sector by sex, occupation and marital status
+DF_EMP_PIFL_SEX_OCU_NB	ok	8.3s	Employment outside the formal sector by sex and occupation
+DF_EMP_PIFL_SEX_OCU_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of employment outside the formal sector by sex and occupation
+DF_EMP_PIFL_SEX_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of employment outside the formal sector by sex
+DF_EMP_PIFL_SEX_STE_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment outside the formal sector by sex and status in employment
+DF_EMP_PIFL_SEX_STE_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Share of employment outside the formal sector by status in employment (by sex)
+DF_EMP_PTER_SEX_RT	ok	8.5s	Incidence of part-time employment by sex
+DF_EMP_PUBL_SEX_AGE_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Public sector employment by sex and age
+DF_EMP_PUBL_SEX_CBR_NB	ok	6.6s	Public sector employment by sex and place of birth
+DF_EMP_PUBL_SEX_EC2_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Public sector employment by sex and economic activity - ISIC level 2
+DF_EMP_PUBL_SEX_ECO_NB	ok	22.8s	Public sector employment by sex and economic activity
+DF_EMP_PUBL_SEX_EDU_NB	ok	8.9s	Public sector employment by sex and education
+DF_EMP_PUBL_SEX_GEO_NB	ok	7.5s	Public sector employment by sex and rural / urban areas
+DF_EMP_PUBL_SEX_HOW_NB	ok	15.3s	Public sector employment by sex and weekly hours actually worked
+DF_EMP_PUBL_SEX_JBT_NB	ok	7.5s	Public sector employment by sex and working time arrangement
+DF_EMP_PUBL_SEX_MTS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Public sector employment by sex and marital status
+DF_EMP_PUBL_SEX_OC2_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Public sector employment by sex and occupation - ISCO level 2
+DF_EMP_PUBL_SEX_OCU_NB	ok	10.9s	Public sector employment by sex and occupation
+DF_EMP_PUBL_SEX_STE_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Public sector employment by sex and status in employment
+DF_EMP_SNIF_SEX_NB	ok	6.7s	Informal employment in STEM occupations
+DF_EMP_SNIF_SEX_RT	ok	57.2s	Informal employment rate in STEM occupations
+DF_EMP_SPIF_SEX_NB	ok	16.2s	Employment in STEM occupations outside the formal sector
+DF_EMP_SPIF_SEX_RT	ok	8.1s	Share of employment in STEM occupations outside the formal sector
+DF_EMP_STEM_SEX_AGE_NB	ok	11.0s	Employment in STEM occupations by sex and age
+DF_EMP_STEM_SEX_CBR_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment in STEM occupations by sex and place of birth
+DF_EMP_STEM_SEX_CCT_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment in STEM occupations by sex and citizenship
+DF_EMP_STEM_SEX_EC2_NB	ok	9.2s	Employment in STEM occupations by sex and economic activity - ISIC level 2
+DF_EMP_STEM_SEX_ECO_NB	ok	11.8s	Employment in STEM occupations by sex and economic activity
+DF_EMP_STEM_SEX_EDU_NB	ok	6.8s	Employment in STEM occupations by sex and education
+DF_EMP_STEM_SEX_GEO_NB	ok	14.2s	Employment in STEM occupations by sex and rural / urban areas
+DF_EMP_STEM_SEX_HOW_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment in STEM occupations by sex and weekly hours actually worked
+DF_EMP_STEM_SEX_JBT_NB	ok	10.2s	Employment in STEM occupations by sex and working time arrangement
+DF_EMP_STEM_SEX_MTS_NB	ok	6.9s	Employment in STEM occupations by sex and marital status
+DF_EMP_STEM_SEX_OC2_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment in STEM occupations by sex and occupation - ISCO level 2
+DF_EMP_STEM_SEX_OCU_NB	ok	7.8s	Employment in STEM occupations by sex and occupation
+DF_EMP_STEM_SEX_STE_NB	ok	6.2s	Employment in STEM occupations by sex and status in employment
+DF_EMP_TEM1_SEX_AGE_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Employment, SA by sex and age (Sub-annual)
+DF_EMP_TEM1_SEX_ECO_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Employment, SA by sex and economic activity (Sub-annual)
+DF_EMP_TEMP_AGE_EC2_NB	ok	39.1s	Employment by age and economic activity - ISIC level 2
+DF_EMP_TEMP_AGE_OC2_NB	ok	9.9s	Employment by age and occupation - ISCO level 2
+DF_EMP_TEMP_AGE_STE_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Employment by age and status in employment
+DF_EMP_TEMP_ECO_OCU_NB	ok	77.1s	Employment by economic activity and occupation
+DF_EMP_TEMP_SEX_AGE_CBR_NB	ok	7.5s	Employment by sex, age and place of birth
+DF_EMP_TEMP_SEX_AGE_CCT_NB	ok	12.9s	Employment by sex, age and citizenship
+DF_EMP_TEMP_SEX_AGE_CLA_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, age and economic class
+DF_EMP_TEMP_SEX_AGE_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, age and disability status
+DF_EMP_TEMP_SEX_AGE_ECO_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Employment by sex, age and economic activity
+DF_EMP_TEMP_SEX_AGE_EDU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, age and education
+DF_EMP_TEMP_SEX_AGE_GEO_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Employment by sex, age and rural / urban areas
+DF_EMP_TEMP_SEX_AGE_INS_NB	ok	74.5s	Employment by sex, age and public/private sector
+DF_EMP_TEMP_SEX_AGE_JBT_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Employment by sex, age and working time arrangement
+DF_EMP_TEMP_SEX_AGE_MTS_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Employment by sex, age and marital status
+DF_EMP_TEMP_SEX_AGE_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Employment by sex and age
+DF_EMP_TEMP_SEX_AGE_OCU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, age and occupation
+DF_EMP_TEMP_SEX_AGE_STE_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, age and status in employment
+DF_EMP_TEMP_SEX_CAR_NB	ok	8.4s	Employment by sex and care worker type
+DF_EMP_TEMP_SEX_DSB_NB	ok	5.8s	Employment by sex and disability status
+DF_EMP_TEMP_SEX_EC2_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex and economic activity - ISIC level 2
+DF_EMP_TEMP_SEX_ECO_CBR_NB	ok	30.0s	Employment by sex, economic activity and place of birth
+DF_EMP_TEMP_SEX_ECO_CCT_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, economic activity and citizenship
+DF_EMP_TEMP_SEX_ECO_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, economic activity and disability status
+DF_EMP_TEMP_SEX_ECO_EDU_NB	ok	80.9s	Employment by sex, economic activity and education
+DF_EMP_TEMP_SEX_ECO_EST_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, economic activity and establishment size
+DF_EMP_TEMP_SEX_ECO_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, economic activity and rural / urban areas
+DF_EMP_TEMP_SEX_ECO_INS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, economic activity and public/private sector
+DF_EMP_TEMP_SEX_ECO_MJH_NB	ok	68.6s	Employment by sex, economic activity and multiple job holding
+DF_EMP_TEMP_SEX_ECO_MTS_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Employment by sex, economic activity and marital status
+DF_EMP_TEMP_SEX_ECO_NB	ok	156.2s	Employment by sex and economic activity
+DF_EMP_TEMP_SEX_EDU_CBR_NB	ok	16.2s	Employment by sex, education and place of birth
+DF_EMP_TEMP_SEX_EDU_CCT_NB	ok	12.1s	Employment by sex, education and citizenship
+DF_EMP_TEMP_SEX_EDU_DSB_NB	ok	13.1s	Employment by sex, education and disability status
+DF_EMP_TEMP_SEX_EDU_EC2_NB	ok	71.8s	Employment by sex, education and economic activity - ISIC level 2
+DF_EMP_TEMP_SEX_EDU_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, education and rural / urban areas
+DF_EMP_TEMP_SEX_EDU_MTS_NB	ok	39.0s	Employment by sex, education and marital status
+DF_EMP_TEMP_SEX_EDU_NB	ok	7.9s	Employment by sex and education
+DF_EMP_TEMP_SEX_EST_DSB_NB	ok	58.4s	Employment by sex, establishment size and disability status
+DF_EMP_TEMP_SEX_EST_EC2_NB	ok	106.3s	Employment by sex, establishment size and economic activity - ISIC level 2
+DF_EMP_TEMP_SEX_EST_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, establishment size and rural / urban areas
+DF_EMP_TEMP_SEX_EST_MTS_NB	ok	87.2s	Employment by sex, establishment size and marital status
+DF_EMP_TEMP_SEX_EST_NB	ok	52.0s	Employment by sex and establishment size
+DF_EMP_TEMP_SEX_GAI_NB	ok	70.0s	Employment by sex and generative AI exposure
+DF_EMP_TEMP_SEX_GEO_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, rural / urban areas and disability status
+DF_EMP_TEMP_SEX_GEO_MTS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, rural / urban area and marital status
+DF_EMP_TEMP_SEX_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex and rural / urban areas
+DF_EMP_TEMP_SEX_HOW_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, weekly hours actually worked and disability status
+DF_EMP_TEMP_SEX_HOW_EDU_NB	ok	108.1s	Employment by sex, weekly hours actually worked and education
+DF_EMP_TEMP_SEX_HOW_GEO_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Employment by sex, weekly hours actually worked and rural / urban areas
+DF_EMP_TEMP_SEX_HOW_MTS_NB	ok	46.1s	Employment by sex, weekly hours actually worked and marital status
+DF_EMP_TEMP_SEX_HOW_NB	ok	60.5s	Employment by sex and weekly hours actually worked
+DF_EMP_TEMP_SEX_IFL_DSB_NB	ok	116.4s	Employment by sex, informal/formal job and disability status
+DF_EMP_TEMP_SEX_IFL_EC2_NB	ok	68.6s	Employment by sex, informal/formal job and economic activity - ISIC level 2
+DF_EMP_TEMP_SEX_IFL_ECO_NB	ok	36.0s	Employment by sex, informal/formal job and economic activity
+DF_EMP_TEMP_SEX_IFL_EDU_NB	ok	8.0s	Employment by sex, informal/formal job and education
+DF_EMP_TEMP_SEX_IFL_GEO_NB	ok	25.0s	Employment by sex, informal/formal job and rural / urban areas
+DF_EMP_TEMP_SEX_IFL_INS_NB	ok	14.1s	Employment by sex, informal/formal job and public/private sector
+DF_EMP_TEMP_SEX_IFL_JBT_NB	ok	7.3s	Employment by sex, informal/formal job and working time arrangement
+DF_EMP_TEMP_SEX_IFL_MTS_NB	ok	9.9s	Employment by sex, informal/formal job and marital status
+DF_EMP_TEMP_SEX_IFL_OCU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, informal/formal job and occupation
+DF_EMP_TEMP_SEX_IND_CBR_NB	ok	8.1s	Employment by ILO sector and sex and place of birth
+DF_EMP_TEMP_SEX_IND_CCT_NB	ok	59.7s	Employment by ILO sector and sex and citizenship
+DF_EMP_TEMP_SEX_IND_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by ILO sector and sex and disability status
+DF_EMP_TEMP_SEX_IND_EDU_NB	ok	29.5s	Employment by ILO sector and sex and education
+DF_EMP_TEMP_SEX_IND_EST_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by ILO sector, sex and establishment size
+DF_EMP_TEMP_SEX_IND_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by ILO sector and sex and rural / urban areas
+DF_EMP_TEMP_SEX_IND_INS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by ILO sector and sex and institutional sector
+DF_EMP_TEMP_SEX_IND_NB	ok	10.9s	Employment by ILO sector and sex
+DF_EMP_TEMP_SEX_IND_OCU_NB	ok	47.8s	Employment by ILO sector and sex and occupation
+DF_EMP_TEMP_SEX_IND_STE_NB	ok	6.0s	Employment by ILO sector and sex and status in employment
+DF_EMP_TEMP_SEX_INS_DSB_NB	ok	7.0s	Employment by sex, public/private sector and disability status
+DF_EMP_TEMP_SEX_INS_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, public/private sector and rural/urban areas
+DF_EMP_TEMP_SEX_INS_MTS_NB	ok	10.5s	Employment by sex, public/private sector and marital status
+DF_EMP_TEMP_SEX_INS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex and public/private sector
+DF_EMP_TEMP_SEX_MJH_DSB_NB	ok	7.9s	Employment by sex, multiple job holding and disability status
+DF_EMP_TEMP_SEX_MJH_EDU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, multiple job holding and education
+DF_EMP_TEMP_SEX_MJH_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, multiple job holding and rural / urban areas
+DF_EMP_TEMP_SEX_MJH_MTS_NB	ok	89.1s	Employment by sex, multiple job holding and marital status
+DF_EMP_TEMP_SEX_MJH_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex and multiple-job holding
+DF_EMP_TEMP_SEX_MTS_DSB_NB	ok	15.1s	Employment by sex, marital status and disability status
+DF_EMP_TEMP_SEX_MTS_NB	ok	8.5s	Employment by sex and marital status
+DF_EMP_TEMP_SEX_OC2_NB	ok	11.1s	Employment by sex and occupation - ISCO level 2
+DF_EMP_TEMP_SEX_OCU_CBR_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, occupation and place of birth
+DF_EMP_TEMP_SEX_OCU_CCT_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, occupation and citizenship
+DF_EMP_TEMP_SEX_OCU_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, occupation and disability status
+DF_EMP_TEMP_SEX_OCU_EC2_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, occupation and economic activity - ISIC level 2
+DF_EMP_TEMP_SEX_OCU_EDU_NB	ok	76.2s	Employment by sex, occupation and education
+DF_EMP_TEMP_SEX_OCU_EST_NB	ok	35.2s	Employment by sex, occupation and establishment size
+DF_EMP_TEMP_SEX_OCU_GEO_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Employment by sex, occupation and rural / urban areas
+DF_EMP_TEMP_SEX_OCU_INS_NB	ok	40.2s	Employment by sex, occupation and public/private sector
+DF_EMP_TEMP_SEX_OCU_MJH_NB	ok	47.8s	Employment by sex, occupation and multiple job holding
+DF_EMP_TEMP_SEX_OCU_MTS_NB	ok	52.6s	Employment by sex, occupation and marital status
+DF_EMP_TEMP_SEX_OCU_NB	ok	48.1s	Employment by sex and occupation
+DF_EMP_TEMP_SEX_SKN_CBR_NB	ok	8.1s	Employment by sex, educational mismatch - normative approach and place of birth
+DF_EMP_TEMP_SEX_SKN_CCT_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, educational mismatch - normative approach and citizenship
+DF_EMP_TEMP_SEX_SKN_DSB_NB	ok	5.7s	Employment by sex, educational mismatch - normative approach and disability status
+DF_EMP_TEMP_SEX_SKN_ECO_NB	ok	87.2s	Employment by sex, educational mismatch - normative approach and economic activity
+DF_EMP_TEMP_SEX_SKN_EDU_NB	ok	84.3s	Employment by sex, educational mismatch - normative approach and education
+DF_EMP_TEMP_SEX_SKN_GEO_NB	ok	8.6s	Employment by sex, educational mismatch - normative approach and rural / urban areas
+DF_EMP_TEMP_SEX_SKN_IFL_NB	ok	9.0s	Employment by sex, educational mismatch - normative approach and nature of job (informal / formal)
+DF_EMP_TEMP_SEX_SKN_MTS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, educational mismatch - normative approach and marital status
+DF_EMP_TEMP_SEX_SKN_STE_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, educational mismatch - normative approach and status in employment
+DF_EMP_TEMP_SEX_SKS_CBR_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, educational mismatch - statistical approach and place of birth
+DF_EMP_TEMP_SEX_SKS_CCT_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, educational mismatch - statistical approach and citizenship
+DF_EMP_TEMP_SEX_SKS_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, educational mismatch - statistical approach and disability status
+DF_EMP_TEMP_SEX_SKS_ECO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, educational mismatch - statistical approach and economic activity
+DF_EMP_TEMP_SEX_SKS_GEO_NB	ok	46.0s	Employment by sex, educational mismatch - statistical approach and rural / urban areas
+DF_EMP_TEMP_SEX_SKS_IFL_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, educational mismatch - statistical approach and nature of job (informal / formal)
+DF_EMP_TEMP_SEX_SKS_MTS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, educational mismatch - statistical approach and marital status
+DF_EMP_TEMP_SEX_SKS_STE_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, educational mismatch - statistical approach and status in employment
+DF_EMP_TEMP_SEX_STE_CBR_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, status in employment and place of birth
+DF_EMP_TEMP_SEX_STE_CCT_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, status in employment and citizenship
+DF_EMP_TEMP_SEX_STE_DSB_NB	ok	12.5s	Employment by sex, status in employment and disability status
+DF_EMP_TEMP_SEX_STE_EC2_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, status in employment and economic activity - ISIC level 2
+DF_EMP_TEMP_SEX_STE_ECO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, status in employment and economic activity
+DF_EMP_TEMP_SEX_STE_EDU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, status in employment and education
+DF_EMP_TEMP_SEX_STE_EST_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, status in employment and establishment size
+DF_EMP_TEMP_SEX_STE_GEO_NB	ok	15.9s	Employment by sex, status in employment and rural / urban areas
+DF_EMP_TEMP_SEX_STE_INS_NB	ok	12.6s	Employment by sex, status in employment and public/private sector
+DF_EMP_TEMP_SEX_STE_MJH_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, status in employment and multiple job holding
+DF_EMP_TEMP_SEX_STE_MTS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, status in employment and marital status
+DF_EMP_TEMP_SEX_STE_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex and status in employment
+DF_EMP_TEMP_SEX_STE_OCU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Employment by sex, status in employment and occupation
+DF_EMP_TNIF_SEX_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Informal tourism sector employment
+DF_EMP_TNIF_SEX_RT	ok	8.5s	Informal tourism sector employment rate
+DF_EMP_TOUR_SEX_AGE_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Tourism sector employment by sex and age
+DF_EMP_TOUR_SEX_CBR_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Tourism sector employment by sex and place of birth
+DF_EMP_TOUR_SEX_CCT_NB	ok	5.4s	Tourism sector employment by sex and citizenship
+DF_EMP_TOUR_SEX_EC2_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Tourism sector employment by sex and economic activity - ISIC level 2
+DF_EMP_TOUR_SEX_ECO_NB	ok	6.4s	Tourism sector employment by sex and economic activity
+DF_EMP_TOUR_SEX_EDU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Tourism sector employment by sex and education
+DF_EMP_TOUR_SEX_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Tourism sector employment by sex and rural / urban areas
+DF_EMP_TOUR_SEX_HOW_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Tourism sector employment by sex and weekly hours actually worked
+DF_EMP_TOUR_SEX_JBT_NB	ok	11.0s	Tourism sector employment by sex and working time arrangement
+DF_EMP_TOUR_SEX_MTS_NB	ok	62.2s	Tourism sector employment by sex and marital status
+DF_EMP_TOUR_SEX_OC2_NB	ok	56.6s	Tourism sector employment by sex and occupation - ISCO level 2
+DF_EMP_TOUR_SEX_OCU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Tourism sector employment by sex and occupation
+DF_EMP_TOUR_SEX_STE_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Tourism sector employment by sex and status in employment
+DF_EMP_TPIF_SEX_NB	ok	7.1s	Tourism sector employment outside the formal sector
+DF_EMP_TPIF_SEX_RT	ok	7.7s	Share of tourism sector employment outside the formal sector
+DF_EMP_XPSE_GOV_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Public employment by sectors and sub-sectors of national accounts - Discontinued
+DF_EMP_XTRU_SEX_AGE_EDU_NB	ok	45.5s	Time-related underemployment by sex, age and education
+DF_EMP_XTRU_SEX_AGE_EDU_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Time-related underemployment rate by sex, age and education
+DF_EMP_XTRU_SEX_AGE_GEO_NB	ok	45.4s	Time-related underemployment by sex, age and rural / urban areas
+DF_EMP_XTRU_SEX_AGE_GEO_RT	ok	47.5s	Time-related underemployment rate by sex, age and rural / urban areas
+DF_EMP_XTRU_SEX_AGE_MTS_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Time-related underemployment by sex, age and marital status
+DF_EMP_XTRU_SEX_AGE_MTS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Time-related underemployment rate by sex, age and marital status
+DF_EMP_XTRU_SEX_AGE_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Time-related underemployment by sex and age
+DF_EMP_XTRU_SEX_AGE_RT	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Time-related underemployment rate by sex and age
+DF_EMP_XTRU_SEX_DSB_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Time-related underemployment by sex and disability status
+DF_EMP_XTRU_SEX_DSB_RT	ok	39.1s	Time-related underemployment rate by sex and disability status
+DF_EMP_XTRU_SEX_EDU_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Time-related underemployment by sex, education and rural / urban areas
+DF_EMP_XTRU_SEX_EDU_GEO_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Time-related underemployment rate by sex, education and rural / urban areas
+DF_EMP_XTRU_SEX_EDU_MTS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Time-related underemployment by sex, education and marital status
+DF_EMP_XTRU_SEX_EDU_MTS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Time-related underemployment rate by sex, education and marital status
+DF_EMP_XTRU_SEX_EDU_NB	ok	84.1s	Time-related underemployment by sex and education
+DF_EMP_XTRU_SEX_EDU_RT	ok	94.0s	Time-related underemployment rate by sex and education
+DF_EMP_XTRU_SEX_GEO_MTS_NB	ok	8.2s	Time-related underemployment by sex, rural / urban area and marital status
+DF_EMP_XTRU_SEX_GEO_MTS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Time-related underemployment rate by sex, rural / urban area and marital status
+DF_EMP_XTRU_SEX_GEO_NB	ok	47.0s	Time-related underemployment by sex and rural / urban areas
+DF_EMP_XTRU_SEX_GEO_RT	ok	41.3s	Time-related underemployment rate by sex and rural / urban areas
+DF_EMP_XTRU_SEX_MTS_NB	ok	5.7s	Time-related underemployment by sex and marital status
+DF_EMP_XTRU_SEX_MTS_RT	ok	7.6s	Time-related underemployment rate by sex and marital status
+DF_EMP_XTRU_SEX_NB	ok	6.7s	Time-related underemployment by sex
+DF_EMP_XTRU_SEX_RT	ok	7.1s	Time-related underemployment rate by sex
+DF_GDP_205U_NOC_NB	ok	9.8s	Output per worker, GDP constant 2015 US $ -- ILO modelled estimates, Nov. 2025
+DF_GDP_211P_NOC_NB	ok	6.3s	Output per worker, GDP constant 2021 international $ at PPP -- ILO modelled estimates, Nov. 2025
+DF_GDP_2HRW_NOC_NB	ok	14.0s	Output per hour worked, GDP constant 2021 international $ at PPP -- ILO modelled estimates, Nov. 2025
+DF_GDP_2TOT_NOC_NB	ok	5.3s	Gross Domestic Product, GDP in millions constant 2021 international $ at PPP -- ILO modelled estimates, Nov. 2025
+DF_GED_2LFP_SEX_HHT_NB	fail	no large svg found	Labour force ages 25 to 54 by sex and household type -- ILO modelled estimates, Nov. 2023
+DF_GED_2LFP_SEX_HHT_RT	fail	no large svg found	Labour force participation rate for persons ages 25 to 54 by sex and household type -- ILO modelled estimates, Nov. 2023
+DF_GED_PEAR_SEX_HHT_CHL_NB	ok	6.1s	Average monthly earnings of employees ages 25 to 54 by sex, household type and presence of children
+DF_GED_PEAR_SEX_HHT_GEO_NB	ok	5.3s	Average monthly earnings of employees ages 25 to 54 by sex, household type and rural / urban areas
+DF_GED_PEPR_SEX_HHT_CHL_RT	ok	28.2s	Employment-to-population ratio for persons ages 25 to 54 by sex, household type and presence of children
+DF_GED_PEPR_SEX_HHT_GEO_RT	ok	6.3s	Employment-to-population ratio for persons ages 25 to 54 by sex, household type and rural / urban areas
+DF_GED_PHOW_SEX_HHT_CHL_NB	ok	11.0s	Average weekly hours actually worked of employed persons ages 25 to 54 by sex, household type and presence of children
+DF_GED_PHOW_SEX_HHT_GEO_NB	ok	65.3s	Average weekly hours actually worked of employed persons ages 25 to 54 by sex, household type and rural / urban areas
+DF_GED_PLFP_SEX_HHT_CHL_RT	ok	59.1s	Labour force participation rate for persons ages 25 to 54 by sex, household type and presence of children
+DF_GED_PLFP_SEX_HHT_GEO_RT	ok	7.4s	Labour force participation rate for persons ages 25 to 54 by sex, household type and rural / urban areas
+DF_GED_PLFP_SEX_HHT_RT	ok	5.9s	Labour force participation rate for persons ages 25 to 54 by sex and household type
+DF_GED_TWAP_HHT_NB	ok	6.2s	Population ages 25 to 54 by household type
+DF_GED_XLU1_SEX_HHT_CHL_RT	ok	7.6s	Unemployment rate for persons ages 25 to 54 by sex, household type and presence of children
+DF_GED_XLU1_SEX_HHT_GEO_RT	ok	7.5s	Unemployment rate for persons ages 25 to 54 by sex, household type and rural / urban areas
+DF_GED_XLU2_SEX_HHT_CHL_RT	ok	6.9s	LU2: Combined rate of time-related underemployment and unemployment for persons ages 25 to 54 by sex, household type and
+DF_GED_XLU2_SEX_HHT_GEO_RT	ok	7.6s	LU2: Combined rate of time-related underemployment and unemployment for persons ages 25 to 54 by sex, household type and
+DF_GED_XLU3_SEX_HHT_CHL_RT	ok	7.3s	LU3: Combined rate of unemployment and potential labour force for persons ages 25 to 54 by sex, household type and prese
+DF_GED_XLU3_SEX_HHT_GEO_RT	ok	16.5s	LU3: Combined rate of unemployment and potential labour force for persons ages 25 to 54 by sex, household type and rural
+DF_GED_XLU4_SEX_HHT_CHL_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	LU4: Composite rate of labour underutilization for persons ages 25 to 54 by sex, household type and presence of children
+DF_GED_XLU4_SEX_HHT_GEO_RT	ok	10.6s	LU4: Composite rate of labour underutilization for persons ages 25 to 54 by sex, household type and rural / urban areas
+DF_HOW_2EMP_SEX_NB	ok	8.8s	Average weekly hours actually worked per employed person by sex -- ILO modelled estimates, Nov. 2025
+DF_HOW_2TDP_SEX_RT	ok	5.7s	Ratio of total weekly hours worked to population aged 15-64 by sex -- ILO modelled estimates, Nov. 2025
+DF_HOW_2TOT_SEX_NB	ok	9.9s	Total weekly hours worked of employed persons by sex -- ILO modelled estimates, Nov. 2025 (thousands)
+DF_HOW_CARE_SEX_NB	ok	5.7s	Average weekly hours actually worked per person in care employment by sex
+DF_HOW_EARE_SEX_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average weekly hours actually worked per employee in care employment by sex
+DF_HOW_PUBE_SEX_NB	ok	5.5s	Average weekly hours actually worked per employee in the public sector
+DF_HOW_PUBL_SEX_NB	ok	5.8s	Average weekly hours actually worked per person in the public sector
+DF_HOW_STEE_SEX_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average weekly hours actually worked per employee in a STEM occupation
+DF_HOW_STEM_SEX_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average weekly hours actually worked per person in in a STEM occupation
+DF_HOW_TEMP_AGE_EC2_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Average weekly hours actually worked per employed person by age and economic activity - ISIC level 2
+DF_HOW_TEMP_AGE_OC2_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average weekly hours actually worked per employed person by age and occupation - ISCO level 2
+DF_HOW_TEMP_ECO_OCU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average weekly hours actually worked per employed person by economic activity and occupation
+DF_HOW_TEMP_SEX_AGE_ECO_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Average weekly hours actually worked per employed person by sex, age and economic activity
+DF_HOW_TEMP_SEX_AGE_INS_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Average weekly hours actually worked per employed person by sex, age and public/private sector
+DF_HOW_TEMP_SEX_AGE_JBT_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average weekly hours actually worked per employed person by sex, age and working time arrangement
+DF_HOW_TEMP_SEX_AGE_NB	ok	47.6s	Average weekly hours actually worked per employed person by sex and age
+DF_HOW_TEMP_SEX_AGE_OCU_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Average weekly hours actually worked per employed person by sex, age and occupation
+DF_HOW_TEMP_SEX_EC2_NB	ok	89.9s	Average weekly hours actually worked per employed person by sex and economic activity - ISIC level 2
+DF_HOW_TEMP_SEX_ECO_DSB_NB	ok	54.2s	Average weekly hours actually worked per employed person by sex, economic activity and disability status
+DF_HOW_TEMP_SEX_ECO_EDU_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Average weekly hours actually worked per employed person by sex, economic activity and education
+DF_HOW_TEMP_SEX_ECO_EST_NB	ok	55.1s	Average weekly hours actually worked per employed person by sex, economic activity and establishment size
+DF_HOW_TEMP_SEX_ECO_GEO_NB	ok	26.0s	Average weekly hours actually worked per employed person by sex, economic activity and rural / urban areas
+DF_HOW_TEMP_SEX_ECO_INS_NB	ok	45.3s	Average weekly hours actually worked per employed person by sex, economic activity and public/private sector
+DF_HOW_TEMP_SEX_ECO_MTS_NB	ok	53.2s	Average weekly hours actually worked per employed person by sex, economic activity and marital status
+DF_HOW_TEMP_SEX_ECO_NB	ok	53.5s	Average weekly hours actually worked per employed person by sex and economic activity
+DF_HOW_TEMP_SEX_EST_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average weekly hours actually worked per employed person by sex, establishment size and disability status
+DF_HOW_TEMP_SEX_EST_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average weekly hours actually worked per employed person by sex, establishment size and rural / urban areas
+DF_HOW_TEMP_SEX_EST_MTS_NB	ok	53.4s	Average weekly hours actually worked per employed person by sex, establishment size and marital status
+DF_HOW_TEMP_SEX_EST_NB	ok	6.3s	Average weekly hours actually worked per employed person by sex and establishment size
+DF_HOW_TEMP_SEX_IND_NB	ok	6.3s	Average weekly hours actually worked per employed person by ILO sector and sex
+DF_HOW_TEMP_SEX_INS_DSB_NB	ok	7.6s	Average weekly hours actually worked per employed person by sex, public/private sector and disability status
+DF_HOW_TEMP_SEX_INS_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average weekly hours actually worked per employed person by sex, public/private sector and rural/urban areas
+DF_HOW_TEMP_SEX_INS_MTS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average weekly hours actually worked per employed person by sex, public/private sector and marital status
+DF_HOW_TEMP_SEX_INS_NB	ok	6.6s	Average weekly hours actually worked per employed person by sex and public/private sector
+DF_HOW_TEMP_SEX_NB	ok	8.2s	Average weekly hours actually worked per employed person by sex
+DF_HOW_TEMP_SEX_OC2_NB	ok	8.4s	Average weekly hours actually worked per employed person by sex and occupation - ISCO level 2
+DF_HOW_TEMP_SEX_OCU_DSB_NB	ok	15.9s	Average weekly hours actually worked per employed person by sex, occupation and disability status
+DF_HOW_TEMP_SEX_OCU_EDU_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Average weekly hours actually worked per employed person by sex, occupation and education
+DF_HOW_TEMP_SEX_OCU_EST_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average weekly hours actually worked per employed person by sex, occupation and establishment size
+DF_HOW_TEMP_SEX_OCU_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average weekly hours actually worked per employed person by sex, occupation and rural / urban areas
+DF_HOW_TEMP_SEX_OCU_INS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average weekly hours actually worked per employed person by sex, occupation and public/private sector
+DF_HOW_TEMP_SEX_OCU_MTS_NB	ok	12.4s	Average weekly hours actually worked per employed person by sex, occupation and marital status
+DF_HOW_TEMP_SEX_OCU_NB	ok	79.1s	Average weekly hours actually worked per employed person by sex and occupation
+DF_HOW_TOUE_SEX_NB	ok	7.3s	Average weekly hours actually worked per employee in tourism sector employment
+DF_HOW_TOUR_SEX_NB	ok	13.2s	Average weekly hours actually worked per person in tourism sector employment
+DF_HOW_UEES_SEX_NB	ok	6.7s	Average weekly hours usually worked per employee by sex
+DF_HOW_UEMP_SEX_NB	ok	64.8s	Average weekly hours usually worked per employed person by sex
+DF_HOW_XEES_AGE_EC2_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Average weekly hours actually worked per employee by age and economic activity - ISIC level 2
+DF_HOW_XEES_AGE_OC2_NB	ok	5.7s	Average weekly hours actually worked per employee by age and occupation - ISCO level 2
+DF_HOW_XEES_ECO_OCU_NB	ok	68.1s	Average weekly hours actually worked per employee by economic activity and occupation
+DF_HOW_XEES_SEX_AGE_ECO_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Average weekly hours actually worked per employee by sex, age and economic activity
+DF_HOW_XEES_SEX_AGE_INS_NB	ok	28.1s	Average weekly hours actually worked per employee by sex, age and public/private sector
+DF_HOW_XEES_SEX_AGE_JBC_NB	ok	48.6s	Average weekly hours actually worked per employee by sex, age and type of job contract
+DF_HOW_XEES_SEX_AGE_NB	ok	30.2s	Average weekly hours actually worked per employee by sex and age
+DF_HOW_XEES_SEX_AGE_OCU_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Average weekly hours actually worked per employee by sex, age and occupation
+DF_HOW_XEES_SEX_CBR_NB	ok	28.7s	Average weekly hours actually worked per employee by sex and place of birth
+DF_HOW_XEES_SEX_CCT_NB	ok	6.0s	Average weekly hours actually worked per employee by sex and citizenship
+DF_HOW_XEES_SEX_DSB_NB	ok	34.6s	Average weekly hours actually worked per employee by sex and disability status
+DF_HOW_XEES_SEX_EC2_NB	ok	30.0s	Average weekly hours actually worked per employee by sex and economic activity - ISIC level 2
+DF_HOW_XEES_SEX_ECO_DSB_NB	ok	5.1s	Average weekly hours actually worked per employee by sex, economic activity and disability status
+DF_HOW_XEES_SEX_ECO_EDU_NB	ok	85.9s	Average weekly hours actually worked per employee by sex, economic activity and education
+DF_HOW_XEES_SEX_ECO_EST_NB	ok	81.8s	Average weekly hours actually worked per employee by sex, economic activity and establishment size
+DF_HOW_XEES_SEX_ECO_GEO_NB	ok	31.0s	Average weekly hours actually worked per employee by sex, economic activity and rural / urban areas
+DF_HOW_XEES_SEX_ECO_INS_NB	ok	116.4s	Average weekly hours actually worked per employee by sex, economic activity and public/private sector
+DF_HOW_XEES_SEX_ECO_MTS_NB	ok	99.8s	Average weekly hours actually worked per employee by sex, economic activity and marital status
+DF_HOW_XEES_SEX_ECO_NB	ok	53.1s	Average weekly hours actually worked per employee by sex and economic activity
+DF_HOW_XEES_SEX_EDU_NB	ok	34.8s	Average weekly hours actually worked per employee by sex and education
+DF_HOW_XEES_SEX_EST_DSB_NB	ok	5.9s	Average weekly hours actually worked per employee by sex, establishment size and disability status
+DF_HOW_XEES_SEX_EST_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average weekly hours actually worked per employee by sex, establishment size and rural / urban areas
+DF_HOW_XEES_SEX_EST_MTS_NB	ok	34.9s	Average weekly hours actually worked per employee by sex, establishment size and marital status
+DF_HOW_XEES_SEX_EST_NB	ok	8.5s	Average weekly hours actually worked per employee by sex and establishment size
+DF_HOW_XEES_SEX_GEO_NB	ok	6.1s	Average weekly hours actually worked per employee by sex and rural / urban areas
+DF_HOW_XEES_SEX_INS_DSB_NB	ok	14.9s	Average weekly hours actually worked per employee by sex, public/private sector and disability status
+DF_HOW_XEES_SEX_INS_GEO_NB	ok	13.8s	Average weekly hours actually worked per employee by sex, public/private sector and rural/urban areas
+DF_HOW_XEES_SEX_INS_MTS_NB	ok	67.4s	Average weekly hours actually worked per employee by sex, public/private sector and marital status
+DF_HOW_XEES_SEX_INS_NB	ok	60.9s	Average weekly hours actually worked per employee by sex and public/private sector
+DF_HOW_XEES_SEX_MTS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average weekly hours actually worked per employee by sex and marital status
+DF_HOW_XEES_SEX_NB	ok	6.6s	Average weekly hours actually worked per employee by sex
+DF_HOW_XEES_SEX_OC2_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average weekly hours actually worked per employee by sex and occupation - ISCO level 2
+DF_HOW_XEES_SEX_OCU_DSB_NB	ok	7.2s	Average weekly hours actually worked per employee by sex, occupation and disability status
+DF_HOW_XEES_SEX_OCU_EDU_NB	ok	76.7s	Average weekly hours actually worked per employee by sex, occupation and education
+DF_HOW_XEES_SEX_OCU_EST_NB	ok	83.4s	Average weekly hours actually worked per employee by sex, occupation and establishment size
+DF_HOW_XEES_SEX_OCU_GEO_NB	ok	35.7s	Average weekly hours actually worked per employee by sex, occupation and rural / urban areas
+DF_HOW_XEES_SEX_OCU_INS_NB	ok	10.7s	Average weekly hours actually worked per employee by sex, occupation and public/private sector
+DF_HOW_XEES_SEX_OCU_MTS_NB	ok	98.1s	Average weekly hours actually worked per employee by sex, occupation and marital status
+DF_HOW_XEES_SEX_OCU_NB	ok	89.7s	Average weekly hours actually worked per employee by sex and occupation
+DF_ILR_CBCT_NOC_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Collective bargaining coverage rate
+DF_ILR_TUMT_NOC_RT	ok	54.2s	Trade union density rate
+DF_IMF_ILOSTAT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	ILOSTAT data exchange with IMF
+DF_INJ_DAYS_ECO_NB	ok	61.7s	Days lost due to cases of occupational injury with temporary incapacity for work by economic activity
+DF_INJ_DAYS_SEX_MIG_NB	ok	7.2s	Days lost due to cases of occupational injury with temporary incapacity for work by sex and migrant status
+DF_INJ_FATL_ECO_NB	ok	7.0s	Cases of fatal occupational injury by economic activity
+DF_INJ_FATL_ECO_RT	ok	6.2s	Fatal occupational injuries per 100'000 workers by economic activity
+DF_INJ_FATL_SEX_MIG_NB	ok	10.3s	Cases of fatal occupational injury by sex and migrant status
+DF_INJ_FATL_SEX_MIG_RT	ok	6.4s	Fatal occupational injuries per 100'000 workers by sex and migrant status
+DF_INJ_NFTL_ECO_NB	ok	6.6s	Cases of non-fatal occupational injury by economic activity
+DF_INJ_NFTL_ECO_RT	ok	6.4s	Non-fatal occupational injuries per 100'000 workers by economic activity
+DF_INJ_NFTL_INJ_ECO_NB	ok	6.3s	Cases of non-fatal occupational injury by type of incapacity and economic activity
+DF_INJ_NFTL_SEX_INJ_MIG_NB	ok	6.0s	Cases of non-fatal occupational injury by sex, type of incapacity and migrant status
+DF_INJ_NFTL_SEX_MIG_NB	ok	8.3s	Cases of non-fatal occupational injury by sex and migrant status
+DF_INJ_NFTL_SEX_MIG_RT	ok	6.4s	Non-fatal occupational injuries per 100'000 workers by sex and migrant status
+DF_INJ_WORK_ECO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Workers in the reference group by economic activity
+DF_INJ_WORK_SEX_MIG_NB	ok	7.5s	Workers in the reference group by sex and migrant status
+DF_LAC_XEES_CUR_NB	ok	32.2s	Average hourly labour cost per employee by currency - Discontinued
+DF_LAC_XEES_ECO_CUR_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average hourly labour cost per employee by economic activity and currency - Discontinued
+DF_LAC_XEES_ECO_NB	ok	7.9s	Average hourly labour cost per employee by economic activity - Discontinued
+DF_LAC_XEES_NOC_NB	ok	6.9s	Average hourly labour cost per employee - Discontinued
+DF_LAI_INDE_NOC_RT	ok	65.2s	Inspectors per 10'000 employed persons
+DF_LAI_INSP_SEX_NB	ok	61.1s	Number of labour inspectors by sex
+DF_LAI_VDIN_NOC_RT	ok	63.8s	Labour inspection visits per inspector
+DF_LAI_VIST_NOC_NB	ok	11.9s	Number of labour inspection visits
+DF_LAI_WOPL_NOC_NB	ok	9.9s	Number of registered workplaces that could be selected for labour inspection
+DF_LAP_2FTM_NOC_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Gender income gap -- ILO modelled estimates, Nov. 2025
+DF_LAP_2GDP_NOC_RT	ok	9.7s	Labour income share as a percent of GDP -- ILO modelled estimates, Nov. 2025
+DF_LAP_2LID_QTL_RT	ok	7.0s	Labour income distribution by decile -- ILO modelled estimates, Sept. 2025
+DF_LUU_2LU2_SEX_AGE_RT	ok	24.7s	LU2: Combined rate of time-related underemployment and unemployment by sex and age -- ILO modelled estimates, Nov. 2025
+DF_LUU_2LU2_SEX_RT	ok	12.9s	LU2: Combined rate of time-related underemployment and unemployment by sex -- ILO modelled estimates, Nov. 2025
+DF_LUU_2LU3_SEX_RT	fail	no large svg found	LU3: Combined rate of unemployment and potential labour force by sex -- ILO modelled estimates, Nov. 2025
+DF_LUU_2LU4_SEX_NB	fail	no large svg found	LU4: Composite measure of labour underutilization by sex -- ILO modelled estimates, Nov. 2025
+DF_LUU_2LU4_SEX_RT	fail	no large svg found	LU4: Composite rate of labour underutilization by sex -- ILO modelled estimates, Nov. 2025
+DF_LUU_2LUX_SEX_NB	fail	no large svg found	Jobs gap by sex -- ILO modelled estimates, Nov. 2025
+DF_LUU_2LUX_SEX_RT	fail	no large svg found	Jobs gap rate by sex -- ILO modelled estimates, Nov. 2025
+DF_LUU_5LU2_SEX_AGE_RT	ok	5.4s	LU2: Combined rate of time-related underemployment and unemployment by sex and age -- 19th ICLS
+DF_LUU_5LU3_SEX_AGE_RT	ok	58.0s	LU3: Combined rate of unemployment and potential labour force by sex and age -- 19th ICLS
+DF_LUU_5LU4_SEX_AGE_RT	ok	52.6s	LU4: Composite rate of labour underutilization by sex and age -- 19th ICLS
+DF_LUU_XLU2_SEX_AGE_EDU_RT	ok	51.5s	LU2: Combined rate of time-related underemployment and unemployment by sex, age and education
+DF_LUU_XLU2_SEX_AGE_GEO_RT	ok	31.7s	LU2: Combined rate of time-related underemployment and unemployment by sex, age and rural / urban areas
+DF_LUU_XLU2_SEX_AGE_MTS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	LU2: Combined rate of time-related underemployment and unemployment by sex, age and marital status
+DF_LUU_XLU2_SEX_AGE_RT	ok	39.0s	LU2: Combined rate of time-related underemployment and unemployment by sex and age
+DF_LUU_XLU2_SEX_DSB_RT	ok	5.8s	LU2: Combined rate of time-related underemployment and unemployment by sex and disability status
+DF_LUU_XLU2_SEX_EDU_GEO_RT	ok	27.0s	LU2: Combined rate of time-related underemployment and unemployment by sex, education and rural / urban areas
+DF_LUU_XLU2_SEX_EDU_MTS_RT	ok	11.1s	LU2: Combined rate of time-related underemployment and unemployment by sex, education and marital status
+DF_LUU_XLU2_SEX_EDU_RT	ok	79.9s	LU2: Combined rate of time-related underemployment and unemployment by sex and education
+DF_LUU_XLU2_SEX_GEO_MTS_RT	ok	45.5s	LU2: Combined rate of time-related underemployment and unemployment by sex, rural / urban area and marital status
+DF_LUU_XLU2_SEX_GEO_RT	ok	25.5s	LU2: Combined rate of time-related underemployment and unemployment by sex and rural / urban areas
+DF_LUU_XLU2_SEX_MTS_RT	ok	6.4s	LU2: Combined rate of time-related underemployment and unemployment by sex and marital status
+DF_LUU_XLU2_SEX_RT	ok	15.2s	LU2: Combined rate of time-related underemployment and unemployment by sex
+DF_LUU_XLU3_SEX_AGE_EDU_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	LU3: Combined rate of unemployment and potential labour force by sex, age and education
+DF_LUU_XLU3_SEX_AGE_GEO_RT	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	LU3: Combined rate of unemployment and potential labour force by sex, age and rural / urban areas
+DF_LUU_XLU3_SEX_AGE_MTS_RT	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	LU3: Combined rate of unemployment and potential labour force by sex, age and marital status
+DF_LUU_XLU3_SEX_AGE_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	LU3: Combined rate of unemployment and potential labour force by sex and age
+DF_LUU_XLU3_SEX_DSB_RT	ok	61.7s	LU3: Combined rate of unemployment and potential labour force by sex and disability status
+DF_LUU_XLU3_SEX_EDU_GEO_RT	ok	65.2s	LU3: Combined rate of unemployment and potential labour force by sex, education and rural / urban areas
+DF_LUU_XLU3_SEX_EDU_MTS_RT	ok	60.7s	LU3: Combined rate of unemployment and potential labour force by sex, education and marital status
+DF_LUU_XLU3_SEX_EDU_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	LU3: Combined rate of unemployment and potential labour force by sex and education
+DF_LUU_XLU3_SEX_GEO_MTS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	LU3: Combined rate of unemployment and potential labour force by sex, rural / urban area and marital status
+DF_LUU_XLU3_SEX_GEO_RT	ok	8.1s	LU3: Combined rate of unemployment and potential labour force by sex and rural / urban areas
+DF_LUU_XLU3_SEX_MTS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	LU3: Combined rate of unemployment and potential labour force by sex and marital status
+DF_LUU_XLU3_SEX_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	LU3: Combined rate of unemployment and potential labour force by sex
+DF_LUU_XLU4_SEX_AGE_EDU_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	LU4: Composite rate of labour underutilization by sex, age and education
+DF_LUU_XLU4_SEX_AGE_GEO_RT	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	LU4: Composite rate of labour underutilization by sex, age and rural / urban areas
+DF_LUU_XLU4_SEX_AGE_MTS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	LU4: Composite rate of labour underutilization by sex, age and marital status
+DF_LUU_XLU4_SEX_AGE_RT	ok	36.3s	LU4: Composite rate of labour underutilization by sex and age
+DF_LUU_XLU4_SEX_DSB_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	LU4: Composite rate of labour underutilization by sex and disability status
+DF_LUU_XLU4_SEX_EDU_GEO_RT	ok	12.1s	LU4: Composite rate of labour underutilization by sex, education and rural / urban areas
+DF_LUU_XLU4_SEX_EDU_MTS_RT	ok	63.8s	LU4: Composite rate of labour underutilization by sex, education and marital status
+DF_LUU_XLU4_SEX_EDU_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	LU4: Composite rate of labour underutilization by sex and education
+DF_LUU_XLU4_SEX_GEO_MTS_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	LU4: Composite rate of labour underutilization by sex, rural / urban area and marital status
+DF_LUU_XLU4_SEX_GEO_RT	ok	7.1s	LU4: Composite rate of labour underutilization by sex and rural / urban areas
+DF_LUU_XLU4_SEX_MTS_RT	ok	7.0s	LU4: Composite rate of labour underutilization by sex and marital status
+DF_LUU_XLU4_SEX_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	LU4: Composite measure of labour underutilization by sex
+DF_LUU_XLU4_SEX_RT	ok	95.2s	LU4: Composite rate of labour underutilization by sex
+DF_LUU_XLUX_SEX_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Jobs gap
+DF_LUU_XLUX_SEX_RT	ok	9.9s	Jobs gap rate
+DF_POP_2LDR_NOC_RT	ok	6.7s	Labour dependency ratio -- ILO modelled estimates, Nov. 2025
+DF_POP_2POP_SEX_NB	ok	59.0s	Population by sex -- UN estimates and projections, July 2024
+DF_POP_2WAP_SEX_AGE_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Working-age population by sex and age -- UN estimates and projections, July 2024
+DF_POP_3TED_SEX_ECO_NB	ok	9.1s	Youth transited by sex and economic activity
+DF_POP_3TED_SEX_OCU_NB	ok	6.3s	Youth transited by sex and occupation
+DF_POP_3TED_SEX_STE_NB	ok	6.3s	Youth transited by sex and status in employment
+DF_POP_3VET_SEX_AGE_NB	ok	10.6s	Youth working-age population with vocational education or training by sex and age
+DF_POP_3WAP_SEX_AGE_DSB_NB	ok	6.1s	Youth working-age population by sex, age and disability status
+DF_POP_3WAP_SEX_AGE_EDU_NB	ok	8.6s	Youth working-age population by sex, age and education
+DF_POP_3WAP_SEX_AGE_GEO_NB	ok	10.3s	Youth working-age population by sex, age and rural / urban areas
+DF_POP_3WAP_SEX_AGE_LMS_NB	ok	8.8s	Youth working-age population by sex, age and labour market status
+DF_POP_3WAP_SEX_AGE_STU_NB	ok	18.7s	Youth working-age population by sex, age and school attendance status
+DF_POP_3WAP_SEX_AGE_TRA_NB	ok	7.7s	Youth working-age population by sex, age and forms of transition
+DF_POP_3WAP_SEX_AGE_TRS_NB	ok	6.8s	Youth working-age population by sex, age and stages of transition
+DF_POP_3WAP_SEX_EDU_TRA_NB	ok	7.6s	Youth working-age population by sex, education and forms of transition
+DF_POP_3WAP_SEX_EDU_TRS_NB	ok	7.4s	Youth working-age population by sex, education and stages of transition
+DF_POP_3WAP_SEX_GEO_TRA_NB	ok	16.7s	Youth working-age population by sex, rural / urban areas and forms of transition
+DF_POP_3WAP_SEX_GEO_TRS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Youth working-age population by sex, rural / urban areas and stages of transition
+DF_POP_3WBL_SEX_WBL_NB	ok	72.3s	Youth work-based learners by sex and type of trainee
+DF_POP_3WBL_SEX_WBL_RT	ok	7.2s	Youth participation rate in work-based learning by sex and type of trainee (per 1000 persons)
+DF_POP_MFLB_SEX_CBR_NB	ok	7.3s	Inflow of working-age foreign-born population by sex and country of birth
+DF_POP_MFLB_SEX_EDU_NB	ok	6.3s	Inflow of working-age foreign-born population by sex and education
+DF_POP_MFLC_SEX_CCT_NB	ok	5.7s	Inflow of working age foreign citizens by sex and country of citizenship
+DF_POP_MFLC_SEX_EDU_NB	ok	61.7s	Inflow of working age foreign citizens by sex and education
+DF_POP_MFRB_SEX_CBR_NB	ok	76.4s	Working-age foreign-born population by sex and country of birth
+DF_POP_MFRC_SEX_CCT_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Working age foreign citizens by sex and country of citizenship
+DF_POP_MNAO_SEX_CDS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Outflow of nationals by sex and country of destination
+DF_POP_MNAR_SEX_CPR_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Inflow of nationals returned from abroad by sex and country of previous residence
+DF_POP_MNAS_SEX_CRS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Stock of nationals abroad by sex and country of residence
+DF_POP_XVET_SEX_AGE_NB	ok	6.8s	Working-age population with vocational education or training by sex and age
+DF_POP_XVET_SEX_EDU_NB	ok	37.4s	Working-age population with vocational education or training by sex and education
+DF_POP_XVOL_AGE_VOL_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Number of volunteers by age and type of volunteer work
+DF_POP_XVOL_AGE_VOL_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Volunteer rate by age and type of volunteer work
+DF_POP_XVOL_SEX_VOL_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Number of volunteers by sex and type of volunteer work
+DF_POP_XVOL_SEX_VOL_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Volunteer rate by sex and type of volunteer work
+DF_POP_XWAP_SEX_AGE_CBR_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Working-age population by sex, age and place of birth
+DF_POP_XWAP_SEX_AGE_CCT_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Working-age population by sex, age and citizenship
+DF_POP_XWAP_SEX_AGE_DSB_NB	ok	10.4s	Working-age population by sex, age and disability status
+DF_POP_XWAP_SEX_AGE_EDU_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Working-age population by sex, age and education
+DF_POP_XWAP_SEX_AGE_GEO_NB	ok	70.5s	Working-age population by sex, age and rural / urban areas
+DF_POP_XWAP_SEX_AGE_LMS_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Working-age population by sex, age and labour market status
+DF_POP_XWAP_SEX_AGE_MTS_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Working-age population by sex, age and marital status
+DF_POP_XWAP_SEX_AGE_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Working-age population by sex and age
+DF_POP_XWAP_SEX_DSB_LMS_NB	ok	62.2s	Working-age population by sex, disability status and labour market status
+DF_POP_XWAP_SEX_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Working-age population by sex and disability status
+DF_POP_XWAP_SEX_EDU_CBR_NB	ok	72.4s	Working-age population by sex, education and place of birth
+DF_POP_XWAP_SEX_EDU_CCT_NB	ok	11.4s	Working-age population by sex, education and citizenship
+DF_POP_XWAP_SEX_EDU_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Working-age population by sex, education and disability status
+DF_POP_XWAP_SEX_EDU_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Working-age population by sex, education and rural / urban areas
+DF_POP_XWAP_SEX_EDU_LMS_NB	ok	97.6s	Working-age population by sex, education and labour market status
+DF_POP_XWAP_SEX_EDU_MTS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Working-age population by sex, education and marital status
+DF_POP_XWAP_SEX_EDU_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Working-age population by sex and education
+DF_POP_XWAP_SEX_GEO_DSB_NB	ok	62.3s	Working-age population by sex, rural / urban areas and disability status
+DF_POP_XWAP_SEX_GEO_LMS_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Working-age population by sex, rural / urban areas and labour market status
+DF_POP_XWAP_SEX_GEO_MTS_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Working-age population by sex, rural / urban area and marital status
+DF_POP_XWAP_SEX_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Working-age population by sex and rural / urban areas
+DF_POP_XWAP_SEX_LMS_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Working-age population by sex and labour market status
+DF_POP_XWAP_SEX_MTS_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Working-age population by sex, marital status and disability status
+DF_POP_XWAP_SEX_MTS_LMS_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Working-age population by sex, marital status and labour market status
+DF_POP_XWAP_SEX_MTS_NB	ok	63.2s	Working-age population by sex and marital status
+DF_POP_XWBL_SEX_AGE_WBL_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Work-based learners by sex, age and type of trainee
+DF_POP_XWBL_SEX_AGE_WBL_RT	ok	46.6s	Participation rate in work-based learning by sex, age and type of trainee (per 1000 persons)
+DF_POP_XWBL_SEX_EDU_WBL_NB	ok	5.9s	Work-based learners by sex, education and type of trainee
+DF_SDG_0111_SEX_AGE_RT	ok	9.6s	SDG indicator 1.1.1: Working poverty rate by sex and age
+DF_SDG_0131_SEX_SOC_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	SDG indicator 1.3.1: Proportion of population covered by social protection floors/systems by sex and function
+DF_SDG_0552_NOC_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	SDG indicator 5.5.2: Proportion of women in senior and middle management positions
+DF_SDG_0821_NOC_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	SDG indicator 8.2.1: Annual growth rate of output per worker, GDP constant 2015 US dollars
+DF_SDG_0831_SEX_ECO_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	SDG indicator 8.3.1: Proportion of informal employment in total employment by sex and economic activity
+DF_SDG_0851_SEX_OCU_NB	ok	6.6s	SDG indicator 8.5.1: Average hourly earnings of employees by sex
+DF_SDG_0852_SEX_AGE_RT	ok	67.1s	SDG indicator 8.5.2: Unemployment rate by sex and age
+DF_SDG_0852_SEX_DSB_RT	ok	50.0s	SDG indicator 8.5.2: Unemployment rate by sex and disability status
+DF_SDG_0861_SEX_RT	ok	8.4s	SDG indicator 8.6.1: Proportion of youth aged 15 to 24 years not in education, employment or training by sex
+DF_SDG_0882_NOC_RT	ok	4.8s	SDG indicator 8.8.2: Level of national compliance with labour rights, freedom of association and collective bargaining
+DF_SDG_08B1_NOC_NB	ok	7.4s	SDG indicator 8.b.1: Existence of a developed and operationalized national strategy for youth employment
+DF_SDG_0922_NOC_RT	ok	6.3s	SDG indicator 9.2.2: Manufacturing employment as a proportion of total employment
+DF_SDG_1041_NOC_RT	ok	5.9s	SDG indicator 10.4.1: Labour income share as a percent of GDP
+DF_SDG_A871_SEX_AGE_RT	ok	5.8s	SDG indicator 8.7.1: Proportion of children engaged in economic activity by sex and age
+DF_SDG_B552_NOC_RT	ok	5.0s	SDG indicator 5.5.2: Proportion of women in senior and middle management positions -- 19th ICLS
+DF_SDG_B821_NOC_RT	ok	5.3s	SDG indicator 8.2.1: Annual growth rate of output per worker, GDP constant 2021 international dollars at PPP
+DF_SDG_B831_SEX_ECO_RT	ok	5.8s	SDG indicator 8.3.1: Proportion of informal employment in total employment by sex and economic activity -- 19th ICLS
+DF_SDG_B852_SEX_AGE_RT	ok	29.2s	SDG indicator 8.5.2: Unemployment rate by sex and age -- 19th ICLS
+DF_SDG_B852_SEX_DSB_RT	ok	5.2s	SDG indicator 8.5.2: Unemployment rate by sex and disability status -- 19th ICLS
+DF_SDG_B871_SEX_AGE_RT	ok	5.1s	SDG indicator 8.7.1: Proportion of children engaged in economic activity and household chores by sex and age
+DF_SDG_B922_NOC_RT	ok	4.9s	SDG indicator 9.2.2: Manufacturing employment as a proportion of total employment -- 19th ICLS
+DF_SDG_F881_SEX_MIG_RT	ok	5.2s	SDG indicator 8.8.1: Fatal occupational injuries per 100'000 workers by sex and migrant status
+DF_SDG_N881_SEX_MIG_RT	ok	5.5s	SDG indicator 8.8.1: Non-fatal occupational injuries per 100'000 workers by sex and migrant status
+DF_SDG_T552_NOC_RT	ok	29.5s	SDG indicator 5.5.2: Proportion of women in managerial positions
+DF_SDG_U552_NOC_RT	ok	5.4s	SDG indicator 5.5.2: Proportion of women in managerial positions -- 19th ICLS
+DF_STR_DAYS_ECO_NB	ok	59.5s	Days not worked due to strikes and lockouts by economic activity
+DF_STR_DAYS_ECO_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Days not worked per 1000 workers due to strikes and lockouts by economic activity
+DF_STR_TSTR_ECO_NB	ok	7.0s	Number of strikes and lockouts by economic activity
+DF_STR_WORK_ECO_NB	ok	15.7s	Number of workers involved in strikes and lockouts by economic activity
+DF_UNE_2EAP_SEX_AGE_RT	ok	59.6s	Unemployment rate by sex and age -- ILO modelled estimates, Nov. 2025
+DF_UNE_2UNE_SEX_AGE_NB	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Unemployment by sex and age -- ILO modelled estimates, Nov. 2025
+DF_UNE_3EAP_SEX_AGE_DSB_RT	ok	6.7s	Youth unemployment rate by sex, age and disability status
+DF_UNE_3EAP_SEX_AGE_EDU_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Youth unemployment rate by sex, age and education
+DF_UNE_3EAP_SEX_AGE_GEO_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Youth unemployment rate by sex, age and rural / urban areas
+DF_UNE_3EAP_SEX_AGE_STU_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Youth unemployment rate by sex, age and school attendance status
+DF_UNE_3UNE_SEX_AGE_CAT_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Youth unemployment by sex, age and categories of unemployed persons
+DF_UNE_3UNE_SEX_AGE_DSB_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Youth unemployment by sex, age and disability status
+DF_UNE_3UNE_SEX_AGE_DUR_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Youth unemployment by sex, age and duration
+DF_UNE_3UNE_SEX_AGE_EDU_NB	ok	11.9s	Youth unemployment by sex, age and education
+DF_UNE_3UNE_SEX_AGE_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Youth unemployment by sex, age and rural / urban areas
+DF_UNE_3UNE_SEX_AGE_STU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Youth unemployment by sex, age and school attendance status
+DF_UNE_3WAP_SEX_AGE_DSB_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Youth unemployment-to-population ratio by sex, age and disability status
+DF_UNE_3WAP_SEX_AGE_EDU_RT	ok	8.9s	Youth unemployment-to-population ratio by sex, age and education
+DF_UNE_3WAP_SEX_AGE_GEO_RT	ok	10.0s	Youth unemployment-to-population ratio by sex, age and rural / urban areas
+DF_UNE_3WAP_SEX_AGE_STU_RT	ok	8.7s	Youth unemployment-to-population ratio by sex, age and school attendance status
+DF_UNE_5EAP_SEX_AGE_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Unemployment rate by sex and age -- 19th ICLS
+DF_UNE_5EAP_SEX_DSB_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Unemployment rate by sex and disability status -- 19th ICLS
+DF_UNE_5EAP_SEX_EDU_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Unemployment rate by sex and education -- 19th ICLS
+DF_UNE_5UNE_SEX_AGE_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Unemployment by sex and age -- 19th ICLS
+DF_UNE_DEA1_SEX_AGE_RT	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Unemployment rate, SA by sex and age (Sub-annual)
+DF_UNE_DEAP_SEX_AGE_CBR_RT	ok	7.8s	Unemployment rate by sex, age and place of birth
+DF_UNE_DEAP_SEX_AGE_CCT_RT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Unemployment rate by sex, age and citizenship
+DF_UNE_DEAP_SEX_AGE_DSB_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Unemployment rate by sex, age and disability status
+DF_UNE_DEAP_SEX_AGE_EDU_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Unemployment rate by sex, age and education
+DF_UNE_DEAP_SEX_AGE_GEO_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Unemployment rate by sex, age and rural / urban areas
+DF_UNE_DEAP_SEX_AGE_MTS_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Unemployment rate by sex, age and marital status
+DF_UNE_DEAP_SEX_AGE_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Unemployment rate by sex and age
+DF_UNE_DEAP_SEX_DSB_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Unemployment rate by sex and disability status
+DF_UNE_DEAP_SEX_EDU_CBR_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Unemployment rate by sex, education and place of birth
+DF_UNE_DEAP_SEX_EDU_CCT_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Unemployment rate by sex, education and citizenship
+DF_UNE_DEAP_SEX_EDU_DSB_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Unemployment rate by sex, education and disability status
+DF_UNE_DEAP_SEX_EDU_GEO_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Unemployment rate by sex, education and rural / urban areas
+DF_UNE_DEAP_SEX_EDU_MTS_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Unemployment rate by sex, education and marital status
+DF_UNE_DEAP_SEX_EDU_RT	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Unemployment rate by sex and education
+DF_UNE_DEAP_SEX_GEO_DSB_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Unemployment rate by sex, rural / urban areas and disability status
+DF_UNE_DEAP_SEX_GEO_MTS_RT	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Unemployment rate by sex, rural / urban area and marital status
+DF_UNE_DEAP_SEX_GEO_RT	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Unemployment rate by sex and rural / urban areas
+DF_UNE_DEAP_SEX_MTS_DSB_RT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Unemployment rate by sex, marital status and disability status
+DF_UNE_DEAP_SEX_MTS_RT	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Unemployment rate by sex and marital status
+DF_UNE_PUNE_SEX_ECO_EDU_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Unemployment of previously employed persons by sex, former economic activity and education
+DF_UNE_PUNE_SEX_ECO_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Unemployment of previously employed persons by sex and former economic activity
+DF_UNE_PUNE_SEX_OCU_EDU_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Unemployment of previously employed persons by sex, occupation and education
+DF_UNE_PUNE_SEX_OCU_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Unemployment of previously employed persons by sex and former occupation
+DF_UNE_TUN1_SEX_AGE_DUR_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Unemployment, SA by sex, age and duration (Sub-annual)
+DF_UNE_TUN1_SEX_AGE_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Unemployment, SA by sex and age (Sub-annual)
+DF_UNE_TUNE_SEX_AGE_CBR_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Unemployment by sex, age and place of birth
+DF_UNE_TUNE_SEX_AGE_CCT_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Unemployment by sex, age and citizenship
+DF_UNE_TUNE_SEX_AGE_DSB_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Unemployment by sex, age and disability status
+DF_UNE_TUNE_SEX_AGE_DUR_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Unemployment by sex, age and duration
+DF_UNE_TUNE_SEX_AGE_EDU_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Unemployment by sex, age and education
+DF_UNE_TUNE_SEX_AGE_GEO_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Unemployment by sex, age and rural / urban areas
+DF_UNE_TUNE_SEX_AGE_MTS_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Unemployment by sex, age and marital status
+DF_UNE_TUNE_SEX_AGE_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Unemployment by sex and age
+DF_UNE_TUNE_SEX_CAT_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Unemployment by sex and categories of unemployed persons
+DF_UNE_TUNE_SEX_DSB_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Unemployment by sex and disability status
+DF_UNE_TUNE_SEX_DUR_GEO_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Unemployment by sex, duration and rural / urban areas
+DF_UNE_TUNE_SEX_DUR_MTS_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Unemployment by sex, duration and marital status
+DF_UNE_TUNE_SEX_EDU_CBR_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Unemployment by sex, education and place of birth
+DF_UNE_TUNE_SEX_EDU_CCT_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Unemployment by sex, education and citizenship
+DF_UNE_TUNE_SEX_EDU_DSB_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Unemployment by sex, education and disability status
+DF_UNE_TUNE_SEX_EDU_GEO_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Unemployment by sex, education and rural / urban areas
+DF_UNE_TUNE_SEX_EDU_MTS_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Unemployment by sex, education and marital status
+DF_UNE_TUNE_SEX_EDU_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Unemployment by sex and education
+DF_UNE_TUNE_SEX_GEO_DSB_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Unemployment by sex, rural / urban areas and disability status
+DF_UNE_TUNE_SEX_GEO_MTS_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Unemployment by sex, rural / urban area and marital status
+DF_UNE_TUNE_SEX_GEO_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Unemployment by sex and rural / urban areas
+DF_UNE_TUNE_SEX_MTS_DSB_NB	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Unemployment by sex, marital status and disability status
+DF_UNE_TUNE_SEX_MTS_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Unemployment by sex and marital status
+DF_CLD_XGPB_SEX_AGE_NB	fail	TimeoutError: Page.wait_for_function: Timeout 180000ms exceeded.	Children in child labour -- General Production Boundary by sex and age
+DF_CLD_XHAZ_SEX_AGE_RT	ok	3.0s	Share of children in hazardous work by sex and age
+DF_CLD_XHAZ_SEX_AGE_STU_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Children in hazardous work by sex, age and school attendance status
+DF_CLD_XHAZ_SEX_AGE_STU_RT	fail	TimeoutError: Page.wait_for_function: Timeout 180000ms exceeded.	Share of children in hazardous work by sex, age and school attendance
+DF_CLD_XSNA_SEX_AGE_GEO_RT	fail	TimeoutError: Page.wait_for_function: Timeout 180000ms exceeded.	Share of children engaged in economic activity by sex, age and rural / urban areas
+DF_CLD_XSNA_SEX_AGE_RT	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Share of children engaged in economic activity by sex and age
+DF_CLD_XSNA_SEX_AGE_STE_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Children in employment by sex, age and status in employment
+DF_CLD_XSNA_SEX_AGE_STU_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Children in employment by sex, age and school attendance status
+DF_CPI_NCPD_COI_RT	fail	TimeoutError: Page.wait_for_function: Timeout 180000ms exceeded.	CPI: National consumer price index, percentage change from previous period by COICOP (Sub-annual)
+DF_CPI_NCYR_COI_RT	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	CPI: National consumer price index, percentage change from previous year by COICOP
+DF_CPI_XCPI_COI_RT	fail	TimeoutError: Page.wait_for_function: Timeout 180000ms exceeded.	CPI: National consumer price index, base year 2017 = 100 by COICOP
+DF_EAP_2WAP_SEX_AGE_RT	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Labour force participation rate by sex and age -- ILO modelled estimates, Nov. 2025
+DF_EAP_3EAP_SEX_AGE_DSB_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Youth labour force by sex, age and disability status
+DF_EAP_3EAP_SEX_AGE_STU_NB	fail	TimeoutError: Page.wait_for_function: Timeout 180000ms exceeded.	Youth labour force by sex, age and school attendance status
+DF_EAP_3WAP_SEX_AGE_DSB_RT	fail	TimeoutError: Page.wait_for_function: Timeout 180000ms exceeded.	Youth labour force participation rate by sex, age and disability status
+DF_EAP_3WAP_SEX_AGE_EDU_RT	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Youth labour force participation rate by sex, age and education
+DF_EAP_3WAP_SEX_AGE_STU_RT	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Youth labour force participation rate by sex, age and school attendance status
+DF_EAP_5EAP_SEX_AGE_NB	fail	TimeoutError: Page.wait_for_function: Timeout 180000ms exceeded.	Labour force by sex and age -- 19th ICLS
+DF_EAP_DWAP_SEX_AGE_CCT_RT	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Labour force participation rate by sex, age and citizenship
+DF_EAP_DWAP_SEX_AGE_EDU_RT	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Labour force participation rate by sex, age and education
+DF_EAP_DWAP_SEX_AGE_GEO_RT	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Labour force participation rate by sex, age and rural / urban areas
+DF_EAP_DWAP_SEX_AGE_MTS_RT	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Labour force participation rate by sex, age and marital status
+DF_EAP_DWAP_SEX_AGE_RT	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Labour force participation rate by sex and age
+DF_EAP_DWAP_SEX_EDU_CBR_RT	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Labour force participation rate by sex, education and place of birth
+DF_EAP_TEA1_SEX_AGE_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Labour force, SA by sex and age (Sub-annual)
+DF_EAP_TEAP_SEX_AGE_EDU_NB	fail	TimeoutError: Page.wait_for_function: Timeout 180000ms exceeded.	Labour force by sex, age and education
+DF_EAP_TEAP_SEX_AGE_GEO_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Labour force by sex, age and rural / urban areas
+DF_EAP_TEAP_SEX_AGE_MTS_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Labour force by sex, age and marital status
+DF_EAP_TEAP_SEX_AGE_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Labour force by sex and age
+DF_EAP_TEAP_SEX_GEO_MTS_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Labour force by sex, rural / urban area and marital status
+DF_EAP_TEAP_SEX_GEO_NB	fail	TimeoutError: Page.wait_for_function: Timeout 180000ms exceeded.	Labour force by sex and rural / urban areas
+DF_EAP_TEAP_SEX_MTS_DSB_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Labour force by sex, marital status and disability status
+DF_EAR_CHRA_SEX_CUR_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Average hourly earnings of care employees by sex and currency
+DF_EAR_CHRA_SEX_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Average hourly earnings of care employees by sex
