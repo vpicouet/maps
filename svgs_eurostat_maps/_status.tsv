@@ -1803,3 +1803,151 @@ GBV_NPV_RDUR	fail	Could not draw this chartThis indicator has several breakdowns
 NAIDQ_10_PE	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Employment and population - international data cooperation quarterly data
 ENPE_ISOC_CI_IT_H	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Internet penetration by type of internet - per 100 persons - ENP-East countries
 GBV_NPV_ROFT	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Women who experienced repeated violence by a non-partner, by periodicity of the violence
+NAIDSA_10_F_BS	fail	TimeoutError: Page.wait_for_function: Timeout 150000ms exceeded.	Financial balance sheets - international data cooperation
+GBV_NPV_RP	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Women who have experienced violence by a non-partner, by person/support service to whom violence was reported
+NAIDSA_10_F_TR	fail	TimeoutError: Page.wait_for_function: Timeout 150000ms exceeded.	Financial transactions - international data cooperation
+ENPE_ISOC_PENRT	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Fixed telephone line and mobile phone penetration rate - ENP-East countries
+GBV_NPV_TYPE	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Women who have experienced violence by a non-partner, by type of violence
+NAIDSA_10_NF_TR	fail	TimeoutError: Page.wait_for_function: Timeout 150000ms exceeded.	Non-financial transactions - selected international annual data
+ENPE_ISOC_SK_SKL_I	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Proportion of youths and adults (aged 16-74) by type of ICT skills - ENP-East countries
+GBV_SHW_AGE	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Ever-working women who have experienced sexual harassment at work, by age group
+NAIDSQ_10_F_BS	fail	TimeoutError: Page.wait_for_function: Timeout 150000ms exceeded.	Financial balance sheets - international data cooperation - quarterly data
+ENPE_LFSA_ACT	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Share of employed persons (aged 15 and over) by economic activity (NACE Rev.2) - ENP-East countries
+GBV_SHW_COMM	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Perception of ever-working women as victims/non-victims of sexual harassment at work by commonness of harassment
+NAIDSQ_10_F_TR	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Financial transactions - international data cooperation - quarterly data
+ENPE_LFSA_ARGAED	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Activity rates by sex and age - ENP-East countries
+GBV_SHW_FRQ	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Ever-working women who have experienced sexual harassment at work, by frequency
+NAIDSQ_10_NF_TR	fail	TimeoutError: Page.wait_for_function: Timeout 150000ms exceeded.	Non-financial transactions - selected international quarterly data
+GBV_SHW_OCC	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Ever-working women who have experienced sexual harassment at work, by occurrence of the last episode
+NAIO_10_CP15	fail	TimeoutError: Page.wait_for_function: Timeout 150000ms exceeded.	Supply table at basic prices incl. transformation into purchasers' prices
+ENPE_LFSA_ERGAN	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Employment and employment rates (aged 20-64) by sex - ENP-East countries
+GBV_SHW_PERP	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Ever-working women who have experienced sexual harassment at work, by type of male perpetrator
+NAIO_10_CP16	fail	TimeoutError: Page.wait_for_function: Timeout 150000ms exceeded.	Use table at purchasers' prices
+ENPE_LFSA_URGAN	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Unemployment rates by sex and age - ENP-East countries
+GBV_SHW_RP	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Ever-working women who have experienced sexual harassment at work, by person/support service to whom violence was report
+NAIO_10_CP1610	fail	TimeoutError: Page.wait_for_function: Timeout 150000ms exceeded.	Use table at basic prices
+ENPE_LFSA_URGAN2	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Long-term unemployment rates by sex - ENP-East countries
+GBV_SHW_SNWAGE	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Ever-working women who have experienced sexual harassment at work via social network and messages, by age group
+NAIO_10_CP1620	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Table of trade and transport margins
+ENPE_MAR_GO	ok	113.6s	Gross weight of goods handled - ENP-East countries
+NAIO_10_CP1630	fail	Could not draw this chartFailed to fetchTry again	Table of taxes less subsidies on product
+ENPE_MON_RES	fail	TimeoutError: Page.wait_for_function: Timeout 150000ms exceeded.	Money supply and official reserves - ENP-East countries
+NAIO_10_CP1700	fail	TimeoutError: Page.wait_for_function: Timeout 150000ms exceeded.	Symmetric input-output table at basic prices (product by product)
+GBV_SHW_TYPE	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Ever-working women who have experienced sexual harassment at work, by type of violence
+NAIO_10_CP1750	fail	TimeoutError: Page.wait_for_function: Timeout 150000ms exceeded.	Symmetric input-output table at basic prices (industry by industry)
+ENPE_NAMA_10_A10	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Gross value added by industry - ENP-East countries
+GBV_ST_AGE	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Women who have experienced stalking, by age group
+NAIO_10_FCP_II1	fail	TimeoutError: Page.wait_for_function: Timeout 150000ms exceeded.	EU inter-country input-output table at basic prices, industry by industry (2010-2013)
+GBV_ST_CNQ	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Women who have experienced stalking, by consequences of violence
+ENPE_NAMA_10_GDP	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Gross domestic product at market prices - ENP-East countries
+NAIO_10_FCP_II2	fail	TimeoutError: Page.wait_for_function: Timeout 150000ms exceeded.	EU inter-country input-output table at basic prices, industry by industry (2014-2017)
+GBV_ST_OCC	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Women who have experienced stalking, by occurrence of the last episode
+ENPE_NAMA_10_GDP_EA	fail	Could not draw this chartFailed to fetchTry again	Gross domestic product at market prices by expenditure - ENP-East countries
+GBV_ST_PERP	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Women who have experienced stalking, by type of perpetrator
+NAIO_10_FCP_II3	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	EU inter-country input-output table at basic prices, industry by industry (2018-2021)
+ENPE_NAMA_10_LP	ok	5.0s	Labour productivity in GDP (constant prices) per person employed - ENP-East countries
+GBV_ST_RP	ok	5.4s	Women who have experienced stalking, by person/support service to whom violence was reported
+NAIO_10_FCP_II4	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	EU inter-country input-output table at basic prices, industry by industry (2022 and onwards)
+ENPE_NAMA_10_PE	ok	4.5s	Employment growth (domestic concept) - ENP-East countries
+GBV_VTP_AGE	ok	5.3s	Persons who have experienced violence, by sex, type of perpetrator and age group
+NAIO_10_FCP_IP1	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	EU inter-country input-output table at basic prices, product by product (2010-2013)
+ENPE_NAMA_10_ULC	ok	4.8s	Nominal unit labour cost growth - ENP-East countries
+GBV_VTP_CNQ	ok	5.4s	Persons who had consequences due to experienced physical/sexual violence, by sex, perpetrator and type of consequence
+ENPE_NAMA_GDP_EXT	ok	6.0s	External balance of goods and services - ENP-East countries
+NAIO_10_FCP_IP2	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	EU inter-country input-output table at basic prices, product by product (2014-2017)
+GBV_VTP_DU	ok	5.3s	Persons who have experienced violence, by sex, type of perpetrator and degree of urbanisation
+ENPE_NRG_GIC	ok	4.5s	Gross inland consumption of energy - ENP-East countries
+GBV_VTP_ED	ok	5.4s	Persons who have experienced violence, by sex, type of perpetrator and level of education
+NAIO_10_FCP_IP3	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	EU inter-country input-output table at basic prices, product by product (2018-2021)
+ENPE_NRG_IMP	ok	4.5s	Net imports of energy products - ENP-East countries
+GBV_VTP_FREQ	ok	5.3s	Persons who have experienced once or repeated physical/sexual violence, by sex and perpetrator
+NAIO_10_FCP_IP4	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	EU inter-country input-output table at basic prices, product by product (2022 and onwards)
+ENPE_NRG_INTEN	ok	4.5s	Energy intensity of the economy (2015=100) - ENP-East countries
+GBV_VTP_IPVT	ok	5.6s	Ever-partnered persons who have experienced violence by an intimate partner, by sex and type of violence
+NAIO_10_FCP_S1	ok	8.2s	EU inter-country supply table at basic prices (2010-2013)
+GBV_VTP_LIM	ok	5.8s	Persons who have experienced violence, by sex, type of perpetrator and level of disability (activity limitation)
+ENPE_NRG_PPRD	ok	6.3s	Primary production by source of energy - ENP-East countries
+ENPE_NRG_PRCHH	ok	5.8s	Electricity and gas prices for households - ENP-East countries
+GBV_VTP_NPVT	ok	5.2s	Persons who have experienced violence by a non-partner, by sex and type of violence
+ENPE_NRG_PROD	ok	4.4s	Energy productivity - ENP-East countries
+NAIO_10_FCP_S2	ok	6.8s	EU inter-country supply table at basic prices (2014-2017)
+GBV_VTP_PERP	ok	5.3s	Persons who have experienced physical/sexual violence, by sex and type of perpetrator
+ENPE_NRG_RNEW	ok	4.4s	Share of renewable energy in gross final energy consumption - ENP-East countries
+GBV_VTP_RP	ok	5.3s	Persons who have experienced physical/sexual violence by sex, type of perpetrator and person/support service to whom vio
+ENPE_RAIL_GO	ok	4.5s	Goods transported by rail - ENP-East countries
+GBV_VTP_SHWA	ok	5.2s	Ever-working persons who have experienced sexual harassment at work, by sex and age group
+GBV_VTP_SHWT	ok	5.6s	Ever-working persons who have experienced sexual harassment at work, by sex and type of violence
+NAIO_10_FCP_S3	ok	6.7s	EU inter-country supply table at basic prices (2018-2021)
+ENPE_RAIL_IF	ok	4.3s	Length of rail lines - ENP-East countries
+GBV_VTP_TYPE	ok	5.1s	Persons who have experienced violence, by sex and type of violence
+ENPE_RD_E_GERDFUND	ok	4.4s	Gross domestic expenditure on R&D (GERD) - ENP-East countries
+NAIO_10_FCP_S4	ok	6.8s	EU inter-country supply table at basic prices (2022 and onwards)
+GOV_10A_EMP	ok	5.2s	General government employment
+NAIO_10_FCP_U1	fail	Could not draw this chartThe source took too long to answer.Try again	EU inter-country use table at basic prices (2010-2013)
+NAIO_10_FCP_U2	fail	TimeoutError: Page.wait_for_function: Timeout 150000ms exceeded.	EU inter-country use table at basic prices (2014-2017)
+GOV_10A_EXP	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	General government expenditure by function (COFOG)
+NAIO_10_FCP_U3	fail	TimeoutError: Page.wait_for_function: Timeout 150000ms exceeded.	EU inter-country use table at basic prices (2018-2021)
+NAIO_10_FCP_U4	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	EU inter-country use table at basic prices (2022 and onwards)
+NAIO_10_FGDE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Domestic value added in exports - EU perspective (FIGARO application)
+ENPE_RD_E_GERDSEC	ok	5.8s	Gross domestic expenditure on R&D (GERD) by source of funding - ENP-East countries
+GOV_10A_EXP$DV_578	fail	Could not draw this chartThe source could not be read right now.Try again	General government expenditure by function (COFOG)
+NAIO_10_FGDEE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Domestic employment in exports - EU perspective (FIGARO application)
+ENPE_RD_P_PERS	ok	4.6s	Share of R&D personnel in total employment - ENP-East countries
+GOV_10A_EXP$DV_584	fail	Could not draw this chartThe source could not be read right now.Try again	General government expenditure by function (COFOG)
+NAIO_10_FGDEM	ok	22.2s	Domestic employment in exports - EU country perspective (FIGARO application)
+ENPE_REG_AREA3	ok	6.1s	Total area - ENP-East countries
+NAIO_10_FGDF	ok	35.5s	Domestic value added in foreign final use (FIGARO application)
+GOV_10A_GGFA	ok	28.2s	Annual financial accounts for general government
+ENPE_ROAD_EQS_CAR	ok	4.4s	Passenger cars - ENP-East countries
+NAIO_10_FGDFE	ok	21.5s	Domestic employment in foreign final use (FIGARO application)
+GOV_10A_MAIN	ok	10.9s	Government revenue, expenditure and main aggregates
+ENPE_ROAD_GO	ok	4.5s	Road freight transport - ENP-East countries
+GOV_10A_NFBS	ok	6.1s	General government non-financial balance sheets
+NAIO_10_FGDM	ok	31.9s	Domestic value added in exports - EU country perspective (FIGARO application)
+ENPE_ROAD_IF	ok	6.3s	Length of roads network - ENP-East countries
+GOV_10A_TAXAG	ok	11.7s	Main national accounts tax aggregates
+ENPE_ROAD_PA	ok	6.3s	Passenger road transport - ENP-East countries
+NAIO_10_FGFD	ok	44.8s	Foreign value added in domestic final use (FIGARO application)
+GOV_10DD_ACD	ok	5.3s	Apparent cost of general government gross debt
+ENPE_SPR_EXP	ok	4.6s	Social protection expenditure excluding administrative costs (including health expenditure) - % of GDP - ENP-East countr
+GOV_10DD_DCUR	ok	5.4s	Debt by currency of issue
+NAIO_10_FGFEIE	ok	8.3s	Foreign value added in exports by exporting country and importing country - EU perspective (FIGARO application)
+ENPE_STS_INCOPR	ok	6.0s	Industrial and construction production volume index - calendar adjusted - ENP-East countries
+GOV_10DD_EDPT1	ok	5.6s	Government deficit/surplus, debt and associated data
+NAIO_10_FGFEIM	ok	48.9s	Foreign value added in exports by exporting country and importing country - EU country perspective (FIGARO application)
+GOV_10DD_EDPT2	ok	5.5s	Transition from the working balance to the deficit/surplus
+ENPE_STS_INPPD	ok	4.5s	Domestic industrial production price index - ENP-East countries
+NAIO_10_FGFOEE	ok	17.4s	Foreign value added in exports by country of origin and exporting country - EU perspective (FIGARO application)
+GOV_10DD_EDPT3	ok	6.2s	Transition from the deficit/surplus to the change in debt
+ENPE_STS_NFEMP	ok	6.4s	Persons employed within the non-financial business economy by size class - ENP-East countries
+NAIO_10_FGFOEM	ok	53.0s	Foreign value added in exports by country of origin and exporting country - EU country perspective (FIGARO application)
+GOV_10DD_GGD	ok	15.0s	General government debt
+ENPE_STS_TRTU	ok	5.8s	Services turnover index - calendar adjusted - ENP-East countries
+GOV_10DD_GUAR	ok	4.5s	Guarantees (contingent liabilities)
+NAIO_10_FGFOIE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Foreign value added in exports by country of origin and importing country - EU perspective (FIGARO application)
+GOV_10DD_RMD	ok	4.5s	Remaining maturity of general government gross debt
+ENPE_STS_TRTU1	ok	5.2s	Retail trade volume of sales index (deflated turnover) - ENP-East countries
+NAIO_10_FGFOIM	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Foreign value added in exports by country of origin and importing country - EU country perspective (FIGARO application)
+GOV_10Q_GGDEBT	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Quarterly government debt
+ENPE_TOUR_CAP_NAT	ok	4.8s	Number of bed places in hotels and similar accomodation - ENP-East countries
+GOV_10Q_GGFA	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Quarterly financial accounts for general government
+NAIO_10_FGGVCE	ok	5.5s	Global value chain participation - EU perspective (FIGARO application)
+ENPE_TOUR_DEM_TTTOT	ok	4.4s	Departures of residents going abroad for all holidays and business - ENP-East countries
+GOV_10Q_GGNFA	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Quarterly non-financial accounts for general government
+NAIO_10_FGGVCM	ok	4.6s	Global value chain participation - EU country perspective (FIGARO application)
+GOV_CL_GUAR	ok	4.7s	Government guarantees
+ENPE_TOUR_OCC_ARNAT	ok	4.4s	Arrivals of non-residents at hotels and similar accomodation establishments - ENP-East countries
+NAIO_10_FGTE	ok	11.6s	Exports by industry (FIGARO application)
+GOV_CL_LIAB	ok	5.9s	Liabilities of government controlled entities classified outside general government
+ENPE_WG_M	ok	4.3s	Average nominal monthly wages and salaries - ENP-East countries
+NAIO_10_FGTEX	ok	7.9s	Trading partner exposure (FIGARO application)
+GOV_CL_NPL	ok	5.2s	Non-performing loans of government
+ENPS_APRO_CPNH1	ok	6.4s	Crop production - ENP-South countries
+NAIO_10_FGTI	ok	21.6s	Imports by industry (FIGARO application)
+GOV_CL_PPP	ok	5.5s	Liabilities related to private-public partnerships (PPPs) recorded off-balance sheet of government
+ENPS_APRO_MT_LS	ok	6.1s	Livestock - ENP-South countries
+ENPS_APRO_MT_P	ok	6.0s	Meat production - ENP-South countries
+GOV_EU_DEBT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Debt of the EU institutions
+NAIO_10_PYP15	ok	38.1s	Supply table at basic prices incl. transformation into purchasers' prices (previous years prices)
+ENPS_AVIA_FR	ok	4.4s	Freight and mail air transport (including national transport) - ENP-South countries
+GOV_EU_FA	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Financial accounts for EU institutions
