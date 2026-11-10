@@ -1244,3 +1244,4 @@ DF_EAP_TEAP_SEX_GEO_NB	fail	TimeoutError: Page.wait_for_function: Timeout 180000
 DF_EAP_TEAP_SEX_MTS_DSB_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Labour force by sex, marital status and disability status
 DF_EAR_CHRA_SEX_CUR_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Average hourly earnings of care employees by sex and currency
 DF_EAR_CHRA_SEX_NB	fail	Could not draw this chartThe server is busy, try again in a moment.Try again	Average hourly earnings of care employees by sex
+DF_EAR_CMTA_SEX_CUR_NB	fail	TimeoutError: Page.wait_for_function: Timeout 180000ms exceeded.	Average monthly earnings of care employees by sex and currency
