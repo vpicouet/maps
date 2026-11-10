@@ -1484,3 +1484,32 @@ SCSUD_PSYCH	fail	Could not draw this chartinvalid breakdownTry again	Substance u
 STI_GONORRHEA_CASES_NUM	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Reported cases of gonorrhea (number)
 SCSUD_DATASERVPROV	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, data on service provision
 SCSUD_FINANCINGSUPPORT	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, information on governmental support available
+LIFE_0000000029	fail	Could not draw this chartThe source took too long to answer.Try again	nMx - age-specific death rate between ages x and x+n
+LIFE_0000000034	fail	Could not draw this chartThe source took too long to answer.Try again	Tx - person-years lived above age x
+LIFE_0000000035	fail	Could not draw this chartThe source took too long to answer.Try again	ex - expectation of life at age x
+AIR_60	ok	3.5s	Household and ambient air pollution attributable DALYs
+LIFE_0000000032	fail	Could not draw this chartThe source took too long to answer.Try again	ndx - number of people dying between ages x and x+n
+LIFE_0000000030	fail	Could not draw this chartThe source took too long to answer.Try again	nqx - probability of dying between ages x and x+n
+LIFE_0000000031	fail	Could not draw this chartThe source took too long to answer.Try again	lx - number of people left alive at age x
+LIFE_0000000033	fail	Could not draw this chartThe source took too long to answer.Try again	nLx - person-years lived between ages x and x+n
+CHILDMORT5TO14	ok	3.5s	Mortality rate for 5-14 year-olds (probability of dying per 1000 children aged 5-14 years)
+NUTRITION_WH_3	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Severe wasted prevalence among children under 5 years of age   (% weight-for-height <-3 SD), survey-based estimates
+NUTRITION_WH_2	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Wasting prevalence among children under 5 years of age (% weight-for-height <-2 SD), survey-based estimates
+NUTRITION_WA_2	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Underweight prevalence among children under 5 years of age   (% weight-for-age <-2 SD), survey-based estimates
+SA_0000001446	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Age-standardized death rates, liver cirrhosis, per 100,000
+NCD_BMI_MEANC	ok	3.4s	Mean BMI (kg/m&#xb2;) (crude estimate)
+NCD_BMI_PLUS2C	ok	3.4s	Obesity among children and adolescents, BMI-for-age > +2 standard deviations above the median (crude estimate) (%)
+CARE_SOURCE	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Care-seeking by type of patient and source of care (%)
+STI_SYPHILIS_CASES_NUM	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Reported cases of syphilis (number)
+ASSISTIVETECH_TOTALNEED	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Prevalence of need of assistive products (%)
+SCSUD_NSS	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, non-structured services
+SCSUD_PHARM	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, pharmacological treatment services
+SCSUD_GOVPAL	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, availability of policy, action plan and legislation
+SCSUD_HWFSUPPORT	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, system of ongoing support for health workforce
+ASSISTIVETECH_USEPREVALENCE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Prevalence of use of assistive products (%)
+NCD_BMI_PLUS1C	ok	3.5s	Overweight among children and adolescents, BMI-for-age > +1 standard deviations above the median (crude estimate) (%)
+SCSUD_GOVGUIDELINES	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, national guidelines
+SCSUD_PSYCH	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, psychosocial treatment services
+STI_GONORRHEA_CASES_NUM	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Reported cases of gonorrhea (number)
+SCSUD_DATASERVPROV	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, data on service provision
+SCSUD_FINANCINGSUPPORT	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, information on governmental support available
