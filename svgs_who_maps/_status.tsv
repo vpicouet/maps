@@ -1,0 +1,1486 @@
+HIV_0000000001	ok	2.9s	Estimated number of people (all ages) living with HIV
+HIV_0000000001	ok	2.8s	Estimated number of people (all ages) living with HIV
+HCF_NO_ELECTRICITY	ok	8.9s	Percentage of health-care facilities with no access to any electricity supply (%)
+HIV_0000000009	ok	14.2s	Reported number of people receiving antiretroviral therapy
+HIV_0000000012	ok	6.7s	Reported number of children receiving antiretroviral therapy, month and year of report
+HIV_0000000011	ok	11.0s	Reported number of children receiving antiretroviral therapy
+HIV_0000000026	ok	9.1s	Number of new HIV infections
+HIV_ARTCOVERAGE	ok	9.3s	Estimated antiretroviral therapy coverage among people living with HIV (%)
+HIV_0000000021	ok	10.4s	Estimated number of pregnant women living with HIV needing antiretrovirals for preventing mother-to-child transmission
+HCF_REL_ELECTRICITY	ok	6.0s	Percentage of health-care facilities with reliable electricity supply (%)
+HIV_0000000024	ok	9.9s	Estimated antiretroviral therapy coverage among children
+HRH_40	ok	6.1s	Biomedical engineers density (per 10 000 population)
+FINPROTECTION_CATA_ESTIMATE_AVAILABLE	ok	3.7s	Availability of estimates on large  health expenditures as a share of total expenditure or income
+HIV_0000000008	ok	8.8s	Testing and counselling facilities, estimated number per 100 000 adult population
+HIV_0000000016	ok	16.0s	Number of pregnant women living with HIV who received antiretrovirals for preventing mother-to-child transmission
+HRH_42	ok	11.3s	Number of licensed qualified obstetricians actively working
+FINPROTECTION_IMP_NP310_POP	ok	8.6s	Population pushed below the $3.20 a day poverty line by household health expenditures (%, national, rural, urban)
+HRH_44	ok	6.1s	Number of biomedical engineers
+HIV_0000000006	ok	80.2s	Number of people dying from HIV-related causes
+HIV_0000000009	ok	80.7s	Reported number of people receiving antiretroviral therapy
+FINPROTECTION_IMP_PG_310_STD	ok	7.8s	Increase in poverty gap due to household health expenditures, expressed as a proportion of the $3.20 a-day poverty line 
+HWF_0002	ok	10.4s	Medical doctors (number)
+HWF_0014	ok	10.0s	Pharmacists  (per 10,000)
+HIV_0000000020	ok	35.2s	Estimated number of pregnant women living with HIV
+HIV_0000000020	ok	32.5s	Estimated number of pregnant women living with HIV
+HWF_0018	ok	7.5s	Environmental and Occupational Health Inspectors and Associates  (number)
+HIV_0000000023	ok	3.9s	Estimated number of children needing antiretroviral therapy based on WHO methods
+HIV_0000000023	ok	5.9s	Estimated number of children needing antiretroviral therapy based on WHO methods
+MENING_1	ok	6.4s	Number of suspected meningitis deaths reported
+HRH_46	ok	55.8s	Number of biomedical technicians
+MH_11	ok	6.0s	Mental health day treatment facilities (per 100,000)
+MH_6	ok	6.4s	Psychiatrists working in mental health sector (per 100,000)
+FINPROTECTION_CATA_TOT_10_POP	ok	16.2s	Population with household spending on health greater than 10% of total household budget (SDG 3.8.2, reported data) (%)
+FINPROTECTION_CATA_TOT_10_POP	ok	14.2s	Population with household spending on health greater than 10% of total household budget (SDG 3.8.2, reported data) (%)
+HWF_0007	ok	10.8s	Nursing and midwifery personnel  (number)
+HIV_0000000007	ok	5.0s	Testing and counselling facilities, reported number
+HIV_0000000007	ok	3.0s	Testing and counselling facilities, reported number
+HWF_0013	ok	6.0s	Dental Prosthetic Technicians (number)
+AIR_41	ok	11.5s	Ambient air pollution attributable deaths
+HRH_41	ok	5.7s	Number of licensed qualified surgeons actively working
+HRH_41	ok	3.7s	Number of licensed qualified surgeons actively working
+HWF_0023	ok	6.0s	Traditional and Complementary Medicine Professionals  (number)
+HIV_0000000022	ok	3.8s	Estimated number of people eligible for antiretroviral therapy according to 2010 guidelines
+HIV_0000000022	ok	2.8s	Estimated number of people eligible for antiretroviral therapy according to 2010 guidelines
+IR_ORGANOPHOSPHATE_EXTENT	ok	6.6s	Percentage of sites for which organophosphate resistance was reported
+MENING_2	ok	5.6s	Number of suspected meningitis cases reported
+FINPROTECTION_IMP_NP190_POP	ok	4.4s	Population  pushed below the $1.90 a day  poverty line by household  health expenditures (%)
+FINPROTECTION_IMP_NP190_POP	ok	7.4s	Population  pushed below the $1.90 a day  poverty line by household  health expenditures (%)
+HWF_0020	ok	6.2s	Medical and Pathology Laboratory Technicians  (number)
+MH_24	ok	5.8s	Mental health units in general hospitals admissions (per 100,000)
+HWF_0001	ok	9.7s	Medical doctors (per 10,000)
+HWF_0001	ok	7.7s	Medical doctors (per 10,000)
+IR_INSECTICIDERESISTANCE_PREV	ok	10.0s	Number of insecticide classes to which resistance was reported
+AIR_11	ok	9.9s	Household air pollution attributable deaths
+HWWS_2	ok	5.8s	Handwashing with soap after cleaning child's stool (%)
+HWF_0010	ok	14.4s	Dentists (per 10,000)
+HWF_0010	ok	12.4s	Dentists (per 10,000)
+IR_PYRETHROID_EXTENT	ok	7.8s	Percentage of sites for which pyrethroid resistance was reported
+asfr1	ok	18.3s	Adolescent fertility rate (per 1000 women aged 15-19 years)
+HWF_0024	ok	6.0s	Community Health Workers (number)
+HWF_0015	ok	9.8s	Pharmacists  (number)
+HWF_0015	ok	7.8s	Pharmacists  (number)
+ITU_ICT_1	ok	5.8s	Percentage of individuals using the Internet
+GBD_DALYRTAGE	ok	4.6s	Age-standardized DALYs (per 100,000)
+GBD_DALYRTAGE	ok	6.6s	Age-standardized DALYs (per 100,000)
+AIR_15	ok	9.6s	Household air pollution attributable DALYs
+MH_10	ok	3.9s	Mental health outpatient facilities (per 100,000)
+MH_10	ok	2.8s	Mental health outpatient facilities (per 100,000)
+MH_5	ok	3.8s	Government expenditures on mental hospitals as a percentage of total government expenditures on mental health (%)
+MH_5	ok	2.8s	Government expenditures on mental hospitals as a percentage of total government expenditures on mental health (%)
+ASSISTIVETECH_METNEED	ok	8.3s	Prevalence of met need of assistive products (%)
+ITU_ICT_2	ok	5.7s	Mobile-cellular telephone subscriptions per 100 inhabitants
+AIR_39	ok	9.3s	Household air pollution attributable DALYs (per 100 000, age-standardized)
+AIR_39	ok	5.4s	Household air pollution attributable DALYs (per 100 000, age-standardized)
+IR_ORGANOCHLORINE_EXTENT	ok	6.3s	Percentage of sites for which organochlorine resistance was reported
+IR_ORGANOCHLORINE_EXTENT	ok	4.3s	Percentage of sites for which organochlorine resistance was reported
+HWF_0019	ok	4.0s	Medical and Pathology Laboratory scientists  (number)
+HWF_0019	ok	2.8s	Medical and Pathology Laboratory scientists  (number)
+IR_CARBAMATE_EXTENT	ok	6.9s	Percentage of sites for which carbamate resistance was reported
+IR_CARBAMATE_EXTENT	ok	9.7s	Percentage of sites for which carbamate resistance was reported
+AIR_90	ok	10.5s	Ambient air pollution attributable DALYs  (per 100 000 population, age-standardized)
+AIR_90	ok	8.6s	Ambient air pollution attributable DALYs  (per 100 000 population, age-standardized)
+AIR_7	ok	11.8s	Ambient air pollution attributable DALYs
+AIR_7	ok	9.8s	Ambient air pollution attributable DALYs
+ITU_IDI	ok	3.5s	ICT Development Index (IDI)
+ITU_IDI	ok	5.5s	ICT Development Index (IDI)
+LIFE_0000000029	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	nMx - age-specific death rate between ages x and x+n
+LIFE_0000000034	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Tx - person-years lived above age x
+LIFE_0000000035	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	ex - expectation of life at age x
+LIFE_0000000029	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	nMx - age-specific death rate between ages x and x+n
+HWF_0004	ok	99.6s	Specialist medical practitioners (number)
+FINPROTECTION_IMP_PG_190_STD	ok	13.9s	Increase in poverty gap due to household  health expenditures, expressed as a proportion of the $1.90 a-day poverty line
+HWF_0006	ok	101.2s	Nursing and midwifery personnel (per 10,000)
+FINPROTECTION_IMPOV_ESTIMATE_AVAILABLE	ok	8.1s	Availability of estimates on impoverishment due to out-of-pocket health expenditures
+AIR_42	ok	17.9s	Ambient air pollution attributable death rate (per 100 000 population, age-standardized)
+HWF_0016	ok	9.3s	Pharmaceutical Technicians and Assistants  (number)
+HWF_0022	ok	9.4s	Physiotherapy Technicians and Assistants  (number)
+HWWS_1	ok	14.0s	Handwashing with soap after using the toilet (%)
+AIR_62	ok	12.6s	Household and ambient air pollution attributable DALYs (per 100 000 capita, age-standardized)
+FINPROTECTION_CATA_TOT_25_POP	ok	11.5s	Population with household spending on health greater than 25% of total household budget (SDG 3.8.2, reported data) (%)
+HWF_0003	ok	11.0s	Generalist medical practitioners (number)
+HWF_0011	ok	14.1s	Dentists (number)
+HWF_0008	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Nursing personnel (number)
+LIFE_0000000034	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Tx - person-years lived above age x
+AIR_60	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Household and ambient air pollution attributable DALYs
+BP_04	ok	64.3s	Raised blood pressure (SBP>=140 OR DBP>=90) (age-standardized estimate)
+CCO_1	ok	6.4s	Poverty headcount ratio at $1.25 a day (PPP) (% of population)
+BP_06	ok	24.4s	Mean systolic blood pressure (age-standardized estimate)
+CaseCS	ok	7.4s	Congenital syphilis number of cases, reported
+HRH_45	ok	6.7s	Biomedical technicians density (per 10 000 population)
+HWF_0009	ok	10.6s	Midwifery personnel (number)
+HWF_0017	ok	6.2s	Environmental and Occupational Health and Hygiene Professionals  (number)
+CATARACTSURGICAL	ok	11.1s	Cataract surgical coverage of adults aged 50 and over (%)
+LIFE_0000000035	fail	Could not draw this chartThe source took too long to answer.Try again	ex - expectation of life at age x
+carep	ok	23.3s	Children aged < 5 years with pneumonia symptoms taken to a health facility (%)
+AIR_35	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Joint effects of air pollution attributable deaths
+HWF_0008	ok	42.7s	Nursing personnel (number)
+LIFE_0000000031	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	lx - number of people left alive at age x
+LIFE_0000000030	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	nqx - probability of dying between ages x and x+n
+HWF_0021	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Physiotherapists (number)
+AIR_35	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Joint effects of air pollution attributable deaths
+ITU_IDI_RANK	ok	7.9s	ICT Development Index (IDI) rank
+HWF_0021	ok	2.8s	Physiotherapists (number)
+CHILDMORT5TO14	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Mortality rate for 5-14 year-olds (probability of dying per 1000 children aged 5-14 years)
+CCO_2	ok	108.5s	Human development index rank
+BP_05	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Mean systolic blood pressure (crude estimate)
+AIR_60	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Household and ambient air pollution attributable DALYs
+CM_02	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Number of infant deaths
+BP_05	ok	34.7s	Mean systolic blood pressure (crude estimate)
+HRH_43	ok	77.8s	Number of licensed qualified anaesthesiologists actively working
+CM_01	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Number of under-five deaths
+HRH_43	ok	18.0s	Number of licensed qualified anaesthesiologists actively working
+DEVICES02	ok	53.9s	Total density per 100 000 population: Health centres
+DEVICES03	ok	8.4s	Total density per 100 000 population: District/rural hospitals
+DEVICES09	ok	6.9s	Total density per million population: Computed tomography units
+DEVICES16	ok	20.0s	Unit in the Ministry of Health responsible for the management of medical devices
+HWF_0005	ok	55.3s	Medical doctors not further defined (number)
+HWF_0005	ok	59.8s	Medical doctors not further defined (number)
+DEVICES20	ok	7.4s	Availability of technical specifications of medical devices to support procurement or donations
+DEVICES01	ok	67.5s	Total density per 100 000 population: Health posts
+E10_compliance	ok	7.1s	Compliance of ban on promotional discounts
+DEVICES14	ok	7.7s	Use of nomenclature system
+CM_03	ok	22.0s	Number of neonatal deaths
+E11_compliance	ok	8.0s	Compliance of ban on non-tobacco goods AND services identified with tobacco brand names
+DEVICES08	ok	7.1s	Total density per million population: Magnetic Resonance Imaging
+E14_compliance	ok	6.7s	Compliance of ban on appearance of tobacco products in TV and/or films
+DEVICES12	ok	5.9s	Total density per million population: Linear Accelerator
+HWF_0012	ok	48.3s	Dental Assistants and Therapists (number)
+HWF_0012	ok	50.3s	Dental Assistants and Therapists (number)
+DEVICES07	ok	6.5s	Types of lists recommending health technology for high burden diseases
+CATARACTSURGICALEFFECTIVE	ok	5.2s	Effective cataract surgical coverage of adults aged 50 and over (%)
+CATARACTSURGICALEFFECTIVE	ok	3.2s	Effective cataract surgical coverage of adults aged 50 and over (%)
+DEVICES22	ok	6.1s	Total density per million population: Radiotherapy units
+BP_03	ok	22.4s	Raised blood pressure (SBP>=140 OR DBP>=90) (crude estimate)
+DEVICES13	ok	6.3s	Type of nomenclature system
+MDG_0000000017	ok	9.6s	Deaths due to tuberculosis among HIV-negative people (per 100 000 population)
+DEVICES19	ok	6.8s	National guidelines, policies or recommendations on the procurement of medical devices
+E13_compliance	ok	6.5s	Compliance of ban on appearance of tobacco brands in TV and/or films (product placement)
+NTD_LEPR4	ok	8.6s	Leprosy registered prevalence rate per 1 000 000 population
+M_Est_tob_curr	ok	11.6s	Estimate of current tobacco use prevalence (%)
+MDG_0000000003	ok	14.3s	Adolescent birth rate (per 1000 women)
+MDG_0000000010	ok	6.0s	Median availability of selected generic medicines (%) - Public
+NTD_LEPR3	ok	8.1s	Leprosy - Number of cases registered for treatment
+MCV2	ok	10.9s	Measles-containing-vaccine second-dose (MCV2) immunization coverage by the locally recommended age (%) (WUENIC)
+E3_compliance	ok	6.4s	Compliance of ban on advertising on local magazines and newspapers
+MDG_0000000029	ok	11.6s	Prevalence of HIV among adults aged 15 to 49 (%)
+CHOLERA_0000000002	ok	9.4s	Number of reported deaths from cholera
+DEVICES15	ok	6.8s	Health technology (medical device) national policy
+MDG_0000000007	ok	64.4s	Under-five mortality rate (probability of dying by age 5 per 1000 live births)
+MDG_0000000030	ok	6.8s	Smear-positive tuberculosis case-detection rate (%)
+MDG_0000000026	ok	14.4s	Maternal mortality ratio (per 100 000 live births)
+LIFE_0000000032	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	ndx - number of people dying between ages x and x+n
+DEVICES00	ok	5.7s	Total density per 100 000 population: Hospitals
+LIFE_0000000032	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	ndx - number of people dying between ages x and x+n
+NTD_YAWSNUM	ok	5.9s	Number of cases of yaws reported
+DEVICES23	ok	6.0s	Total density per million females aged from 50 to 69 years old: Mammography units
+MDG_0000000033	ok	6.6s	Antiretroviral therapy coverage among people with HIV infection eligible for ART according to 2010 guidelines (%)
+NUTOVERWEIGHTPREV	ok	18.0s	Overweight prevalence among children under 5 years of age (% weight-for-height >+2 SD), model-based estimates
+RSUD_44	ok	5.9s	Treatment slots for alcohol and drug use disorders, outpatient, per 10 000
+RSUD_46	ok	7.4s	Length of stay for inpatient detoxification, days
+RSUD_47	ok	6.3s	Length of stay for inpatient short-term treatment, days
+NTD_LEPR9	ok	8.0s	Number of new leprosy cases with G2D among children (less than 15 years of age)
+EC_indirect_compliance	ok	8.4s	Compliance with bans on promotion and sponsorship
+MDG_0000000034	ok	5.8s	Antiretroviral therapy coverage among people with advanced HIV infection (%), WHO 2006 guidelines
+NUTRITION_2005	ok	5.8s	Proportion of children aged 6-23 months who receive a minimum acceptable diet
+NUTRITION_ANT_HAZ_NE2	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Stunting prevalence among children under 5 years of age (% height-for-age <-2 SD), survey-based estimates
+MDG_0000000001	ok	44.1s	Infant mortality rate (probability of dying between birth and age 1 per 1000 live births)
+AIR_52	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Household air pollution attributable death rate (per 100 000 population, age-standardized)
+AIR_52	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Household air pollution attributable death rate (per 100 000 population, age-standardized)
+NUTSTUNTINGNUM	ok	29.1s	Stunting numbers among children under 5 years of age (millions), model-based estimates
+GDO_q20	ok	5.9s	Total number of published dementia research output
+NTD_LEPR8	ok	8.1s	Leprosy - Number of new leprosy cases among children (less than 15 years of age)
+NTD_RAB2	ok	8.4s	Reported number of human rabies deaths
+NUTOVERWEIGHTNUM	ok	18.3s	Overweight numbers among children under 5 years of age (thousands), model-based estimates
+RSUD_5	ok	7.7s	Age-standardized DALYs, alcohol and drug use disorders, per 100 000
+NUTRITION_WH_2	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Wasting prevalence among children under 5 years of age (% weight-for-height <-2 SD), survey-based estimates
+LIFE_0000000033	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	nLx - person-years lived between ages x and x+n
+LIFE_0000000030	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	nqx - probability of dying between ages x and x+n
+NUTRITION_WH_3	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Severe wasted prevalence among children under 5 years of age   (% weight-for-height <-3 SD), survey-based estimates
+E6_compliance	ok	99.8s	Compliance of ban on advertising at point of sale
+NTD_LEPR5	ok	12.8s	Number of new G2D leprosy cases
+MDG_0000000032	ok	6.9s	Maternal mortality ratio (per 100 000 live births) - Country reported estimates
+P5_compliance	ok	7.9s	Compliance of ban on smoking in INDOOR OFFICES
+P1_compliance	ok	9.0s	Compliance of ban on smoking in HEALTH-CARE FACILITIES
+CHOLERA_0000000001	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Number of reported cases of cholera
+GDO_q35	ok	7.0s	Estimated population-based prevalence of depression
+PCV3	ok	13.8s	Pneumococcal conjugate second or third-dose vaccines (PCVc) immunization coverage by the locally recommended age (%) (WU
+P2_compliance	ok	7.8s	Compliance of ban on smoking in EDUCATIONAL FACILITIES EXCEPT UNIVERSITIES
+PercposANC	ok	7.4s	Antenatal care attendees who were positive for syphilis (%), reported
+LIFE_0000000031	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	lx - number of people left alive at age x
+SA_0000001410	ok	10.7s	Abstainers (15-19 years), lifetime (%)
+SA_0000001406	ok	8.5s	Alcohol, unrecorded per capita (15+) consumption (in litres of pure alcohol)
+NUTRITION_ANT_WHZ_NE2	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Overweight prevalence among children under 5 years of age (% weight-for-height >+2 SD), survey-based estimates
+R_Sp_excise_estimate	ok	16.2s	Most sold brand of cigarettes - taxes as a % of price - specific excise
+SA_0000001403	ok	7.3s	Alcohol, total (recorded 3 year average + unrecorded) per capita (15+) consumption (in litres of pure alcohol)
+SA_0000001416	ok	24.1s	Alcohol, heavy episodic drinking (15+), drinkers only, past 30 days (%), age-standardized
+E5_compliance	ok	34.1s	Compliance of ban on advertising on billboards and outdoor advertising
+SA_0000001405	ok	6.8s	Alcohol, tourist consumption (in litres of pure alcohol)
+EC_direct_compliance	ok	9.7s	Compliance with bans on direct advertising
+SA_0000001423	ok	7.4s	Age-standardized DALYs, falls, per 100,000
+R_imp_duty_estimate	ok	12.5s	Most sold brand of cigarettes - taxes as a % of price - import duties
+LIFE_0000000033	fail	Could not draw this chartThe source took too long to answer.Try again	nLx - person-years lived between ages x and x+n
+MDG_0000000031	ok	21.2s	Smear-positive tuberculosis treatment-success rate (%)
+CHOLERA_0000000003	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Cholera case fatality rate
+PerctreatedANC	ok	6.6s	Antenatal care attendees positive for syphilis who received treatment (%), reported
+ODA_2	ok	11.0s	Commitments to recipient countries (Million, constant 2009 US$)
+R_Sp_excise_average	ok	7.7s	Average - taxes as a % of cigarette price - specific excise
+R_VAT_average	ok	7.2s	Average - taxes as a % of cigarette price - value added tax
+SA_0000001426	ok	7.4s	Age-standardized DALYs, liver cancer, per 100,000
+ODA_4	ok	30.5s	Disbursements to recipient countries (Million, constant 2009 US$)
+SA_0000001404	ok	19.2s	Alcohol, drinkers only per capita (15+) consumption in litres of pure alcohol, three-year average
+R_Other_average	ok	6.8s	Average - taxes as a % of cigarette price - other taxes
+SA_0000001430	ok	6.5s	Age-standardized DALYs, oesophagus cancer, per 100,000
+SA_0000001435	ok	6.7s	Age-standardized DALYs, other unintentional injuries, per 100,000
+SA_0000001429	ok	6.7s	Age-standardized DALYs, mouth and oropharynx cancer, per 100,000
+SA_0000001452	ok	7.6s	Age-standardized death rates, road traffic accidents, per 100,000
+Rev_imp_other	ok	5.8s	Annual tax revenues - import duties and all other taxes (excluding corporate taxes on tobacco companies)
+RS_194	ok	6.1s	Number of registered vehicles
+SA_0000001433	ok	7.1s	Age-standardized DALYs, road traffic accidents, per 100,000
+SA_0000001442	ok	6.6s	Age-standardized death rates, falls, per 100,000
+CHILDMORT5TO14	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Mortality rate for 5-14 year-olds (probability of dying per 1000 children aged 5-14 years)
+DEVICES06	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Availability of national standards or recommended lists of medical devices
+CHOLERA_0000000001	ok	2.8s	Number of reported cases of cholera
+SA_0000001458	ok	7.1s	Age-standardized death rates (15+ years), poisoning, per 100,000
+GDO_q9x6_1	ok	7.2s	Density of outpatient social centres (per 100,000 population)
+RS_196	ok	6.3s	Estimated number of road traffic deaths
+SA_0000001434	ok	7.1s	Age-standardized DALYs, self-inflicted injury, per 100,000
+SA_0000001445	ok	8.7s	Age-standardized death rates, liver cancer, per 100,000
+GDO_q9x4_3	ok	7.3s	Dementia-specific adult day centre places (per 10,000 population)
+SA_0000001457	ok	7.7s	Liver cirrhosis, age-standardized death rates (15+), per 100,000 population
+NUTRITION_WA_2	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Underweight prevalence among children under 5 years of age   (% weight-for-age <-2 SD), survey-based estimates
+GHED_CHE_pc_US_SHA2011	ok	13.2s	Current health expenditure (CHE) per capita in US$
+GHED_EXT_pc_US_SHA2011	ok	13.4s	External health expenditure (EXT) per capita in US$
+GHED_GGHE-DGGE_SHA2011	ok	13.7s	Domestic general government health expenditure (GGHE-D) as percentage of general government expenditure (GGE) (%)
+SA_0000001456	ok	7.6s	Age-standardized death rates (15+ years), alcoholic liver disease, per 100,000
+GHED_OOPSCHE_SHA2011	ok	11.0s	Out-of-pocket expenditure as percentage of current health expenditure (CHE) (%)
+Rev_excise	ok	5.8s	Annual tax revenues - total excise (specific and ad valorem)
+DEVICES04	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Total density per 100 000 population: Provincial hospitals
+CM_01	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Number of under-five deaths
+GDO_q9x2_1	ok	5.5s	Density of residential long-term care facilities (per 100,000 population)
+P7_compliance	ok	67.2s	Compliance of ban on smoking in PUBS AND BARS
+DEVICES11	ok	4.6s	Total density per million population: Gamma camera or Nuclear medicine
+SA_0000001459	ok	7.2s	Road traffic crash deaths, age-standardized death rates (15+), per 100,000 population
+R_afford_gdp	ok	10.1s	Affordability - percentage of GDP per capita required to purchase 2000 cigarettes of the most sold brand
+GDO_q9x3_2	ok	6.2s	Hospice centre beds (per 10 000 population)
+SA_0000001469	ok	6.1s	Treatment admissions (inpatient), alcoholic psychosis, per 100,000
+P8_compliance	ok	14.8s	Compliance of ban on smoking in PUBLIC TRANSPORT
+GHED_PVT-DCHE_SHA2011	ok	10.4s	Domestic private health expenditure (PVT-D) as percentage of current health expenditure (CHE) (%)
+SA_0000001477	ok	6.7s	Social costs of alcohol use in millions US$
+DEVICES17	ok	41.7s	Procurement of medical devices carried out at the national level
+SA_0000001409	ok	20.1s	Alcohol, abstainers lifetime (%), age-standardized
+CM_02	ok	47.4s	Number of infant deaths
+GHED_GGHE-DGDP_SHA2011	ok	9.8s	Domestic general government health expenditure (GGHE-D) as percentage of gross domestic product (GDP) (%)
+DEVICES21	ok	4.6s	Total density per million population: Telecobalt Unit
+CHOLERA_0000000003	ok	3.0s	Cholera case fatality rate
+SA_0000001412	ok	6.2s	Abstainers (15-19 years), past 12 months (%)
+DEVICES10	ok	3.8s	Total density per million population: Positron Emission tomography
+SA_0000001690	ok	6.9s	Age-standardized death rates, cerebrovascular disease, per 100,000
+DEVICES06	ok	3.6s	Availability of national standards or recommended lists of medical devices
+DEVICES18	ok	4.2s	Availability of national list of approved medical devices for procurement or reimbursement
+PerctestedANC	ok	6.9s	Women accessing antenatal care (ANC) services who were tested for syphilis (%), reported
+SA_0000001466	ok	6.1s	Hospital discharges, alcoholic liver disease, per 100,000
+DEVICES04	ok	2.8s	Total density per 100 000 population: Provincial hospitals
+E12_compliance	ok	5.7s	Compliance of ban on brand name of non-tobacco products used for tobacco product
+SA_0000001401	ok	6.1s	Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol), three-year average
+SA_0000001707	ok	5.4s	Persons with alcohol use disorders receiving treatment (%)
+E15_compliance	ok	7.7s	Compliance of ban on sponsored events
+E15_compliance	ok	6.9s	Compliance of ban on sponsored events
+P_count_places_sf	ok	8.0s	National smoking ban: NUMBER OF PLACES SMOKE-FREE
+SA_0000001685	ok	5.8s	Sales of spirits in 1000s hectolitres
+SA_0000001689	ok	6.5s	Age-standardized DALYs, cerebrovascular disease, per 100,000
+M_Est_cig_curr	ok	13.8s	Estimate of current cigarette smoking prevalence (%)
+M_Est_cig_curr	ok	11.9s	Estimate of current cigarette smoking prevalence (%)
+SA_0000001686	ok	6.6s	Exports of wine (grape) in 1000s hectolitres
+SA_0000001414	ok	16.8s	Alcohol, former drinkers (%), age-standardized
+MDG_0000000025	ok	8.3s	Births attended by skilled health personnel (%)
+MDG_0000000025	ok	6.3s	Births attended by skilled health personnel (%)
+SA_0000001421	ok	6.3s	Age-standardized DALYs, diabetes mellitus, per 100,000
+R_imp_duty_average	ok	7.1s	Average - taxes as a % of cigarette price - import duties
+NTD_LEPR7	ok	8.7s	Leprosy - New leprosy cases with G2D rate per 1 000 000 population
+NTD_LEPR7	ok	10.7s	Leprosy - New leprosy cases with G2D rate per 1 000 000 population
+WHS2_131	ok	21.0s	Age-standardized NCD mortality rate  (per 100 000 population)
+MDG_0000000015	ok	3.6s	Prevalence of condom use by adults during higher-risk sex (15-49) (%)
+MDG_0000000015	ok	2.8s	Prevalence of condom use by adults during higher-risk sex (15-49) (%)
+R_Price_premium_ppp	ok	6.0s	Premium brand of cigarettes - price in international dollars
+MDG_0000000011	ok	4.7s	Median consumer price ratio of selected generic medicines - Public
+MDG_0000000011	ok	2.8s	Median consumer price ratio of selected generic medicines - Public
+SA_0000001427	ok	6.3s	Age-standardized DALYs, liver cirrhosis, per 100,000
+CCO_3	ok	4.2s	Gender inequality index rank
+CCO_3	ok	2.8s	Gender inequality index rank
+WHS3_41	ok	15.0s	Diphtheria - number of reported cases
+DEVICES05	ok	4.3s	Total density per 100 000 population: Specialized hospitals
+R_total_tax_estimate	ok	7.1s	Most sold brand of cigarettes - taxes as a % of price - total tax
+DEVICES05	ok	2.8s	Total density per 100 000 population: Specialized hospitals
+SA_0000001746	ok	8.6s	Alcohol, total  (recorded + unrecorded) per capita (15+) consumption with 95%CI, projections to 2025
+SA_0000001422	ok	7.6s	Age-standardized DALYs, drownings, per 100,000
+E1_compliance	ok	5.4s	Compliance of ban on advertising on national TV and radio
+E1_compliance	ok	9.8s	Compliance of ban on advertising on national TV and radio
+RADON_Q302	ok	6.9s	National radon concentration levels
+SA_0000001755	ok	7.3s	15-19 years old heavy episodic drinkers (population), % with 95%CI
+NTD_TRA5	ok	4.9s	Number of people operated for trachomatous trichiasis
+NTD_TRA5	ok	6.9s	Number of people operated for trachomatous trichiasis
+SA_0000001418	ok	6.3s	Age-standardized DALYs, alcohol use disorders, per 100,000
+NUTRITION_564	ok	3.2s	Children aged <5 years wasted for age (%)
+NUTRITION_564	ok	5.2s	Children aged <5 years wasted for age (%)
+TB_rr_mdr	ok	9.2s	Confirmed cases of RR-/MDR-TB
+R_Price_premium_usd	ok	6.1s	Premium brand of cigarettes - price in US$ at official exchange rates
+RSUD_45	ok	6.1s	Beds for the treatment of substance use disorders, per 100 000
+SA_0000001748	ok	6.3s	Alcohol, unrecorded per capita (15+) consumption (in litres of pure alcohol) with 95%CI
+SA_0000001432	ok	6.3s	Age-standardized DALYs, prematurity and low birth rate, per 100,000
+TB_new_labconf	ok	9.2s	New or unknown treatment history cases: Pulmonary, bacteriologically confirmed
+SA_0000001440	ok	6.4s	Age-standardized death rates, diabetes mellitus, per 100,000
+SA_0000001443	ok	6.4s	Age-standardized death rates, fires, per 100,000
+SA_0000001547	ok	8.3s	Excise duty (average) per hectolitre in Euros
+Rev_VAT	ok	6.3s	Annual tax revenues - value added tax (vat) and other sales taxes
+SA_0000001678	ok	8.5s	Sales of beer in 1000s hectolitres
+ROTAC	ok	12.2s	Rotavirus vaccines completed dose (RotaC) immunization coverage among 1-year-olds (%)
+WHS3_53	ok	11.4s	Mumps - number of reported cases
+GDO_q9x2_3	ok	5.4s	Dementia-specific residential long-term care beds (per 10,000 population)
+WHS3_57	ok	10.3s	Rubella - number of reported cases
+SA_0000001438	ok	6.6s	Age-standardized death rates, breast cancer, per 100,000
+SA_0000001448	ok	7.0s	Age-standardized death rates, mouth and oropharynx cancer, per 100,000
+WHS4_128	ok	7.7s	Neonates protected at birth against neonatal tetanus (PAB) (%)
+GDO_q9x4_2	ok	5.9s	Adult day centre places (per 10,000 population)
+SA_0000001758	ok	7.0s	15-19 years old former drinkers (%)
+RS_1845	ok	6.2s	Population
+WHS4_154	ok	7.7s	Antenatal care coverage - at least four visits (%)
+RSUD_48	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Length of stay for inpatient long-term residential treatment, days
+SA_0000001425	ok	7.2s	Age-standardized DALYs, ischaemic heart disease, per 100,000
+SA_0000001760	ok	6.3s	15-19 years old total alcohol consumption in litres of pure alcohol
+SA_0000001444	ok	8.0s	Age-standardized death rates, ischaemic heart disease, per 100,000
+GDO_q9x4_1	ok	5.5s	Density of adult day centres (per 100,000 population)
+WHOSIS_000015	ok	18.4s	Life expectancy at age 60 (years)
+SA_0000001455	ok	6.5s	Age-standardized death rates, violence, per 100,000
+NUTRITION_ANT_HAZ_NE2	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Stunting prevalence among children under 5 years of age (% height-for-age <-2 SD), survey-based estimates
+RS_576	ok	5.9s	Gross national income per capita (Atlas method)
+GDO_q9x5_1	ok	5.4s	Density of outpatient health centres (per 100,000 population)
+WHS3_43	ok	14.7s	Pertussis - number of reported cases
+WHS4_106	ok	10.1s	Care-seeking for children with symptoms of acute respiratory infection (%)
+GHED_GGHE-D_pc_US_SHA2011	ok	12.2s	Domestic general government health expenditure (GGHE-D) per capita in US$
+RSUD_48	ok	19.1s	Length of stay for inpatient long-term residential treatment, days
+NTD_LEPR2	ok	56.5s	New leprosy case detection rate per 1 000 000 population
+WHS6_101	ok	5.6s	Median availability of selected generic medicines (%) - Private
+SA_0000001472	ok	5.8s	Alcohol-related injury mortality, per 1,000
+NTD_ONCTREAT	ok	4.2s	Reported number of individuals treated for onchocerciasis
+NTD_ONCTREAT	ok	2.8s	Reported number of individuals treated for onchocerciasis
+NTD_TSOL3	ok	3.9s	Number of pigs in the country
+NTD_TSOL3	ok	2.8s	Number of pigs in the country
+WHS8_110	ok	10.1s	Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%) (WUENIC)
+NUTRITION_570	ok	3.8s	Early initiation of breastfeeding (%)
+GHED_GGHE-DCHE_SHA2011	ok	9.8s	Domestic general government health expenditure (GGHE-D) as percentage of current health expenditure (CHE) (%)
+NUTRITION_570	ok	2.7s	Early initiation of breastfeeding (%)
+NUTRITION_579	ok	3.8s	Exclusive breastfeeding under 6 months (%)
+SA_0000001463	ok	5.8s	Alcoholic psychosis, incidence, per 100,000
+TOTENV_1	ok	8.8s	Deaths attributable to the environment
+GDO_q9x1_5	ok	5.9s	Total dementia hospital admissions (per 100,000)
+SA_0000001782	ok	6.3s	15-years old first drink at 13 years or younger, (%)
+SA_0000001451	ok	7.3s	Age-standardized death rates, prematurity and low birth rate, per 100,000
+TB_tot_newrel	ok	9.3s	Tuberculosis - new and relapse cases
+GDO_q9x3_1	ok	5.8s	Density of hospice centres (per 100,000 population)
+WSH_1	ok	6.5s	SDG 3.9.2 WASH deaths
+SA_0000001476	ok	3.7s	Alcohol expenditure as a per cent of total household expenditure
+RSUD_3	ok	6.1s	Age-standardized death rates, alcohol and drug use disorders, per 100 000
+WSH_10_WAT	ok	7.0s	Number of diarrhoea deaths from inadequate water
+SA_0000001475	ok	6.3s	Annual revenues from alcohol excise tax in millions US$
+WSH_30_HYG	ok	9.3s	Number of diarrhoea DALYs from inadequate hygiene
+RSUD_1	ok	6.8s	Point prevalence (%), alcohol use disorders, 15+ years
+UV_1	ok	10.3s	UV radiation
+GHED_PVT-D_pc_US_SHA2011	ok	10.6s	Domestic private health expenditure (PVT-D) per capita in US$
+SA_0000001519	ok	6.1s	Minimum legal drinking age
+UNICEF_PNCNEWBORN	ok	11.8s	Proportion of newborns who have postnatal contact with a health provider within 2 days of delivery (%)
+SA_0000001474	ok	6.3s	Alcoholic excise tax revenue as a per cent of government revenue
+WSH_10	ok	7.1s	Number of diarrhoea deaths from inadequate water, sanitation and hygiene
+SA_0000001684	ok	7.0s	Sales of wine in 1000s hectolitres
+WSH_8	ok	6.0s	Water, sanitation and hygiene  attributable DALYs per 100'000 children under 5 years
+MDG_0000000020	ok	90.7s	Incidence of tuberculosis (per 100 000 population per year)
+SA_0000001679	ok	7.3s	Exports of beer (barley) in 1000s hectolitres
+TOTENV_3	ok	11.0s	Disability-adjusted life years (DALYs) attributable to the environment
+SA_0000001711	ok	6.0s	Public funds designated for alcohol research/monitoring programmes, in Euros
+SA_0000001788	ok	6.3s	Alcohol-related road traffic crashes with fatalities, per 100,000  population
+WHS10_9	ok	5.7s	Ill-defined causes in cause-of-death registration (%)
+W2_pc_front_back_B	ok	7.5s	Percentage of principal display area mandated to be covered by health warnings - front and back of other smoked tobacco 
+SA_0000001743	ok	6.9s	Alcohol-attributable fractions, all-cause deaths (%)
+NUTRITION_WH_3	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Severe wasted prevalence among children under 5 years of age   (% weight-for-height <-3 SD), survey-based estimates
+SA_0000001830	ok	7.7s	Average price 750 mls Wine in US$
+SA_0000001742	ok	7.3s	Alcohol-attributable fractions (15+), road traffic crash deaths (%)
+SA_0000001752	ok	5.8s	Alcohol, total (recorded + unrecorded) per capita (15+) consumption, projected estimates for 2016
+TB_new_su	ok	8.0s	New cases: pulmonary smear unknown/not done
+SDGHIV	ok	27.8s	New HIV infections (per 1000 uninfected population)
+SA_0000001739	ok	20.8s	Alcohol, heavy episodic drinking (15+) past 30 days (%), age-standardized
+SA_0000001821	ok	10.2s	Alcohol, unrecorded per capita (15+) consumption (in litres of pure alcohol), three-year average
+NUTSTUNTINGPREV	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Stunting prevalence among children under 5 years of age (% height-for-age <-2 SD), model-based estimates
+TB_ret_tad	ok	7.6s	Retreatment cases: treatment after default (pulmonary smear and/or culture positive)
+TB_ret_taf	ok	10.4s	Retreatment cases: treatment after failure (pulmonary smear and/or culture positive)
+UHC_SCI_RMNCH	ok	19.0s	UHC Service Coverage sub-index on reproductive, maternal, newborn and child health
+SA_0000001650	ok	5.9s	Standard drink measures, in grams per unit
+W16_number_hw_C	ok	7.4s	How many health warnings are approved by the law for smokeless tobacco packaging?
+SE_DEV_ONTRK	ok	8.0s	Children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numerac
+WHS3_49	ok	13.3s	Poliomyelitis - number of reported cases
+UNICEF_PNCMOTHER	ok	5.8s	Women age 15-49 years who received a health check within 2 days after delivery of their most recent live birth in the la
+WHS3_56	ok	16.4s	Neonatal tetanus - number of reported cases
+VIOLENCE_HOMICIDERATE	ok	17.5s	Estimates of rates of homicides per 100 000 population
+WHS4_115	ok	6.2s	Births by caesarean section (%)
+SG_DMK_SRCR_FN_ZS	ok	6.3s	Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use
+SA_0000001756	ok	7.3s	15-19 years old heavy episodic drinkers (drinkers only), %
+W23_emissions_front_back_C	ok	7.4s	Smokeless tobacco packaging and labelling must display qualitative information on constituents and emissions on one or m
+WHS4_129	ok	11.9s	Hib (Hib3) immunization coverage among 1-year-olds (%) (WUENIC)
+WSH_7	ok	6.4s	Water, sanitation and hygiene attributable DALYs per 100'000 capita
+NUTRITION_ANT_WHZ_NE2	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Overweight prevalence among children under 5 years of age (% weight-for-height >+2 SD), survey-based estimates
+E9_compliance	ok	81.2s	Compliance of ban on free distribution of tobacco products in the mail or through other means
+SA_0000001759	ok	6.6s	15-19 years old, current drinkers (%)
+WSH_WATER_SAFELY_MANAGED	ok	15.9s	Population using safely managed drinking-water services (%)
+SA_0000001688	ok	10.0s	Alcohol, total per capita (15+) consumption (in litres of pure alcohol) (SDG Indicator 3.5.2), three-year average
+SA_0000001822	ok	6.3s	Alcohol, total per capita (15+) consumption (in litres of pure alcohol) with 95%CI
+WHS2_126	ok	7.8s	Distribution of years of life lost by major cause group
+SDGDISASTER	ok	8.6s	Average death rate due to natural disasters (per 100 000 population)
+WHS4_100	ok	11.8s	Diphtheria tetanus toxoid and pertussis third-dose  (DTP3) immunization coverage among 1-year-olds (%) (WUENIC)
+SDGIHR	ok	6.7s	Average of 13 International Health Regulations core capacity scores
+WHS4_544	ok	8.1s	Polio vaccine: inactivated second or third-dose polio vaccine (IPVc) immunization coverage by the locally recommended ag
+WHS6_102	ok	9.7s	Hospital beds (per 10 000 population)
+WHOSIS_000004	ok	17.8s	Adult mortality rate (probability of dying between 15 and 60 years per 1000 population)
+SE_LSC_RDNG	ok	8.2s	Proportion of children at the end of lower secondary achieving at least a minimum proficiency level in reading (%)
+TOTENV_4	ok	8.8s	Age-standardized DALYs attributable to the environment (per 100 000 population)
+WSH_20_WAT	ok	6.1s	Attributable fraction of diarrhoea to inadequate water
+TOTENV_5	ok	10.8s	Deaths attributable to the environment (%)
+SA_0000001749	ok	6.9s	Alcohol, total (recorded 3 year average + unrecorded) per capita (15+) consumption (in litres of pure alcohol) with 95%C
+WSH_SANITATION_SAFELY_MANAGED	ok	14.3s	Population using safely managed sanitation services (%)
+NTD_ONCHEMO	ok	91.3s	Number of individuals in the country requiring preventive chemotherapy for onchocerciasis
+WHOSIS_000006	ok	6.2s	Infants exclusively breastfed for the first six months of life (%)
+WHS4_543	ok	9.4s	BCG immunization coverage among 1-year-olds (%) (WUENIC)
+W23_emissions_front_back_A	ok	7.8s	Cigarette packaging and labelling must display qualitative information on constituents and emissions on one or more of t
+WSH_10_SAN	ok	8.5s	Number of diarrhoea deaths from inadequate sanitation
+WSH_3	ok	6.0s	Water, sanitation and hygiene attributable deaths per 100'000 capita
+WHOSIS_000014	ok	11.2s	Stillbirth rate (per 1000 total births)
+NUTRITION_WH_2	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Wasting prevalence among children under 5 years of age (% weight-for-height <-2 SD), survey-based estimates
+TB_c_dst_rlt_ret_pct	ok	9.5s	Previously treated cases tested for RR-/MDR-TB (%)
+UHC_SCI_NCD	ok	20.6s	UHC Service Coverage sub-index on noncommunicable diseases
+TB_c_mdr_tx	ok	8.4s	Cases started on MDR-TB treatment
+UNICEF_ORS	ok	6.2s	Children aged <5 years with diarrhoea receiving ORS (%)
+TB_c_notified	ok	7.6s	Total number of notified TB cases
+UV_5	ok	5.8s	UV radiation attributable DALYs per 100'000 capita
+SE_PRE_PARTN	ok	9.9s	Participation rate in organized learning (one year before the official primary entry age) (%)
+NUTSTUNTINGPREV	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Stunting prevalence among children under 5 years of age (% height-for-age <-2 SD), model-based estimates
+WSH_30_WAT	ok	14.2s	Number of diarrhoea DALYs from inadequate water
+TB_conf_mdr_tx_pct	ok	7.4s	Confirmed cases of MDR-TB started treatment for MDR-TB (%)
+TOTENV_2	ok	6.9s	Age-standardized deaths attributable to the environment (per 100 000 population)
+TB_hiv_cpt_pct	ok	8.1s	HIV-positive TB patients on CPT (co-trimoxazole preventive therapy) (%)
+ODA_1	ok	87.5s	Donor commitments (Million, constant 2009 US$)
+SP_DYN_MRBF15	ok	5.8s	Proportion of women aged 20-24 years who were married or in a union by age 15 (%)
+ODA_1	ok	16.5s	Donor commitments (Million, constant 2009 US$)
+SA_0000001787	ok	12.1s	13-15-years old first drink before age 14, (%)
+ODA_3	ok	3.8s	Donor disbursements (Million, constant 2009 US$)
+P3_compliance	ok	5.8s	Compliance of ban on smoking in UNIVERSITIES
+P3_compliance	ok	5.6s	Compliance of ban on smoking in UNIVERSITIES
+SA_0000001808	ok	7.9s	Alcohol-attributable fractions (15+), cancer deaths
+WSH_HYGIENE_BASIC	ok	12.7s	Population with basic handwashing facilities at home (%)
+P6_compliance	ok	4.1s	Compliance of ban on smoking in RESTAURANTS
+SA_0000001829	ok	5.6s	Average price 500 mls Beer in US$
+SE_G23_RDG	ok	6.3s	Proportion of children in grades 2/3 achieving at least a minimum proficiency level in reading (%)
+SDGCONFLICT	ok	8.7s	Estimated direct deaths from major conflicts (per 100 000 population)
+SA_0000001819	ok	7.7s	Heavy episodic drinking (youth 15 -19 years) past 30 days (%)
+WHOSIS_000007	ok	18.3s	Healthy life expectancy (HALE) at age 60 (years)
+TB_c_new_tsr	ok	10.3s	Treatment success rate: new TB cases
+UHC_SCI_CAPACITY	ok	12.5s	UHC Service Coverage sub-index on service capacity and access
+W16_number_hw_B	ok	7.1s	How many health warnings are approved by the law for other smoked tobacco packaging?
+MH_12	ok	24.2s	Age-standardized suicide rates (per 100 000 population)
+SDGPM25	ok	22.2s	Concentrations of fine particulate matter (PM2.5)
+MH_19	ok	5.8s	Mental hospital admissions (per 100,000)
+MH_16	ok	5.7s	Beds in mental hospitals (per 100,000)
+UHC_SCI_INFECT	ok	9.8s	UHC Service Coverage sub-index on infectious diseases
+PC_sfe_compliance	ok	84.2s	Compliance with regulations on smoke-free environments (national legislation)
+TB_e_inc_num	ok	21.4s	Number of incident tuberculosis cases
+VIOLENCE_HOMICIDENUM	ok	25.6s	Estimates of number of homicides
+NUTRITION_WA_2	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Underweight prevalence among children under 5 years of age   (% weight-for-age <-2 SD), survey-based estimates
+SDGPOISON	ok	22.9s	Mortality rate attributed to unintentional poisoning (per 100 000 population)
+NCD_BMI_30C	ok	35.2s	Obesity among adults, BMI ≥ 30 kg/m2 (crude estimate) (%)
+SDGSHP	ok	6.3s	Skilled health professionals density (per 10 000 population)
+WSH_6	ok	6.2s	Water, sanitation and hygiene attributable DALYs ('000) in children under 5 years
+W3_pc_front_C	ok	7.8s	Percentage of principal display area mandated to be covered by health warnings - front of smokeless tobacco packaging
+P4_compliance	ok	73.4s	Compliance of ban on smoking in GOVERNMENT FACILITIES
+P4_compliance	ok	38.6s	Compliance of ban on smoking in GOVERNMENT FACILITIES
+W4_pc_back_A	ok	8.6s	Percentage of principal display area mandated to be covered by health warnings - back of cigarette packaging
+SA_0000001831	ok	5.6s	Average price 500 mls Spirits in US$
+SDGHPVRECEIVED	ok	8.2s	HPV immunization coverage estimates among primary target cohort (9-14 years old girls) (%)
+WHOSIS_000001	ok	3.8s	Life expectancy at birth (years)
+SA_0000001398	ok	31.5s	Alcohol, consumption of pure alcohol by type of beverage (%)
+SA_0000001398	ok	29.5s	Alcohol, consumption of pure alcohol by type of beverage (%)
+MORTADO	ok	62.8s	Adolescent mortality rate (per 1 000 age specific cohort)
+MH_9	ok	9.8s	Psychologists working in mental health sector (per 100,000)
+SDGSUICIDE	ok	28.5s	Crude suicide rates (per 100 000 population)
+WSH_20_HYG	ok	5.7s	Attributable fraction of diarrhoea to inadequate hygiene
+TB_e_inc_tbhiv_100k	ok	9.6s	Incidence of tuberculosis (per 100 000 population) (HIV-positive cases)
+WSH_4	ok	5.8s	Water, sanitation and hygiene  attributable deaths per 100'000 children under 5 years
+MENING_3	ok	5.9s	Number of meningitis epidemic districts
+WHOSIS_000003	ok	15.2s	Neonatal mortality rate (per 1000 live births)
+NCD_PAC	ok	18.1s	Prevalence of insufficient physical activity among adults aged 18+ years (crude estimate) (%)
+W2_pc_front_back_C	ok	7.0s	Percentage of principal display area mandated to be covered by health warnings - front and back of smokeless tobacco pac
+NTCP_govt_exp	ok	7.4s	Annual budget for tobacco control in currency reported
+SA_0000001411	ok	74.3s	Alcohol, abstainers past 12 months (%), age-standardized
+SA_0000001411	ok	72.2s	Alcohol, abstainers past 12 months (%), age-standardized
+R_afford_price_dispersion	ok	3.8s	Tobacco tax structure: Price dispersion: Share of cheapest brand price in premium brand price (%) (the higher the % the 
+R_afford_price_dispersion	ok	2.8s	Tobacco tax structure: Price dispersion: Share of cheapest brand price in premium brand price (%) (the higher the % the 
+SDG_SH_DTH_RNCOM	ok	45.7s	Number of deaths attributed to non-communicable diseases, by type of disease and sex
+NCD_PAA	ok	42.9s	Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%)
+TB_1	ok	9.8s	Tuberculosis treatment coverage
+NCD_PAC_ADO	ok	15.0s	Insufficiently active (crude estimate)
+TB_c_lab_dst_5m	ok	8.2s	Laboratories providing drug susceptibility testing (DST) (per 5 million population)
+NTD_LEISHCNUM	ok	8.5s	Number of cases of cutaneous leishmaniasis reported
+TB_c_lab_sm_100k	ok	9.9s	Laboratories providing tuberculosis diagnostic services using sputum smear microscopy (per 100 000 population)
+RADON_Q501_1	ok	5.6s	Reference level for dwellings (Bq/m3)
+SE_LSC_MATH	ok	8.0s	Proportion of children at the end of lower secondary achieving at least a minimum proficiency level in mathematics (%)
+ASSISTIVETECH_SOURCESOFAT	ok	6.7s	Sources of assistive products (%)
+TB_c_xdr_tsr	ok	6.3s	Treatment success rate: XDR-TB cases
+CARE_SOURCE	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Care-seeking by type of patient and source of care (%)
+TB_hiv_art_pct	ok	8.0s	HIV-positive TB patients on ART (antiretroviral therapy) (%)
+PRISON_D4_CARDIOVASC_DIAG_TOT	ok	5.5s	In-prison cardiovascular disease diagnosis (number of diagnoses)
+SH_STA_FGMS	ok	5.7s	Proportion of girls and women aged 15-49 years who have undergone female genital mutilation/cutting (FMG/C) (%)
+WSH_30_SAN	ok	6.2s	Number of diarrhoea DALYs from inadequate sanitation
+SDGWSHBOD	ok	8.3s	Mortality rate attributed to exposure to unsafe WASH services (per 100 000 population) (SDG 3.9.2)
+SE_PRM_RDNG	ok	6.0s	Proportion of children at the end of primary achieving at least a minimum proficiency level in reading (%)
+SA_0000001400	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol), by beverage type
+SA_0000001400	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol), by beverage type
+TB_c_dst_rlt_new_pct	ok	8.5s	New cases tested for RR-/MDR-TB (%)
+R_Ad_val_average	ok	4.3s	Average - taxes as a % of cigarette price - ad valorem excise
+R_Ad_val_average	ok	2.8s	Average - taxes as a % of cigarette price - ad valorem excise
+TB_hivtest_pct	ok	8.8s	TB patients with known HIV status (%)
+R_Price_premium_estimate	ok	6.4s	Premium brand of cigarettes - price in currency reported
+R_Price_premium_estimate	ok	8.9s	Premium brand of cigarettes - price in currency reported
+SA_0000001420	ok	4.1s	Age-standardized DALYs, colon and rectum cancers, per 100,000
+MH_15	ok	6.0s	Beds in community residential facilities (per 100,000)
+SA_0000001420	ok	2.8s	Age-standardized DALYs, colon and rectum cancers, per 100,000
+MH_13	ok	5.4s	Beds for mental health in general hospitals (per 100,000)
+MH_4	ok	5.7s	Government expenditures on mental health as a percentage of total government expenditures on health (%)
+NCD_BMI_18A	ok	35.1s	Underweight among adults, BMI < 18.5 kg/m2 (age-standardized estimate) (%)
+PHE_HHAIR_POP_CATEGORY_FUELS	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Population with primary reliance on fuels and technologies for cooking, by fuel type (in millions)
+R_excise_proportion	ok	71.1s	Tax structure: Excise tax proportion of price
+R_excise_proportion	ok	68.4s	Tax structure: Excise tax proportion of price
+R_Other_estimate	ok	2.9s	Most sold brand of cigarettes - taxes as a % of price - other taxes
+R_Other_estimate	ok	4.9s	Most sold brand of cigarettes - taxes as a % of price - other taxes
+MORT_200	ok	55.5s	Deaths per 1 000 live births
+SCSUD_MEDREG	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Substance use disorders service coverage, medicine registered in the country
+Rev_import	ok	6.3s	Tobacco tax revenues - import duties
+STI_URETHRAL_CASES_NUM	ok	6.3s	Reported cases of urethral discharge among men (number)
+R_Ad_val_estimate	ok	68.3s	Most sold brand of cigarettes - taxes as a % of price - ad valorem excise
+R_Ad_val_estimate	ok	66.3s	Most sold brand of cigarettes - taxes as a % of price - ad valorem excise
+MALARIA_EST_INCIDENCE	ok	12.3s	Estimated malaria incidence (per 1000 population at risk)
+R_total_tax_average	ok	4.2s	Average - taxes as a % of cigarette price - total tax
+R_total_tax_average	ok	2.8s	Average - taxes as a % of cigarette price - total tax
+TAXBEV_AFFORD_GDP	ok	8.1s	GDP per capita to purchase a volume of beverage (%)
+HEMOGLOBINLEVEL_PREGNANT_MEAN	ok	16.0s	Mean hemoglobin level of pregnant women (aged 15-49 years)
+HEPATITIS_HBV_TREATMENT_NUM	ok	7.0s	Persons on chronic hepatitis B (HBV) treatment (number)
+SA_0000001419	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Age-standardized DALYs, breast cancer, per 100,000
+SA_0000001419	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Age-standardized DALYs, breast cancer, per 100,000
+R_VAT_estimate	ok	3.1s	Most sold brand of cigarettes - taxes as a % of price - value added tax
+R_VAT_estimate	ok	5.1s	Most sold brand of cigarettes - taxes as a % of price - value added tax
+NCD_BMI_MEANC	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Mean BMI (kg/m&#xb2;) (crude estimate)
+SA_0000001413	ok	38.5s	Alcohol, consumers past 12 months (%), age-standardized
+SA_0000001413	ok	40.5s	Alcohol, consumers past 12 months (%), age-standardized
+R_Price_mp_estimate	ok	4.7s	Most sold brand of cigarettes - price in currency reported
+R_Price_mp_estimate	ok	2.8s	Most sold brand of cigarettes - price in currency reported
+SA_0000001431	ok	4.4s	Age-standardized DALYs, poisoning, per 100,000
+SA_0000001431	ok	2.8s	Age-standardized DALYs, poisoning, per 100,000
+SA_0000001436	ok	4.2s	Age-standardized DALYs, violence, per 100,000
+SA_0000001436	ok	2.8s	Age-standardized DALYs, violence, per 100,000
+PHE_HHAIR_POP_POLLUTING_FUELS	ok	85.1s	Population with primary reliance on polluting fuels and technologies for cooking (in millions)
+TB_e_inc_num_014	ok	53.6s	Number of incident tuberculosis cases in children aged 0 - 14
+SA_0000001441	ok	10.4s	Age-standardized death rates, drownings, per 100,000
+SA_0000001441	ok	13.3s	Age-standardized death rates, drownings, per 100,000
+TB_mdr	ok	9.7s	Confirmed cases of MDR-TB
+ORALHEALTH_HWF_DENTALPROSTHETICTECH_10K	ok	42.9s	Dental prosthetic technicians (per 10 000 population)
+HIV_CONDOMUSE_PERCENT	ok	5.9s	Condom use at last high-risk sex (percent)
+NCD_GLUC_04	ok	29.5s	Raised fasting blood glucose (>=7.0 mmol/L) (age-standardized estimate)
+NHABASIS	ok	5.6s	Basis for NHA estimate
+HEMOGLOBINLEVEL_CHILDREN_MEAN	ok	9.3s	Mean hemoglobin level of children aged 6-59 months
+RateCS	ok	52.9s	Congenital syphilis rate per 100 000 live births, reported
+RateCS	ok	50.9s	Congenital syphilis rate per 100 000 live births, reported
+TB_e_inc_rr_num	ok	9.3s	Estimated number of RR-TB incident cases
+RHR_NPSV	ok	4.0s	Proportion of women and girls aged 15 years and older who have been subjected to sexual violence by someone other than a
+RHR_NPSV	ok	2.8s	Proportion of women and girls aged 15 years and older who have been subjected to sexual violence by someone other than a
+TB_notif_num_newrel_ep	ok	12.2s	Number of people diagnosed with new episode of pulmonary TB who have extrapulmonary TB.
+NCD_GLUC_03	ok	29.9s	Raised fasting blood glucose (>= 7.0 mmol/L) (crude estimate)
+NTD_LEISHCNUM_IM	ok	7.7s	Number of imported cases of cutaneous leishmaniasis reported
+NTD_1	ok	5.9s	Number of new reported cases of Buruli ulcer
+NCD_HYP_PREVALENCE_C	ok	21.1s	Hypertension among adults aged 30-79 years, prevalence, crude
+NTD_LEISHVNUM_IM	ok	11.1s	Number of imported cases of visceral leishmaniasis reported
+E_compl_e10	ok	9.7s	Compliance with ban on promotional discounts (score)
+NCD_DTH_TOT	ok	21.2s	Total NCD Deaths
+PRISON_D3_DEATHS_TOT	ok	5.6s	In-prison total deaths
+SA_0000001449	ok	62.0s	Age-standardized death rates, oesophagus cancer, per 100,000
+SA_0000001449	ok	64.8s	Age-standardized death rates, oesophagus cancer, per 100,000
+Yth_daily_smokeless	ok	6.3s	Prevalence of daily smokeless tobacco use among adolescents (%)
+TOBACCO_MPOWER_R_TAXADMINISTRATION	ok	14.7s	Tobacco Raise taxes: Tax administration
+SUD_TREATMENTSERVICES_COVERAGE	ok	6.4s	Contact coverage of treatment services for substance use disorders (%)
+TAXBEV_OTHERTAXES	ok	6.6s	Other taxes on beverages (%)
+HEPATITIS_HCV_DIAGNOSIS_PERINFECTED_CRD_PER100	ok	5.5s	Chronic hepatitis C (HCV) diagnosis coverage as percentage of total HCV infected, including cured (%)
+ORALHEALTH_DENTALHEALTHCARE_EXP_PERCAP	ok	5.9s	Per capita expenditure on dental healthcare (US$)
+PRISON_B9_1_NURSES_RATIO	ok	6.1s	Nurses in prisons (FTEs per 1000 prisoners)
+NTD_4	ok	6.4s	Number of new reported cases of human African trypanosomiasis (T.b. gambiense)
+HIV_NSP_COVERAGE_RATE	ok	5.5s	NSP coverage among PWID per year (rate)
+NTD_7	ok	6.3s	Population in areas that warrant treatment with antibiotics, facial cleanliness and environmental improvement for elimin
+HEPATITIS_HBV_TREATMENT_ANC_PERCENT	ok	5.6s	Eligible women attending antenatal care who were treated for HBV
+HEPATITIS_DEATHS_NUM	ok	6.2s	Hepatitis - Deaths caused by chronic hepatitis B and C
+TOBACCO_MPOWER_P2_SMOKEFREEPLACEDETAILS	ok	18.1s	Tobacco MPOWER Protect people: P2 smoke-free places, additional characteristics
+PRISON_D4_HIV_DIAG_TOT	ok	5.9s	In-prison HIV diagnosis (number of diagnoses)
+ORALHEALTH_UNTREATEDCARIESPERMANENT	ok	5.6s	Prevalence of untreated caries of permanent teeth in people 5+ years (%)
+HEPATITIS_HCV_DIAGNOSED_CRD_NUM	ok	7.3s	Chronic hepatitis C (HCV) infected persons diagnosed, including cured (number)
+FINPROTECTION_IMP_P365_POP	ok	7.6s	Population pushed further below the $3.65 a day poverty line by household health expenditures (%, national, rural, urban
+TG_CONDOMUSE_PERCENT	ok	5.8s	Transgender: Condom use (percent)
+SA_0000001437	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Age-standardized death rates, alcohol use disorders, per 100,000
+SA_0000001437	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Age-standardized death rates, alcohol use disorders, per 100,000
+SA_0000001833	ok	6.8s	Alcohol-attributable DALYs per 100,000 people (age standardized)
+SA_0000001446	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Age-standardized death rates, liver cirrhosis, per 100,000
+SA_0000001446	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Age-standardized death rates, liver cirrhosis, per 100,000
+AMR_INFECT_ECOLI	ok	6.7s	Proportion of bloodstream infection due to Escherichia coli resistant to third-generation cephalosporins (%)
+GDO_q9x1_4	ok	3.7s	Geriatric-specific hospital beds (per 10,000 population)
+GDO_q9x1_4	ok	2.8s	Geriatric-specific hospital beds (per 10,000 population)
+FINPROTECTION_IMP_P310_POP	ok	7.3s	Population pushed further below the $3.20 a day poverty line by household health expenditures (%, national, rural, urban
+ORALHEALTH_SUGAR_AVAILABILITY	ok	5.6s	Per capita availability of refined sugar (g/day)
+PRISON_D4_TB_DIAG_TOT	ok	5.4s	In-prison TB diagnosis (number of diagnoses)
+NCD_HYP_CONTROL_A	ok	23.8s	Hypertension effective treatment coverage (controlled hypertension )among adults aged 30-79, age-standardized (%)
+Rev_govt_total	ok	26.1s	Annual tax revenues - total revenues
+Rev_govt_total	ok	23.1s	Annual tax revenues - total revenues
+M_Est_smk_curr_users	ok	12.7s	Number of current tobacco smokers, estimate
+MALARIA_NMCP_CALCULATIONS	ok	7.5s	Domestic Expenditure on Malaria
+SA_0000001424	ok	4.0s	Age-standardized DALYs, fires, per 100,000
+SA_0000001424	ok	2.8s	Age-standardized DALYs, fires, per 100,000
+SA_0000001439	ok	4.2s	Age-standardized death rates, colon and rectum cancers, per 100,000
+MALARIA_MICR_TEST	ok	7.2s	Number of malaria suspects examined by microscopy
+SA_0000001439	ok	2.8s	Age-standardized death rates, colon and rectum cancers, per 100,000
+FOODSAFETY_JEE_SCORE	ok	6.8s	Food safety JEE (score)
+IHRSPAR2_C12	ok	6.7s	Zoonotic diseases
+R_Price_lowest_cost_estimate	ok	6.2s	Cheapest brand of cigarettes - price in currency reported
+E_compl_e6	ok	5.9s	Compliance with ban on advertising at point of sale (score)
+NUTRITION_ANAEMIA_REPRODUCTIVEAGE_PREV	ok	20.4s	Prevalence of anaemia in women of reproductive age (aged 15-49) (%)
+TB_cc_prct_Q4	ok	5.8s	Percentage of TB-affected households facing costs >20% of household income or expenditure due to TB among Q4 income or e
+E_compl_e12	ok	5.8s	Compliance with ban on indentifying non-tobacco products with tobacco brand names (score)
+SW_CONDOMUSE_PERCENT	ok	6.3s	Sex workers: Condom use (percent)
+HEPATITIS_HBV_DIAGNOSED_NUM	ok	5.9s	Chronic hepatitis B (HBV) infected persons diagnosed (number)
+TB_cc_prct_DSTB	ok	6.3s	Percentage of TB-affected households facing costs >20% of household income or expenditure due to DS-TB.
+M_Est_cig_curr_std	ok	11.4s	Estimate of current cigarette smoking prevalence (%) (age-standardized)
+NCD_HYP_DIAGNOSIS_A	ok	22.3s	Hypertension: diagnosis coverage among adults aged 30-79 with hypertension, age-standardized (%)
+TB_ps_prev_bc_100k_bysex_sp	ok	6.3s	Prevalence of bacteriologically-confirmed pulmonary TB who are smear positive among those aged ≥15 years, per 100,000 po
+MALARIA_INDIG	ok	6.6s	Number of indigenous malaria cases
+LBW_PREVALENCE	ok	8.8s	Low birth weight prevalence (%)
+SCSUD_MEDPUBLIC	ok	7.3s	Substance use disorders service coverage, medicine provided for free in public health care
+RS_198	ok	77.4s	Estimated road traffic death rate (per 100 000 population)
+RS_198	ok	74.0s	Estimated road traffic death rate (per 100 000 population)
+ORALHEALTH_UHC_GOVSCHEME	ok	6.5s	Oral health interventions as part of health benefit packages: Coverage of the largest government health financing scheme
+IHRSPAR2_C09	ok	6.8s	Infection prevention and control (IPC)
+SA_0000001459_AA	ok	7.8s	Road traffic crash deaths, alcohol-attributable, age-standardized death rates, per 100,000 population
+RHR_NPSV12M	ok	6.0s	Proportion of women and girls aged 15 years or older who have been subjected to sexual violence by someone other than a 
+SA_0000001453	ok	9.7s	Age-standardized death rates, self-inflicted injury, per 100,000
+SA_0000001453	ok	11.7s	Age-standardized death rates, self-inflicted injury, per 100,000
+SCSUD_NSS	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, non-structured services
+HEPATITIS_HCV_TESTING_HIV_PERCENT	ok	6.0s	People living with HIV diagnosed with chronic hepatitis C infection (percent)
+GASP_ISOLATESDSR_PROPORTION	ok	10.3s	Antimicrobial resistance or decreased susceptibiity (DS/R) to antimicrobials in Neisseria gonorrhoea isolates (WHO-GASP)
+PRISON_F1_INJECTDRUGUSERS_TOT	ok	8.2s	In-prison people who inject/have injected drugs (number of prisoners, over the last 12 months)
+ORALHEALTH_PRODLOSS_ORALDISEASES	ok	8.5s	Total productivity losses due to 5 oral diseases in million (US$)
+HEPATITIS_HBV_DIAGNOSIS_PERINFECTED_PER100	ok	6.5s	Chronic hepatitis B (HBV) diagnosis coverage as a percentage of infected (%)
+CHILDVIOL	ok	6.3s	Indicator 16.2.1: Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological ag
+NUT_BF_EIBF	ok	15.9s	Early Initiation of Breastfeeding, Children born in the last 24 months
+RS_246	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Distribution of road traffic deaths by type of road user (%)
+SW_PSE_NUM	ok	5.7s	Sex workers: Population size estimate (number)
+RS_246	ok	42.4s	Distribution of road traffic deaths by type of road user (%)
+NUT_CF_MAD	ok	11.3s	Minimum Acceptable Diet 6-23 months
+PRISON_B9_1_PHYCHIATRISTS_RATIO	ok	5.5s	Psychiatrists in prisons (FTEs per 1000 prisoners)
+TOBACCO_MPOWER_R_AFFORDABILITY	ok	9.5s	Tobacco Raise taxes: Affordability
+GHED_CHEGDP_SHA2011	ok	12.5s	Current health expenditure (CHE) as percentage of gross domestic product (GDP) (%)
+GHED_CHEGDP_SHA2011	ok	22.5s	Current health expenditure (CHE) as percentage of gross domestic product (GDP) (%)
+PRISON_A2_PRISIONERS_N	ok	5.8s	Number of prisoners
+E_compl_e5	ok	5.7s	Compliance with ban on billboard and outdoor advertising (score)
+SA_0000001454	ok	4.1s	Age-standardized death rates, other unintentional injuries, per 100,000
+SA_0000001454	ok	2.8s	Age-standardized death rates, other unintentional injuries, per 100,000
+HEPATITIS_HBV_TESTING_ANC_PERCENT	ok	5.7s	Pregnant women attending antenatal care, tested for HBsAg (percent)
+MALARIA_1STLINE_TREATED	ok	6.4s	Number of malaria cases treated with any first  line tx courses (including artemisinin-based combination therapies (ACTs
+TB_cc_prct_Q3	ok	5.5s	Percentage of TB-affected households facing costs >20% of household income or expenditure due to TB among Q3 income or e
+P_compl_p8	ok	6.3s	Compliance with smoke-free public transport law (score)
+TB_notif_num_labconf	ok	10.2s	Number of people diagnosed with new episode of pulmonary TB who are bacteriologically confirmed.
+LBW_NUMBER	ok	10.3s	Low birth weight number (in thousands)
+NCD_HYP_TREATMENT_C	ok	24.3s	Hypertension treatment coverage among adults aged 30-79 with hypertension, crude (%)
+SA_0000001465	ok	39.7s	Hospital discharges, alcohol-related injuries and poisoning, per 100,000
+SA_0000001465	ok	37.0s	Hospital discharges, alcohol-related injuries and poisoning, per 100,000
+E_compl_e15	ok	6.3s	Compliance with ban on sponsorship (contributions and/or publicity of contributions) (score)
+E_compl_e1	ok	6.1s	Compliance with ban on advertising on national television and radio (score)
+GHED_EXTCHE_SHA2011	ok	9.8s	External health expenditure (EXT) as percentage of current health expenditure (CHE) (%)
+GHED_EXTCHE_SHA2011	ok	7.8s	External health expenditure (EXT) as percentage of current health expenditure (CHE) (%)
+NCD_CHOL_MEANHDL_C	ok	26.3s	Mean HDL cholesterol, crude
+ASSISTIVETECH_TRAVELDISTANCEAT	ok	8.8s	Travel distance to obtain assistive products (%)
+STI_SYPHILIS_CASES_NUM	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Reported cases of syphilis (number)
+PHE_HHAIR_PROP_POP_POLLUTING_FUELS	ok	27.6s	Proportion of population with primary reliance on polluting fuels and technologies for cooking (%)
+SCSUD_MEDDF	ok	7.8s	Substance use disorders service coverage, medicine included in drug formulary
+SA_0000001460	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Age-standardized death rates (15+ years), violence, per 100,000
+MALARIA_EST_MORTALITY	ok	8.2s	Estimated malaria mortality rate (per 100 000 population)
+NUTRITION_ANAEMIA_REPRODUCTIVEAGE_NUM	ok	21.2s	Number of women of reproductive age (aged 15-49 years) with anaemia (thousands)
+SA_0000001460	ok	46.6s	Age-standardized death rates (15+ years), violence, per 100,000
+GDO_q9x1_3	ok	7.6s	Dementia-specific hospital beds (per 10,000 population)
+PRISON_D4_CANCER_DIAG_TOT	ok	6.2s	In-prison cancer diagnosis (number of diagnoses)
+R_Total_tax	ok	10.1s	Taxes as a % of price: total tax
+SA_0000001450	ok	3.9s	Age-standardized death rates, poisoning, per 100,000
+SA_0000001450	ok	4.5s	Age-standardized death rates, poisoning, per 100,000
+HEPATITIS_HBV_DEATHS_NUM	ok	5.8s	Deaths caused by chronic hepatitis B (HBV) infection (number)
+PHYSICALACTIVITY_ACTIVESOCIETIES	ok	8.8s	Physical activity policies for activie societies
+FINPROTECTION_IMP_PG_215_STD	ok	7.8s	Increase in poverty gap due to household health expenditures, expressed as a proportion of the $2.15 a-day poverty line 
+PRISON_B9_1_DENTISTS_RATIO	ok	6.1s	Dentists in prisons (FTEs per 1000 prisoners)
+TB_ps_prev_bc_100k	ok	6.0s	Prevalence of bacteriologically-confirmed pulmonary TB among those aged ≥15 years, per 100,000 population
+IHRSPAR2_C04	ok	6.6s	Laboratory
+NUT_BF_EBF2D	ok	13.7s	Exclusively breastfed for the first two days after birth
+TOBACCO_MPOWER_OVERVIEW	ok	20.3s	Tobacco MPOWER overview: Monitor, Protect people, Offer help, Warn of dangers, Enforce bans, Raise taxes
+GDO_q9x2_2	ok	50.9s	Residential long-term care beds (per 10 000 population)
+GDO_q9x2_2	ok	52.9s	Residential long-term care beds (per 10 000 population)
+TB_notif_num_newrel_clindx	ok	10.1s	Number of people diagnosed with new episode of pulmonary TB who are clinically diagnosed.
+GDO_q9x3_3	ok	3.6s	Dementia-specific hospice care beds (per 10,000 population)
+GDO_q9x3_3	ok	2.8s	Dementia-specific hospice care beds (per 10,000 population)
+SA_0000001470	ok	4.9s	Alcohol-related road traffic crashes, per 100,000 population
+SA_0000001470	ok	2.8s	Alcohol-related road traffic crashes, per 100,000 population
+SCSUD_REHAB	ok	8.8s	Substance use disorders service coverage, rehabilitation programmes
+TOBACCO_MPOWER_W2C_TOBACCOSMOKELESS	ok	34.4s	Tobacco Warning: W2c smokeless tobacco packaging health warnings, other characteristics
+SA_0000001473	ok	4.0s	Alcohol-related disease mortality, per 100,000 (15+ years)
+SA_0000001473	ok	2.8s	Alcohol-related disease mortality, per 100,000 (15+ years)
+HEPATITIS_HCV_DIAGNOSED_NUM	ok	6.2s	Chronic hepatitis C (HCV) infected persons diagnosed (number)
+RSUD_2	ok	4.0s	Point prevalence (%), drug use disorders, 15+ years
+P_compl_p2	ok	6.7s	Compliance with smoke-free education facilities except universities law (score)
+RSUD_2	ok	2.8s	Point prevalence (%), drug use disorders, 15+ years
+PRISON_F1_EXERCISE_TOT	ok	5.9s	In-prison people who regularly exercise for a minimum of 150 minutes/week (number of prisoners)
+R_Price_lowest_cost_usd	ok	8.2s	Cheapest brand of cigarettes - price in US$ at official exchange rates
+Yth_curr_e-cig	ok	6.6s	Prevalence of current e-cigarette use among adolescents (%)
+FINPROTECTION_IMP_NPRELPL_POP	ok	7.8s	Population pushed below a relative poverty line by household health expenditures - 60% of median daily per capita consum
+ORALHEALTH_DENTALHEALTHCARE_EXP_TOTAL	ok	5.9s	Total expenditure on dental healthcare in million (US$)
+SCSUD_HWFPROGRESS	ok	5.8s	Substance use disorders service coverage, health workforce progress
+SA_0000001840	ok	6.2s	Alcohol, heavy continuous drinkers, drinkers only, past year (%)
+PRISON_D3_DEATHS_DRUG_MRATE	ok	5.5s	In-prison drug overdose mortality rate (per 100 000 incarcerated persons per year)
+GHED_OOP_pc_US_SHA2011	ok	34.1s	Out-of-pocket expenditure (OOP) per capita in US$
+GHED_OOP_pc_US_SHA2011	ok	29.5s	Out-of-pocket expenditure (OOP) per capita in US$
+SCSUD_HWFAVAILABILITY	ok	8.2s	Substance use disorders service coverage, availability and quantity of specialized human workforce
+SA_0000001696	ok	4.5s	Alcohol-related road traffic crashes with fatalities (% of all road traffic crashes with fatalities)
+SA_0000001696	ok	2.8s	Alcohol-related road traffic crashes with fatalities (% of all road traffic crashes with fatalities)
+MALARIA_ITN_USE	ok	6.1s	Malaria ITN use: Population in malaria-endemic areas who slept under an insecticide-treated bed net (ITN) the previous n
+VACCINECOVERAGE_DTP1	ok	10.0s	Diphtheria tetanus toxoid and pertussis first-dose (DTP1) immunization coverage among 1-year-olds (%) (WUENIC)
+NCD_SENSORYFUNCTION_VISION_EREC	ok	7.1s	Vision and eyecare: Effective refractive error coverage (eREC) (%)
+ORALHEALTH_DENOMINATOR_CHEPPP	ok	5.9s	Per capita current health expenditure in PPP (oral health)
+MALARIA_IRS_COVERAGE	ok	6.5s	Number of people protected from malaria by indoor residual spraying (IRS)
+HEMOGLOBINLEVEL_REPRODUCTIVEAGE_MEAN	ok	10.4s	Mean hemoglobin level of women of reproductive age (aged 15-49 years)
+SDGIHR2018	ok	8.7s	Average of 13 International Health Regulations core capacity scores, SPAR version, 1st edition
+SA_0000001468	ok	36.3s	Treatment admissions (inpatient), alcohol dependence, per 100,000
+SA_0000001468	ok	34.1s	Treatment admissions (inpatient), alcohol dependence, per 100,000
+HEPATITIS_HBV_INFECTIONS_NEW_NUM	ok	10.3s	New chronic hepatitis B (HBV) infections (number)
+SA_0000001676	ok	3.8s	Production in 1000s hectolitres
+SA_0000001676	ok	5.8s	Production in 1000s hectolitres
+CM_04	ok	25.8s	Number of deaths among children ages 5 to 9 years
+bfearly	ok	24.2s	to be retired
+SA_0000001677	ok	27.3s	Imports in 1000s hectolitres
+SA_0000001677	ok	29.3s	Imports in 1000s hectolitres
+TOBACCO_MPOWER_R_TAX	ok	24.9s	Tobacco Raise taxes: National taxes for tobacco and nicotine products
+SA_0000001546	ok	2.8s	Excise tax as a per cent of the retail price of alcoholic beverages
+SA_0000001546	ok	4.9s	Excise tax as a per cent of the retail price of alcoholic beverages
+SCSUD_PHARM	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, pharmacological treatment services
+PHYSICALACTIVITY_ADO_DAY	ok	19.2s	Physical activity among adolescents, mean active days per week
+SA_0000001687	ok	10.0s	Exports of spirits in 1000s hectolitres
+SA_0000001687	ok	8.1s	Exports of spirits in 1000s hectolitres
+FINPROTECTION_IMP_P215_POP	ok	14.5s	Population pushed further below the $2.15 a day poverty line by household health expenditures (%, national, rural, urban
+WHS2_138	ok	4.6s	Deaths due to HIV/AIDS (per 100 000 population)
+WHS2_138	ok	2.8s	Deaths due to HIV/AIDS (per 100 000 population)
+HEPATITIS_HCV_TREATMENT_PERDIAGNOSED_PER100	ok	14.1s	Chronic hepatitis C (HCV) treatment rate as percentage of diagnosed (%)
+Yth_curr_tob_smoking	ok	6.6s	Prevalence of current tobacco smoking among adolescents (%)
+SCSUD_MEDNUM	ok	7.3s	Substance use disorders service coverage, medicine quantitative data on the number of prescriptions/sales is available
+TAXBEV_SUGARCONTENT	ok	6.7s	Sugar-content of beverage (g/100ml)
+SA_0000001747	ok	16.5s	Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol), three-year average
+SA_0000001747	ok	14.3s	Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol), three-year average
+GLASSAMC_TC	ok	6.8s	Total use of antibacterials expressed as DDD per 1000 inhabitants per day
+HWF_0025	ok	17.1s	Medical doctors (%)
+SA_0000001751	ok	25.1s	Alcohol, average daily intake in grams among drinkers, three-year average
+SA_0000001751	ok	23.1s	Alcohol, average daily intake in grams among drinkers, three-year average
+SA_0000001807_AA	ok	7.1s	Cancer, alcohol-attributable, age-standardized death rates, per 100,000 population
+TB_new_oth	ok	5.0s	New cases: other
+TB_new_oth	ok	3.0s	New cases: other
+WHOSIS_000016	ok	40.0s	Mortality rate among children ages 5 to 9 years (per 1000 children aged 5)
+NTD_YAWSNUM_SUSP	ok	7.2s	Number of suspected yaws cases reported
+WHS3_42	ok	6.9s	Japanese encephalitis - number of reported cases
+WHS3_42	ok	4.9s	Japanese encephalitis - number of reported cases
+SDGHEALTHFACILITIESESSENTIALMEDS	ok	10.0s	Proportion of health facilities with a core set of relevant essential medicines available and affordable on a sustainabl
+TB_ret_oth	ok	4.2s	Retreatment cases: other
+TB_ret_oth	ok	6.2s	Retreatment cases: other
+IHRSPAR2_C03	ok	6.4s	Financing
+PRISON_D4_MDRTB_DIAG_TOT	ok	5.6s	In-prison MDR-TB diagnosis (number of diagnoses)
+TB_cc_prct_Q2	ok	22.7s	Percentage of TB-affected households facing costs >20% of household income or expenditure due to TB among Q2 income or e
+HEPATITIS_HCV_TREATMENT_CUM_NUM	ok	5.9s	Persons on chronic hepatitis C (HCV) treatment, cumulative (number)
+TB_new_sn	ok	26.5s	New cases: pulmonary smear-negative
+TB_new_sn	ok	28.5s	New cases: pulmonary smear-negative
+WHS3_55	ok	6.3s	Congenital Rubella Syndrome - number of reported cases
+WHS3_55	ok	8.3s	Congenital Rubella Syndrome - number of reported cases
+WHS3_45	ok	7.8s	Number of new leprosy cases
+WHS3_45	ok	5.8s	Number of new leprosy cases
+SCSUD_STSPROGRESS	ok	53.3s	Substance use disorders service coverage, specialized treatment services progress
+WHS3_50	ok	19.3s	Yellow fever - number of reported cases
+WHS3_50	ok	17.3s	Yellow fever - number of reported cases
+NCD_DIABETES_PREVALENCE_AGESTD	ok	53.2s	Prevalence of diabetes, age-standardized
+WHS3_62	ok	32.0s	Measles - number of reported cases
+WHS3_62	ok	34.0s	Measles - number of reported cases
+WHS4_117	ok	9.4s	Hepatitis B (HepB3) immunization coverage among 1-year-olds (%) (WUENIC)
+WHS4_117	ok	7.4s	Hepatitis B (HepB3) immunization coverage among 1-year-olds (%) (WUENIC)
+SDGIHR2021	ok	54.0s	International Health Regulations core capacity scores, SPAR version, 2nd edition
+P_compl_p5	ok	6.1s	Compliance with smoke-free indoor offices law (score)
+SA_0000001757	ok	19.7s	15-19 years old abstainers, lifetime (%)
+SA_0000001757	ok	21.7s	15-19 years old abstainers, lifetime (%)
+WHS5_512	ok	4.0s	Population using solid fuels (%)
+WHS5_512	ok	2.8s	Population using solid fuels (%)
+SA_0000001741	ok	6.7s	Alcohol-attributable fractions (15+), liver cirrhosis deaths (%)
+SA_0000001741	ok	9.5s	Alcohol-attributable fractions (15+), liver cirrhosis deaths (%)
+TOBACCO_MPOWER_W1B_TOBACCOSMOKED	ok	27.0s	Tobacco Warning: W1b smoked tobacco packaging health warnings
+WHS10_8	ok	5.5s	Civil registration coverage of cause-of-death (%)
+WHS10_8	ok	7.5s	Civil registration coverage of cause-of-death (%)
+HEPATITIS_HCV_LIVINGWITH_NUM	ok	6.1s	People living with chronic hepatitis C (HCV) (number)
+WHS3_46	ok	16.4s	Total tetanus - number of reported cases
+WHS3_46	ok	14.4s	Total tetanus - number of reported cases
+WHS4_111	ok	3.6s	Antenatal care coverage - at least one visit (%)
+NUT_BF_CBF	ok	17.3s	Continued breastfeeding 12-23 months
+WHS4_111	ok	2.8s	Antenatal care coverage - at least one visit (%)
+FINPROTECTION_IMP_BNLFHU_P_HH	ok	6.2s	Households further impoverished by out-of-pocket payments (relative poverty line reflecting basic needs: food, housing, 
+WHS6_116	ok	8.8s	Median consumer price ratio of selected generic medicines - Private
+WHS6_116	ok	5.7s	Median consumer price ratio of selected generic medicines - Private
+SA_0000001781	ok	4.6s	15-years old any alcoholic beverage consumed in past 12 months, (%)
+SA_0000001781	ok	2.8s	15-years old any alcoholic beverage consumed in past 12 months, (%)
+NCDMORTPERCENT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Percentage of total deaths due to NCDs overall and percentage of total deaths due to 7 main categories (5 different NCD 
+TOTENV_6	ok	6.5s	Disability-adjusted life years (DALYs) attributable to the environment (%)
+TOTENV_6	ok	4.3s	Disability-adjusted life years (DALYs) attributable to the environment (%)
+SA_0000001784	ok	4.2s	15-years old, any alcoholic beverage consumed at least once a week, (%)
+SA_0000001784	ok	2.8s	15-years old, any alcoholic beverage consumed at least once a week, (%)
+NUTRITION_ANAEMIA_NONPREGNANT_PREV	ok	25.0s	Prevalence of anaemia in non-pregnant women (aged 15-49) (%)
+UHC_AVAILABILITY_SCORE	ok	6.8s	Primary data availability for UHC Service Coverage Index (SDG 3.8.1) (%)
+UHC_AVAILABILITY_SCORE	ok	4.2s	Primary data availability for UHC Service Coverage Index (SDG 3.8.1) (%)
+WSH_10_HYG	ok	5.4s	Number of diarrhoea deaths from inadequate hygiene
+WSH_10_HYG	ok	3.4s	Number of diarrhoea deaths from inadequate hygiene
+ASSISTIVETECH_BARRIERAT	ok	8.6s	Barriers to accessing assistive products (%)
+WSH_20_SAN	ok	6.0s	Attributable fraction of diarrhoea to inadequate sanitation
+WSH_20_SAN	ok	8.0s	Attributable fraction of diarrhoea to inadequate sanitation
+HIV_VIRALLOADSUPPRESSEDART	ok	8.5s	Percentage of people living with HIV receiving treatment who have suppressed viral loads
+HIV_0000000027	ok	8.3s	HIV tests performed where results were received by a person (testing volume), reported number
+UHC_IHR	ok	13.7s	Compliance with international health regulations
+UHC_IHR	ok	11.7s	Compliance with international health regulations
+PRISON_F1_ALCOHOL_TOT	ok	6.0s	In-prison people who drink/drank alcohol (number of prisoners, in the last 12 months)
+GASPRSCRO	ok	7.0s	Proportion of isolates with decreased susceptibility or resistance (DS/R) to ceftriaxone reported to WHO-GASP
+UHC_INDEX_REPORTED	ok	20.1s	UHC Service Coverage Index (SDG 3.8.1)
+UHC_INDEX_REPORTED	ok	22.1s	UHC Service Coverage Index (SDG 3.8.1)
+UV_3	ok	4.2s	UV radiation attributable DALYs ('000)
+UV_3	ok	2.8s	UV radiation attributable DALYs ('000)
+NUTRITION_ANAEMIA_PREGNANT_NUM	ok	23.0s	Number of pregnant women (aged 15-49 years) with anaemia (thousands)
+WSH_2	ok	7.1s	Water, sanitation and hygiene attributable deaths ('000) in children under 5 years
+WSH_2	ok	4.6s	Water, sanitation and hygiene attributable deaths ('000) in children under 5 years
+TB_ps_prev_bc_100k_byagegroup	ok	6.7s	Prevalence of bacteriologically-confirmed pulmonary TB among those aged ≥15 years, per 100,000 population by age group
+HEPATITIS_HCV_TREATMENT_INITIATED_NUM	ok	6.5s	Persons initiated chronic hepatitis C(HCV) treatment (number)
+GASPRSAZM	ok	7.2s	Proportion of isolates with resistance to azithromycin reported to WHO-GASP
+WSH_WATER_BASIC	ok	22.8s	Population using at least basic drinking-water services (%)
+WSH_WATER_BASIC	ok	24.8s	Population using at least basic drinking-water services (%)
+FINPROTECTION_IMP_PG_RELPL_STD	ok	7.7s	Increase in poverty gap due to household health expenditures, expressed as a proportion of a relative poverty line - 60%
+SA_0000001783	ok	5.5s	15-years old any alcoholic beverage consumed in past 30 days, (%)
+SA_0000001783	ok	3.5s	15-years old any alcoholic beverage consumed in past 30 days, (%)
+NTD_BU_SUSP	ok	6.5s	Number of suspected cases of Buruli ulcer reported
+IHRSPAR2_C11	ok	130.9s	Points of entry (PoEs) and border health
+SA_0000001818	ok	13.5s	Alcohol, total  (recorded + unrecorded) per capita (15+) consumption, projections
+SA_0000001818	ok	11.5s	Alcohol, total  (recorded + unrecorded) per capita (15+) consumption, projections
+W16_number_hw_A	ok	7.5s	How many health warnings are approved by the law for cigarette packaging?
+W16_number_hw_A	ok	5.5s	How many health warnings are approved by the law for cigarette packaging?
+HEPATITIS_HCV_TREATMENT_CUM_PERINFECTED_CRD_PER100	ok	8.5s	Chronic hepatitis C (HCV) cumulative treatment rate as percentage of total infected, including cured  (%)
+MSM_SYPHILISPREV_PERCENT	ok	5.9s	Men who have sex with men: Syphilis prevalence (percent)
+SCSUD_MEDACCESSPROGRESS	ok	6.1s	Substance use disorders service coverage, access to medicine progress
+SDGAIRBODA	ok	15.4s	Ambient and household air pollution attributable death rate (per 100 000 population, age-standardized)
+SDGAIRBODA	ok	13.4s	Ambient and household air pollution attributable death rate (per 100 000 population, age-standardized)
+W2_pc_front_back_A	ok	8.8s	Percentage of principal display area mandated to be covered by health warnings - front and back of cigarette packaging
+W2_pc_front_back_A	ok	6.8s	Percentage of principal display area mandated to be covered by health warnings - front and back of cigarette packaging
+CHILDMORT10TO19	ok	58.0s	Adolescent mortality rate (per 1 000 age specific cohort)
+ANC_ATLEAST1VISIT_PERCENT	ok	6.2s	Antenatal care coverage - at least one visit (percent)
+TOBACCO_MPOWER_M3_PREVALENCE	ok	9.3s	Tobacco Monitor: school-based national surveys, tobacco use, tobacco smoking, and cigarette smoking, prevalence
+GASPTICIP	ok	8.9s	Number of isolates tested for ciprofloxacin
+SCSUD_HWFSUPPORT	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, system of ongoing support for health workforce
+PRISON_A1_CAPACITY	ok	6.0s	Official prison capacity (count)
+CHILDMORT_MORTALITY_10TO14	ok	11.3s	Mortality rate among children ages 10 to 14 years (per 1000 children aged 10)
+SA_0000001823	ok	67.0s	Alcohol, tourist consumption (in litres of pure alcohol), three-year average
+SA_0000001823	ok	69.0s	Alcohol, tourist consumption (in litres of pure alcohol), three-year average
+ORALHEALTH_DENOMINATOR_TTLPOP	ok	81.6s	Total population in thousands (oral health)
+TOBACCO_MPOWER_M2_PREVALENCE	ok	8.0s	Tobacco Monitor: population-based national surveys, smokeless tobacco or e-cigarettes, prevalence
+UV_4	ok	4.0s	UV radiation attributable deaths per 100'000 capita
+UV_4	ok	6.0s	UV radiation attributable deaths per 100'000 capita
+SDGCODCOMPLETENESS	ok	4.0s	Completeness of cause-of-death data (%)
+SDGCODCOMPLETENESS	ok	2.8s	Completeness of cause-of-death data (%)
+SCSUD_SBI	ok	8.1s	Substance use disorders service coverage, screening and brief interventions
+SE_G23_MATH	ok	4.5s	Proportion of children in grades 2/3 achieving at least a minimum proficiency level in mathematics (%)
+SE_G23_MATH	ok	2.8s	Proportion of children in grades 2/3 achieving at least a minimum proficiency level in mathematics (%)
+ASSISTIVETECH_USEPREVALENCE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Prevalence of use of assistive products (%)
+UV_2	ok	5.7s	UV radiation attributable deaths
+UV_2	ok	8.8s	UV radiation attributable deaths
+M_Est_tob_curr_std	ok	33.0s	Estimate of current tobacco use prevalence (%) (age-standardized)
+MH_17	ok	3.8s	Mental hospitals (per 100,000)
+NCD_CXCA_SCREENED_WITHIN_TIMEPERIOD	ok	7.8s	Prevalence of cervical cancer screening  among women aged 30-49 years (%)
+NCD_DIABETES_TREATMENT_AGESTD	ok	27.8s	Diabetes treatment coverage, age-standardized
+TB_rdst_num	ok	8.8s	The number of people with susceptibility test result for rifampicin among bacteriologically confirmed pulmonary TB patie
+P_compl_p3	ok	5.8s	Compliance with smoke-free universities law (score)
+SA_0000001844	ok	6.2s	Alcohol-attributable all-cause deaths (all ages), (number)
+MH_7	ok	5.8s	Nurses working in mental health sector (per 100,000)
+E_compl_e14	ok	5.5s	Compliance with ban on appearance of tobacco products in TV and/or films (score)
+E_compl_e11	ok	5.9s	Compliance with ban on use of brand name of non-tobacco product for tobacco product (score)
+Yth_curr_cig_smoking	ok	5.9s	Prevalence of current cigarette smoking among adolescents (%)
+MALARIA_EST_DEATHS	ok	9.4s	Estimated number of malaria deaths
+SDGODA01	ok	70.9s	Total net official development assistance to medical research and basic health sectors per capita (US$), by recipient co
+SDGODA01	ok	72.9s	Total net official development assistance to medical research and basic health sectors per capita (US$), by recipient co
+TAXBEV_TOTALTAXES	ok	7.3s	Total taxes on beverages (%)
+SA_0000001807	ok	15.2s	Cancer, age-standardized death rates (15+), per 100,000 population
+SA_0000001807	ok	13.2s	Cancer, age-standardized death rates (15+), per 100,000 population
+WSH_5	ok	4.0s	Water, sanitation and hygiene attributable DALYs ('000)
+MORT_300	ok	54.0s	Distribution of causes of death among children aged < 5 years (%)
+WSH_5	ok	2.8s	Water, sanitation and hygiene attributable DALYs ('000)
+TOBACCO_MPOWER_E2_INDIRECTADBANS	ok	27.0s	Tobacco Enforce bans: E2 indirect advertising
+PRISON_F1_DRUGUSERS_TOT	ok	5.9s	In-prison people who use/have used drugs (number of prisoners, in the last 12 months)
+WSH_SANITATION_BASIC	ok	21.1s	Population using at least basic sanitation services (%)
+WSH_SANITATION_BASIC	ok	18.4s	Population using at least basic sanitation services (%)
+SA_0000001839	ok	6.9s	Alcohol, heavy continuous drinkers past year (%)
+STI_CHLAMYDIA_CASES_NUM	ok	5.9s	Reported cases of chlamydia (number)
+NCD_BMI_25C	ok	31.4s	Overweight among adults, BMI ≥ 25 kg/m2 (crude estimate) (%)
+W3_pc_front_B	ok	8.2s	Percentage of principal display area mandated to be covered by health warnings - front of other smoked tobacco packaging
+W3_pc_front_B	ok	10.2s	Percentage of principal display area mandated to be covered by health warnings - front of other smoked tobacco packaging
+TAXBEV_VATSALES	ok	10.0s	Value-added/sales tax on beverages (%)
+W4_pc_back_B	ok	9.1s	Percentage of principal display area mandated to be covered by health warnings - back of other smoked tobacco packaging
+W4_pc_back_B	ok	7.1s	Percentage of principal display area mandated to be covered by health warnings - back of other smoked tobacco packaging
+SW_SYPHILISPREV_PERCENT	ok	6.2s	Sex workers: Syphilis prevalence (percent)
+SDGHEPHBSAGPRV	ok	4.2s	Hepatitis B surface antigen (HBsAg) prevalence (%)
+SDGHEPHBSAGPRV	ok	6.2s	Hepatitis B surface antigen (HBsAg) prevalence (%)
+NCD_GLUC_01	ok	21.2s	Mean fasting blood glucose (mmol/l) (age-standardized estimate)
+SDGNTDTREATMENT	ok	5.1s	Reported number of people requiring interventions against NTDs
+SDGNTDTREATMENT	ok	7.1s	Reported number of people requiring interventions against NTDs
+SCSUD_SBIPROGRESS	ok	6.1s	Substance use disorders service coverage, screening and brief interventions progress
+SDGODA	ok	4.2s	Total net official development assistance to medical research and basic health sectors per capita (constant 2014 US$), b
+SDGODA	ok	2.8s	Total net official development assistance to medical research and basic health sectors per capita (constant 2014 US$), b
+WSH_20	ok	4.2s	Attributable fraction of diarrhoea to inadequate water, sanitation and hygiene
+WSH_20	ok	2.8s	Attributable fraction of diarrhoea to inadequate water, sanitation and hygiene
+FINANCIALHARDSHIP_PROPORTIONOFPOP	ok	21.7s	Financial hardship in health and components (SDG 3.8.2, 2025 definition): population (%)
+WSH_30	ok	5.3s	Number of diarrhoea DALYs from inadequate water, sanitation and hygiene
+WSH_30	ok	2.8s	Number of diarrhoea DALYs from inadequate water, sanitation and hygiene
+NUT_BF_EVBF	ok	17.2s	Ever breastfed
+TAXBEV_EXCISE	ok	9.8s	Excise taxes on beverages (%)
+P_compl_p4	ok	6.8s	Compliance with smoke-free government facilities law (score)
+IMMUNIZATION_VACCINATIONCARDSSEEN	ok	7.7s	Proportion of vaccination cards seen (%)
+IHRSPAR2_C02	ok	6.2s	IHR Coordination, National IHR Focal Point functions and advocacy
+W3_pc_front_A	ok	20.7s	Percentage of principal display area mandated to be covered by health warnings - front of cigarette packaging
+W3_pc_front_A	ok	18.0s	Percentage of principal display area mandated to be covered by health warnings - front of cigarette packaging
+R_Ad_val	ok	8.3s	Taxes as a % of price: ad valorem excise
+E_compl_e_all_indir	ok	5.7s	Overall compliance with bans on promotion and sponsorship (score)
+SA_0000001820	ok	4.5s	Heavy episodic drinking (youth 15 -19 years), drinkers only, past 30 days (%)
+SA_0000001820	ok	2.8s	Heavy episodic drinking (youth 15 -19 years), drinkers only, past 30 days (%)
+W23_emissions_front_back_B	ok	6.1s	Other smoked tobacco packaging and labelling must display qualitative information on constituents and emissions on one o
+W23_emissions_front_back_B	ok	3.9s	Other smoked tobacco packaging and labelling must display qualitative information on constituents and emissions on one o
+SCSUD_DATAPREV	ok	9.9s	Substance use disorders service coverage, data on prevalence of substance use/ substance use disorders
+SI_POV_DAY1	ok	5.9s	Proportion of population below the international poverty line of US$1.90 per day (%)
+SI_POV_DAY1	ok	3.9s	Proportion of population below the international poverty line of US$1.90 per day (%)
+E_compl_all_dir	ok	6.0s	Overall compliance with bans on direct advertising (score)
+TB_c_lab_cul_5m	ok	4.2s	Laboratories providing tuberculosis diagnostic services using culture (per 5 million population)
+TB_c_lab_cul_5m	ok	6.2s	Laboratories providing tuberculosis diagnostic services using culture (per 5 million population)
+FINPROTECTION_IMP_NP215_POP	ok	16.3s	Population pushed below the $2.15 a day poverty line by household health expenditures (%, national, rural, urban)
+TOBACCO_MPOWER_W2B_TOBACCOSMOKED	ok	35.9s	Tobacco Warning: W2b smoked tobacco packaging health warnings, other characteristics
+TB_c_newinc	ok	18.3s	Tuberculosis - new and relapse cases
+TB_c_newinc	ok	20.3s	Tuberculosis - new and relapse cases
+SCSUD_MEDBIS	ok	8.9s	Substance use disorders service coverage, medicine included in basic insurance package
+NUT_CF_ISSSF	ok	16.9s	Introduction of solid, semi-solid or soft foods 6-8 months
+WHOSIS_000002	ok	21.2s	Healthy life expectancy (HALE) at birth (years)
+WHOSIS_000002	ok	19.2s	Healthy life expectancy (HALE) at birth (years)
+SCSUD_NSSPROGRESS	ok	16.7s	Substance use disorders service coverage, non-structured services progress
+TB_c_ret_tsr	ok	8.1s	Treatment success rate: previously treated TB cases
+TB_c_ret_tsr	ok	6.0s	Treatment success rate: previously treated TB cases
+NCD_HYP_CONTROL_C	ok	31.3s	Hypertension: effective treatment coverage (controlled hypertension) among adults aged 30-79 with hypertension, crude (%
+R_VAT	ok	8.2s	Taxes as a % of price: value added tax
+TB_e_inc_tbhiv_num	ok	6.5s	Number of incident tuberculosis cases,  (HIV-positive cases)
+TB_e_inc_tbhiv_num	ok	8.5s	Number of incident tuberculosis cases,  (HIV-positive cases)
+PRISON_D3_DEATHS_SUICIDE_MRATE	ok	5.6s	In-prison suicide mortality rate (per 100 000 incarcerated persons per year)
+GASPRSCFM	ok	5.8s	Proportion of isolates with decreased susceptibility or resistance (DS/R) to cefixime reported to WHO-GASP
+SCSUD_FINANCINGPROGRESS	ok	9.4s	Substance use disorders service coverage, financing progress
+SCSUD_GOVGUIDELINES	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, national guidelines
+TB_hivtest_pos_pct	ok	20.6s	Tested TB patients HIV-positive (%)
+TB_hivtest_pos_pct	ok	18.6s	Tested TB patients HIV-positive (%)
+NCD_HYP_TREATMENT_A	ok	23.7s	Hypertension treatment coverage among adults aged 30-79 with hypertension, age-standardized (%)
+TB_ps_prev_bc_100k_bysex	ok	5.8s	Prevalence of bacteriologically-confirmed pulmonary TB among those aged ≥15 years, per 100,000 population by sex.
+TB_c_mdr_tsr	ok	4.5s	Treatment success rate for patients treated for MDR-TB (%)
+TB_c_mdr_tsr	ok	6.5s	Treatment success rate for patients treated for MDR-TB (%)
+Yth_daily_cig_smoking	ok	6.2s	Prevalence of daily cigarette smoking among adolescents (%)
+VACCINECOVERAGE_IPV1	ok	7.3s	Inactivated first-dose polio vaccine (IPV1) immunization coverage among 1-year-olds (%) (WUENIC)
+R_afford_inflation_adjusted_price_ppp	ok	15.5s	Inflation-adjusted prices for most sold brand of cigarettes: Prices in purchasing power parity adjusted by year on year 
+MSM_CONDOMUSE_PERCENT	ok	6.1s	Men who have sex with men: Condom use (percent)
+GASPRSCIP	ok	9.5s	Proportion of isolates with resistance to ciprofloxacin reported to WHO-GASP
+SRH_ABORTION_RATE	ok	7.5s	Abortion rate (model-estimated)
+Yth_daily_e-cig	ok	6.3s	Prevalence of daily e-cigarette use among adolescents (%)
+W4_pc_back_C	ok	48.4s	Percentage of principal display area mandated to be covered by health warnings - back of smokeless tobacco packaging
+W4_pc_back_C	ok	50.4s	Percentage of principal display area mandated to be covered by health warnings - back of smokeless tobacco packaging
+ORALHEALTH_FLUORIDETOOTHPHASTE_LABOURDAYS	ok	7.1s	Number of labour days needed to buy annual supply of fluoride toothpaste per person
+SE_PRM_MATH	ok	4.1s	Proportion of children at the end of primary achieving at least a minimum proficiency level in mathematics (%)
+SE_PRM_MATH	ok	2.8s	Proportion of children at the end of primary achieving at least a minimum proficiency level in mathematics (%)
+FINPROTECTION_IMP_BNLFHU_TOT_HH	ok	6.8s	Households pushed below or further below a relative poverty line (reflecting basic needs: food, housing, utilities - dev
+TOBACCO_MPOWER_W1C_TOBACCOSMOKELESS	ok	49.8s	Tobacco Warning: W1c smokeless tobacco packaging health warnings
+E_compl_e13	ok	6.2s	Compliance with ban on appearance of tobacco brands in TV and/or films (score)
+SRHINSTITUTIONALBIRTH	ok	9.2s	Proportion of births delivered in a health facility (Facility births) (%)
+HWF_0026	ok	7.7s	Nursing personnel (%)
+SP_DYN_MRBF18	ok	24.2s	Proportion of women aged 20-24 years who were married or in a union by age 18 (%)
+SP_DYN_MRBF18	ok	21.5s	Proportion of women aged 20-24 years who were married or in a union by age 18 (%)
+Rev_other	ok	6.8s	Tobacco tax revenues - other
+TB_c_tbhiv_tsr	ok	4.4s	Treatment success rate: HIV-positive TB cases
+TB_c_tbhiv_tsr	ok	6.4s	Treatment success rate: HIV-positive TB cases
+GASPRSESC	ok	7.5s	Proportion of isolates with decreased susceptibility or resistance (DS/R) to extended-spectrum cephalosporins reported t
+MH_14	ok	14.1s	Community residential facilities (per 100,000)
+MH_14	ok	12.1s	Community residential facilities (per 100,000)
+TOBACCO_MPOWER_W1A_CIGARETTES	ok	29.6s	Tobacco Warning: W1a cigarette packaging health warnings
+MH_20	ok	4.4s	Outpatient visits (per 100,000)
+MH_20	ok	2.8s	Outpatient visits (per 100,000)
+ORALHEALTH_UNTREATEDCARIESDECIDUOUS	ok	8.4s	Prevalence of untreated caries of deciduous teeth in children 1-9 years (%)
+NUTRITION_ANAEMIA_CHILDREN_NUM	ok	28.3s	Number of children aged 6-59 months with anaemia (thousands)
+MALARIA_PRES_CASES	ok	6.8s	Number of presumed malaria cases
+VACCINEPREVENTABLE_WILDPOLIO	ok	7.6s	Number of reported cases of poliomyelitis by wild poliovirus (WPV)
+R_afford_inflation_adjusted_price_lcu	ok	8.4s	Inflation-adjusted prices for most sold brand of cigarettes: Price in local currency adjusted by year on year changes in
+SCSUD_PSYCHPROGRESS	ok	6.2s	Substance use disorders service coverage, psychosocial treatment services progress
+ORAL_HEALTH_CANCER_LIPORALCAVITY_100K	ok	6.3s	Incidence rate of lip and oral cavity cancer (per 100 000 population)
+HEPATITIS_HBV_ADDEDTEST_ANC_PERCENT	ok	5.4s	Pregnant women attending antenatal care who received additional testing for HBV (percent)
+M_Est_cig_curr_users	ok	12.8s	Number of current cigarette smokers, estimate
+HEPATITIS_HBV_TREATMENT_PERINFECTED_PER100	ok	5.7s	Chronic hepatitis B (HBV) treatment rate as percentage of total infected (%)
+SE_PRM_PRSL_ZS	ok	9.1s	Persistence to last grade of primary (% of cohort)
+MH_18	ok	58.0s	Mental health units in general hospitals (per 100,000)
+MH_18	ok	55.6s	Mental health units in general hospitals (per 100,000)
+GASPTICFM	ok	6.9s	Number of isolates tested for cefixime
+HEPATITIS_HBV_TREATMENT_PERDIAGNOSED_PER100	ok	6.3s	Chronic hepatitis B (HBV) treatment rate as percentage of diagnosed (%)
+CHILDMORT_DEATHS_10TO14	ok	30.1s	Number of deaths among children ages 10 to 14 years
+WSH_DOMESTIC_WASTE_SAFELY_TREATED	ok	6.3s	SDG 6.3.1 Proportion of safely treated domestic wastewater flows (%)
+TB_e_mort_exc_tbhiv_num	ok	21.3s	Number of deaths due to tuberculosis, excluding HIV
+TB_e_mort_exc_tbhiv_num	ok	23.3s	Number of deaths due to tuberculosis, excluding HIV
+FINPROTECTION_IMP_NP365_POP	ok	8.5s	Population pushed below the $3.65 a day poverty line by household health expenditures (%, national, rural, urban)
+PRISON_B9_STAFF_RATIO	ok	5.6s	Healthcare staff in prisons (FTEs per 1000 prisoners)
+PHE_HHAIR_PROP_POP_CLEAN_FUELS	ok	18.9s	Proportion of population with primary reliance on clean fuels and technologies for cooking (%)
+ORALHEALTH_EDENTULISM_PREVALENCE	ok	7.7s	Prevalence of edentulism in people 20+ years (%)
+MORT_100	ok	56.2s	Number of deaths in children aged <5 years, by cause
+R_tax_other	ok	10.2s	Taxes as a % of price: other taxes
+SA_0000001834	ok	8.4s	Percent of all DALYs attributable to alcohol
+NTD_LEPR13	ok	8.1s	New leprosy child case detection rate (less than 15 years of age) per 1 000 000 child population
+NCD_BMI_18C	ok	31.5s	Underweight among adults, BMI < 18.5 kg/m2 (crude estimate) (%)
+NCD_BMI_MINUS2C	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Thinness among children and adolescents, BMI-for-age < -2 standard deviations below the median (%)
+NCD_BMI_MINUS2C	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Thinness among children and adolescents, BMI-for-age < -2 standard deviations below the median (%)
+NCD_DIABETES_PREVALENCE_CRUDE	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Prevalence of diabetes, crude
+PRISON_A4_NEWPRISONERS_PER100KPOP	ok	6.3s	Number of people newly-admitted to prison (per 100 000 inhabitants)
+TRAD_MED_CHE_SCHEME	ok	6.5s	Traditional, Complementary, and Integrative Medicine Current Health Expenditure by financing schemes
+NCD_BMI_PLUS1C	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Overweight among children and adolescents, BMI-for-age > +1 standard deviations above the median (crude estimate) (%)
+HEMOGLOBINLEVEL_NONPREGNANT_MEAN	ok	9.7s	Mean hemoglobin level of non-pregnant women (aged 15-49 years)
+NCD_BMI_MEAN	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Mean BMI (kg/m²) (age-standardized estimate)
+NCD_BMI_MEAN	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Mean BMI (kg/m²) (age-standardized estimate)
+HIV_STATUSKNOWNHIV	ok	90.0s	Percentage of people living with HIV who know their HIV status
+PRETERMBIRTH_RATE	ok	8.0s	Preterm birth rate (per 100 live births)
+R_Price_mp_estimate_ppp	ok	7.3s	Most sold brand of cigarettes - price in PPP$
+SA_0000001841	ok	13.1s	Alcohol, 15-19 years heavy continuous drinkers past year (%)
+PHYSICALACTIVITY_ADO_PREV_7DAY	ok	11.8s	Physical activity among adolescents, active on all 7 days of the past week, prevalence (%)
+NCD_BMI_25A	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Overweight among adults, BMI ≥ 25 kg/m2 (age-standardized estimate) (%)
+HEPATITIS_HCV_LIVINGWITH_CRD_NUM	ok	21.8s	People living with chronic hepatitis C (HCV) including cured (all ages) (adjusted number)
+TG_SYPHILISPREV_PERCENT	ok	5.7s	Transgender: Syphilis prevalence (percent)
+NCD_BMI_MEANC	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Mean BMI (kg/m&#xb2;) (crude estimate)
+TOBACCO_MPOWER_W2A_CIGARETTES	ok	42.1s	Tobacco Warning: W2a cigarette packaging health warnings, other characteristics
+SCSUD_STS	ok	10.5s	Substance use disorders service coverage, specialized treatment services
+NCD_BMI_25A	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Overweight among adults, BMI ≥ 25 kg/m2 (age-standardized estimate) (%)
+NCD_HYP_PREVALENCE_A	ok	20.9s	Hypertension among adults aged 30-79 years, prevalence, age-standardized
+TB_e_prev_num	ok	103.1s	Number of prevalent tuberculosis cases
+SA_0000001843	ok	7.3s	Alcohol-attributable DALYs lost from all causes (all ages), (number)
+TB_e_prev_num	ok	10.5s	Number of prevalent tuberculosis cases
+M_Est_smk_curr	ok	12.4s	Estimate of current tobacco smoking prevalence (%)
+NCD_CHOL_MEANTOTALCHOL_C	ok	29.8s	Mean total cholesterol,  crude
+TOBACCO_MPOWER_R_INFLATIONADJUSTEDPRICES	ok	9.0s	Tobacco Raise taxes: Inflation-adjusted prices for most sold brand of cigarettes
+SRH_PREGNANCY_UNINTENDED_RATE	ok	6.7s	Unintended pregnancy rate (model-estimated)
+Yth_daily_tob_smoking	ok	8.5s	Prevalence of daily tobacco smoking among adolescents (%)
+HIV_POSITIVITY	ok	8.0s	Percentage of HIV-positive results returned to people in the calendar year
+HIV_OAMT_COVERAGE_PERCENT	ok	5.4s	Coverage of opioid agonist maintenance therapy (percent)
+TB_cc_prct	ok	6.4s	Percentage of TB-affected households facing costs >20% of household income or expenditure due to TB.
+STI_GONORRHEA_CASES_NUM	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Reported cases of gonorrhea (number)
+PRISON_A2_PRISIONERS_PER100KPOP	ok	5.7s	Number of prisoners (per 100 000 inhabitants)
+PHYSICALACTIVITY_ADO_PREV_0DAY	ok	11.6s	Physical activity among adolescents, no active days in the past week, prevalence (%)
+NCD_BMI_PLUS2C	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Obesity among children and adolescents, BMI-for-age > +2 standard deviations above the median (crude estimate) (%)
+NCD_BMI_PLUS2C	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Obesity among children and adolescents, BMI-for-age > +2 standard deviations above the median (crude estimate) (%)
+TOBACCO_MPOWER_M1_TOBACCOUSESMOKING	ok	6.3s	Tobacco Monitor: population-based national surveys, tobacco use and smoking
+SCSUD_FINANCINGSUPPORT	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, information on governmental support available
+HEALTH_PROMOTING_CITIES	ok	6.0s	Proportion of cities, municipalities and localities in regional Healthy City networks that are health-promoting
+MALARIA_RDT_POS	ok	6.4s	Number of malaria positive cases by rapid diagnostic test (RDT)
+NTD_YAWSNUM_CONF	ok	6.0s	Number of confirmed yaws cases reported
+GASP_ISOLATESTESTED_NUMBER	ok	8.0s	Antimicrobial resistance or decreased susceptibiity (DS/R) to antimicrobials testing  in Neisseria gonorrhoea isolates (
+PRISON_B9_1_PHYSICIANS_RATIO	ok	5.9s	Physicians in prisons (FTEs per 1000 prisoners)
+MALARIA_IPTP3_COVERAGE	ok	5.8s	Pregnant women attending antenatal care  at least once and receiving at least 3 doses of Intermittent Preventive Treatme
+R_Imp_duty	ok	8.6s	Taxes as a % of price: import duties
+NTD_BU_CONF	ok	7.2s	Number of confirmed cases of Buruli ulcer reported
+IHRSPAR2_C08	ok	6.6s	Health services provision
+GASPTICRO	ok	6.3s	Number of isolates tested for ceftriaxone
+M_Est_smk_curr_std	ok	10.4s	Estimate of current tobacco smoking prevalence (%) (age-standardized)
+NUTRITION_ANAEMIA_PREGNANT_PREV	ok	23.1s	Prevalence of anaemia in pregnant women (aged 15-49) (%)
+GHED_PHC_GGHE-D_PHC_SHA2011	ok	6.1s	Domestic general government expenditure on PHC as % of primary health care expenditure (PHCE) (%)
+NCD_UNDER70	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Premature deaths due to noncommunicable diseases (NCD) as a proportion of all NCD deaths
+NCD_UNDER70	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Premature deaths due to noncommunicable diseases (NCD) as a proportion of all NCD deaths
+NCD_GLUC_02	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Mean fasting blood glucose (mmol/l) (crude estimate)
+NCD_GLUC_02	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Mean fasting blood glucose (mmol/l) (crude estimate)
+NTD_8	ok	5.7s	Number of people who received treatment with antibiotics for trachoma
+NTD_8	ok	3.7s	Number of people who received treatment with antibiotics for trachoma
+NTCP_FTE	ok	72.8s	Number of full-time equivalent staff in national agency
+NTCP_FTE	ok	70.8s	Number of full-time equivalent staff in national agency
+NTD_LEISHVNUM	ok	48.6s	Number of cases of visceral leishmaniasis reported
+NTD_LEISHVNUM	ok	46.6s	Number of cases of visceral leishmaniasis reported
+NCD_DIABETES_TREATMENT_CRUDE	ok	24.5s	Diabetes treatment coverage, crude
+NCD_DIABETES_TREATMENT_CRUDE	ok	26.5s	Diabetes treatment coverage, crude
+MALARIA_PF_INDIG	ok	10.2s	Number of indigenous P. falciparum malaria cases
+MALARIA_PF_INDIG	ok	12.2s	Number of indigenous P. falciparum malaria cases
+CARE_SOURCE	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Care-seeking by type of patient and source of care (%)
+SA_0000001845	ok	18.0s	Average daily intake in grams of alcohol, population (15+)
+HEPB_HBSAG_CARRIER	ok	5.9s	Hepatitis B surface antigen (HBsAG) carriers (per 100 000 population)
+HEPB_HBSAG_CARRIER	ok	6.7s	Hepatitis B surface antigen (HBsAG) carriers (per 100 000 population)
+IHRSPAR2_C13	ok	4.7s	Food safety
+MALARIA_IMPORTED	ok	82.4s	Number of imported malaria cases
+PHE_HHAIR_POP_CATEGORY_FUELS	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Population with primary reliance on fuels and technologies for cooking, by fuel type (in millions)
+TB_ps_prev_bc_100k_sp	ok	108.1s	Prevalence of bacteriologically-confirmed pulmonary TB who are smear positive among those aged ≥15 years, per 100,000 po
+SCSUD_MEDREG	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Substance use disorders service coverage, medicine registered in the country
+PRISON_D4_MH_DIAG_TOT	ok	4.9s	In-prison mental disorder diagnosis (number of diagnoses)
+PRISON_D4_MH_DIAG_TOT	ok	2.8s	In-prison mental disorder diagnosis (number of diagnoses)
+SCSUD_FINANCINGEXP	ok	4.9s	Substance use disorders service coverage, information on governmental expenditures
+SCSUD_FINANCINGEXP	ok	2.8s	Substance use disorders service coverage, information on governmental expenditures
+PRISON_D4_HEPB_DIAG_TOT	ok	3.5s	In-prison Hepatitis B diagnosis (number of diagnoses)
+PRISON_D4_HEPB_DIAG_TOT	ok	2.8s	In-prison Hepatitis B diagnosis (number of diagnoses)
+HEPATITIS_HBV_LIVINGWITH_NUM	ok	5.0s	People living with chronic hepatitis B (HBV) (number)
+HEPATITIS_HBV_LIVINGWITH_NUM	ok	2.8s	People living with chronic hepatitis B (HBV) (number)
+TB_cc_prct_DRTB	ok	5.1s	Percentage of TB-affected households facing costs >20% of household income or expenditure due to DR-TB.
+TB_cc_prct_DRTB	ok	2.8s	Percentage of TB-affected households facing costs >20% of household income or expenditure due to DR-TB.
+SUD_SERVICECAPACITYINDEX	ok	4.5s	Service Capacity Index for Substance Use Disorders (SCI-SUD)
+SUD_SERVICECAPACITYINDEX	ok	2.8s	Service Capacity Index for Substance Use Disorders (SCI-SUD)
+SA_0000001832	ok	5.1s	Alcohol-attributable all-cause deaths per 100,000, age standardized
+SA_0000001832	ok	2.8s	Alcohol-attributable all-cause deaths per 100,000, age standardized
+MALARIA_ITN_COVERAGE	ok	26.3s	Population with access to an insecticide-treated bed net (ITN) for malaria protection (%), modelled
+MALARIA_ITN_COVERAGE	ok	30.4s	Population with access to an insecticide-treated bed net (ITN) for malaria protection (%), modelled
+MALARIA_EST_CASES	ok	4.6s	Estimated number of malaria cases
+MALARIA_EST_CASES	ok	6.6s	Estimated number of malaria cases
+FINPROTECTION_IMP_PRELPL_POP	ok	7.6s	Population pushed further below a relative poverty line by household health expenditures - 60% of median daily per capit
+FINPROTECTION_IMP_PRELPL_POP	ok	9.6s	Population pushed further below a relative poverty line by household health expenditures - 60% of median daily per capit
+GHED_PHC_pc_US_SHA2011	ok	4.6s	Primary health care expenditure (PHCE) per сapita in US$
+GHED_PHC_pc_US_SHA2011	ok	2.8s	Primary health care expenditure (PHCE) per сapita in US$
+MALARIA_RDT_TEST	ok	4.2s	Number of malaria suspects examined by rapid diagnostic test (RDT)
+MALARIA_RDT_TEST	ok	2.7s	Number of malaria suspects examined by rapid diagnostic test (RDT)
+NCDMORT3070	ok	35.3s	Probability (%) of dying between age 30 and exact age 70 from any of cardiovascular disease, cancer, diabetes, or chroni
+NCDMORT3070	ok	32.6s	Probability (%) of dying between age 30 and exact age 70 from any of cardiovascular disease, cancer, diabetes, or chroni
+TOB_R_PRICE	ok	31.9s	Retail price for tobacco and nicotine products
+TOB_R_PRICE	ok	29.9s	Retail price for tobacco and nicotine products
+IHRSPAR2_C15	ok	4.2s	Radiation emergencies
+IHRSPAR2_C15	ok	2.8s	Radiation emergencies
+MALARIA_CONF_CASES	ok	52.4s	Number of confirmed malaria cases
+MALARIA_CONF_CASES	ok	49.8s	Number of confirmed malaria cases
+RADON_Q502_1	ok	3.5s	Reference level for buildings with high public occupancy (Bq/m3)
+RADON_Q502_1	ok	2.8s	Reference level for buildings with high public occupancy (Bq/m3)
+NTD_5	ok	22.8s	Number of new reported cases of human African trypanosomiasis (T.b. rhodesiense)
+NTD_5	ok	26.1s	Number of new reported cases of human African trypanosomiasis (T.b. rhodesiense)
+NTD_LEPR11	ok	6.4s	Number of female leprosy new cases
+NTD_LEPR11	ok	4.4s	Number of female leprosy new cases
+NCD_CHOL_MEANHDL_A	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Mean HDL cholesterol, age-standardized
+NCD_CHOL_MEANHDL_A	ok	83.9s	Mean HDL cholesterol, age-standardized
+SCSUD_DATASERVUTIL	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Substance use disorders service coverage, data on service utilization
+SCSUD_DATASERVUTIL	ok	14.3s	Substance use disorders service coverage, data on service utilization
+NUT_CF_ZVF	ok	6.3s	Zero vegetable or fruit consumption, 6-23 months
+NUT_CF_ZVF	ok	2.8s	Zero vegetable or fruit consumption, 6-23 months
+SDGIPVLT	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Proportion of ever-partnered women and girls aged 15–49 years subjected to physical and/or sexual violence by a current 
+SDGIPVLT	ok	35.3s	Proportion of ever-partnered women and girls aged 15–49 years subjected to physical and/or sexual violence by a current 
+FAMILYPLANNINGUNPDUHC	ok	23.5s	Women who have their need for family planning satisfied with modern methods (%) - modelled estimates
+FAMILYPLANNINGUNPDUHC	ok	18.6s	Women who have their need for family planning satisfied with modern methods (%) - modelled estimates
+SDGFPALL	ok	4.1s	Women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods (%)
+SDGFPALL	ok	2.8s	Women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods (%)
+P_compl_p6	ok	4.4s	Compliance with smoke-free restaurants law (score)
+P_compl_p6	ok	2.8s	Compliance with smoke-free restaurants law (score)
+AMR_INFECT_MRSA	ok	53.2s	Proportion of bloodstream infection due to methicillin-resistant Staphylococcus aureus (MRSA) (%)
+AMR_INFECT_MRSA	ok	50.2s	Proportion of bloodstream infection due to methicillin-resistant Staphylococcus aureus (MRSA) (%)
+PRISON_F1_TOBACCO_TOT	ok	3.9s	In-prison people who currently use tobacco  (number of prisoners)
+PRISON_F1_TOBACCO_TOT	ok	2.8s	In-prison people who currently use tobacco  (number of prisoners)
+E_compl_e3	ok	3.9s	Compliance with ban on advertising in local magazines and newspapers (score)
+E_compl_e3	ok	2.8s	Compliance with ban on advertising in local magazines and newspapers (score)
+PHYSICALACTIVITY_ACTIVEENVIRONMENTS	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Physical activity active environments
+PHYSICALACTIVITY_ACTIVEENVIRONMENTS	ok	28.5s	Physical activity active environments
+Yth_curr_smokeless	ok	4.0s	Prevalence of current smokeless tobacco use among adolescents (%)
+STI_SYPHILIS_CASES_NUM	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Reported cases of syphilis (number)
+TB_notif_num_agesex	ok	10.5s	Number of people diagnosed with new episode TB who by age group and sex.
+TB_notif_num_agesex	ok	33.4s	Number of people diagnosed with new episode TB who by age group and sex.
+PRISON_F1_BMI30_TOT	ok	4.3s	In-prison people who have BMI >= 30 (number of prisoners who are obese)
+PRISON_F1_BMI30_TOT	ok	2.8s	In-prison people who have BMI >= 30 (number of prisoners who are obese)
+TOBACCO_MPOWER_M4_PREVALENCE	ok	15.9s	Tobacco Monitor: school-based national surveys, smokeless tobacco or e-cigarettes, prevalence
+TOBACCO_MPOWER_M4_PREVALENCE	ok	18.4s	Tobacco Monitor: school-based national surveys, smokeless tobacco or e-cigarettes, prevalence
+ASSISTIVETECH_TOTALNEED	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Prevalence of need of assistive products (%)
+ASSISTIVETECH_TOTALNEED	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Prevalence of need of assistive products (%)
+TOBACCO_MPOWER_M3_TOBACCOUSESMOKINGSCHOOL	ok	43.3s	Tobacco Monitor: school-based national surveys, tobacco use, tobacco smoking, and cigarette smoking
+TOBACCO_MPOWER_M3_TOBACCOUSESMOKINGSCHOOL	ok	56.5s	Tobacco Monitor: school-based national surveys, tobacco use, tobacco smoking, and cigarette smoking
+MALARIA_ACT_TREATED	ok	67.5s	Number of malaria cases treated with artemisinin-based combination therapies (ACTs)
+MALARIA_ACT_TREATED	ok	84.7s	Number of malaria cases treated with artemisinin-based combination therapies (ACTs)
+SCSUD_NSS	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, non-structured services
+TOBACCO_MPOWER_E1_DIRECTADBANS	ok	91.1s	Tobacco Enforce bans: E1 direct advertising
+TOBACCO_MPOWER_E1_DIRECTADBANS	ok	61.3s	Tobacco Enforce bans: E1 direct advertising
+IHRSPAR2_C10	ok	129.1s	Risk communication and community engagement (RCCE)
+IHRSPAR2_C10	ok	127.1s	Risk communication and community engagement (RCCE)
+HEPATITIS_HCV_TREATMENT_PWID_PERCENT	ok	90.8s	People living with HIV who inject drugs, treated for chronic hepatitis C infection (percent)
+HEPATITIS_HCV_TREATMENT_PWID_PERCENT	ok	112.7s	People living with HIV who inject drugs, treated for chronic hepatitis C infection (percent)
+SCSUD_HWFDEV	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Substance use disorders service coverage, health workforce access to professional development and education
+SCSUD_HWFDEV	ok	72.8s	Substance use disorders service coverage, health workforce access to professional development and education
+SCSUD_HEALTHINFOPROGRESS	ok	83.3s	Substance use disorders service coverage, health information system progress
+SCSUD_HEALTHINFOPROGRESS	ok	53.6s	Substance use disorders service coverage, health information system progress
+FINPROTECTION_IMP_PG_365_STD	ok	18.3s	Increase in poverty gap due to household health expenditures, expressed as a proportion of the $3.65 a-day poverty line 
+FINPROTECTION_IMP_PG_365_STD	ok	7.6s	Increase in poverty gap due to household health expenditures, expressed as a proportion of the $3.65 a-day poverty line 
+NCD_CHOL_MEANNONHDL_C	ok	43.4s	Mean Non-HDL cholesterol, crude
+NCD_CHOL_MEANNONHDL_C	ok	45.4s	Mean Non-HDL cholesterol, crude
+SA_0000001457_AA	ok	8.9s	Liver cirrhosis, alcohol-attributable, age-standardized death rates, per 100,000 population
+SA_0000001457_AA	ok	10.9s	Liver cirrhosis, alcohol-attributable, age-standardized death rates, per 100,000 population
+RADON_Q503_1	ok	14.4s	Reference level for workplaces (Bq/m3)
+RADON_Q503_1	ok	16.4s	Reference level for workplaces (Bq/m3)
+NCD_CHOL_MEANTOTALCHOL_A	ok	34.7s	Mean total cholesterol,  age-standardized
+NCD_CHOL_MEANTOTALCHOL_A	ok	32.7s	Mean total cholesterol,  age-standardized
+DEATHADO	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Number of deaths among adolescents (10 to 19 years of age)
+DEATHADO	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Number of deaths among adolescents (10 to 19 years of age)
+M_Est_tob_curr_users	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Number of current of tobacco users, estimate
+M_Est_tob_curr_users	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Number of current of tobacco users, estimate
+ICD11_IMPL_LVL	ok	40.9s	ICD-11 implementation progress level
+SCSUD_PHARM	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Substance use disorders service coverage, pharmacological treatment services
+PHE_HHAIR_POP_CLEAN_FUELS	ok	35.6s	Population with primary reliance on clean fuels and technologies for cooking (in millions)
+PHE_HHAIR_POP_CLEAN_FUELS	ok	29.8s	Population with primary reliance on clean fuels and technologies for cooking (in millions)
+TOBACCO_MPOWER_M1_PREVALENCE	ok	9.9s	Tobacco Monitor: population-based national surveys, tobacco use and smoking, prevalence
+TOBACCO_MPOWER_M1_PREVALENCE	ok	11.9s	Tobacco Monitor: population-based national surveys, tobacco use and smoking, prevalence
+Yth_curr_tob_use	ok	8.4s	Prevalence of current tobacco use among adolescents (%)
+Yth_curr_tob_use	ok	6.4s	Prevalence of current tobacco use among adolescents (%)
+PWID_PSE_NUM	ok	3.9s	People who inject drugs: Population size estimates (number)
+PWID_PSE_NUM	ok	2.8s	People who inject drugs: Population size estimates (number)
+PHYSICALACTIVITY_ACTIVESYSTEMS	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Physical activity policies focused on active systems
+PHYSICALACTIVITY_ACTIVESYSTEMS	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Physical activity policies focused on active systems
+CANCERSURVIVAL_BREASTCANCER	ok	58.5s	Cancer survival for those diagnosed with breast cancer, 5-year net survival (%)
+CANCERSURVIVAL_BREASTCANCER	ok	60.5s	Cancer survival for those diagnosed with breast cancer, 5-year net survival (%)
+GASPTIESC	ok	4.0s	Number of isolates tested for extended-spectrum cephalosporins
+GASPTIESC	ok	2.8s	Number of isolates tested for extended-spectrum cephalosporins
+NUT_CF_EFF	ok	11.9s	Egg and/or Flesh Food Consumption 6-23 months
+NUT_CF_EFF	ok	9.1s	Egg and/or Flesh Food Consumption 6-23 months
+ORALHEALTH_SEVEREPERIODONTALDISEASE	ok	10.9s	Prevalence of severe periodontal disease in people 15+ year (%)
+ORALHEALTH_SEVEREPERIODONTALDISEASE	ok	8.9s	Prevalence of severe periodontal disease in people 15+ year (%)
+NUT_BF_EBF	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Exclusive breastfeeding under six months
+NUT_BF_EBF	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Exclusive breastfeeding under six months
+MALARIA_TOTAL_CASES	ok	67.1s	Total number of  malaria cases (presumed + confirmed cases)
+NCDMORTPERCENT	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Percentage of total deaths due to NCDs overall and percentage of total deaths due to 7 main categories (5 different NCD 
+PRISON_D4_STI_DIAG_TOT	ok	37.9s	In-prison STIs diagnosis (number of diagnoses)
+PRISON_D4_STI_DIAG_TOT	ok	95.0s	In-prison STIs diagnosis (number of diagnoses)
+P_compl_all_sfe	ok	3.5s	Overall compliance with regulations on smoke-free environments (score)
+P_compl_all_sfe	ok	5.5s	Overall compliance with regulations on smoke-free environments (score)
+PRISON_D4_SUD_DIAG_TOT	ok	9.7s	In-prison active drug use diagnosis (number of diagnoses)
+PRISON_D4_SUD_DIAG_TOT	ok	7.7s	In-prison active drug use diagnosis (number of diagnoses)
+NUT_BF_EBF_NUMTH	ok	9.6s	Exclusive breastfeeding under six months (in thousands)
+NUT_BF_EBF_NUMTH	ok	7.6s	Exclusive breastfeeding under six months (in thousands)
+TB_sb	ok	9.8s	Standards and benchmarks for TB and vital registration system surveillance
+TB_sb	ok	7.9s	Standards and benchmarks for TB and vital registration system surveillance
+HEPATITIS_HCV_TESTING_PWID_PERCENT	ok	3.6s	People living with HIV who inject drugs, diagnosed with chronic hepatitis C infection (percent)
+HEPATITIS_HCV_TESTING_PWID_PERCENT	ok	2.8s	People living with HIV who inject drugs, diagnosed with chronic hepatitis C infection (percent)
+FINPROTECTION_CATA_CTPFHU_40_HH	ok	13.2s	Households with out-of-pocket payments greater than 40% of capacity to pay for health care (food, housing and utilities 
+FINPROTECTION_CATA_CTPFHU_40_HH	ok	16.4s	Households with out-of-pocket payments greater than 40% of capacity to pay for health care (food, housing and utilities 
+PRISON_D4_DIABETES_DIAG_TOT	ok	5.1s	In-prison diabetes mellitus diagnosis (number of diagnoses)
+PRISON_D4_DIABETES_DIAG_TOT	ok	7.1s	In-prison diabetes mellitus diagnosis (number of diagnoses)
+TOBACCO_MPOWER_NTCP	ok	51.4s	Tobacco MPOWER: National tobacco control programmes (NTCP)
+TOBACCO_MPOWER_NTCP	ok	49.4s	Tobacco MPOWER: National tobacco control programmes (NTCP)
+PHE_HHAIR_PROP_POP_CATEGORY_FUELS	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Proportion of population with primary reliance on fuels and technologies for cooking, by fuel type (%)
+PHE_HHAIR_PROP_POP_CATEGORY_FUELS	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Proportion of population with primary reliance on fuels and technologies for cooking, by fuel type (%)
+TB_cc_prct_Q5	ok	117.5s	Percentage of TB-affected households facing costs >20% of household income or expenditure due to TB among Q5 (highest) i
+TB_cc_prct_Q5	ok	121.5s	Percentage of TB-affected households facing costs >20% of household income or expenditure due to TB among Q5 (highest) i
+FINPROTECTION_IMP_BNLFHU_FURIMP_HH	ok	3.9s	Households  impoverished by out-of-pocket payments (relative poverty line reflecting basic needs: food, housing, utiliti
+FINPROTECTION_IMP_BNLFHU_FURIMP_HH	ok	2.8s	Households  impoverished by out-of-pocket payments (relative poverty line reflecting basic needs: food, housing, utiliti
+HEPATITIS_HCV_INFECTIONS_NEW_NUM	ok	24.5s	New chronic hepatitis C (HCV) infections (number)
+HEPATITIS_HCV_INFECTIONS_NEW_NUM	ok	24.3s	New chronic hepatitis C (HCV) infections (number)
+HIV_VIRALLOADSUPPRESSED	ok	4.2s	Percentage of people living with HIV who have suppressed viral loads
+TB_notif_num	ok	29.2s	Number of people notified with new episode of TB in a given year
+TB_notif_num	ok	29.7s	Number of people notified with new episode of TB in a given year
+TB_cc_prct_Q1	ok	3.8s	Percentage of TB-affected households facing costs >20% of household income or expenditure due to TB among Q1 (lowest) in
+TB_cc_prct_Q1	ok	2.8s	Percentage of TB-affected households facing costs >20% of household income or expenditure due to TB among Q1 (lowest) in
+SA_0000001842	ok	9.5s	Alcohol, 15-19 years heavy continuous drinkers, drinkers only, past year (%)
+SA_0000001842	ok	6.5s	Alcohol, 15-19 years heavy continuous drinkers, drinkers only, past year (%)
+TAXBEV_PRICE	ok	10.9s	Beverage price
+TAXBEV_PRICE	ok	12.9s	Beverage price
+TOBACCO_MPOWER_M4_SMOKELESSECIGARETTESSCHOOL	ok	4.3s	Tobacco Monitor: school-based national surveys, smokeless tobacco or e-cigarettes
+TOBACCO_MPOWER_M4_SMOKELESSECIGARETTESSCHOOL	ok	2.8s	Tobacco Monitor: school-based national surveys, smokeless tobacco or e-cigarettes
+FOODSAFETY_IHR_PERCENT	ok	28.4s	Food safety IHR (%)
+FOODSAFETY_IHR_PERCENT	ok	25.9s	Food safety IHR (%)
+TOBACCO_MPOWER_M2_SMOKELESSECIGARETTES	ok	4.5s	Tobacco Monitor: population-based national surveys, smokeless tobacco or e-cigarettes
+TOBACCO_MPOWER_M2_SMOKELESSECIGARETTES	ok	2.8s	Tobacco Monitor: population-based national surveys, smokeless tobacco or e-cigarettes
+ASSISTIVETECH_SATISFACTIONACTIVITIES	ok	4.0s	Satisfaction with assistive products for different environments and activities (%)
+ASSISTIVETECH_SATISFACTIONACTIVITIES	ok	2.8s	Satisfaction with assistive products for different environments and activities (%)
+VACCINECOVERAGE_YFV	ok	5.3s	Yellow fever vaccine (YFV) immunization coverage among 1-year olds (%)
+VACCINECOVERAGE_YFV	ok	2.8s	Yellow fever vaccine (YFV) immunization coverage among 1-year olds (%)
+TB_Notification_agesex_num	ok	11.2s	The number of new and relapse cases of tuberculosis detected in a given year by age and sex
+TB_Notification_agesex_num	ok	13.7s	The number of new and relapse cases of tuberculosis detected in a given year by age and sex
+ORAL_HEALTH_CANCER_LIPORALCAVITY_NEWCASE_NUMBER	ok	5.0s	Number of new cases of lip and oral cavity cancer
+ORAL_HEALTH_CANCER_LIPORALCAVITY_NEWCASE_NUMBER	ok	3.0s	Number of new cases of lip and oral cavity cancer
+ASSISTIVETECH_SATISFACTIONSERVICES	ok	5.0s	Satisfaction with assistive products and related services (%)
+ASSISTIVETECH_SATISFACTIONSERVICES	ok	3.0s	Satisfaction with assistive products and related services (%)
+HEPATITIS_HBV_PREVALENCE_PER100	ok	3.7s	Prevalence of chronic hepatitis B (HBV) in the general population (%)
+HEPATITIS_HBV_PREVALENCE_PER100	ok	2.8s	Prevalence of chronic hepatitis B (HBV) in the general population (%)
+NUT_CF_MDD	ok	16.9s	Minimum dietary diversity 6-23 months
+NUT_CF_MDD	ok	13.8s	Minimum dietary diversity 6-23 months
+R_Sp_excise	ok	6.6s	Taxes as a % of price: specific excise
+R_Sp_excise	ok	4.6s	Taxes as a % of price: specific excise
+P_compl_p7	ok	4.2s	Compliance with smoke-free pubs and bars law (score)
+P_compl_p7	ok	6.2s	Compliance with smoke-free pubs and bars law (score)
+IHRSPAR2_C06	ok	2.9s	Human resources
+IHRSPAR2_C06	ok	4.9s	Human resources
+SDGODAWS	ok	23.0s	Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spendin
+SDGODAWS	ok	24.9s	Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spendin
+MSM_PSE_NUM	ok	4.3s	Men who have sex with men: Population size estimate (number)
+MSM_PSE_NUM	ok	2.8s	Men who have sex with men: Population size estimate (number)
+SCSUD_GOVPAL	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, availability of policy, action plan and legislation
+SCSUD_GOVPAL	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, availability of policy, action plan and legislation
+HEPATITIS_HCV_PREVALENCE_PER100	ok	29.0s	Prevalence of chronic hepatitis C (HCV) ) in the general population (%)
+HEPATITIS_HCV_PREVALENCE_PER100	ok	31.0s	Prevalence of chronic hepatitis C (HCV) ) in the general population (%)
+MALARIA_MICR_POS	ok	4.3s	Number of malaria positive cases by microscopy
+MALARIA_MICR_POS	ok	2.8s	Number of malaria positive cases by microscopy
+PRISON_D3_DEATHS_COVID_MRATE	ok	4.3s	In-prison COVID-19 mortality rate (per 100 000 incarcerated persons per year)
+PRISON_D3_DEATHS_COVID_MRATE	ok	2.8s	In-prison COVID-19 mortality rate (per 100 000 incarcerated persons per year)
+NCD_HYP_DIAGNOSIS_C	ok	19.7s	Hypertension: diagnosis coverage among adults aged 30-79 with hypertension, crude (%)
+NCD_HYP_DIAGNOSIS_C	ok	22.6s	Hypertension: diagnosis coverage among adults aged 30-79 with hypertension, crude (%)
+TG_PSE_NUM	ok	8.3s	Transgender: Population size estimate (number)
+TG_PSE_NUM	ok	10.3s	Transgender: Population size estimate (number)
+TB_rdst_num_prct	ok	3.5s	The number of people with susceptibility test result for rifampicin among bacteriologically confirmed pulmonary TB patie
+TB_rdst_num_prct	ok	5.5s	The number of people with susceptibility test result for rifampicin among bacteriologically confirmed pulmonary TB patie
+PHYSICALACTIVITY_ACTIVEPEOPLE	ok	5.0s	Physical activity policies focused on active people
+PHYSICALACTIVITY_ACTIVEPEOPLE	ok	7.0s	Physical activity policies focused on active people
+SCSUD_HWFSUPPORT	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, system of ongoing support for health workforce
+TAXBEV_IMPORTDUTIES	ok	5.7s	Import duties on beverages (%)
+PRISON_D4_HEPC_DIAG_TOT	ok	2.8s	In-prison Hepatitis C diagnosis (number of diagnoses)
+PRISON_D4_HEPC_DIAG_TOT	ok	3.4s	In-prison Hepatitis C diagnosis (number of diagnoses)
+ASSISTIVETECH_PAYERSAT	ok	4.8s	Funding for assistive products (%)
+ASSISTIVETECH_PAYERSAT	ok	2.8s	Funding for assistive products (%)
+PRETERMBIRTH_NUMBER	ok	4.6s	Preterm birth (number)
+PRETERMBIRTH_NUMBER	ok	2.8s	Preterm birth (number)
+TOBACCO_MPOWER_R_TAXSTRUCTURE	ok	3.9s	Tobacco Raise taxes: Tobacco tax structure
+TOBACCO_MPOWER_R_TAXSTRUCTURE	ok	6.1s	Tobacco Raise taxes: Tobacco tax structure
+ASSISTIVETECH_USEPREVALENCE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Prevalence of use of assistive products (%)
+NUTRITION_ANAEMIA_NONPREGNANT_NUM	ok	29.7s	Number of non-pregnant women (aged 15-49 years) with anaemia (thousands)
+TB_drs_rr_prct	ok	3.9s	Prevalence of rifampicin resistance among pulmonary TB cases.
+TB_drs_rr_prct	ok	3.8s	Prevalence of rifampicin resistance among pulmonary TB cases.
+NTD_LEPR14	ok	78.1s	Number of non-autochthonous leprosy cases
+NTD_LEPR14	ok	80.1s	Number of non-autochthonous leprosy cases
+MH_8	ok	3.7s	Social workers working in mental health sector (per 100,000)
+MH_8	ok	2.8s	Social workers working in mental health sector (per 100,000)
+MORT_MATERNALNUM	ok	12.7s	Number of maternal deaths
+MORT_MATERNALNUM	ok	15.7s	Number of maternal deaths
+NCD_BMI_30A	ok	32.9s	Obesity among adults, BMI ≥ 30 kg/m2 (age-standardized estimate) (%)
+NCD_BMI_30A	ok	34.9s	Obesity among adults, BMI ≥ 30 kg/m2 (age-standardized estimate) (%)
+HCF_UNREL_ELECTRICITY	ok	4.1s	Percentage of health-care facilities with unreliable electricity supply (%)
+R_Price_lowest_cost_ppp	ok	88.1s	Cheapest brand of cigarettes - price in PPP$
+NCD_BMI_PLUS1C	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Overweight among children and adolescents, BMI-for-age > +1 standard deviations above the median (crude estimate) (%)
+P_compl_p1	fail	Could not draw this chartFailed to fetchTry again	Compliance with smoke-free health-care facilities law (score)
+P_compl_p1	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Compliance with smoke-free health-care facilities law (score)
+TRAD_MED_SHARE_CHE	fail	TimeoutError: Page.wait_for_function: Timeout 120000ms exceeded.	Traditional, Complementary, and Integrative Medicine Share of Current Health Expenditure
+TRAD_MED_SHARE_CHE	ok	12.8s	Traditional, Complementary, and Integrative Medicine Share of Current Health Expenditure
+PRISON_F1_BMI25_TOT	ok	80.3s	In-prison people who have BMI >= 25 (number of prisoners who are overweight)
+PRISON_F1_BMI25_TOT	ok	83.7s	In-prison people who have BMI >= 25 (number of prisoners who are overweight)
+NUT_CF_MMF	ok	10.8s	Minimum Meal Frequency 6-23 months
+NUT_CF_MMF	ok	15.7s	Minimum Meal Frequency 6-23 months
+TB_ps_prev_bc_100k_byagegroup_sp	ok	14.1s	Prevalence of bacteriologically-confirmed pulmonary TB who are smear positive among those aged ≥15 years, per 100,000 po
+TB_ps_prev_bc_100k_byagegroup_sp	ok	12.1s	Prevalence of bacteriologically-confirmed pulmonary TB who are smear positive among those aged ≥15 years, per 100,000 po
+TOBACCO_MPOWER_R_TAXREVENUELATEST	ok	6.1s	Tobacco Raise taxes: Annual tax revenues from tobacco products, latest reporting period
+TOBACCO_MPOWER_R_TAXREVENUELATEST	ok	4.1s	Tobacco Raise taxes: Annual tax revenues from tobacco products, latest reporting period
+GASPRP	ok	7.9s	Reporting countries
+GASPRP	ok	5.9s	Reporting countries
+MALARIA_SUSPECTS	ok	8.0s	Number of suspected malaria cases
+MALARIA_SUSPECTS	ok	6.0s	Number of suspected malaria cases
+SDGIPV12M	ok	3.9s	Proportion of ever-partnered women and girls aged 15 years or older subjected to physical and/or sexual violence by a cu
+SDGIPV12M	ok	2.8s	Proportion of ever-partnered women and girls aged 15 years or older subjected to physical and/or sexual violence by a cu
+MALARIA_PV_INDIG	ok	5.2s	Number of indigenous P. vivax malaria cases
+MALARIA_PV_INDIG	ok	8.1s	Number of indigenous P. vivax malaria cases
+HEPATITIS_HCV_TREATMENT_HIV_PERCENT	ok	6.9s	People living with HIV treated for chronic hepatitis C infection (percent)
+HEPATITIS_HCV_TREATMENT_HIV_PERCENT	ok	4.9s	People living with HIV treated for chronic hepatitis C infection (percent)
+IHRSPAR2_C01	ok	4.3s	Policy, Legal and normative Instruments to implement IHR
+IHRSPAR2_C01	ok	2.8s	Policy, Legal and normative Instruments to implement IHR
+SCSUD_GOVGUIDELINES	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, national guidelines
+IHRSPAR2_C07	ok	17.0s	Health emergency management
+E_compl_e9	ok	4.7s	Compliance with ban on free distribution in mail or through other means (score)
+E_compl_e9	ok	3.8s	Compliance with ban on free distribution in mail or through other means (score)
+HEPATITIS_DEATHS_RATE	ok	9.3s	Hepatitis - Deaths caused by chronic hepatitis B and C (per 100 000 population)
+HEPATITIS_DEATHS_RATE	ok	7.4s	Hepatitis - Deaths caused by chronic hepatitis B and C (per 100 000 population)
+IHRSPAR2_C14	ok	5.0s	Chemical events
+IHRSPAR2_C14	ok	7.0s	Chemical events
+PRISON_D4_COVID_TOT	ok	4.6s	In-prison COVID-19 diagnosis (number of diagnoses)
+PRISON_D4_COVID_TOT	ok	6.6s	In-prison COVID-19 diagnosis (number of diagnoses)
+SCSUD_PSYCH	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, psychosocial treatment services
+SCSUD_PSYCH	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, psychosocial treatment services
+CANCERSURVIVAL_CHILDREN_LEUKAEMIA	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Childhood cancer survival for lymphoid leukaemia, age-standardized 5-year net survival (%)
+STI_GONORRHEA_CASES_NUM	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Reported cases of gonorrhea (number)
+SCSUD_DATASERVPROV	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, data on service provision
+CANCERSURVIVAL_CHILDREN_LEUKAEMIA	ok	3.4s	Childhood cancer survival for lymphoid leukaemia, age-standardized 5-year net survival (%)
+SCSUD_DATASERVPROV	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, data on service provision
+NUTRITION_ANAEMIA_CHILDREN_PREV	ok	16.8s	Prevalence of anaemia in children aged 6-59 months (%)
+NUTRITION_ANAEMIA_CHILDREN_PREV	ok	25.0s	Prevalence of anaemia in children aged 6-59 months (%)
+Yth_daily_tob_use	ok	3.7s	Prevalence of daily tobacco use among adolescents (%)
+Yth_daily_tob_use	ok	5.7s	Prevalence of daily tobacco use among adolescents (%)
+TRAD_MED_CHE_PROVIDER	ok	3.9s	Traditional, Complementary, and Integrative Medicine Current Health Expenditure by health care providers
+SCSUD_FINANCINGSUPPORT	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, information on governmental support available
+TOBACCO_MPOWER_R_PRICE	ok	25.5s	Tobacco Raise taxes: Retail price for tobacco and nicotine products
+TOBACCO_MPOWER_R_PRICE	ok	23.2s	Tobacco Raise taxes: Retail price for tobacco and nicotine products
+R_Price_mp_estimate_usd	ok	7.9s	Most sold brand of cigarettes - price in US$ at official exchange rates
+R_Price_mp_estimate_usd	ok	9.9s	Most sold brand of cigarettes - price in US$ at official exchange rates
+FINPROTECTION_IMP_P190_POP	ok	10.3s	Population pushed further below the $1.90 a day poverty line by household health expenditures (%, national, rural, urban
+FINPROTECTION_IMP_P190_POP	ok	12.3s	Population pushed further below the $1.90 a day poverty line by household health expenditures (%, national, rural, urban
+TOBACCO_MPOWER_R_TAXREVENUEPREVIOUS	ok	3.3s	Tobacco Raise taxes: Annual tax revenues from tobacco products, previous reporting period
+TOBACCO_MPOWER_R_TAXREVENUEPREVIOUS	ok	5.3s	Tobacco Raise taxes: Annual tax revenues from tobacco products, previous reporting period
+CHILDDEATH5TO14	ok	33.0s	Number of deaths among children 5 to 14 years of age
+CHILDDEATH5TO14	ok	35.0s	Number of deaths among children 5 to 14 years of age
+HIV_STATUSKNOWNART	ok	2.8s	Percentage of people living with HIV who know their status receiving antiretroviral therapy
+HIV_STATUSKNOWNART	ok	4.8s	Percentage of people living with HIV who know their status receiving antiretroviral therapy
+GLASSAMC_AWARE	ok	6.5s	Pattern of antibiotic consumption at national level (relative use by AWaRe classification)
+GLASSAMC_AWARE	ok	8.5s	Pattern of antibiotic consumption at national level (relative use by AWaRe classification)
+NCD_CHOL_MEANNONHDL_A	ok	37.2s	Mean Non-HDL cholesterol, age-standardized
+NCD_CHOL_MEANNONHDL_A	ok	35.2s	Mean Non-HDL cholesterol, age-standardized
+GASPTIAZM	ok	5.1s	Number of isolates tested for azithromycin
+GASPTIAZM	ok	7.1s	Number of isolates tested for azithromycin
+HEPATITIS_HBV_TESTPOSITIVE_ANC_PERCENT	ok	40.8s	Pregnant women attending antenatal care, tested positive for HBsAg (percent)
+NCD_DIABETES_PREVALENCE_CRUDE	ok	46.2s	Prevalence of diabetes, crude
+SCSUD_MEDNTG	ok	3.8s	Substance use disorders service coverage, medicine included into official manual/ national treatment guidelines
+SCSUD_MEDNTG	ok	13.2s	Substance use disorders service coverage, medicine included into official manual/ national treatment guidelines
+IHRSPAR2_C05	ok	2.9s	Surveillance
+IHRSPAR2_C05	ok	4.9s	Surveillance
+VACCINECOVERAGE_MENA_C	ok	3.7s	Meningococcal A conjugate (MENGA) vaccine immunization coverage (%) (WUENIC)
+VACCINECOVERAGE_MENA_C	ok	2.8s	Meningococcal A conjugate (MENGA) vaccine immunization coverage (%) (WUENIC)
+LIFE_0000000029	fail	TimeoutError: Page.wait_for_function: Timeout 180000ms exceeded.	nMx - age-specific death rate between ages x and x+n
+LIFE_0000000034	fail	TimeoutError: Page.wait_for_function: Timeout 180000ms exceeded.	Tx - person-years lived above age x
+LIFE_0000000035	fail	TimeoutError: Page.wait_for_function: Timeout 180000ms exceeded.	ex - expectation of life at age x
+AIR_35	ok	117.7s	Joint effects of air pollution attributable deaths
+AIR_60	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Household and ambient air pollution attributable DALYs
+LIFE_0000000032	fail	TimeoutError: Page.wait_for_function: Timeout 180000ms exceeded.	ndx - number of people dying between ages x and x+n
+AIR_52	ok	150.9s	Household air pollution attributable death rate (per 100 000 population, age-standardized)
+LIFE_0000000030	fail	TimeoutError: Page.wait_for_function: Timeout 180000ms exceeded.	nqx - probability of dying between ages x and x+n
+LIFE_0000000031	fail	TimeoutError: Page.wait_for_function: Timeout 180000ms exceeded.	lx - number of people left alive at age x
+LIFE_0000000033	fail	TimeoutError: Page.wait_for_function: Timeout 180000ms exceeded.	nLx - person-years lived between ages x and x+n
+CHILDMORT5TO14	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Mortality rate for 5-14 year-olds (probability of dying per 1000 children aged 5-14 years)
+CM_01	ok	72.8s	Number of under-five deaths
+NUTRITION_ANT_HAZ_NE2	ok	21.0s	Stunting prevalence among children under 5 years of age (% height-for-age <-2 SD), survey-based estimates
+NUTRITION_WH_3	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Severe wasted prevalence among children under 5 years of age   (% weight-for-height <-3 SD), survey-based estimates
+NUTRITION_ANT_WHZ_NE2	ok	14.4s	Overweight prevalence among children under 5 years of age (% weight-for-height >+2 SD), survey-based estimates
+NUTRITION_WH_2	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Wasting prevalence among children under 5 years of age (% weight-for-height <-2 SD), survey-based estimates
+NUTSTUNTINGPREV	ok	8.8s	Stunting prevalence among children under 5 years of age (% height-for-age <-2 SD), model-based estimates
+NUTRITION_WA_2	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Underweight prevalence among children under 5 years of age   (% weight-for-age <-2 SD), survey-based estimates
+SA_0000001400	ok	4.2s	Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol), by beverage type
+SA_0000001419	ok	19.5s	Age-standardized DALYs, breast cancer, per 100,000
+SA_0000001437	ok	11.4s	Age-standardized death rates, alcohol use disorders, per 100,000
+SA_0000001446	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Age-standardized death rates, liver cirrhosis, per 100,000
+NCD_BMI_MINUS2C	ok	3.8s	Thinness among children and adolescents, BMI-for-age < -2 standard deviations below the median (%)
+NCD_BMI_MEAN	ok	4.3s	Mean BMI (kg/m²) (age-standardized estimate)
+NCD_BMI_MEANC	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Mean BMI (kg/m&#xb2;) (crude estimate)
+NCD_BMI_25A	ok	6.2s	Overweight among adults, BMI ≥ 25 kg/m2 (age-standardized estimate) (%)
+NCD_BMI_PLUS2C	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Obesity among children and adolescents, BMI-for-age > +2 standard deviations above the median (crude estimate) (%)
+NCD_UNDER70	ok	20.5s	Premature deaths due to noncommunicable diseases (NCD) as a proportion of all NCD deaths
+NCD_GLUC_02	ok	9.9s	Mean fasting blood glucose (mmol/l) (crude estimate)
+CARE_SOURCE	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Care-seeking by type of patient and source of care (%)
+PHE_HHAIR_POP_CATEGORY_FUELS	ok	7.4s	Population with primary reliance on fuels and technologies for cooking, by fuel type (in millions)
+SCSUD_MEDREG	ok	6.0s	Substance use disorders service coverage, medicine registered in the country
+STI_SYPHILIS_CASES_NUM	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Reported cases of syphilis (number)
+ASSISTIVETECH_TOTALNEED	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Prevalence of need of assistive products (%)
+SCSUD_NSS	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, non-structured services
+DEATHADO	ok	8.7s	Number of deaths among adolescents (10 to 19 years of age)
+M_Est_tob_curr_users	ok	10.5s	Number of current of tobacco users, estimate
+SCSUD_PHARM	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, pharmacological treatment services
+PHYSICALACTIVITY_ACTIVESYSTEMS	ok	11.5s	Physical activity policies focused on active systems
+NUT_BF_EBF	ok	3.5s	Exclusive breastfeeding under six months
+NCDMORTPERCENT	ok	3.7s	Percentage of total deaths due to NCDs overall and percentage of total deaths due to 7 main categories (5 different NCD 
+PHE_HHAIR_PROP_POP_CATEGORY_FUELS	ok	71.9s	Proportion of population with primary reliance on fuels and technologies for cooking, by fuel type (%)
+SCSUD_GOVPAL	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, availability of policy, action plan and legislation
+SCSUD_HWFSUPPORT	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, system of ongoing support for health workforce
+ASSISTIVETECH_USEPREVALENCE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Prevalence of use of assistive products (%)
+NCD_BMI_PLUS1C	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Overweight among children and adolescents, BMI-for-age > +1 standard deviations above the median (crude estimate) (%)
+P_compl_p1	ok	31.8s	Compliance with smoke-free health-care facilities law (score)
+SCSUD_GOVGUIDELINES	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, national guidelines
+SCSUD_PSYCH	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, psychosocial treatment services
+STI_GONORRHEA_CASES_NUM	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Reported cases of gonorrhea (number)
+SCSUD_DATASERVPROV	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, data on service provision
+SCSUD_FINANCINGSUPPORT	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, information on governmental support available
