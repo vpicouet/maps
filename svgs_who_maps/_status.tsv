@@ -1513,3 +1513,11 @@ SCSUD_PSYCH	fail	Could not draw this chartinvalid breakdownTry again	Substance u
 STI_GONORRHEA_CASES_NUM	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Reported cases of gonorrhea (number)
 SCSUD_DATASERVPROV	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, data on service provision
 SCSUD_FINANCINGSUPPORT	fail	Could not draw this chartinvalid breakdownTry again	Substance use disorders service coverage, information on governmental support available
+SCSUD_NSS	ok	3.6s	Substance use disorders service coverage, non-structured services
+SCSUD_PHARM	ok	3.2s	Substance use disorders service coverage, pharmacological treatment services
+SCSUD_HWFSUPPORT	ok	3.2s	Substance use disorders service coverage, system of ongoing support for health workforce
+SCSUD_GOVGUIDELINES	ok	3.3s	Substance use disorders service coverage, national guidelines
+SCSUD_FINANCINGSUPPORT	ok	3.3s	Substance use disorders service coverage, information on governmental support available
+SCSUD_GOVPAL	ok	3.4s	Substance use disorders service coverage, availability of policy, action plan and legislation
+SCSUD_PSYCH	ok	3.3s	Substance use disorders service coverage, psychosocial treatment services
+SCSUD_DATASERVPROV	ok	3.2s	Substance use disorders service coverage, data on service provision
