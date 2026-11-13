@@ -15161,3 +15161,198 @@ TUS_20SCREEN$DV_3350	fail	Could not draw this chartThe source returned no usable
 TUS_20WEEK$DV_3348	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Time spent in the main activity by sex and day of the week
 UNE_RT_M	ok	9.0s	Unemployment by sex and age - monthly data
 URT_GIND3$DV_1583	ok	7.6s	Demographic balance and crude rates by other typologies
+MAR_GO_AM_CY	fail	TimeoutError: Page.wait_for_function: Timeout 300000ms exceeded.	Gross weight of goods transported to/from main ports - Cyprus
+MAR_GO_AM_DK	fail	TimeoutError: Page.wait_for_function: Timeout 300000ms exceeded.	Gross weight of goods transported to/from main ports - Denmark
+MAR_GO_AM_EL	fail	TimeoutError: Page.wait_for_function: Timeout 300000ms exceeded.	Gross weight of goods transported to/from main ports - Greece
+MAR_GO_AM_BE	fail	TimeoutError: Page.wait_for_function: Timeout 300000ms exceeded.	Gross weight of goods transported to/from main ports - Belgium
+MAR_GO_AM_DE	fail	TimeoutError: Page.wait_for_function: Timeout 300000ms exceeded.	Gross weight of goods transported to/from main ports - Germany
+MAR_GO_AM_HR	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Gross weight of goods transported to/from main ports - Croatia
+MAR_GO_AM_FI	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Gross weight of goods transported to/from main ports - Finland
+MAR_GO_AM_IE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Gross weight of goods transported to/from main ports - Ireland
+MAR_GO_AM_LV	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Gross weight of goods transported to/from main ports - Latvia
+MAR_GO_AM_PL	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Gross weight of goods transported to/from main ports - Poland
+MAR_GO_AM_RO	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Gross weight of goods transported to/from main ports - Romania
+MAR_GO_AM_NO	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Gross weight of goods transported to/from main ports - Norway
+MAR_GO_QM_C2002	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Volume of containers transported to/from main ports - quarterly data (2000 - 2002)
+MAR_GO_QM_C2012	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Volume of containers transported to/from main ports - quarterly data (2011 - 2012)
+MAR_GO_AM_ES	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Gross weight of goods transported to/from main ports - Spain
+MAR_GO_AM_TR	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Gross weight of goods transported to/from main ports - Türkiye
+MIGR_ASYDCFSTQ	ok	72.0s	First instance decisions on applications by type of decision, citizenship, age and sex - quarterly data
+MIGR_ASYUMWITM	ok	48.4s	Asylum applications of unaccompanied minors withdrawn by citizenship, age, sex and type of withdrawal - monthly data
+EF_LSK_MAIN	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Main livestock indicators by NUTS 2 region
+MIGR_ASYAPPCTZM	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Asylum applicants by type, citizenship, age and sex - monthly data
+MIGR_ASYPENCTZM	ok	19.8s	Persons subject of asylum applications pending at the end of the month by citizenship, age and sex - monthly data
+EF_AH_PIGS	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Animal housing by type of pigs, utilised agricultural area, size classes of livestock units and NUTS 2 region
+MIGR_ASYUMACTM	ok	52.9s	Unaccompanied minor asylum applicants by type, citizenship, age and sex - monthly data
+MIGR_ACQ	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Acquisition of citizenship by age group, sex and former citizenship
+MIGR_DUBTO	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Outgoing 'Dublin' transfers by receiving country (PARTNER), legal provision, duration of transfer, sex and type of appli
+MIGR_DUBDI	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Decisions on incoming 'Dublin' requests by submitting country (PARTNER), type of decision, type of request, legal provis
+MIGR_ASYRESCRA	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Resettled persons by age, sex, citizenship and country of previous residence - annual data
+MIGR_DUBTI	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Incoming 'Dublin' transfers by submitting country (PARTNER), legal provision, duration of transfer, sex and type of appl
+MIGR_ASYDCTZM	fail	Could not draw this chartThe source took too long to answer.Try again	Decisions on asylum applications by citizenship (until December 2007) - monthly data
+MIGR_EMI3NXT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Emigration by age group, sex and country of next usual residence
+MIGR_ASYWITHM	ok	33.7s	Asylum applications withdrawn by citizenship, age, sex and type of withdrawal - monthly data
+MIGR_EIRTN1	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Third-country nationals returned following an order to leave, by type of return, citizenship, country of destination, ag
+MIGR_EMI1CTZ	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Emigration by age group, sex and citizenship
+MIGR_DUBDO	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Decisions on outgoing 'Dublin' requests by receiving country (PARTNER), type of decision, type of request, legal provisi
+MIGR_RESBC13	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Persons subject to EU Blue Card decisions by length of validity duration, age, sex, citizenship and economic sector of e
+MIGR_EIPRE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Third country nationals found to be illegally present - annual data (rounded)
+MIGR_IMM5PRV	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Immigration by age group, sex and country of previous residence
+MIGR_EIRTN2	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Third-country unaccompanied minors returned following an order to leave, by type of return, citizenship, country of dest
+MIGR_RESBC12	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Persons subject to EU Blue Card decisions by length of validity, age, sex, citizenship and size of employer
+NAIO_10_CP1610	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Use table at basic prices
+MIGR_IMM1CTZ	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Immigration by age group, sex and citizenship
+NAIO_10_PYP16	ok	27.6s	Use table at purchasers' prices (previous years prices)
+NAMQ_10_GDP	ok	10.0s	Gross domestic product (GDP) and main components (output, expenditure and income) - quarterly data
+NRG_CB_OILM	ok	8.4s	Supply and transformation of oil and petroleum products - monthly data
+NRG_TI_COIFPM	ok	18.7s	Crude oil imports by field of production - monthly data
+MIGR_RESFAS	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	First permits by reason, age, sex and citizenship
+NAIO_10_CP16	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Use table at purchasers' prices
+MIGR_RESBC11	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Persons subject to EU Blue Card decisions by length of validity, age, sex, citizenship and occupation
+MIGR_RESBC31	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	EU Blue Card holders admitted for long-term mobility by length of validity, age, sex, citizenship and previous country o
+NAIO_10_CP1610	ok	6.1s	Use table at basic prices
+NAIO_10_CP16	ok	6.1s	Use table at purchasers' prices
+NAIDSQ_10_F_BS	ok	6.5s	Financial balance sheets - international data cooperation - quarterly data
+EF_LSK_MAIN	ok	6.8s	Main livestock indicators by NUTS 2 region
+MIGR_RESFAS	ok	7.3s	First permits by reason, age, sex and citizenship
+NAIO_10_PYP1610	ok	4.6s	Use table at basic prices (previous years prices)
+GOV_10Q_GGFA	ok	4.6s	Quarterly financial accounts for general government
+NAIO_10_FGDEE	ok	4.5s	Domestic employment in exports - EU perspective (FIGARO application)
+GOV_10A_EXP	ok	4.7s	General government expenditure by function (COFOG)
+NAIO_10_FGDE	ok	4.7s	Domestic value added in exports - EU perspective (FIGARO application)
+NASA_10_F_BS	ok	4.6s	Financial balance sheets - annual data
+NASA_10_F_TR	ok	4.8s	Financial transactions - annual data
+NAMQ_10_A10	ok	4.6s	Gross value added and income by main industry (NACE Rev.2 ) - quarterly data
+NAMA_10_A64_P5	ok	4.7s	Capital formation by industry (NACE Rev.2) and detailed asset type
+NAMA_10_NFA_ST	ok	4.4s	Capital stocks by industry (NACE Rev.2) and detailed asset type
+NRG_BAL_C	ok	3.6s	Complete energy balances
+NRG_STK_OAM	ok	5.0s	Oil stocks held abroad - monthly data
+ENV_AC_EGSS2	ok	4.8s	Production, value added and exports in the environmental goods and services sector (2000-2023)
+NASQ_10_F_CP	ok	4.6s	Financial accounts: counterpart information - quarterly data
+NRG_TE_OILM	ok	5.5s	Exports of oil and petroleum products by partner country - monthly data
+PRC_HICP_MINR	ok	3.5s	Harmonised index of consumer prices (HICP) - ECOICOP ver.2 - indices and rates of change, monthly data
+PRC_HICP_FP	ok	4.6s	HICP - first published data (monthly index and annual rate of change) (1996-2025)
+PRC_HICP_FPD	ok	4.4s	Harmonised index of consumer prices (HICP) - ECOICOP ver.2 - first released data
+FATS_G1A_08	ok	4.7s	Foreign control of enterprises by economic activity and a selection of controlling countries (2008-2020)
+NRG_TI_OILM	ok	5.3s	Imports of oil and petroleum products by partner country - monthly data
+PROJ_19RDTH3	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Projected deaths by age, sex, type of projection and NUTS 3 region
+PROJ_19RANMIG3	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Assumptions for net migration by age, sex, type of projection and NUTS 3 region
+PROJ_19RP3	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Population on 1st January by age, sex, type of projection and NUTS 3 region
+DEMO_R_MWK2_10	ok	7.8s	Deaths by week, sex, 10-year age group and NUTS 2 region
+DEMO_R_MWK2_20	ok	8.6s	Deaths by week, sex, 20-year age group and NUTS 2 region
+INN_C1012	ok	3.5s	Number of innovating enterprises supported by government, by size class (1996)
+DEMO_R_MWK2_TS	ok	9.7s	Deaths by week, sex and NUTS 2 region
+INN_C1021	ok	3.5s	Number of innovating enterprises having applied for a patent, by NACE Rev. 1.1 (1996)
+INN_C215	ok	4.3s	Innovating firms' type (independent or non-independent), by size class (1996)
+INN_C222	ok	4.4s	Who developed the innovation activity by size class (1996)
+INN_C422	ok	4.3s	Innovation expenditures, by size class (1996)
+INN_C511	ok	4.6s	Type of innovating firms' engagement in R&D, by NACE Rev. 1.1 (1996)
+INN_C622	ok	4.5s	Number of innovating enterprises considering the different listed objectives as not relevant, by size class (1996)
+DEMO_R_MWK3_20	ok	28.9s	Deaths by week, sex, 20-year age group and NUTS 3 region
+DEMO_R_MWK3_10	ok	32.1s	Deaths by week, sex, 10-year age group and NUTS 3 region
+DEMO_R_MWK3_T	ok	27.1s	Deaths by week and NUTS 3 region
+INN_C811	ok	4.2s	Number of innovating enterprises with innovation cooperation, by NACE Rev. 1.1 (1996)
+INN_C911	ok	4.2s	Number of innovating enterprises with progress problems, by NACE Rev. 1.1 (1996)
+INN_C212	ok	4.4s	Number of enterprises with innovation activity, by size class (1996)
+INN_C214	ok	4.2s	Innovating firms' level of export intensity, by size class (1996)
+INN_C12	ok	4.3s	Enterprises in the population and realised sample, by size class (1996)
+INN_C912	ok	4.4s	Number of innovating enterprises with progress problems, by size class (1996)
+LFSQ_EGAIS	ok	4.7s	Employed persons by professional status and occupation - quarterly data
+INN_C411	ok	4.5s	Innovation intensity, by NACE Rev. 1.1 (1996)
+INN_C32	ok	4.3s	Turnover due to innovating products, by size class (1996)
+INN_C421	ok	4.5s	Innovation expenditures, by NACE Rev. 1.1 (1996)
+LFSQ_EWH2N2	ok	3.6s	Average actual weekly hours worked in the second job of persons who worked in this job during the reference week by prof
+LFSQ_EWHANA	ok	4.6s	Average actual weekly hours worked in the main job of persons who worked in this job during the reference week by profes
+INN_C512	ok	3.6s	Type of innovating firms' engagement in R&D, by size class (1996)
+INN_C521	ok	4.4s	Innovating firms' level of R&D intensity, by size class (1996)
+INN_C612	ok	4.3s	Number of innovating enterprises considering the following objectives as very important, by size class (1996)
+LFSQ_EWHUIS	ok	4.8s	Average usual weekly hours worked in the main job by professional status, full-time/part-time employment and occupation 
+INN_C812	ok	4.3s	Number of innovating enterprises with innovation cooperation, by size class (1996)
+AVIA_GOEXCC	ok	4.7s	International extra-EU freight and mail air transport between reporting and partner world regions and countries by type 
+INN_C822	ok	4.3s	Type of partner chosen, by size class (1996)
+INN_C832	ok	4.2s	Location of partner, by size class (1996)
+AVIA_GOOCC	ok	4.6s	Freight and mail air transport between reporting and partner countries by type of schedule
+BD_9BD_SZ_CL_R2	ok	4.5s	Business demography by size class and NACE Rev. 2 activity (2004-2020)
+INN_C922	ok	4.6s	Hampering factors for innovating enterprises with seriously delayed projects, by size class (1996)
+INN_C942	ok	4.3s	Hampering factors for innovating enterprises with not even started projects, by size class (1996)
+INN_C932	ok	4.4s	Hampering factors for innovating enterprises with abolished projects, by size class (1996)
+BD_9FH_SZ_CL_R2	ok	4.3s	Employer business demography by size class and NACE Rev. 2 activity (2004-2020)
+LFSQ_EWH2NA	ok	4.6s	Average actual weekly hours worked in the second job of persons who worked in this job during the reference week by prof
+LFSQ_EWHAN2	ok	4.6s	Average actual weekly hours worked in the main job of persons who worked in this job during the reference week by profes
+LFSQ_EWHAIS	ok	4.6s	Average actual weekly hours worked in the main job of persons who worked in this job during the reference week by profes
+IRT_LT_GBY10_M	ok	3.3s	Government bond yields, 10 years' maturity - monthly data
+LFSQ_EWHUN2	ok	4.4s	Average usual weekly hours worked in the main job by professional status, full-time/part-time employment and economic ac
+LFSQ_EWHUNA	ok	4.4s	Average usual weekly hours worked in the main job by professional status, full-time/part-time employment and economic ac
+AVIA_PAEXCC	ok	4.6s	International extra-EU air passenger transport between reporting and partner world regions and countries by type of sche
+AVIA_PAOCC	ok	4.8s	Air passenger transport between reporting and partner countries by type of schedule
+AVIA_PAR_IT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Air passenger transport routes between partner airports and main airports in Italy
+BOP_ITS6_DET	ok	6.1s	International trade in services (since 2010) (BPM6)
+BD_SALGE1_SIZE	ok	6.0s	Employer business demography by size class and NACE Rev. 2 activity
+BOP_ITS_DET	ok	6.1s	International trade in services - historical data (2004-2013)
+BD_SIZE	ok	6.2s	Business demography by size class and NACE Rev. 2 activity
+AVIA_TF_ACC	ok	8.3s	Aircraft traffic data by reporting country
+STS_INPPD_M	ok	2.9s	Producer prices in industry, domestic market - monthly data
+STS_INPI_M	ok	4.9s	Import prices in industry - monthly data
+STS_INPPND_M	ok	5.0s	Producer prices in industry, non domestic market - monthly data
+JVS_Q_ISCO_R21	ok	5.2s	Job vacancy statistics by NACE Rev. 2.1 activity, occupation and NUTS 2 region - quarterly data
+IWW_GO_ACTYGF07	ok	4.9s	Container transport by type of goods and country/region of loading and unloading (2007)
+STS_INPR_M	ok	4.6s	Production in industry - monthly data
+STS_INPR_Q	ok	4.5s	Production in industry - quarterly data
+STS_INPP_Q	ok	4.6s	Producer prices in industry, total - quarterly data
+STS_INPP_M	ok	4.8s	Producer prices in industry, total - monthly data
+STS_INPPND_Q	ok	4.7s	Producer prices in industry, non domestic market - quarterly data
+TUS_00AGE2	ok	3.3s	Time spent, participation time and participation rate in the secondary activity by sex and age group (2000 and 2010)
+TUS_00EDUC	ok	3.4s	Time spent, participation time and participation rate in the main activity by sex and educational attainment level (2000
+TUS_00AGE$DV_167	ok	3.6s	Time spent, participation time and participation rate in the main activity by sex and age group (2000 and 2010)
+TUS_00AGE$DV_166	ok	3.6s	Time spent, participation time and participation rate in the main activity by sex and age group (2000 and 2010)
+TUS_00HHSTATUS$DV_164	ok	3.5s	Time spent, participation time and participation rate in the main activity by sex and household composition (2000 and 20
+ROAD_GO_CTQ_TT	ok	4.6s	Cross-trade road freight transport of reporting country by country of loading and unloading and type of transport (t, tk
+TUS_00HHSTATUS$DV_165	ok	3.6s	Time spent, participation time and participation rate in the main activity by sex and household composition (2000 and 20
+TUS_00EDUC2	ok	3.6s	Time spent, participation time and participation rate in the secondary activity by sex and educational attainment level 
+TUS_00EDUC$DV_573	ok	3.5s	Time spent, participation time and participation rate in the main activity by sex and educational attainment level (2000
+TUS_00PROFSTAT	ok	3.6s	Time spent, participation time and participation rate in the main activity by sex and professional status (2000 and 2010
+TUS_00EDUC$DV_572	ok	3.5s	Time spent, participation time and participation rate in the main activity by sex and educational attainment level (2000
+TUS_00SELFSTAT	ok	3.5s	Time spent, participation time and participation rate in the main activity by sex and self-declared labour status (2000 
+TUS_00MONTH$DV_295	ok	3.6s	Time spent, participation time and participation rate in the main activity by sex and month of the year (2000 and 2010)
+TUS_00MONTH$DV_293	ok	3.6s	Time spent, participation time and participation rate in the main activity by sex and month of the year (2000 and 2010)
+TUS_00WORK	ok	3.5s	Time spent in total work (paid and unpaid work as main or secondary activity) by sex and form of work (2000 and 2010)
+TUS_00HHSTATUS2	ok	3.5s	Time spent, participation time and participation rate in the secondary activity by sex and household composition (2000 a
+TUS_20AGE	ok	3.5s	Time spent in the main activity by sex and age group
+TUS_00WEEK$DV_104	ok	3.6s	Time spent, participation time and participation rate in the main activity by sex and day of the week (2000 and 2010)
+TUS_00TRAVEL	ok	3.5s	Time spent on travelling by mode of transport (2000 and 2010)
+TUS_20CHDCARE	ok	3.6s	Time spent by parents or siblings providing childcare (as main activity) by sex and age group
+TUS_00SELFSTAT$DV_161	ok	3.9s	Time spent, participation time and participation rate in the main activity by sex and self-declared labour status (2000 
+TUS_20CHDCARE2	ok	4.8s	Time spent by parents or siblings providing childcare (as secondary activity) by sex and age group
+TUS_20AGE$DV_3381	ok	4.2s	Time spent in the main activity by sex and age group
+TUS_20AGE2	ok	4.3s	Time spent in the secondary activity by sex and age group
+TUS_20EDUC2	ok	4.0s	Time spent in the secondary activity by sex and educational attainment level
+TUS_20AGE$DV_3343	ok	4.1s	Time spent in the main activity by sex and age group
+TUS_20EDUC$DV_3345	ok	3.8s	Time spent in the main activity by sex and educational attainment level
+TUS_20EDUC$DV_3383	ok	3.9s	Time spent in the main activity by sex and educational attainment level
+TUS_20HHSTATUS	ok	4.0s	Time spent in the main activity by sex and household composition
+TUS_20LOC	ok	3.6s	Time spent on main activities by sex and location
+TUS_20EDUC	ok	3.8s	Time spent in the main activity by sex and educational attainment level
+TUS_20MEAL	ok	3.9s	Time spent eating at home by sex and age group
+TUS_20HHSTATUS$DV_3382	ok	4.1s	Time spent in the main activity by sex and household composition
+TUS_20HHSTATUS2	ok	4.0s	Time spent in the secondary activity by sex and household composition
+TUS_20PERIOD	ok	3.6s	Time spent in the main activity by sex and period of the year
+TUS_20HHSTATUS$DV_3344	ok	3.8s	Time spent in the main activity by sex and household composition
+TUS_20PERIOD$DV_3349	ok	3.8s	Time spent in the main activity by sex and period of the year
+TUS_20NPAYDOMW	ok	3.9s	Time spent providing unpaid domestic work by sex and age group
+TUS_20NPAYWORK	ok	3.9s	Time spent in unpaid work by sex and age group
+TUS_20NPAYCAREW	ok	3.5s	Time spent providing unpaid care work by sex and age group
+TUS_20PROFSTAT$DV_3385	ok	4.5s	Time spent in the main activity by sex and professional status
+TUS_20SCREEN	ok	3.6s	Time spent watching TV or other media, playing computer games and any similar screen activities by sex and age group
+TUS_20PROFSTAT	ok	4.4s	Time spent in the main activity by sex and professional status
+TUS_20PROFSTAT$DV_3347	ok	4.5s	Time spent in the main activity by sex and professional status
+TUS_20PERIOD$DV_3387	ok	3.7s	Time spent in the main activity by sex and period of the year
+TUS_20SELFSTAT$DV_3384	ok	4.6s	Time spent in the main activity by sex and self-declared labour status
+TUS_20SIMUACT	ok	3.4s	Time spent in simultaneous activities by sex and age group
+TUS_20SELFSTAT	ok	3.5s	Time spent in the main activity by sex and self-declared labour status
+TUS_20SELFSTAT$DV_3346	ok	3.6s	Time spent in the main activity by sex and self-declared labour status
+TUS_20SCREEN$DV_3350	ok	3.7s	Time spent watching TV or other media, playing computer games and any similar screen activities by sex and age group
+TUS_20WEEK$DV_3386	ok	3.5s	Time spent in the main activity by sex and day of the week
+TUS_20WORK	ok	4.2s	Time spent in paid and unpaid work by sex and age group
+TUS_20WEEK	ok	3.7s	Time spent in the main activity by sex and day of the week
+TUS_20WEEK$DV_3348	ok	3.8s	Time spent in the main activity by sex and day of the week
+TUS_20TRAVEL	ok	3.5s	Time spent travelling by sex and mode of transport
