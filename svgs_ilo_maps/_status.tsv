@@ -1775,3 +1775,80 @@ DF_UNE_TUNE_SEX_GEO_MTS_NB	ok	25.1s	Unemployment by sex, rural / urban area and 
 DF_UNE_TUNE_SEX_GEO_NB	ok	6.5s	Unemployment by sex and rural / urban areas
 DF_UNE_TUNE_SEX_MTS_DSB_NB	ok	7.3s	Unemployment by sex, marital status and disability status
 DF_UNE_TUNE_SEX_MTS_NB	ok	6.5s	Unemployment by sex and marital status
+DF_CLD_XHAZ_SEX_AGE_STU_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Children in hazardous work by sex, age and school attendance status
+DF_CLD_XHAZ_SEX_AGE_STU_RT	ok	32.1s	Share of children in hazardous work by sex, age and school attendance
+DF_CLD_XSNA_SEX_AGE_STE_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Children in employment by sex, age and status in employment
+DF_CLD_XGPB_SEX_AGE_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Children in child labour -- General Production Boundary by sex and age
+DF_CLD_XSNA_SEX_AGE_RT	ok	22.5s	Share of children engaged in economic activity by sex and age
+DF_CLD_XSNA_SEX_AGE_GEO_RT	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Share of children engaged in economic activity by sex, age and rural / urban areas
+DF_CLD_XSNA_SEX_AGE_STU_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Children in employment by sex, age and school attendance status
+DF_CPI_NCPD_COI_RT	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	CPI: National consumer price index, percentage change from previous period by COICOP (Sub-annual)
+DF_CPI_NCYR_COI_RT	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	CPI: National consumer price index, percentage change from previous year by COICOP
+DF_EAP_2WAP_SEX_AGE_RT	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Labour force participation rate by sex and age -- ILO modelled estimates, Nov. 2025
+DF_EAP_3EAP_SEX_AGE_DSB_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Youth labour force by sex, age and disability status
+DF_CPI_XCPI_COI_RT	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	CPI: National consumer price index, base year 2017 = 100 by COICOP
+DF_EAP_3EAP_SEX_AGE_STU_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Youth labour force by sex, age and school attendance status
+DF_EAP_3WAP_SEX_AGE_EDU_RT	ok	42.5s	Youth labour force participation rate by sex, age and education
+DF_EAP_3WAP_SEX_AGE_DSB_RT	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Youth labour force participation rate by sex, age and disability status
+DF_EAP_3WAP_SEX_AGE_STU_RT	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Youth labour force participation rate by sex, age and school attendance status
+DF_EAP_DWAP_SEX_AGE_CCT_RT	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Labour force participation rate by sex, age and citizenship
+DF_EAP_5EAP_SEX_AGE_NB	ok	52.9s	Labour force by sex and age -- 19th ICLS
+DF_EAP_DWAP_SEX_AGE_MTS_RT	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Labour force participation rate by sex, age and marital status
+DF_EAP_DWAP_SEX_AGE_GEO_RT	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Labour force participation rate by sex, age and rural / urban areas
+DF_EAP_TEA1_SEX_AGE_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Labour force, SA by sex and age (Sub-annual)
+DF_EAP_DWAP_SEX_EDU_CBR_RT	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Labour force participation rate by sex, education and place of birth
+DF_EAP_DWAP_SEX_AGE_EDU_RT	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Labour force participation rate by sex, age and education
+DF_EAP_TEAP_SEX_AGE_MTS_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Labour force by sex, age and marital status
+DF_EAP_DWAP_SEX_AGE_RT	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Labour force participation rate by sex and age
+DF_EAP_TEAP_SEX_GEO_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Labour force by sex and rural / urban areas
+DF_EAR_CHRA_SEX_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Average hourly earnings of care employees by sex
+DF_EAP_TEAP_SEX_AGE_GEO_NB	fail	Could not draw this chartThe source took too long to answer.Try again	Labour force by sex, age and rural / urban areas
+DF_EAP_TEAP_SEX_AGE_EDU_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Labour force by sex, age and education
+DF_EAR_EHRA_SEX_AGE_CUR_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Average hourly earnings of employees by sex and age and currency
+DF_EAP_TEAP_SEX_GEO_MTS_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Labour force by sex, rural / urban area and marital status
+DF_EAR_CHRA_SEX_CUR_NB	ok	3.5s	Average hourly earnings of care employees by sex and currency
+DF_EAR_EHRA_SEX_ECO_CUR_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Average hourly earnings of employees by sex, economic activity and currency
+DF_EAR_CMTA_SEX_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Average monthly earnings of care employees by sex
+DF_EAR_EHRA_SEX_DSB_CUR_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Average hourly earnings of employees by sex and disability status and currency
+DF_EAR_EHRA_SEX_GEO_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Average hourly earnings of employees by sex and rural / urban areas
+DF_EAP_TEAP_SEX_AGE_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Labour force by sex and age
+DF_EAR_EHRA_SEX_EDU_NB	ok	35.2s	Average hourly earnings of employees by sex and education
+DF_EAR_EHRM_SEX_DSB_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Median hourly earnings of employees by sex and disability status
+DF_EAR_EHRM_SEX_CUR_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Median hourly earnings of employees by sex and currency
+DF_EAP_TEAP_SEX_MTS_DSB_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Labour force by sex, marital status and disability status
+DF_EAR_EHRM_SEX_ECO_NB	ok	23.6s	Median hourly earnings of employees by sex and economic activity
+DF_EAR_EHRM_SEX_EDU_CUR_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Median hourly earnings of employees by sex, education and currency
+DF_EAR_EHRM_SEX_GEO_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Median hourly earnings of employees by sex and rural / urban areas
+DF_EAR_CMTA_SEX_CUR_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Average monthly earnings of care employees by sex and currency
+DF_EAR_EHRM_SEX_GEO_CUR_NB	ok	41.3s	Median hourly earnings of employees by sex, rural / urban areas and currency
+DF_EAR_EHRA_SEX_CUR_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Average hourly earnings of employees by sex and currency
+DF_EAR_EHRM_SEX_OCU_CUR_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Median hourly earnings of employees by sex, occupation and currency
+DF_EAR_EHRM_SEX_OCU_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Median hourly earnings of employees by sex and occupation
+DF_EAR_EMTA_SEX_CCT_CUR_NB	ok	33.5s	Average monthly earnings of employees by sex, citizenship and currency
+DF_CLD_XGPB_SEX_AGE_NB	ok	30.8s	Children in child labour -- General Production Boundary by sex and age
+DF_CLD_XHAZ_SEX_AGE_STU_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Children in hazardous work by sex, age and school attendance status
+DF_CLD_XSNA_SEX_AGE_GEO_RT	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Share of children engaged in economic activity by sex, age and rural / urban areas
+DF_CLD_XSNA_SEX_AGE_STE_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Children in employment by sex, age and status in employment
+DF_CLD_XSNA_SEX_AGE_STU_NB	ok	33.6s	Children in employment by sex, age and school attendance status
+DF_CPI_NCPD_COI_RT	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	CPI: National consumer price index, percentage change from previous period by COICOP (Sub-annual)
+DF_CPI_NCYR_COI_RT	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	CPI: National consumer price index, percentage change from previous year by COICOP
+DF_CPI_XCPI_COI_RT	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	CPI: National consumer price index, base year 2017 = 100 by COICOP
+DF_EAP_2WAP_SEX_AGE_RT	ok	2.8s	Labour force participation rate by sex and age -- ILO modelled estimates, Nov. 2025
+DF_EAP_3EAP_SEX_AGE_DSB_NB	ok	79.3s	Youth labour force by sex, age and disability status
+DF_EAP_3EAP_SEX_AGE_STU_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Youth labour force by sex, age and school attendance status
+DF_EAP_3WAP_SEX_AGE_DSB_RT	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Youth labour force participation rate by sex, age and disability status
+DF_EAP_3WAP_SEX_AGE_STU_RT	ok	22.2s	Youth labour force participation rate by sex, age and school attendance status
+DF_EAP_DWAP_SEX_AGE_CCT_RT	ok	15.8s	Labour force participation rate by sex, age and citizenship
+DF_EAP_DWAP_SEX_AGE_EDU_RT	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Labour force participation rate by sex, age and education
+DF_EAP_DWAP_SEX_AGE_GEO_RT	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Labour force participation rate by sex, age and rural / urban areas
+DF_EAP_DWAP_SEX_AGE_MTS_RT	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Labour force participation rate by sex, age and marital status
+DF_EAP_DWAP_SEX_AGE_RT	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Labour force participation rate by sex and age
+DF_EAP_DWAP_SEX_EDU_CBR_RT	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Labour force participation rate by sex, education and place of birth
+DF_EAP_TEA1_SEX_AGE_NB	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Labour force, SA by sex and age (Sub-annual)
+DF_EAP_TEAP_SEX_AGE_EDU_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Labour force by sex, age and education
+DF_EAP_TEAP_SEX_AGE_GEO_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Labour force by sex, age and rural / urban areas
+DF_EAP_TEAP_SEX_AGE_MTS_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Labour force by sex, age and marital status
+DF_EAP_TEAP_SEX_AGE_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Labour force by sex and age
+DF_EAP_TEAP_SEX_GEO_MTS_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Labour force by sex, rural / urban area and marital status
+DF_EAP_TEAP_SEX_GEO_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Labour force by sex and rural / urban areas
+DF_EAP_TEAP_SEX_MTS_DSB_NB	fail	Could not draw this chartThe source did not answer, try again in a minute.Try again	Labour force by sex, marital status and disability status
