@@ -201,3 +201,102 @@ IMF.STA:ITG_WCA_2026_FEB_VINTAGE	fail	Could not draw this chartThe source return
 IMF.STA:MFS_CBS_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Monetary and Financial Statistics (MFS), Central Bank Data 2026 May
 IMF.STA:QNEA_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	National Economic Accounts (NEA), Quarterly Data 2026 May
 IMF.STA:EER_INPUTS_2026_APR_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Effective Exchange Rates (EER), Inputs 2026 April
+IMF.STA:QGDP_WCA	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Quarterly Gross Domestic Product (GDP), World and Country Aggregates
+IMF.STA:FSI_COUNTRY_METADATA_TABLE_2	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Financial Soundness Indicators (FSI), Country Metadata Table 2
+IMF.SPR:GPT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	IMF Global Policy Tracker: How Countries are Responding to the Economic Impact of the War in the Middle East
+IMF.STA:COFER	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Currency Composition of Official Foreign Exchange Reserves (COFER)
+IMF.STA:NA_MAIN	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	National Accounts Main Aggregates (SDMX)
+IMF.RES:PCPS	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Primary Commodity Price System (PCPS)
+IMF.STA:PIP	ok	2.9s	Portfolio Investment Positions by Counterpart Economy (formerly CPIS)
+IMF.STA:ESG_FINANCE_CURRENCY	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Sustainable Bonds by Type of Currency
+IMF.STA:ESG_FINANCE	ok	2.9s	Sustainable Bonds
+IMF.STA:MFS_IR	ok	2.8s	Monetary and Financial Statistics (MFS), Interest Rate
+IMF.WHD:WHDREO	ok	7.4s	Western Hemisphere Regional Economic Outlook (WHDREO)
+IMF.STA:ESG_FINANCE_ISSUER	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Sustainable Bonds by Type of Issuer
+IMF.STA:QNEA	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	National Economic Accounts (NEA), Quarterly Data
+IMF.STA:SDG	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	IMF Reported SDG Data
+IMF.STA:MFS_DC	ok	24.8s	Monetary and Financial Statistics (MFS), Depository Corporations
+IMF.STA:RE	ok	4.8s	Renewable Energy
+IMF.STA:CPI_WCA	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Consumer Price Index (CPI), World and Country Aggregates (CPI_WCA)
+IMF.STA:PI_WCA	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Production Indexes, World and Country Group Aggregates
+IMF.STA:IL_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	International Liquidity (IL) 2026 May
+IMF.STA:ANEA	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	National Economic Accounts (NEA), Annual Data
+IMF.STA:MFS_DC_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Monetary and Financial Statistics (MFS), Depository Corporations 2026 May
+IMF.STA:IIP_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	International Investment Position (IIP) 2026 May
+IMF.STA:AEA	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Air Emissions Accounts (AEA)
+IMF.STA:ER_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Exchange Rates (ER) 2026 May
+IMF.STA:MFS_FMP_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Monetary and Financial Statistics (MFS), Financial Market Prices 2026 May
+IMF.STA:IRFCL	ok	12.1s	International Reserves and Foreign Currency Liquidity (IRFCL)
+IMF.STA:LS_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Labor Statistics (LS) 2026 May
+IMF.MCD:MCDREO	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Middle East and Central Asia Regional Economic Outlook (MCDREO) 
+IMF.STA:COFER_2025_OCT_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Currency Composition of Official Foreign Exchange Reserves (COFER) 2025 October
+IMF.STA:MFS_OFC_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Monetary and Financial Statistics (MFS), Other Financial Corporations 2026 May
+IMF.STA:MFS_ODC_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Monetary and Financial Statistics (MFS), Other Depository Corporations 2026 May
+IMF.STA:CPI_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Consumer Price Index (CPI) 2026 May
+IMF.STA:QNEA_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	National Economic Accounts (NEA), Quarterly Data 2026 May
+IMF.FAD:TAXFIT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Tax and Benefits Analysis Tool (TAXFIT)
+IMF.STA:MFS_IR_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Monetary and Financial Statistics (MFS), Interest Rate 2026 May
+IMF.STA:GS_SDO	ok	8.9s	Gender Statistics (GS) Social, demographic and other
+IMF.STA:GFS_SOO	ok	39.4s	GFS Statement of Operations 
+IMF.STA:WPFXI	ok	8.1s	Working Paper Foreign Exchange Intervention (WPFXI) A Dataset of Public Data and Proxies
+IMF.STA:GFS_SSUC	ok	13.6s	GFS Statement of Sources and Uses of Cash
+IMF.STA:GFS_COFOG	ok	21.0s	GFS Government Expenditures by Function
+IMF.STA:EER	ok	8.9s	Effective Exchange Rate (EER)
+IMF.STA:PI_WCA_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Production Indexes, World and Country Group Aggregates 2026 May
+IMF.STA:MFS_FC_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Monetary and Financial Statistics (MFS), Financial Corporations 2026 May
+IMF.STA:IMTS_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	International Trade in Goods (by partner country) (IMTS) 2026 May
+IMF.STA:IIPCC_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Currency Composition of the International Investment Position (IIPCC) 2026 May
+IMF.STA:FA_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Fund Accounts (FA) 2026 May
+IMF.STA:MFS_MA_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Monetary and Financial Statistics (MFS), Monetary Aggregates 2026 May
+IMF.STA:BOP_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Balance of Payments (BOP) 2026 May
+IMF.STA:EER_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Effective Exchange Rates (ER) 2026 May
+IMF.STA:SPE_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Special Purpose Entities (SPEs) 2026 May 
+IMF.STA:QGDP_WCA_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Quarterly Gross Domestic Product (GDP), World and Country Aggregates 2026 May 
+IMF.STA:ITG_WCA_2026_FEB_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	International Trade in Goods, World and Country Aggregates 2026 February 
+IMF.STA:CPI_WCA_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Consumer Price Index (CPI), World and Country Aggregates (CPI_WCA) 2026 May
+IMF.STA:EER_INPUTS_2026_APR_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Effective Exchange Rates (EER), Inputs 2026 April
+IMF.STA:ANEA_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	National Economic Accounts (NEA), Annual Data 2026 May
+IMF.STA:MFS_CBS_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Monetary and Financial Statistics (MFS), Central Bank Data 2026 May
+IMF.STA:COFER	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Currency Composition of Official Foreign Exchange Reserves (COFER)
+IMF.STA:NA_MAIN	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	National Accounts Main Aggregates (SDMX)
+IMF.STA:ESG_FINANCE_ISSUER	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Sustainable Bonds by Type of Issuer
+IMF.STA:QNEA	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	National Economic Accounts (NEA), Quarterly Data
+IMF.STA:SDG	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	IMF Reported SDG Data
+IMF.STA:PI_WCA	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Production Indexes, World and Country Group Aggregates
+IMF.STA:IL_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	International Liquidity (IL) 2026 May
+IMF.STA:MFS_DC_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Monetary and Financial Statistics (MFS), Depository Corporations 2026 May
+IMF.STA:IIP_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	International Investment Position (IIP) 2026 May
+IMF.STA:ER_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Exchange Rates (ER) 2026 May
+IMF.STA:MFS_FMP_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Monetary and Financial Statistics (MFS), Financial Market Prices 2026 May
+IMF.SPR:GPT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	IMF Global Policy Tracker: How Countries are Responding to the Economic Impact of the War in the Middle East
+IMF.STA:LS_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Labor Statistics (LS) 2026 May
+IMF.STA:COFER_2025_OCT_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Currency Composition of Official Foreign Exchange Reserves (COFER) 2025 October
+IMF.STA:QGDP_WCA	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Quarterly Gross Domestic Product (GDP), World and Country Aggregates
+IMF.STA:MFS_ODC_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Monetary and Financial Statistics (MFS), Other Depository Corporations 2026 May
+IMF.RES:PCPS	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Primary Commodity Price System (PCPS)
+IMF.STA:FSI_COUNTRY_METADATA_TABLE_2	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Financial Soundness Indicators (FSI), Country Metadata Table 2
+IMF.STA:QNEA_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	National Economic Accounts (NEA), Quarterly Data 2026 May
+IMF.STA:ESG_FINANCE_CURRENCY	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Sustainable Bonds by Type of Currency
+IMF.STA:CPI_WCA	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Consumer Price Index (CPI), World and Country Aggregates (CPI_WCA)
+IMF.STA:ANEA	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	National Economic Accounts (NEA), Annual Data
+IMF.STA:AEA	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Air Emissions Accounts (AEA)
+IMF.MCD:MCDREO	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Middle East and Central Asia Regional Economic Outlook (MCDREO) 
+IMF.STA:MFS_OFC_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Monetary and Financial Statistics (MFS), Other Financial Corporations 2026 May
+IMF.STA:CPI_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Consumer Price Index (CPI) 2026 May
+IMF.STA:MFS_IR_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Monetary and Financial Statistics (MFS), Interest Rate 2026 May
+IMF.FAD:TAXFIT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Tax and Benefits Analysis Tool (TAXFIT)
+IMF.STA:PI_WCA_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Production Indexes, World and Country Group Aggregates 2026 May
+IMF.STA:MFS_FC_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Monetary and Financial Statistics (MFS), Financial Corporations 2026 May
+IMF.STA:IIPCC_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Currency Composition of the International Investment Position (IIPCC) 2026 May
+IMF.STA:MFS_MA_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Monetary and Financial Statistics (MFS), Monetary Aggregates 2026 May
+IMF.STA:EER_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Effective Exchange Rates (ER) 2026 May
+IMF.STA:QGDP_WCA_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Quarterly Gross Domestic Product (GDP), World and Country Aggregates 2026 May 
+IMF.STA:IMTS_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	International Trade in Goods (by partner country) (IMTS) 2026 May
+IMF.STA:CPI_WCA_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Consumer Price Index (CPI), World and Country Aggregates (CPI_WCA) 2026 May
+IMF.STA:FA_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Fund Accounts (FA) 2026 May
+IMF.STA:ANEA_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	National Economic Accounts (NEA), Annual Data 2026 May
+IMF.STA:MFS_CBS_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Monetary and Financial Statistics (MFS), Central Bank Data 2026 May
+IMF.STA:BOP_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Balance of Payments (BOP) 2026 May
+IMF.STA:SPE_2026_MAY_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Special Purpose Entities (SPEs) 2026 May 
+IMF.STA:ITG_WCA_2026_FEB_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	International Trade in Goods, World and Country Aggregates 2026 February 
+IMF.STA:EER_INPUTS_2026_APR_VINTAGE	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	Effective Exchange Rates (EER), Inputs 2026 April

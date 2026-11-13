@@ -1193,3 +1193,60 @@ EN_BITR_REP	fail	Could not draw this chartunknown indicatorTry again	Number of c
 EN_LGHG_STR	fail	Could not draw this chartunknown indicatorTry again	Number of countries with long-term low greenhouse gas emission development strategies (Number)
 EN_BITR_REP_DV	fail	Could not draw this chartunknown indicatorTry again	Number of least developed countries and small island developing States with biennial transparency reports (Number)
 EN_LGHG_STR_DV	fail	Could not draw this chartunknown indicatorTry again	Number of least developed countries and small island developing States with long-term low greenhouse gas emission develo
+EN_MAT_FTPRPG	fail	no large svg found	Material footprint per unit of GDP, by type of raw material (kilograms per constant 2020 United States dollar)
+SH_DYN_IMRT	ok	2.8s	Infant mortality rate (deaths per 1,000 live births)
+EN_REF_WASCOL	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Municipal Solid Waste collection coverage, by cities (%)
+SE_ACS_ELECT	ok	3.9s	Proportion of schools with access to electricity, by education level (%)
+EN_LND_CNSPOP	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Ratio of land consumption rate to population growth rate
+DC_TRF_TFDV	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	
+IS_RDP_LULFRG	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	
+DC_ODA_POVG	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	
+DC_FIN_CLIMT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	
+AG_FLS_INDEX	fail	no large svg found	
+EN_MAR_DSI	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	
+EN_MAT_DOMCMPT	ok	12.8s	Domestic material consumption, by type of raw material (tonnes)
+EN_MAT_FTPRPC	fail	no large svg found	Material footprint per capita, by type of raw material (tonnes)
+EN_MAT_FTPRTN	fail	no large svg found	Material footprint, by type of raw material (tonnes)
+SL_TLF_NEET	ok	7.5s	Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%)
+SE_ACS_CMPTR	ok	7.5s	Proportion of schools with access to computers for pedagogical purposes, by education level (%)
+SE_ACS_H2O	ok	7.5s	Proportion of schools with access to basic drinking water, by education level (%)
+SE_GPI_TCAQ	ok	8.4s	Adjusted gender parity index for the proportion of teachers with the minimum required qualifications, by education level
+SE_ADT_ACTS	ok	19.0s	Proportion of youth and adults with information and communications technology (ICT) skills, by sex and type of skill (%)
+VC_VAW_MTUHRA	fail	no large svg found	
+EN_URB_OPENSP	ok	7.2s	Average share of the built-up area of cities that is open space for public use for all (%)
+SH_HAP_HBSAG	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	
+EN_WBE_NDQTRVR	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	
+EN_MAR_COEUPO	fail	no large svg found	
+VC_VOC_ENFDIS	fail	no large svg found	
+DC_FIN_CLIMM	fail	no large svg found	
+DC_FIN_CLIMB	fail	no large svg found	
+DC_FIN_TOT	fail	Could not draw this chartNo data for this combination. Pick another choice above.Try again	
+DC_FIN_GEN	fail	Could not draw this chartNo data for this combination. Pick another choice above.Try again	
+VC_DTH_TOTPT	fail	no large svg found	
+AG_FLS_PCT	fail	no large svg found	
+EN_MAR_TN	fail	Could not draw this chartNo data for this combination. Pick another choice above.Try again	
+EN_MAR_TP	fail	Could not draw this chartNo data for this combination. Pick another choice above.Try again	
+EN_MAT_FTPRPG	fail	no large svg found	Material footprint per unit of GDP, by type of raw material (kilograms per constant 2020 United States dollar)
+EN_REF_WASCOL	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Municipal Solid Waste collection coverage, by cities (%)
+EN_LND_CNSPOP	fail	Could not draw this chartThis indicator has several breakdowns (age, sex, education…) and choosing one is not available yet.Try again	Ratio of land consumption rate to population growth rate
+DC_TRF_TFDV	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	
+IS_RDP_LULFRG	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	
+DC_ODA_POVG	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	
+DC_FIN_CLIMT	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	
+AG_FLS_INDEX	fail	no large svg found	
+EN_MAR_DSI	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	
+EN_MAT_FTPRPC	fail	no large svg found	Material footprint per capita, by type of raw material (tonnes)
+VC_VAW_MTUHRA	fail	no large svg found	
+SH_HAP_HBSAG	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	
+EN_MAR_COEUPO	fail	no large svg found	
+EN_MAT_FTPRTN	fail	no large svg found	Material footprint, by type of raw material (tonnes)
+DC_FIN_CLIMM	fail	no large svg found	
+EN_WBE_NDQTRVR	fail	Could not draw this chartThe source returned no usable country-level data for this indicator.Try again	
+DC_FIN_TOT	fail	Could not draw this chartNo data for this combination. Pick another choice above.Try again	
+VC_VOC_ENFDIS	fail	no large svg found	
+VC_DTH_TOTPT	fail	no large svg found	
+EN_MAR_TN	fail	Could not draw this chartNo data for this combination. Pick another choice above.Try again	
+DC_FIN_CLIMB	fail	no large svg found	
+DC_FIN_GEN	fail	Could not draw this chartNo data for this combination. Pick another choice above.Try again	
+AG_FLS_PCT	fail	no large svg found	
+EN_MAR_TP	fail	Could not draw this chartNo data for this combination. Pick another choice above.Try again	
